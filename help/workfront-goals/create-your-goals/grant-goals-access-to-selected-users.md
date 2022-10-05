@@ -1,0 +1,33 @@
+---
+title: 編輯的訪問級別 [!DNL Workfront Goals]
+description: 了解如何根據您的使用者的授權類型，在 [!DNL Workfront Goals].
+activity: use
+feature: Workfront Goals
+type: Tutorial
+role: User
+level: Beginner
+team: Technical Marketing
+kt: 8895
+exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
+source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 0%
+
+---
+
+# 編輯訪問級別
+
+在此影片中，您將學習如何：
+
+* 根據許可類型編輯訪問級別
+
+>[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12)
+
+系統管理員可以追蹤 [!DNL Workfront Goals] 許可證已通過 **[!UICONTROL 設定]** Workfront地區。
+
+1. 展開 **[!UICONTROL 系統]** 選項。
+1. 按一下 **[!UICONTROL 授權]**.
+1. 您可以看到 [!DNL Workfront Goals] 通過訪問級別分配的許可證數和數量。
+
+![螢幕擷圖 [!DNL Workfront Goals] 「設定」區域中的授權 [!DNL Workfront]](assets/02-workfront-goals-licenses.png)
