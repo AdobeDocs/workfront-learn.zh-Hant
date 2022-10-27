@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2206'
+source-wordcount: '2212'
 ht-degree: 2%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 2%
 
 
 + 自訂資料 {#custom-data}
-   + 自訂表格 {#custom-forms}
+   + 自訂表單 {#custom-forms}
       + [將自訂表單附加至物件](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [建立和共用自訂表單](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [編輯自訂表單](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
@@ -127,7 +127,7 @@ ht-degree: 2%
       + [審核數字工作](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [管理問題分配](manage-work/issues-requests/manage-issue-assignments.md)
       + [問題報告](manage-work/issues-requests/report-on-issues.md)
-   + 投資組合 {#portfolios}
+   + 專案組合 {#portfolios}
       + [產品組合概觀](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [業務案例簡介](portfolios-and-programs/introduction-to-the-business-case.md)
       + [排定產品組合的優先順序並管理工作](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
@@ -216,7 +216,7 @@ ht-degree: 2%
       + [高級報告第1部分](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [高級報告第2部分](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [高級報告第3部分](reporting/advanced-reporting/advanced-reporting-part-3.md)
-   + 增強的Analytics {#enhanced-analytics}
+   + 增強型分析 {#enhanced-analytics}
       + [開始使用 [!UICONTROL 增強的Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [新增 [!UICONTROL analytics] 配置模板](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [了解基本導覽](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -249,7 +249,7 @@ ht-degree: 2%
       + [項目的資源管理設定](manage-resources/resource-management/settings-for-projects.md)
       + [用戶的資源管理設定](manage-resources/resource-management/settings-for-users.md)
       + [資源管理設定、工作負載平衡器和利用率報告](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
-   + 工作量平衡工具 {#workload-balancer}
+   + 工作負載平衡器 {#workload-balancer}
       + [調整工作負載平衡器中的每日分配](manage-resources/workload-balancer/adjust-daily-allocations.md)
       + [在工作負載平衡器中分配工作](manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
       + [篩選工作負載平衡器](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
@@ -564,7 +564,7 @@ ht-degree: 2%
       + [整理積壓工作](agile/gooming-the-backlog.md)
       + [計畫和建立小版本](agile/plan-and-create-an-iteration.md)
       + [使用小版本頁](agile/using-the-iteration-page.md)
-   + Kanban {#kanban}
+   + 看板 {#kanban}
       + [建立看板小組](agile/create-a-kanban-team.md)
       + [以看板小組的形式管理工作](agile/manage-work-kanban-team.md)
    + 展示板  {#boards}
@@ -573,6 +573,7 @@ ht-degree: 2%
       + [新增及管理展示板的團隊成員](boards/add-and-manage-team-members-for-a-board.md)
       + [將資訊卡新增至展示板](boards/add-cards-to-a-board.md)
       + [查找和建立基本展示板](boards/find-and-create-a-basic-board.md)
+      + [在展示板中尋找和搜尋](boards/find-and-search-in-a-board.md)
       + [管理展示板欄](boards/manage-board-columns.md)
       + [管理展示板上的資訊卡](boards/manage-cards-on-a-board.md)
 
@@ -583,9 +584,9 @@ ht-degree: 2%
    + [API Explorer](best-practices/api-explorer-bp.md)
    + [業務案例和產品組合優化程式](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [溝通](best-practices/communication-bp.md)
-   + [我的群組中的自訂表格](best-practices/custom-forms-bp.md)
+   + [自訂表單](best-practices/custom-forms-bp.md)
    + [自訂報表](best-practices/custom-reports-bp.md)
-   + [儀錶板](best-practices/dashboards-bp.md)
+   + [儀表板](best-practices/dashboards-bp.md)
    + [文件](best-practices/documents-bp.md)
    + [篩選器、檢視和群組](best-practices/filters-views-groupings-bp.md)
    + [工作角色](best-practices/job-roles-bp.md)
@@ -610,7 +611,7 @@ ht-degree: 2%
    + [時間表和登錄時間](best-practices/timesheets-logging-time-bp.md)
    + [使用情況](best-practices/utilization-bp.md)
    + [Workfront 目標](best-practices/workfront-goals-bp.md)
-   + [工作量平衡工具](best-practices/workload-balancer-bp.md)
+   + [工作負載平衡器](best-practices/workload-balancer-bp.md)
 
 
 
