@@ -1,14 +1,14 @@
 ---
 title: 高級聚合
-description: 了解在匯總時如何使用分組。 （應介於60到160個字元之間，但為49個字元）
+description: 呼叫網站服務，以傳回多個國家的詳細資訊並識別依子地區分組的人口。
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 建立新情境並將其命名為「進階匯總」。
 1. 將觸發程式模組設為HTTP — 提出要求模組。
-1. 使用此URL https://restcountries.eu/rest/v2/ lang/es，該URL為您提供了所有使用西班牙語的國家/地區的清單。
+1. 使用此URL https://restcountries.com/v2/lang/es ，它會提供說西班牙文的所有國家/地區的清單。
 1. 將方法保留為Get。
 1. 按一下「分析響應」複選框。
 1. 將此模組重新命名為「取得國家/地區」。
@@ -44,12 +44,12 @@ ht-degree: 0%
 
    **您需要收集每個國家/地區的分區域資訊，因此您需要提出額外的HTTP要求。**
 
-1. 新增其他請求以取得分區域資訊。 它只會返回第一個國家，但暫時沒問題。 新增其他HTTP提出要求模組並使用URL https://restcountries.eu/rest/v2/name/ 。
+1. 新增其他請求以取得分區域資訊。 它只會返回第一個國家，但暫時沒問題。 新增其他HTTP提出要求模組並使用URL https://restcountries.com/v2/name/ 。
 1. 若要取得第一個國家/地區的名稱，請前往對應面板，按一下「資料」，然後按一下陣列中的「名稱」。 此 [1] 在「資料」欄位中，表示會傳回陣列中的第一個項目。
 
    + 視需要按一下數字並變更索引，但在此情況下，您只需要第一個項目。
 
-   ![高級聚合映像4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
+![高級聚合映像4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
 1. 檢查映射面板中的「分析」響應，然後按一下「確定」。
 1. 重新命名為「取得國家/地區詳細資料」。
