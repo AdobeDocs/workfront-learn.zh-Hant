@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: f81d156b4058bec70bc3256efda6f85746f0f625
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 <!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
 
-[!DNL Workfront] 提供多種在多個業務領域都常見的欄位，並經常用於工作管理。 諸如計畫完成日期、項目預算、任務受託人名稱等欄位。
+Workfront提供多種在多個業務領域都很常見的欄位，並經常用於工作管理。 諸如計畫完成日期、項目預算、任務受託人名稱等欄位。
 
 然而，每個組織都有其行業和公司的特定資料，需要收集這些資料，以了解公司目標是否實現。 例如，您的組織想要追蹤：
 
@@ -33,10 +33,6 @@ ht-degree: 0%
 此學習路徑著重於計算欄位。 您將了解計算欄位是什麼、您可以透過資料運算式提取至計算欄位的不同資訊類型，以及如何建立這些計算欄位以增強資料收集和報告功能。
 
 ![資源管理設定一個尋呼機](assets/GS01.png)
-
-**自訂表單提醒**
-
-欄位是物件專屬欄位。 例如，如果在任務自定義表單上建立計算欄位，則可以在任何任務報表中使用該欄位。
 
 ## 什麼是計算欄位？
 
@@ -55,7 +51,7 @@ ht-degree: 0%
 
 ![具有利用率報告的工作負載平衡器](assets/GS03.png)
 
-根據需要的特定資料，使用一或兩個運算式或使用數個內嵌運算式時，計算欄位可能會比較簡單，或更複雜。 請記住 [!DNL Workfront] 只能將已儲存或提取到系統中的資料用於計算欄位。
+根據需要的特定資料，使用一或兩個運算式或使用數個內嵌運算式時，計算欄位可能會比較簡單，或更複雜。 請記住，Workfront只能將已儲存或提取至系統中的資料用於計算欄位。
 
 ## 文字運算式
 
@@ -69,8 +65,9 @@ ht-degree: 0%
 
 * 建立報告，列出未指派給產品組合及/或方案的每個專案，以便您在經理會議中使用。
 
-文字運算式可用於自訂欄位，以執行下列類型的搜尋和組合 [!DNL Workfront].
-TE查看可能的文字運算式時，您會找到數個選項。
+文字運算式可用於自訂欄位，以在Workfront中執行這些類型的搜尋和組合。
+
+查看可能的文字運算式時，您會找到數個選項。
 
 ![資源管理設定一個尋呼機](assets/TE01.png)
 
