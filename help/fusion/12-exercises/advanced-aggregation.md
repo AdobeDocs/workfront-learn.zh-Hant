@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # 高級聚合
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 建立新情境並將其命名為「進階匯總」。
 1. 將觸發程式模組設為HTTP — 提出要求模組。
-1. 使用此URL https://restcountries.com/v2/lang/es ，它會提供說西班牙文的所有國家/地區的清單。
+1. 使用此URL, `https://restcountries.com/v2/lang/es`，這裡會列出所有說西班牙語的國家。
 1. 將方法保留為Get。
 1. 按一下「分析響應」複選框。
 1. 將此模組重新命名為「取得國家/地區」。
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    **您需要收集每個國家/地區的分區域資訊，因此您需要提出額外的HTTP要求。**
 
-1. 新增其他請求以取得分區域資訊。 它只會返回第一個國家，但暫時沒問題。 新增其他HTTP提出要求模組並使用URL https://restcountries.com/v2/name/ 。
+1. 新增其他請求以取得分區域資訊。 它只會返回第一個國家，但暫時沒問題。 新增其他HTTP提出要求模組並使用URL `https://restcountries.com/v2/name/{country name}`.
 1. 若要取得第一個國家/地區的名稱，請前往對應面板，按一下「資料」，然後按一下陣列中的「名稱」。 此 [1] 在「資料」欄位中，表示會傳回陣列中的第一個項目。
 
    + 視需要按一下數字並變更索引，但在此情況下，您只需要第一個項目。
