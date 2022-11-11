@@ -9,13 +9,13 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11369
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '193'
+ht-degree: 1%
 
 ---
-
 
 # 了解分組的基本文字模式
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 4父組
+## 任務 — 4個父組
 
 以下文本模式將根據最多四個父級對任務進行分組，並將不存在的父級留空。
 
@@ -53,7 +53,7 @@ group.0.valueformat=string
 ![顯示按4個父項分組的項目任務的螢幕影像](assets/4-parents-grouping.png)
 
 
-## 完成百分比分組
+## 任務 — 完成百分比分組
 
 下列文字模式會根據工作完成百分比來分組工作。 分組後，任務將分為以下類別之一：
 
@@ -74,7 +74,7 @@ textmode=true
 
 ![顯示依完成百分比分組的專案工作的螢幕影像](assets/percent-complete-grouping.png)
 
-## statusAccussWith，然後是status
+## 任務 — statusAccussWith，然後是status
 
 以下文本模式將按statusEqualsWith，然後按status對任務進行分組。
 
@@ -98,4 +98,14 @@ textmode=true
 
 ![螢幕影像，顯示依statusEqualsWith分組的專案任務](assets/status-equates-with.png)
 
+
+## 校樣核准 — 依專案名稱分組
+
+```
+group.0.valueformat=HTML
+group.0.valuefield=documentVersion:document:project:name
+group.0.displayname=Project Name
+```
+
+![螢幕影像，顯示依專案名稱分組的校樣核准](assets/proof-approvals-grouped-by-project-name.png)
 

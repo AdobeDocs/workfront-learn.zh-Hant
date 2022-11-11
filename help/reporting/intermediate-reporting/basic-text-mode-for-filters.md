@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 這將顯示登入的使用者指派至少一個目前受指派者的所有工作。 如果受分配者被多個人指派，則只有指派某人的第一個人員的名稱，在任務登陸頁面上會顯示為「請求者」。
 
-## 活動：文字模式問題
+### 任務 — 顯示所有已完成的任務 — 待批准
 
-1. 您如何為標題為「由ID輸入」的欄位撰寫駝峰大小寫？
-1. 在「問題」報表中，建立篩選器以顯示標示為已結束但待核准的問題。
+```
+status=CPL:A
+status_Mod=in
+```
 
-### 答案
 
-1. 「Entered By ID」欄位的駝峰大小寫應如下 — enteredByID
-1. 文字模式在問題報表篩選器中應如下所示：
+### 問題 — 顯示所有已完成的問題 — 待批准
 
-   ![在文本模式中建立新篩選器的螢幕影像](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### 項目 — 顯示所有已完成的項目 — 待批准
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### 注意 — 顯示標籤的所有留言
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### 參數/自訂欄位報表 — 顯示未附加至自訂表單的自訂欄位（在清理工作中非常實用）
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```
