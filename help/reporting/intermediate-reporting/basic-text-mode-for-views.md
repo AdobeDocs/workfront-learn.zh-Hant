@@ -9,9 +9,10 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11367
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,12 @@ ht-degree: 0%
 >* 了解報表元素
 >* 了解報表元件
 >* 建立基本檢視
+
+
+>[!TIP]
+>
+>* 若要更深入了解文字模式，建議您觀看錄影的網路研討會活動 [詢問專家 — 文字模式報表簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，長度為一小時。
+>* 若要進一步了解文字模式，建議您觀看 [進階報表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教學課程，總共需要5.5小時。
 
 
 在此影片中，您將學習：
@@ -521,4 +528,3 @@ valueformat=HTML
 ```
 
 ![顯示專案和校樣核准工作的螢幕影像](assets/proof-approval-project-and-task.png)
-
