@@ -1,6 +1,6 @@
 ---
-title: 深入探索導覽
-description: 此影片可讓您快速了解員工在中各專案的投入時間 [!DNL  Workfront].
+title: 深入探討 [!UICONTROL 增強的Analytics]
+description: 了解如何快速了解員工在Workfront的每個專案中投入的時間。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8733
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# 深入探索導覽
+# 深入探討 [!UICONTROL 增強的Analytics]
 
 在此影片中，您將學習：
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 檢閱專案逗留時間
 
-專案樹狀圖可讓您了解使用者專用於專案的時間。 方塊代表專案。 方塊的大小會顯示與其他專案相比，在專案上花費的時間。 盒子越大，逗留時間就越多。
+專案樹狀圖可讓您了解使用者專用於專案的時間。 方塊代表專案。 方塊的大小會顯示與其他專案相比，在專案上花費的時間。 盒子越大，花費的時間就越多。
 
 查看此資訊有助於您確定：
 

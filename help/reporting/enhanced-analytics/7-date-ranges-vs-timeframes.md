@@ -1,6 +1,8 @@
 ---
 title: 了解日期範圍和時間範圍
-description: 日期範圍是使用日曆介面工具集指定。 圖表中會建立時間範圍。
+description: 在 [!UICONTROL 增強的Analytics]，日期範圍會使用日曆介面工具集指定。 圖表中會建立時間範圍。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
-# 了解日期範圍和時間範圍
+# 了解中的日期範圍和時間範圍 [!UICONTROL 增強的Analytics]
 
 檢視 [!DNL Enhanced analytics] 使用日曆小工具指定圖表、日期範圍。 當您按一下並拖曳以定義特定區域時，會在圖表中建立時間範圍，以便您放大並在該時間範圍內更詳細地了解資訊。
 

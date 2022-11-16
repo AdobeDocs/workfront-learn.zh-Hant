@@ -1,6 +1,8 @@
 ---
 title: 開始使用 [!UICONTROL 增強的Analytics]
-description: 了解最需更新的重要欄位，以充份運用增強分析功能。
+description: 了解Workfront中要更新的最重要欄位，以便讓Enhanced Analytics顯示您的團隊和專案在Workfront中的進展。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: analytics-prerequisites.png
 type: Tutorial
@@ -8,14 +10,16 @@ role: User
 level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 5%
+source-wordcount: '282'
+ht-degree: 4%
 
 ---
 
-# 開始使用 [!UICONTROL 增強的Analytics]
+# 開始使用Adobe Workfront [!UICONTROL 增強的Analytics]
+
+增強的分析功能可顯示您的團隊和專案在Workfront中的進展，以及過去專案中發生的情況，您或許可從中學習，以協助規劃未來的專案。
 
 ## Analytics必要條件
 

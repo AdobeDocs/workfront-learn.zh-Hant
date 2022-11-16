@@ -1,6 +1,8 @@
 ---
 title: 建立自訂日曆
-description: 了解如何建立自己的自訂日曆
+description: 了解如何建立您自己的自訂日曆，顯示您的工作項目和個人休假時間。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: create-a-custom-calendar.png
 kt: 10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -48,7 +50,7 @@ ht-degree: 0%
 1. 如果您想要顯示 [!UICONTROL 實際日期] 當該資訊可用時，從菜單中選擇「是」。 如果始終希望選擇的日期類型，請選擇否([!UICONTROL 預計], [!UICONTROL 已規劃]，或 [!UICONTROL 自訂])以顯示。
 1. 選擇要在日曆上查看的項目資訊的類型 — [!UICONTROL 工作], [!UICONTROL 專案], [!UICONTROL 問題]，或 [!UICONTROL 關閉時間].
 1. 設定篩選器以顯示所需的資訊。
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
 ![將工作項添加到日曆分組的螢幕影像](assets/calendar-2-2.png)
 
@@ -73,6 +75,6 @@ ht-degree: 0%
 1. 如果沒有實際日期，請忽略資訊的顯示方式。 這不適用。
 1. 選擇 [!UICONTROL 關閉時間] 以取得您要查看的資訊類型。
 1. 對於篩選器，將用戶ID設定為團隊成員的名稱。
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
 ![螢幕的影像，用於將條目的時間添加到日曆分組](assets/calendar-2-3.png)

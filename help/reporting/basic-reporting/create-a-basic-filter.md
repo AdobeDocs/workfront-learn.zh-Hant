@@ -1,6 +1,6 @@
 ---
 title: 建立基本篩選
-description: 此影片會說明篩選器是什麼、如何建立篩選器，以及如何與其他使用者共用篩選器，位於 [!DNL  Workfront].
+description: 了解篩選器是什麼、如何建立篩選器，以及如何與Workfront中的其他使用者共用篩選器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---

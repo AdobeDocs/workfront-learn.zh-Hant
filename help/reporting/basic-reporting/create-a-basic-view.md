@@ -1,6 +1,6 @@
 ---
 title: 建立基本檢視
-description: 此影片會示範檢視是什麼、如何建立檢視，以及如何與其他使用者共用檢視。 [!DNL  Workfront].
+description: 了解檢視是什麼、如何建立檢視，以及如何與Workfront中的其他使用者共用檢視。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,10 +10,10 @@ level: Beginner
 team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 3%
+source-wordcount: '298'
+ht-degree: 4%
 
 ---
 
@@ -54,6 +54,6 @@ ht-degree: 3%
 1. 在 [!UICONTROL 顯示在此列中] 欄位中，輸入「status」，然後選取「Progress Status」（進度狀態） [!UICONTROL 任務] 欄位來源。
 1. 按一下 **[!UICONTROL 添加列]** 。
 1. 在 [!UICONTROL 顯示在此列中] 欄位中，鍵入「status」，然後在「任務」欄位源下選擇「Status Icons」。
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
 將滑鼠移到 [!UICONTROL 狀態表徵圖] 欄以查看其代表的內容。 如果它們呈灰色，表示任務沒有附註、文檔、審批流程等。 如果表徵圖以顏色顯示，則至少有一個與任務相關聯的項目。 您可以按一下附註或檔案圖示以前往該項目。

@@ -1,6 +1,6 @@
 ---
 title: 了解動作 — 暫留、按一下並拖曳，然後按一下
-description: 了解如何透過將游標移至圖表、在圖表上建立時間範圍，以及如何顯示其他圖表來取得詳細資訊，全部皆在 [!DNL  Workfront].
+description: 了解如何透過將游標移至圖表、在圖表上建立時間範圍，以及如何顯示其他圖表來取得詳細資訊，全部皆在 [!UICONTROL 增強的Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# 了解動作 — 暫留、按一下並拖曳，然後按一下
+# 了解中的動作 [!UICONTROL 增強的Analytics]  — 暫留，按一下並拖曳，然後按一下
 
 在此影片中，您將學習：
 

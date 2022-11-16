@@ -1,6 +1,6 @@
 ---
 title: 了解篩選器
-description: 了解如何根據通用專案欄位新增篩選，以及如何使用自訂表單新增篩選，全部位於 [!DNL  Workfront].
+description: 了解如何根據通用專案欄位新增篩選，以及如何使用自訂表單新增篩選，全部位於 [!UICONTROL 增強的Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# 了解篩選器
+# 了解 [!UICONTROL 增強的Analytics]
 
 在此影片中，您將學習：
 

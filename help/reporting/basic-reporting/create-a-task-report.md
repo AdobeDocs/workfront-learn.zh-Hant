@@ -1,6 +1,6 @@
 ---
 title: 建立任務報告
-description: 在此影片中，您將學習如何使用複雜篩選器建立任務報表，並尋找您在中建立的報表 [!DNL  Workfront].
+description: 了解如何使用複雜篩選器建立任務報表，以及尋找您在Workfront中建立的報表。 活動 — 建立附註報表，並附上提示。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335154.png
 kt: 8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '414'
 ht-degree: 5%
 
 ---

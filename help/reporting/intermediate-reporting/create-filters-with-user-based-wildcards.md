@@ -1,6 +1,6 @@
 ---
 title: 使用使用者型萬用字元建立篩選器
-description: 了解如何使用萬用字元，以及使用以使用者為基礎的萬用字元來建立篩選器， [!DNL  Workfront].
+description: 了解如何使用使用者型萬用字元，以及如何根據登入的使用者建立篩選器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336810.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---

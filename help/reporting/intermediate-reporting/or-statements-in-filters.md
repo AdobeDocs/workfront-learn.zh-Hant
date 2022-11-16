@@ -1,6 +1,8 @@
 ---
 title: 在篩選器中建立OR陳述式
-description: 使用OR陳述式，您會告訴篩選器您要查看此OR。
+description: 了解如何使用OR陳述式來告知Workfront您想在報表中看到此OR。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: create-or-statements-in-filters.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---

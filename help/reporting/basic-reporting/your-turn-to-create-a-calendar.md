@@ -1,6 +1,8 @@
 ---
 title: 輪到您建立日曆
-description: 了解如何在此實作活動中建立客戶行事歷。
+description: 了解如何建立客戶行事歷，顯示您未完成的工作和問題。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,10 +10,10 @@ level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
 kt: 10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 0%
+source-wordcount: '378'
+ht-degree: 1%
 
 ---
 
@@ -49,7 +51,7 @@ ht-degree: 0%
    * 分配用戶> ID >相等> $$USER.ID
    * 任務>完成>等於>假
 
-1. 按一下「儲存」 。
+1. 按一下儲存。
 
    ![將項目新增至日曆的畫面影像](assets/calendar-activity-2.png)
 
@@ -67,7 +69,7 @@ ht-degree: 0%
    * 分配用戶> ID >相等> $$USER.ID
    * 問題>完整>等於>假
 
-1. 按一下「儲存」 。
+1. 按一下儲存。
 
    ![將項目新增至日曆的畫面影像](assets/calendar-activity-3.png)
 

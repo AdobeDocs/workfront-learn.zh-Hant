@@ -1,6 +1,6 @@
 ---
 title: 了解內建的問題篩選
-description: 了解如何檢閱內建的問題篩選條件，以了解如何建立問題篩選條件，並在中建立您自己的問題篩選條件 [!DNL  Workfront].
+description: 了解如何檢閱內建的問題篩選條件，以了解如何建立這些篩選條件，並在Workfront中建立您自己的問題篩選條件。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336819.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---

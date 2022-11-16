@@ -1,6 +1,6 @@
 ---
 title: 了解內建的任務篩選器
-description: 了解如何查看內建任務篩選器，以了解如何建立這些篩選器，並在中建立您自己的任務篩選器 [!DNL  Workfront].
+description: 了解如何檢閱內建的任務篩選器，以了解如何建立這些篩選器，以及在Workfront中建立您自己的任務篩選器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336818.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

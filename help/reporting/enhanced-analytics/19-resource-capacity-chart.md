@@ -1,6 +1,8 @@
 ---
-title: 了解資源容量圖
-description: 「資源能力」圖表顯示在篩選的時段內分配給主團隊的計畫小時數，與該團隊的總可用小時數相比。
+title: 了解中的資源容量圖 [!UICONTROL 增強的Analytics]
+description: 了解「資源能力」圖表如何顯示在篩選的時段內分配給主團隊的計畫小時數，與該團隊的總可用小時數相比。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-resource-capacity-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
-# 了解資源容量圖
+# 了解中的資源容量圖 [!UICONTROL 增強的Analytics]
 
 「資源能力」圖表顯示在篩選的時段內分配給主團隊的計畫小時數，與該團隊的總可用小時數相比。
 

@@ -1,6 +1,8 @@
 ---
-title: 了解計畫小時數和持續時間檢視
+title: 了解 [!UICONTROL 增強的Analytics]
 description: 在「燃耗」和「項目」樹狀圖中，您可以按計畫小時數或持續時間查看資訊。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-planned-hours-and-duration-views.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# 了解計畫小時數和持續時間檢視
+# 了解 [!UICONTROL 增強的Analytics]
 
 在「燃耗」和「項目」樹狀圖圖中，您可以根據您認為對Workfront環境更準確的時間，按計畫小時數或持續時間查看資訊。
 

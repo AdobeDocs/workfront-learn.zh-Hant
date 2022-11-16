@@ -1,6 +1,6 @@
 ---
-title: 了解KPI
-description: 在此影片中，您將了解如何透過 [!DNL  Workfront].
+title: 了解 [!UICONTROL 增強的Analytics]
+description: 了解如何從KPI資料中獲得關於目前狀況以及過去趨勢的價值。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# 了解KPI
+# 了解 [!UICONTROL 增強的Analytics]
 
 在此影片中，您將學習：
 

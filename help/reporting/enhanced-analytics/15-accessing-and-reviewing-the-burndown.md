@@ -1,6 +1,6 @@
 ---
-title: 了解如何存取和檢閱燃耗
-description: 了解如何存取燃耗圖，並了解在 [!DNL  Workfront].
+title: 了解如何存取和檢閱燃耗圖 [!UICONTROL 增強的Analytics]
+description: 了解如何存取燃耗圖，並了解Workfront中剩餘時間、專案條件和專案速度之間的關係。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-# 了解如何存取和檢閱燃耗
+# 了解如何存取及檢閱 [!UICONTROL 增強的Analytics]
 
 在此影片中，您將學習：
 

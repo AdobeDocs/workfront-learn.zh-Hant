@@ -1,6 +1,6 @@
 ---
-title: 了解如何導覽及檢閱專案活動
-description: 在此影片中，您將了解如何根據登入的使用者、任務狀態變更，以及 [!DNL  Workfront].
+title: 了解如何在 [!UICONTROL 增強的Analytics]
+description: 了解如何根據使用者登入、任務狀態變更，以及Workfront中完成的工作來比較專案。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# 了解如何導覽及檢閱專案活動
+# 了解如何在 [!UICONTROL 增強的Analytics]
 
 在此影片中，您將學習：
 

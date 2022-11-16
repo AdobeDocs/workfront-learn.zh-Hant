@@ -1,6 +1,8 @@
 ---
 title: 了解日曆介面
-description: 日曆介面導覽
+description: 了解日曆介面，包括日曆分組、檢視和動作。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: understand-the-calendar-interface.png
 kt: 10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---

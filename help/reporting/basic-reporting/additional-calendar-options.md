@@ -1,14 +1,16 @@
 ---
 title: 了解其他日曆選項
 description: 了解如何編輯和刪除日曆分組，以及如何共用日曆。
+activity: use
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
+team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 kt: 10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -42,7 +44,7 @@ ht-degree: 0%
 1. 選擇 **[!UICONTROL 共用]** 從 **[!UICONTROL 日曆動作]** 下拉式功能表。
 1. 輸入要共用日曆的用戶、角色、團隊、組或公司的名稱。
 1. 選取使用者是否獲得 [!UICONTROL 檢視] 或 [!UICONTROL 管理] 存取日曆報表。
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
 在共用日曆時，請注意以下幾點：
 

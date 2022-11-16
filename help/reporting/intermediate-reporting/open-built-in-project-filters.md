@@ -1,6 +1,6 @@
 ---
 title: 了解內建的專案篩選器
-description: 了解如何檢閱內建的專案篩選器，以了解如何建立篩選器，並在中建立您自己的專案篩選器 [!DNL  Workfront].
+description: 了解如何檢閱內建的專案篩選器，以了解如何在Workfront中建立這些篩選器，並建立您自己的專案篩選器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336817.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---

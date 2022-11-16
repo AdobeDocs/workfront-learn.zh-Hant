@@ -1,6 +1,6 @@
 ---
 title: 新增基本條件式格式
-description: 在此影片中，您將了解檢視中的條件式格式，以及如何在 [!DNL  Workfront].
+description: 了解如何根據您設定的條件，使用欄規則來變更報表或檢視中的文字顏色、格式和背景顏色。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -10,14 +10,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
 # 新增基本條件式格式至檢視
+
+條件式格式設定是透過建立欄規則來完成。 欄規則可讓您根據您設定的准則，以特定方式設定欄格式。
 
 在此影片中，您將學習：
 

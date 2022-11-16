@@ -1,6 +1,6 @@
 ---
 title: 傳送和共用報表
-description: 此影片會說明如何傳送報表給使用者、團隊或任何電子郵件地址，以及如何與 [!DNL  Workfront].
+description: 了解如何傳送報表給使用者、團隊或任何電子郵件地址，以及如何與Workfront中的任何人共用報表。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335158.png
 kt: 8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 1. 設定 **[!UICONTROL 重複]** to [!UICONTROL 每週].
 1. 設定 [!UICONTROL 時間] 5點。
 1. 設定 [!UICONTROL 重複於] 到星期一。
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
 >[!NOTE]
 >

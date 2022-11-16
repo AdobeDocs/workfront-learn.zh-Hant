@@ -1,6 +1,8 @@
 ---
-title: 了解團隊容量
-description: 團隊容量圖表顯示主團隊何時被過度分配或分配不足。
+title: 了解團隊容量 [!UICONTROL 增強的Analytics]
+description: 了解團隊容量圖表如何顯示主團隊何時被過度配置或分配不足。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-team-capacity.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# 了解團隊容量
+# 了解團隊容量 [!UICONTROL 增強的Analytics]
 
 團隊容量圖表顯示主團隊何時被過度分配或分配不足。 圖表顯示了在某一天為家庭小組分配的工作量，並在工作倦怠時或沒有受到挑戰時指定較深的藍色。 顏色更輕、更透明，表示工作負載更平衡。
 

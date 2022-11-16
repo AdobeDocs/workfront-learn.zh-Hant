@@ -1,6 +1,6 @@
 ---
 title: 建立基本篩選活動
-description: 在此影片中，您將執行活動，在Workfront中建立自己的篩選器。
+description: 在此活動中，您將建立名為「本月結束的專案」的專案篩選器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336807.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---

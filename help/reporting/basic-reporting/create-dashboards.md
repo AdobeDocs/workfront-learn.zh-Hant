@@ -1,6 +1,6 @@
 ---
 title: 建立控制面板
-description: 在此影片中，您會在 [!DNL  Workfront].
+description: 了解如何在Workfront中將各種清單報表、圖表、日曆和外部網頁結合到控制面板中。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335157.png
 kt: 8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---

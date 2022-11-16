@@ -1,6 +1,8 @@
 ---
-title: 依團隊圖表了解活動
+title: 了解中依團隊圖表的活動 [!UICONTROL 增強的Analytics]
 description: 「依團隊列出的活動」圖表可讓您了解組織的主要團隊在Workfront的逗留時間。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-activity-by-team-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-# 依團隊圖表了解活動
+# 了解中依團隊圖表的活動 [!UICONTROL 增強的Analytics]
 
 「依團隊列出的活動」圖表可讓您了解組織的主要團隊在Workfront的逗留時間。 Workfront使用者可以屬於多個團隊，但只能屬於一個主團隊。 「人物」圖表中使用的團隊僅由指定該團隊作為其主團隊的使用者組成。
 

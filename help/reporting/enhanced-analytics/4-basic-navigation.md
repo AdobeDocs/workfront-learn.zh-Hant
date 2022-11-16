@@ -1,6 +1,6 @@
 ---
-title: 了解基本導覽
-description: 在此影片中，您將學習如何導覽至 [!UICONTROL Analytics] 區域，並查看工作圖和人員圖的概覽 [!DNL  Workfront].
+title: 了解中的基本導覽 [!UICONTROL 增強的Analytics]
+description: 了解如何導覽至 [!UICONTROL Analytics] 區域，並查看Workfront中的工作圖表和人員圖表的概述。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# 了解基本導覽
+# 了解中的基本導覽 [!UICONTROL 增強的Analytics]
 
 導覽至 [!UICONTROL Analytics] 在新的Workfront體驗中，使用 [!UICONTROL 主菜單] 按鈕。
 

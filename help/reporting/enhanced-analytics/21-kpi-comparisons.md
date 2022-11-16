@@ -1,6 +1,6 @@
 ---
-title: 了解KPI比較使用案例
-description: 了解如何比較從目前日期範圍到先前日期範圍的KPI，以及如何比較KPI與中的兩個不同篩選器 [!DNL  Workfront].
+title: 了解以下範例中的KPI比較使用案例： [!UICONTROL 增強的Analytics]
+description: 了解如何比較從目前日期範圍到先前日期範圍的KPI，以及如何使用兩個不同的篩選器來比較KPI。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8739
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# 了解KPI比較使用案例
+# 了解以下範例中的KPI比較使用案例： [!UICONTROL 增強的Analytics]
 
 在此影片中，您將學習：
 
