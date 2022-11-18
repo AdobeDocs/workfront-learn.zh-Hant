@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 kt: 10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 5fe0cbb9797ceaac0c402d912be6ed6665ac48ae
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -25,11 +25,11 @@ ht-degree: 0%
 1. 選擇 **[!UICONTROL 狀態]**.
 1. 選取 **[!UICONTROL 問題]** 標籤。
 1. 確認右上角的欄位已設為 [!UICONTROL 系統狀態]. 這可確保新狀態可供您 [!DNL Workfront] 例項。
-1. 選擇**[!UICONTROL 主清單 ]**查看所有問題狀態。 這是您建立或修改狀態的位置。
+1. 選擇 **[!UICONTROL 主清單]** ，查看所有問題狀態。 這是您建立或修改狀態的位置。
 1. 按一下 **[!UICONTROL 新增狀態]**.
 1. 視需要填寫貴組織的欄位 — 名稱、說明、顏色、等於、金鑰等。
 1. 勾選可搭配此狀態使用的問題類型方塊。
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
 ![新狀態窗口 [!UICONTROL 狀態] 頁面](assets/admin-fund-create-issue-status.png)
 
