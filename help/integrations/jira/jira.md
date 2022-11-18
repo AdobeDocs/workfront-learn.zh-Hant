@@ -1,5 +1,5 @@
 ---
-title: '使用 [!DNL Jira] 整合'
+title: 使用 [!DNL Jira] 整合
 description: 一窺 [!DNL Jira] 整合可讓您掌握團隊的運作情況。
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%

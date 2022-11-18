@@ -1,5 +1,5 @@
 ---
-title: 什麼是 [!DNL Workfront Goals]?
+title: 了解 [!DNL Workfront Goals]
 description: 系統管理員將了解哪些人可以存取 [!DNL Workfront Goals], what permissions a system administrator has in [!DNL Workfront Goals], and how to enable [!DNL Workfront Goals] 透過版面範本。
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---

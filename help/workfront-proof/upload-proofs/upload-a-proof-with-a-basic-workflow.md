@@ -1,5 +1,5 @@
 ---
-title: 如何使用基本工作流程上傳校樣
+title: 使用基本工作流程上傳校樣
 description: 了解如何以校樣形式上傳檔案、新增基本校對工作流程以供利害關係人檢閱和核准，以及為校對審核設定截止時間。 [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335132.png
 kt: 8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 在此影片中，您將學習如何：
 
-* 上傳檔案至 [!DNL Workfront] 所以它產生證據
+* 上傳檔案至 [!DNL Workfront] 所以它會產生證據
 * 新增基本校對工作流程，讓相關人員可以檢閱及核准資產
 * 設定校對審核的截止時間
 

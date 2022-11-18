@@ -1,18 +1,21 @@
 ---
 title: 路由器
 description: 了解路由器的重要性，以及如何使用路由器有條件地處理不同的模組。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
-
 
 # 路由器
 
@@ -55,8 +58,8 @@ ht-degree: 0%
    >
    >如果您無法存取自己的超級英雄代號，可以使用此共用代號：10110256647253588。 請考慮您呼叫超級英雄API的次數，讓此共用代號可持續適用於所有人。
 
-1. 開啟「取得超級英雄外觀」的設定，並將URL變更為https://www.superheroapi.com/api/[存取權杖]/332/外觀。 請務必在URL中加入存取權杖。 按一下「確定」。
-1. 開啟「獲取超級英雄」功能的設定，並將URL更改為https://www.superheroapi.com/api/[存取權杖]/332/powerstats。 請務必在URL中加入存取權杖。 按一下「確定」。
+1. 開啟「取得超級英雄外觀」的設定，並將URL變更為 `https://www.superheroapi.com/api/[access- token]/332/appearance`. 請務必在URL中加入存取權杖。 按一下「確定」。
+1. 開啟「獲取超級英雄」功能的設定，並將URL更改為 `https://www.superheroapi.com/api/[access- token]/332/powerstats`. 請務必在URL中加入存取權杖。 按一下「確定」。
 1. 按一下右鍵每個超級英雄模組，然後選擇「僅運行此模組」。 這會產生您需要查看的對應資料結構。
 1. 執行兩者後，將每個URL欄位中的數字&quot;332&quot;變更為從剖析CSV模組映射的欄4。
 

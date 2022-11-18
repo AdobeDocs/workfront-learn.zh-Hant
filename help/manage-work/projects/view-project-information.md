@@ -1,6 +1,8 @@
 ---
 title: 查看項目資訊
 description: 了解篩選器、檢視和群組如何讓專案資訊輕鬆檢視，以協助您管理專案。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: view-project-information.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%

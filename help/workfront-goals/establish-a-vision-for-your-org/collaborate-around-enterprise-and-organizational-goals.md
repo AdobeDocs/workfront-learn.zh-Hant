@@ -1,5 +1,5 @@
 ---
-title: 如何圍繞目標進行協作
+title: 圍繞目標進行協作
 description: 了解如何與您的團隊協作、定義您和您的團隊必須執行哪些動作來達成頂層目標，以及調整您的目標階層。
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8893
 exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---

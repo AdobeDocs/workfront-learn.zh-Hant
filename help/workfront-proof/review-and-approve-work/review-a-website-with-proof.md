@@ -1,5 +1,5 @@
 ---
-title: 如何檢閱具有證明的網站
+title: 檢閱含有校樣的網站
 description: 了解如何在中開啟靜態或互動式網站校樣 [!DNL  Workfront] 並發表評論。
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335143.png
 kt: 8846
 exl-id: dcc8c441-3c5c-41e9-8cf2-031d3814a1ae
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---

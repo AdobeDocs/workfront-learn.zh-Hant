@@ -1,6 +1,8 @@
 ---
-title: 如何管理校樣留言
+title: 管理校樣注釋
 description: 了解如何在 [!DNL  Workfront] 通過應用注釋操作、解析注釋和篩選注釋列。
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: manage-proof-comments.png
 kt: 10109
 exl-id: 603023f3-f79e-414c-a6da-1f42c234c63d
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---

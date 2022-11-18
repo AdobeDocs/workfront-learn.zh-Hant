@@ -1,14 +1,17 @@
 ---
-title: 定義使用案例並尋找最佳方法
+title: 定義不同的使用案例並尋找最佳方法
 description: 了解如何為您的案例找出特定的使用案例、決定正確的設計，以及為利害關係人提供最佳建議，位於 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

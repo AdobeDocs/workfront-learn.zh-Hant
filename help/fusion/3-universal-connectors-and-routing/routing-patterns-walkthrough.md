@@ -2,11 +2,14 @@
 title: 路由模式逐步說明
 description: 了解如何使用「設定變數」模組透過多個路徑傳送數字，以了解篩選器和回傳的行為 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -15,7 +18,7 @@ ht-degree: 0%
 
 # 路由模式和回退逐步說明
 
-## 概述
+## 總覽
 
 使用「設定變數」模組，透過多個路徑傳送數字，以查看篩選器和回傳在路由時的行為。
 

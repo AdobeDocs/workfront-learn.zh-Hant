@@ -1,21 +1,24 @@
 ---
 title: 超越基本對應逐步說明
-description: 在此影片中，您將變更先前已建立案例中的一些專案欄位，此情境是使用 [!DNL Adobe Workfront Fusion].
+description: 在您先前使用「對應」面板公式建立的案例中，變更某些專案欄位，位置如下： [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # 超越基本對應逐步說明
 
-## 概述
+## 總覽
 
 從您在第一個逐步說明中使用對應面板公式建立的「初始方案設計」變更專案名稱、計劃開始日期和優先順序。
 
@@ -32,6 +35,10 @@ Workfront建議您先觀看練習逐步影片，然後再嘗試在自己的環�
 >如需完成逐步說明，請前往 [超越基本對應逐步說明](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) 練習。
 
 ## 該你了
+
+>[!NOTE]
+>
+>練習是可選的，不必完成融合培訓。
 
 本練習以您在逐步說明中學到的內容為基礎，但並未提供解決方案。
 

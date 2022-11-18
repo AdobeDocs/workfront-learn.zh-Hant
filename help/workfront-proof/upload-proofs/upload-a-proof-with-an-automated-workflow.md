@@ -1,5 +1,5 @@
 ---
-title: 如何使用自動化工作流程上傳
+title: 使用自動化工作流程上傳校樣
 description: 了解何時使用自動校樣工作流程、如何使用校樣範本套用工作流程，以及如何從頭開始設定自動化工作流程。
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335133.png
 kt: 8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---

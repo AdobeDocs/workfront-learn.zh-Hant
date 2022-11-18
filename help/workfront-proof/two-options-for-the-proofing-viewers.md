@@ -6,15 +6,15 @@ type: Tutorial
 role: User
 level: Beginner
 kt: 10160
-source-git-commit: a64b29632b502af42d366ce543e5a71e9901e99c
+exl-id: 07575429-3d34-4cbf-8a35-d75dc912245a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-
-# 校對檢視器的兩個選項
+# 校對檢視器說明
 
 [!DNL Workfront] 可讓您檢閱兩個主要類別的校樣：靜態和互動式。
 

@@ -1,5 +1,5 @@
 ---
-title: 通過Slack查看最近的工作
+title: 查看最近的工作 [!DNL Slack]
 description: 了解如何透過Slack檢視最近的工作
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8820
 exl-id: e2ac4704-27d9-49fe-96a4-fd8fe8b48d94
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '29'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---

@@ -2,11 +2,14 @@
 title: 方案護欄
 description: 了解方案護欄、模組護欄、檔案護欄和網頁鈎護欄，全部在 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

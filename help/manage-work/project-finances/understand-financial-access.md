@@ -1,6 +1,8 @@
 ---
 title: 了解財務訪問
-description: 金融存取權限可讓管理員控制哪些人可以查看及編輯Workfront中追蹤的金融資訊。
+description: 了解金融存取權限如何讓管理員控制哪些人可以查看及編輯Workfront中追蹤的金融資訊。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-financial-access.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '415'
 ht-degree: 5%
 
 ---

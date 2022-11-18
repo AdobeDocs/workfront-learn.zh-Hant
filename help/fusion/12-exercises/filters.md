@@ -1,18 +1,21 @@
 ---
 title: 篩選器
 description: 了解如何使用模組之間的篩選器，以僅允許特定類型的套件組合穿過。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11040
 thumbnail: KT1101.png
-source-git-commit: f367e016498d5c1814cab79e19e6e9001db2851f
+exl-id: d2cec1ea-7ff9-48ae-8bfb-0c767d346079
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
 
 ---
-
 
 # 篩選器
 

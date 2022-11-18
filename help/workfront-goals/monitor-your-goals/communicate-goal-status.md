@@ -1,16 +1,18 @@
 ---
 title: 傳達目標狀態
 description: 了解如何與其他人溝通，了解您的目標的進度和狀態，位於 [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -34,7 +36,7 @@ ht-degree: 0%
 
    ![Asss](assets/17-workfront-goals-share-a-goal.png)
 
-1. 執行下列任一操作：
+1. 執行下列任一項作業：
 
    * 選取 [!UICONTROL 管理全系統] 設定，將管理權限授予系統中具有編輯存取權的每個人 [!DNL Goals] 透過 [!DNL Workfront] 存取層級。 對於所有新目標，預設會取消選取此選項。
    * 開始鍵入要指定的用戶名 [!UICONTROL 管理] 權限 [!UICONTROL 授予管理存取權] 框。 選取名稱出現在清單中時。

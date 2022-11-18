@@ -1,5 +1,5 @@
 ---
-title: 審核數字工作
+title: 審核數字內容並批准工作
 description: 了解如何在 [!DNL  Workfront].
 activity: use
 feature: Work Management
@@ -10,14 +10,14 @@ level: Intermediate
 team: Technical Marketing
 kt: 8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# 審核數字工作
+# 審核數字內容並批准工作
 
 在此影片中，您將學習如何：
 

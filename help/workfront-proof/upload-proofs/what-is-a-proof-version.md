@@ -1,6 +1,8 @@
 ---
 title: 什麼是校樣版本？
 description: 探索各版本如何協助您使用[!DNL]校對功能，跨檔案的多個迭代管理審核和核准程式。
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,14 +10,14 @@ level: Beginner
 thumbnail: what-is-a-proof-version.png
 kt: 10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# 什麼是校樣？
+# 什麼是校樣版本？
 
 [!DNL Workfront’s] 校對功能可協助您的組織使用版本，跨檔案的多個反覆項目管理審核和核准程式。
 

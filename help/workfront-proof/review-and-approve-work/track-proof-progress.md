@@ -1,6 +1,8 @@
 ---
-title: 如何追蹤校樣進度
+title: 追蹤校樣進度
 description: 了解如何使用 [!UICONTROL SOCD] 指標、證明進度和報告，以追蹤證明的進度 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: track-proof-progress.png
 kt: 10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '674'
 ht-degree: 1%
 
 ---

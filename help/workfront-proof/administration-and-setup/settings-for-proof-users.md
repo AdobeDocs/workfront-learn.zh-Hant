@@ -1,5 +1,5 @@
 ---
-title: 如何設定校對使用者
+title: 校對用戶的設定
 description: 了解如何判斷 [!DNL  Workfront] 使用者取得校對授權，然後在兩者中調整使用者設定 [!DNL Workfront] 和後端設定。
 activity: use
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335126.png
 kt: 8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---

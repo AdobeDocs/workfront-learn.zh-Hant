@@ -1,6 +1,8 @@
 ---
-title: 設定「風險證明」設定
+title: 在風險證明設定中設定預設值
 description: 了解如何在校對設定中，為風險校樣通知設定預設設定。
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,7 +10,7 @@ level: Intermediate
 thumbnail: set-default-at-risk-proof-settings.png
 kt: 10234
 exl-id: 1e99e434-9aa5-44e3-8496-76dd57bd2f91
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%

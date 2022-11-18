@@ -1,5 +1,5 @@
 ---
-title: 說明電子郵件警報和校樣通知
+title: 了解電子郵件警報和校樣通知
 description: 了解以下主題中的電子郵件警報與校樣通知之間的差異： [!DNL  Workfront].
 feature: Workfront Proof
 type: Tutorial
@@ -8,14 +8,14 @@ level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
 kt: 10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# 電子郵件警報與校樣通知
+# 了解電子郵件警報和校樣通知
 
 電子郵件警報與校樣通知電子郵件不同。 當您被指派新校樣以進行檢閱、校樣延遲或有新版校樣供您查看時，您會收到校樣通知電子郵件。
 

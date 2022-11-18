@@ -1,5 +1,5 @@
 ---
-title: 在Workfront中建立目標
+title: 在中建立目標 [!DNL Workfront Goals]
 description: 了解如何在 [!DNL Workfront Goals] 使用三種不同選項。
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 10122
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
 
-# 在Workfront中建立目標
+# 在中建立目標 [!DNL Workfront Goals]
 
 在 [!DNL Workfront Goals]、執行人員和企業領導團隊可從各個層級了解整個組織的進度。 [!DNL Workfront Goals] 提供可見性，以獲得關鍵可操作的洞察，以提高最高優先順序、識別面臨風險的目標、即時診斷問題，並主動糾正問題。
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 1. 檢查 **[!UICONTROL 複製結果]** 框（如果原始目標中已添加結果，並且您想將其複製到新目標）。 複製目標的結果與原始目標的結果具有相同的所有者、名稱和測量值。
 
-1. 按一下 **[!UICONTROL 儲存]**. 複製的目標會以「草稿」狀態儲存。
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。複製的目標會以「草稿」狀態儲存。
 
    ![的影像 [!UICONTROL 目標詳細資料] 面板 [!DNL Workfront Goals] 和 [!UICONTROL 複製] 選項](assets/03-workfront-goals-copy-a-goal.png)
 

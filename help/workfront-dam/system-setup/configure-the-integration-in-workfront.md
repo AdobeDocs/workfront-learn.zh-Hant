@@ -1,20 +1,22 @@
 ---
-title: 在Workfront中設定整合
+title: 設定 [!UICONTROL Workfront DAM] 整合Workfront
 description: 了解如何啟用 [!UICONTROL Workfront DAM] 系統管理員存取層級的整合。
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 kt: 10087
 exl-id: ee9489a5-abe9-4a81-96bd-625c82189d3d
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# 在Workfront中設定整合
+# 設定 [!UICONTROL Workfront DAM] 整合Workfront
 
 啟用 [!UICONTROL Workfront DAM] 整合Workfront **[!UICONTROL 設定]** 的上界。 你需要 [!UICONTROL Workfront] 系統管理員訪問級別。
 

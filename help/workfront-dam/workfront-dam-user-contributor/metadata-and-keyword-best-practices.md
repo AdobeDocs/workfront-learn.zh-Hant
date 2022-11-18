@@ -1,13 +1,15 @@
 ---
 title: 身為貢獻者，了解中繼資料和關鍵字最佳實務
 description: 了解如何在 [!UICONTROL Workfront DAM] 說明資產以增加組織資產的可搜尋性。
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 kt: 10107
 exl-id: ad5a19a7-556a-4b38-9cc4-7e29e5afe1de
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%

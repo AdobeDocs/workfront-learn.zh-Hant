@@ -1,12 +1,15 @@
 ---
-title: 了解案例中的JSON
+title: 了解JSON的情況
 description: 了解什麼是JSON、其結構，以及如何將其轉譯為資料，以便在您的案例中使用 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 8f16d7e1-2eb1-400f-bdad-5d05745a0ba7
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

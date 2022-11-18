@@ -2,11 +2,14 @@
 title: 了解錯誤處理指令
 description: 了解允許執行繼續的錯誤處理程式指令，以及可停止執行的錯誤處理程式指令，位於 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%

@@ -1,12 +1,15 @@
 ---
-title: 未完成的執行逐步說明
+title: 執行不完整逐步說明
 description: 了解在評估並更正錯誤後儲存不完整執行，然後重新運行包的值 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
@@ -15,7 +18,7 @@ ht-degree: 1%
 
 # 執行不完整逐步說明
 
-## 概述
+## 總覽
 
 了解儲存不完整執行的有用習慣，並了解在評估和更正錯誤後重新執行套件組合時提供的值。
 

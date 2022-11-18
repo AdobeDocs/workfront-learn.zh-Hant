@@ -1,21 +1,24 @@
 ---
-title: 交換機模組逐步說明
+title: 交換機模組逐步
 description: 了解當您需要在 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# 使用交換機模組逐步說明
+# 交換機模組逐步
 
-## 概述
+## 總覽
 
 了解在需要執行更複雜或動態資料轉換時如何使用Switch模組。
 

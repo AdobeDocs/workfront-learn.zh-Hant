@@ -1,21 +1,24 @@
 ---
 title: 篩選器逐步說明
-description: 在此影片中，您將學習如何在中的模組的兩個模組之間新增篩選器 [!DNL Adobe Workfront Fusion].
+description: 了解如何在中的兩個模組之間新增篩選器， [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
 # 使用強大的過濾器逐步
 
-## 概述
+## 總覽
 
 使用您先前建立的「超出基本對應」逐步練習，在模組中的兩個模組之間新增篩選器，以僅建立「專案清單」中專案顏色為「紅色」的專案。
 
@@ -36,6 +39,10 @@ Workfront建議您先觀看練習逐步影片，然後再嘗試在自己的環�
 >如需完成逐步說明，請前往 [篩選器逐步說明](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) 練習。
 
 ## 該你了
+
+>[!NOTE]
+>
+>練習是可選的，不必完成融合培訓。
 
 本練習以您在逐步說明中學到的內容為基礎，但並未提供解決方案。
 

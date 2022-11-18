@@ -1,6 +1,8 @@
 ---
 title: 管理請求
 description: 了解如何尋找已使用控制面板提交的請求， [!UICONTROL 首頁], [!UICONTROL 請求] 區域，或 [!UICONTROL 團隊] 頁面 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
@@ -8,7 +10,7 @@ level: Intermediate
 thumbnail: manage-incoming-requests.jpeg
 kt: 10154
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
-source-git-commit: 187df9e953fc51bf0d1825a57719376b61140798
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%

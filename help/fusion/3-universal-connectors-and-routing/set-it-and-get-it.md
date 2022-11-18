@@ -1,14 +1,17 @@
 ---
 title: 設定並獲取
-description: 此影片會說明如何在不同路徑間共用資料，以及使用「設定」和「取得」變數，全部在 [!DNL Adobe Workfront Fusion].
+description: 了解如何在不同路徑之間共用資料，以及使用設定和取得變數，全部在 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9016
 exl-id: 18781714-af56-4bde-84c5-bf445186e43a
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---

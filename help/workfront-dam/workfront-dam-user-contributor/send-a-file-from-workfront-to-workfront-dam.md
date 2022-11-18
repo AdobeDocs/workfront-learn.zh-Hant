@@ -1,16 +1,18 @@
 ---
 title: 將檔案從Workfront傳送至 [!UICONTROL Workfront DAM]
 description: 了解如何透過 [!DNL Workfront] to [!UICONTROL Workfront DAM].
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 kt: 10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,7 +31,7 @@ ht-degree: 0%
 
    ![視窗的影像，顯示您有權在 [!UICONTROL Workfront DAM]](assets/05-workfront-dam-folders.png)
 
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 1. 此 [!UICONTROL 檔案] 頁面重新載入，現在為 [!UICONTROL Workfront DAM] 表徵圖會出現在檔案名旁邊。 這表示檔案已傳送至 [!UICONTROL DAM].
 
    ![的影像 [!UICONTROL Workfront DAM] 表徵圖出現在檔案名旁邊](assets/06-dam-logo.png)

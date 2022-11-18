@@ -2,20 +2,23 @@
 title: Webhook逐步說明
 description: 了解如何使用網頁連結建立應用程式，判斷客戶是否年紀夠大，足以購買酒精，全部在 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
 
 # Webhook逐步說明
 
-## 概述
+## 總覽
 
 此情境會建立便利店應用程式，方便客戶判斷客戶是否年齡夠大，足以購買酒精。 收銀員只需將客戶的姓名和出生日期，以及經驗證的客戶代號寄至已提供的URL。 輸入後，即會觸發我們的情境，以計算適當的回應並傳回給要求者。
 
@@ -46,6 +49,10 @@ Workfront建議您先觀看練習逐步影片，然後再嘗試在自己的環�
 ![使用開關模組的影像](assets/beyond-basic-modules-6.png)
 
 ## 該你了
+
+>[!NOTE]
+>
+>練習是可選的，不必完成融合培訓。
 
 本練習以您在逐步說明中學到的內容為基礎，但並未提供解決方案。
 

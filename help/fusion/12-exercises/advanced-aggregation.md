@@ -1,13 +1,16 @@
 ---
 title: 高級聚合
 description: 呼叫網站服務，以傳回多個國家的詳細資訊並識別依子地區分組的人口。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%

@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '2218'
+source-wordcount: '2219'
 ht-degree: 2%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 2%
       + [建立系統範圍的問題狀態](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
       + [自訂問題類型和術語](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [了解預設問題類型](administration-and-setup/configure-system-defaults/default-issue-types.md)
-   + 版面範本 {#layout-templates}
+   + 版面配置範本 {#layout-templates}
       + [指派及管理版面範本的存取權](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [使用版面範本自訂物件區域](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [使用版面範本自訂專案詳細資訊](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
@@ -451,7 +451,7 @@ ht-degree: 2%
 
 
 
-+ Workfront 校訂 {#workfront-proof}
++ Workfront Proof {#workfront-proof}
    + [了解校對的優點](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [了解檔案和校樣之間的差異](workfront-proof/document-vs-proof.md)
    + [校對檢視器說明](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -460,7 +460,7 @@ ht-degree: 2%
    + 管理與設定 {#administration-and-setup-for-proof}
       + [自訂校樣註解動作](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [自定義校樣決策選項](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [電子郵件警報與校樣通知](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [了解電子郵件警報和校樣通知](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [校樣角色和電子郵件警報](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [校樣報告](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [在風險證明設定中設定預設值](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
@@ -591,7 +591,7 @@ ht-degree: 2%
    + [文件](best-practices/documents-bp.md)
    + [篩選器、檢視和群組](best-practices/filters-views-groupings-bp.md)
    + [工作角色](best-practices/job-roles-bp.md)
-   + [版面範本](best-practices/layout-templates-bp.md)
+   + [版面配置範本](best-practices/layout-templates-bp.md)
    + [許可證和訪問級別](best-practices/licenses-access-levels-bp.md)
    + [入門和收養](best-practices/onboarding-adoption-bp.md)
    + [組織單位](best-practices/organizational-units-bp.md)
@@ -599,9 +599,9 @@ ht-degree: 2%
    + [預覽沙箱](best-practices/preview-sandbox-bp.md)
    + [項目、任務和問題首選項](best-practices/project-task-issue-preferences-bp.md)
    + [專案範本](best-practices/project-templates-bp.md)
-   + [Workfront 校訂](best-practices/proofing-bp.md)
+   + [Workfront Proof](best-practices/proofing-bp.md)
    + [請求佇列](best-practices/request-queues-bp.md)
-   + [資源計畫者](best-practices/resource-planner-bp.md)
+   + [資源規劃工具](best-practices/resource-planner-bp.md)
    + [資源集區](best-practices/resource-pools-bp.md)
    + [案例規劃工具](best-practices/scenario-planner-bp.md)
    + [排程](best-practices/schedules-bp.md)

@@ -2,20 +2,23 @@
 title: 路由器逐步
 description: 了解如何使用路由器將Pokemon與超英雄捆綁在一起，沿正確的路徑傳遞 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
 
 # 路由器逐步
 
-## 概述
+## 總覽
 
 使用路由器將Pokemon與超級英雄捆綁在正確的路徑上，然後為每個字元建立任務。
 
@@ -29,9 +32,9 @@ Workfront建議您先觀看練習逐步影片，然後再嘗試在自己的環�
 
 ## 練習URL
 
-* 超級英雄API網站：https://www.superheroapi.com/
-* 練習的第一個URL:https://www.superheroapi.com/api/{access-token}/{character-id}/appearance
-* 練習的第二個URL:https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* 超級英雄API網站： `https://www.superheroapi.com/`
+* 練習的第一個URL: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* 練習的第二個URL: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 如果您無法存取自己的超級英雄代號，可以使用此共用代號：10110256647253588。 請考慮您呼叫超級英雄API的次數，讓此共用代號可持續適用於所有人。
 
@@ -86,6 +89,10 @@ API驗證是用來控制服務存取權的身分識別形式，例如當您嘗�
 您可以在Experience League中查看預先建立的應用程式連接器的完整清單。 如果您想要向Workfront Fusion產品團隊建議新的應用程式連接器，請將您的想法提交至Innovation Lab。 如果您之前沒有提交過，請進一步了解創新實驗室，以及如何投票支援創意並參與每年兩次的排行榜。 如果您已擁有創新實驗室的存取權，請登入並提交您的想法。
 
 ## 該你了
+
+>[!NOTE]
+>
+>練習是可選的，不必完成融合培訓。
 
 本練習以您在逐步說明中學到的內容為基礎，但並未提供解決方案。
 

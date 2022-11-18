@@ -1,6 +1,8 @@
 ---
 title: 填寫專案詳細資訊
 description: 了解哪12個專案詳細資訊欄位 [!DNL  Workfront] 建議您在建立專案時填入。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '1226'
 ht-degree: 1%
@@ -89,7 +91,7 @@ ht-degree: 1%
 
    可在模板中設定「資源管理器」欄位。
 
-1. **自訂表格**
+1. **自訂表單**
 
    Workfront提供專案名稱和開始日期等原生欄位。 但是，作為項目經理，您需要的資訊或項目團隊需要的資訊。 您的獨特資料同樣重要，且可輕鬆儲存在這些表單中。 發佈日期、列印資產大小、傳送管道等詳細資訊。
 

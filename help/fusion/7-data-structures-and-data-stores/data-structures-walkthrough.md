@@ -2,11 +2,14 @@
 title: 資料結構逐步說明
 description: 了解如何從一個檔案中獲取時間日誌資訊、轉換該資訊，以及使用轉換後的資料生成新檔案， [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -15,7 +18,7 @@ ht-degree: 0%
 
 # 資料結構逐步說明
 
-## 概述
+## 總覽
 
 開啟包含時間項目清單的CSV檔案。 這些時間項目是多位使用者在特定日期記錄的分鐘數。 目標是取用這項資訊並產生新的CSV，以小時為單位顯示每位使用者每天記錄的總時間。
 

@@ -1,5 +1,5 @@
 ---
-title: 如何上傳校樣版本
+title: 上傳校樣版本
 description: 了解如何上傳新版本的校樣，以及將校樣工作流程套用至 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 336096.png
 kt: 8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

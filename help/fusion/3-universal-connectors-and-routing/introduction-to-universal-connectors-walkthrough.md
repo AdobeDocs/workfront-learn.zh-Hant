@@ -2,20 +2,23 @@
 title: 通用連接器逐步說明簡介
 description: 了解如何透過HTTP連接器呼叫Poke API，以收集並張貼Pokemon字元的相關資訊，全部位於 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# 通用連接器逐步說明
+# 通用連接器逐步說明簡介
 
-## 概述
+## 總覽
 
 在試算表中使用Pokemon字元，透過HTTP連接器呼叫Poke API，以收集並發佈該字元的詳細資訊。
 
@@ -29,9 +32,9 @@ Workfront建議您先觀看練習逐步影片，然後再嘗試在自己的環�
 
 ### 練習URL
 
-Pokemon API網站：https://pokeapi.co/
+Pokemon API網站： `https://pokeapi.co/`
 
-練習的URL:https://pokeapi.co/api/v2/pokemon/{字元}
+練習的URL: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >

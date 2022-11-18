@@ -1,5 +1,5 @@
 ---
-title: 其中 [!DNL Workfront Goals] 適合我的工作生命週期嗎？
+title: 了解 [!UICONTROL Workfront目標] 適合您的工作週期
 description: 了解典型工作生命週期中的6個步驟，以及工作生命週期中「策略階段」的核心組成部分。
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# 其中 [!DNL Workfront Goals] 適合我的工作生命週期嗎？
+# 了解 [!UICONTROL Workfront目標] 適合您的工作週期
 
 在此影片中，您將了解：
 

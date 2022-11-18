@@ -1,15 +1,17 @@
 ---
 title: 產品組合概觀
 description: 了解產品組合 [!DNL Workfront] 以及它們如何協助您排定專案優先順序，並相互比較專案。
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
 level: Intermediate
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 3398b789630fa67b8a592c82f6fcf0b6d87e4ead
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---

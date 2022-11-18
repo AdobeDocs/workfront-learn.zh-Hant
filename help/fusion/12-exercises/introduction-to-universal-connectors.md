@@ -1,18 +1,21 @@
 ---
 title: 通用連接器簡介
 description: 擴展您對使用REST通用連接器和使用傳回資料的了解。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11042
 thumbnail: KT11042.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
-
 
 # 通用連接器簡介
 
@@ -50,7 +53,7 @@ ht-degree: 0%
    **使用通用連接器取得Pokemon資料。**
 
 1. 新增HTTP Make a Request模組。
-1. 在URL欄位中，使用https://pokeapi.co/api/v2/pokemon/[字元]，其中 [字元] 會從剖析CSV模組對應至第3欄。
+1. 在URL欄位中使用 `https://pokeapi.co/api/v2/pokemon/[Character]`，其中 [字元] 會從剖析CSV模組對應至第3欄。
 1. 選中「分析響應」複選框。
 1. 選取「顯示進階設定」，然後核取「將所有狀態評估為錯誤」旁的方塊。
 1. 按一下「確定」，然後重新命名模組「取得Pokemon資訊」。

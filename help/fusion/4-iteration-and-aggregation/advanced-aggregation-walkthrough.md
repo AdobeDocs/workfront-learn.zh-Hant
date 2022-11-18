@@ -2,13 +2,16 @@
 title: 進階匯總逐步說明
 description: 了解如何呼叫網站服務，傳回多個國家/地區的詳細資訊，並識別依子地區分組的人口，全部位於 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -45,6 +48,10 @@ Workfront建議您先觀看練習逐步影片，然後再嘗試在自己的環�
 您會在藍本中的任何區段周圍看到陰影，來自 **起始迭代器** 到 **終止匯總**. 這有助於在您的Workfront Fusion案例中輕鬆找出這些區段。
 
 ## 該你了
+
+>[!NOTE]
+>
+>練習是可選的，不必完成融合培訓。
 
 本練習以您在逐步說明中學到的內容為基礎，但並未提供解決方案。
 

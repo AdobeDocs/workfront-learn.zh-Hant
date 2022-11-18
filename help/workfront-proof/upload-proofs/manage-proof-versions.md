@@ -1,5 +1,5 @@
 ---
-title: 了解如何管理校樣版本
+title: 管理校樣版本
 description: 了解如何尋找校樣上傳的詳細資訊、下載所有校樣版本，以及刪除校樣版本(於 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335137.png
 kt: 8837
 exl-id: 5121b112-2b17-44f4-8e36-1ce4eb9898f8
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---

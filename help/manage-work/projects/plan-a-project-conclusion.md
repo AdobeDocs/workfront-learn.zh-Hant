@@ -1,13 +1,15 @@
 ---
 title: 計畫項目 — 審核
-description: 複查項目的五個欄位，以便在計畫項目時重點關注：任務、持續時間、計畫小時數、前置任務和分配。
+description: 複查項目的五個欄位，以便在計畫項目時重點關注這些欄位：任務、持續時間、計畫小時數、前置任務和分配。
+activity: use
+team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
 kt: 10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 5%

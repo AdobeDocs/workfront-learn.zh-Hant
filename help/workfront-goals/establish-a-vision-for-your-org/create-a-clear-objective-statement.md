@@ -1,5 +1,5 @@
 ---
-title: 定義並表示目標或最終目標
+title: 定義並表達目標或最終目標
 description: 了解如何建立明確的客觀陳述或指揮官的意圖，並撰寫強大的企業或組織目標。
 activity: use
 feature: Workfront Goals
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 0%

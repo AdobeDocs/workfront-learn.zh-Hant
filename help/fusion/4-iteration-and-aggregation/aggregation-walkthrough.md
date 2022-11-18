@@ -2,11 +2,14 @@
 title: 匯總逐步說明
 description: 了解如何匯總專案中每個工作任務的計畫時數，並透過該資訊傳送電子郵件給您自己，全部位於 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -15,7 +18,7 @@ ht-degree: 0%
 
 # 匯總逐步說明
 
-## 概述
+## 總覽
 
 使用您在最後一個逐步說明中建立的「迭代簡介」案例，匯總專案中每個工作任務的計畫時數，並傳送電子郵件給您自己。
 

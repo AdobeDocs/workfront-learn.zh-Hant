@@ -1,13 +1,15 @@
 ---
 title: 複製現有目標
 description: 了解如何在 [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 0%
@@ -44,7 +46,7 @@ Pro-tips graphic
 
 1. 檢查 **[!UICONTROL 複製結果]** 框（如果原始目標中已添加結果，並且您想將其複製到新目標）。 複製目標的結果與原始目標的結果具有相同的所有者、名稱和測量值。
 
-1. 按一下 **[!UICONTROL 儲存]**. 複製的目標會以「草稿」狀態儲存。
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。複製的目標會以「草稿」狀態儲存。
 
    ![的影像 [!UICONTROL 目標詳細資料] 面板 [!DNL Workfront Goals] 和 [!UICONTROL 複製] 選項](assets/03-workfront-goals-copy-a-goal.png)
 

@@ -1,6 +1,7 @@
 ---
-title: 自訂校樣註解動作
+title: 自訂校樣留言的動作
 description: 了解如何對校樣留言使用動作。 了解如何針對的校對功能設定和自訂動作標籤。
+activity: use
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -9,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335128.png
 kt: 8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---

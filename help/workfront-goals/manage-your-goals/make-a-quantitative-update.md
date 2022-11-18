@@ -1,5 +1,5 @@
 ---
-title: 進行量化更新 [!DNL Workfront Goals]
+title: 在 [!DNL Workfront Goals]
 description: 了解如何在[!DNL目標]中進行量化更新。
 activity: use
 feature: Workfront Goals
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%

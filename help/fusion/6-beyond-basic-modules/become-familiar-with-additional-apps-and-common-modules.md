@@ -1,14 +1,17 @@
 ---
-title: 熟悉應用程式和模組
+title: 熟悉其他應用程式和常見模組
 description: 了解哪些觸發器、動作和搜尋，以及在不同應用程式連接器中找到的模組類型如何在 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

@@ -1,18 +1,21 @@
 ---
 title: Webhook
 description: 了解如何建立、觸發和管理Webhook啟動的案例。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11053
 thumbnail: KT11053.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
 
 ---
-
 
 # Webhook
 
@@ -38,7 +41,7 @@ ht-degree: 0%
 1. 按一下「新增」以建立新的Webhook。
 1. 輸入「飲用年齡應用程式」的Webhook名稱。
 1. 將IP限制保留為空白，這表示任何人都可以將資料傳入其中。
-1. 按一下「儲存」 。
+1. 按一下儲存。
 
 
    ![Webhook映像2](../12-exercises/assets/webhooks-walkthrough-2.png)

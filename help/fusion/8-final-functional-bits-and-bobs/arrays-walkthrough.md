@@ -1,21 +1,24 @@
 ---
 title: 陣列逐步說明
-description: 在此影片中，我們將檢閱先前使用簡單和複雜陣列的逐步練習 [!DNL Adobe Workfront Fusion].
+description: 檢閱先前的逐步練習，其中使用簡單和複雜的陣列 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '91'
 ht-degree: 1%
 
 ---
 
 # 陣列逐步說明
 
-## 概述
+## 總覽
 
 檢閱先前使用簡單且複雜陣列的逐步練習。 我們將回顧我們找到這些資訊的方式，並在必要時使用陣列函式來利用資訊。
 

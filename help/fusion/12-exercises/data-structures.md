@@ -1,18 +1,21 @@
 ---
 title: 資料結構
 description: 將資料從源檔案轉換為目標檔案。 （應介於60到160個字元之間，但為58個字元）
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11054
 thumbnail: KT11054.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '1048'
 ht-degree: 0%
 
 ---
-
 
 # 資料結構
 

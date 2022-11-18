@@ -1,5 +1,5 @@
 ---
-title: 如何將文檔轉換為校樣
+title: 將文檔轉換為校樣
 description: 了解如何產生已存在的檔案校樣 [!DNL  Workfront]、新增工作流程至校樣，以及在建立校樣後新增或編輯工作流程。
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335134.png
 kt: 8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---

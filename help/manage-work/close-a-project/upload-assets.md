@@ -1,6 +1,8 @@
 ---
 title: 上傳資產
 description: 在關閉專案前，先將檔案、校樣和其他資產上傳至專案，以確保所有相關資料都與專案相關聯。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: upload-assets.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

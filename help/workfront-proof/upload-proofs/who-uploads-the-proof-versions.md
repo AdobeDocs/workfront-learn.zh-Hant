@@ -1,6 +1,8 @@
 ---
 title: 誰上傳校樣版本？
 description: 負責在 [!DNL  Workfront] 可能有所不同。 了解常見的使用案例，以找出貴組織的理想設定。
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,7 +10,7 @@ level: Beginner
 thumbnail: who-uploads-proofs.png
 kt: 10162
 exl-id: e49ce586-ff9e-459c-967f-f974791612cb
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
