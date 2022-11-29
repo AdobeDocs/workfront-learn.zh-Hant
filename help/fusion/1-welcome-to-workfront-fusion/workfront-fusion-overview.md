@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 每個Workfront Fusion小節都包含多個教學課程，每個教學課程都會呈現您在前往下一個教學課程之前需要了解的概念。 逐步練習可協助您掌握大部分概念。
 
-影片會逐步示範如何完成每個練習，進而建立新的Workfront Fusion案例。 接著，您可以在自己的Workfront Fusion環境中完成本練習，並新增至您自己的案例集合。 此 **Adobe Workfront融合活動手冊** 包含完成逐步說明的逐步指示。
+影片會示範如何完成每個逐步練習，這通常會導致建立新的Workfront Fusion案例。 接著，您可以在自己的Workfront Fusion環境中完成本練習，並新增至您自己的案例集合。
 
-在某些教學課程中，您將從頭開始建立新案例。 在其他章節中，您會先製作先前建立之案例的復本。
+在某些教學課程中，您將從頭開始建立新案例。 在其他教學課程中，您會先製作先前建立之案例的復本。
 
 >[!IMPORTANT]
 >
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ### 存取Workfront Fusion以利實踐
 
-Workfront不提供Workfront Fusion測試硬碟。 若要在您完成學習路徑時加以實務，請向貴組織的Workfront Fusion管理員要求存取Workfront Fusion 。
+Workfront不提供Workfront Fusion測試硬碟。 若要在您完成教學課程時加以實務，請向貴組織的Workfront Fusion管理員要求存取Workfront Fusion。
 
 ### 完成逐步說明練習的逐步指示
 

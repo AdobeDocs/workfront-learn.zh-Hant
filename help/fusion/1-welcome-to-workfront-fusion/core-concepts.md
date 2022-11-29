@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 許多Workfront Fusion使用者都在思考使用的所有系統，最後問，「Workfront Fusion是否有連接____軟體？」 （為您使用的系統填入空白。）
 
-要判斷Workfront Fusion是否有預先建立的連接器，最簡單的方式是使用新增應用程式功能，並依名稱搜尋應用程式。 您也可以檢查 **應用程式及其模組** 有關Experience League的文章，以獲取Workfront Fusion可連接的應用程式清單。
+要判斷Workfront Fusion是否有預先建立的連接器，最簡單的方式是使用新增應用程式功能，並依名稱搜尋應用程式。 您也可以檢查 [應用程式及其模組](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) 有關Experience League的文章，以獲取Workfront Fusion可連接的應用程式清單。
 
 連接器不僅限於本文中的應用程式。 如果您要使用的應用程式沒有預先建立的連接器，您可以使用這些模組直接連線至Web服務：
 
