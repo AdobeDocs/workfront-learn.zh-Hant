@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -44,3 +44,18 @@ Workfront不提供Workfront Fusion測試硬碟。 若要在您完成教學課程
 
 完成逐步練習的逐步指示。 您可以從左側導覽列的「融合>練習」下存取這些內容，或使用逐步教學課程底部的連結。
 
+### 選用實務練習
+
+一些逐步練習後會提供實務練習和挑戰。
+
+解決練習的方法有很多種。 其目的是要挑戰您，讓您在沒有步驟可遵循或「正確答案」的情況下，嘗試達成藍本目標，因為這是您在公司建立藍本時需要做的事情。
+
+練習與逐步練習有關。
+
+挑戰在於那些想嘗試一些與他們學到的其他概念有關的東西的人。
+
+### 如何取得協助
+
+提供逐步指示以協助您完成逐步練習。
+
+此外， [Workfront Fusion 2.0社區](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) 您可以在此張貼問題。

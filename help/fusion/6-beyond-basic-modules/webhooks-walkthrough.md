@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Workfront建議您先觀看練習逐步影片，然後再嘗試在自己的環�
 
 >[!NOTE]
 >
->練習是可選的，不必完成融合培訓。
+>實踐練習和挑戰是可選的，不是完成融合培訓的必要條件。
 
 本練習以您在逐步說明中學到的內容為基礎，但並未提供解決方案。
 
