@@ -9,58 +9,69 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
 # 關於計算欄位運算式的須知事項
 
-以下是使用中的自訂計算欄位時，最好知道的概念清單 [!DNL Workfront].
+以下是使用Workfront中的自訂計算欄位時最熟悉的概念清單。
 
-## 運算式名稱中大小寫不重要
+## 表達式名稱中的大小寫事項
 
-若是運算式名稱，大小寫並不重要。 您可以使用大寫、小寫或兩者的組合。 使用表達式ISBLANK(Description)，可以按如下方式寫出&quot;ISBLANK&quot;:
+當涉及到表達式名稱時，大小寫很重要。 起初撰寫運算式名稱時，您可以使用大寫、小寫或兩者的組合。
 
-* ISBLANK
-* Isblank
-* IsBlank
-* isBLANK
+![運算式名稱中沒有大寫的錯誤訊息](assets/ttk-casingmatters01.png)
 
-所有的都能行。
+但是，必須將表達式寫成所有大寫字母，系統才能識別表達式並保存欄位。
+
+
 
 ## 小時數以分鐘為單位儲存
 
-小時數 [!DNL Workfront’s] 資料庫以分鐘為單位儲存。 如果您參考「計畫小時數」或「實際小時數」欄位，請除以60以小時而非分鐘顯示時間。
+Workfront資料庫中的小時數以分鐘為單位儲存。 如果您參考「計畫小時數」或「實際小時數」欄位，請除以60以小時而非分鐘顯示時間。
 
 ## 間距不影響表達式
 
 建議使用寫入運算式的方式，是在每個運算式之間間隔很小到沒有。
 
-* IF(ISBLANK(Description),&quot;No Description&quot;,&quot;Has Description&quot;)
+* IF(ISBLANK({description}),&quot;No Description&quot;,&quot;Has Description&quot;)
+
+![欄位之間不帶間距的運算式](assets/spacing01.png)
 
 不過，如果間距有助於您了解目前的情況，則可在運算式中新增一些間距。 額外空格不應阻止運算式收集或計算 [!DNL Workfront].
 
-* IF(ISBLANK（說明）、「No Description」、「Has Description」)
+* IF(ISBLANK({description}), &quot;No Description&quot; , &quot;Has Description&quot;)
+
+![欄位間距的運算式](assets/spacing02.png)
+
+只有欄位和大括弧不能包含空格。 否則，您會收到錯誤訊息，且無法儲存欄位或自訂表單。
+
+![欄位名稱與大括弧之間的間距錯誤](assets/spacing03.png)
 
 ## 引號必須是直的
 
 在運算式中使用引號時，請確定引號為直(&quot;)。 如果引號是彎曲的(&quot;)，則 [!DNL Workfront] 系統將繼續顯示「自訂運算式無效」訊息。
 
+![曲線引號錯誤](assets/curvedquotes01.png)
+
 ## 表單儲存和物件編輯時更新計算
 
 這是計算欄位中需了解的重要方面。
 
-除非重新計算自訂表單，否則計算欄位中顯示的資訊將保持不變並過時。 可使用對象的「更多」(More)菜單中的「重新計算表達式」(Recalculate Expressions)選項刷新表達式。
+除非重新計算自訂表單，否則計算欄位中顯示的資訊將保持不變並過時。
+
+可使用對象的「更多」(More)菜單中的「重新計算表達式」(Recalculate Expressions)選項刷新表達式。
 
 您想要查看問題已開啟的天數。 使用表達式DATEDIFF建立名為「Days Open」的計算欄位。
 
 * 欄位名稱=開啟天數
-* 表達式= DATEDIFF（條目日期，$$TODAY）
+* 表達式= DATEDIFF({entryDate},$$TODAY)
 
-儲存後，首次建立問題或在中輸入的間隔天數 [!DNL Workfront]，則和今天的日期可顯示在物件的詳細資訊頁面或報表檢視中。
+儲存後，在Workfront中首次建立或輸入問題的間隔天數，以及今天的日期，可顯示在物件的詳細資訊頁面或報表檢視中。
 
 在隔天檢視相同的詳細資料頁面或報表檢視時，您預期該數字會增加一。 如果今天是5，明天應該是6。 第二天應該是7，然後是8等。
 
@@ -72,6 +83,8 @@ ht-degree: 0%
 * 按一下「更多」功能表。
 * 從清單中選擇「重新計算表達式」。
 
+![對象中的重新計算表達式選項](assets/recalculate01.png)
+
 您也可以使用清單或報表中的「大量編輯」功能，同時重新計算多個運算式。 假設您建立了一個報表，其中顯示「未結天數」計算出現在欄中的問題清單。 如果要一次重新計算所有問題：
 
 * 選取報表中的所有問題。
@@ -79,6 +92,8 @@ ht-degree: 0%
 * 按一下左側的自訂Forms標籤，向下捲動至自訂表單區段。
 * 勾選「自訂Forms」區段底部的「重新計算自訂運算式」方塊。
 * 按一下「儲存變更」 。
+
+![重新計算多個對象的表達式選項](assets/recalculate02.png)
 
 螢幕會重新整理，在計算欄位中顯示更新的資訊。
 
@@ -94,7 +109,7 @@ ht-degree: 0%
 
 例如，您已建立「完成天數」計算欄位，以判斷完成專案中的工作所花的時間。
 
-* WEEKDAYDIFF（實際開始日期，實際完成日期）
+* WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
 要對迭代執行相同操作。 您可以使用相同的運算式；但是，任務對象的可用欄位不一定可用於迭代對象。 So [!DNL Workfront] 讓您有機會使用正確的物件欄位來建立計算。
 
