@@ -1,46 +1,46 @@
 ---
-source-git-commit: 898dba1bb96707ecb3401f6fdb261f3cd74f3e4a
+source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 21%
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
-# 貢獻
+# 參與
 
-感謝您選擇貢獻！
+感謝您選擇共襄盛舉！
 
-為本專案貢獻內容時，請遵循下列准則。
+參與本專案須遵循以下準則。
 
-## 行為准則
+## 行為準則
 
-此專案遵守 Adobe [行為準則](code-of-conduct.md)。凡是參與本專案，就必須遵守此準則。請向以下人員舉報不可接受的行為
-[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
+此專案遵守 Adobe [行為準則](code-of-conduct.md)。凡是參與本專案，就必須遵守此準則。若發現不允許的行為，請向 
+[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com) 回報。
 
-## 貢獻者指南檔案
+## 投稿人指南檔案
 
-請參閱 [貢獻者指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+請參閱[投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)。
 
 ## 有問題嗎？
 
-從提出問題開始。 本專案的現有提交者會致力在專案方向上達成共識，並在問題討論串中（如適用）發佈解決方案。
+請提出您的問題。本專案現有的認可者會在問題討論串內匯整意見，達成共識後會提出專案方向和問題解決方案 (如適用)。
 
-## 貢獻者授權合約
+## 參與者授權合約
 
-本專案的所有第三方貢獻者均須簽署貢獻者授權合約。 這可授予 Adobe 在專案中重新使用您稿件的權限。[簽署我們的CLA](http://opensource.adobe.com/cla.html). 您只需提交AdobeCLA一次，因此如果您先前已提交過，便可立即開始投稿！
+本專案的所有第三方參與者都必須簽署參與者授權合約。這可授予 Adobe 在專案中重新使用您稿件的權限。[請簽署我們的 CLA](http://opensource.adobe.com/cla.html)。Adobe CLA 只需提交一次，若您先前已簽署過 CLA，便可立即開始！
 
-## 程式碼審核
+## 準則審核
 
-所有提交作業均應以提取請求的形式提出，且須通過專案提交者審核。閱讀 [GitHub 的提取請求文件](https://help.github.com/articles/about-pull-requests/)以了解傳送提取請求的詳細資訊。
+所有提交作業均應以提取請求的形式提出，且須透過專案提交者審核。閱讀 [GitHub 的提取請求檔案](https://help.github.com/articles/about-pull-requests/)以了解傳送提取請求的詳細資訊。
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## 從貢獻者晉升提交者
+## 從參與者晉升為認可者
 
-我們熱愛來自社群的貢獻！ 若您想超越貢獻者，成為具有完整寫入存取權和專案發言權的提交者，您必須獲邀加入專案。 現有提交者採用內部提名程式，在發出邀請前，必須達成懶人共識（沈默表示同意）。 如果您覺得自己符合資格且想進一步參與，歡迎與現有提交者聯絡，與他們討論。
+我們熱烈歡迎社群成員共襄盛舉！若您想更進一步參與，須先受邀加入專案，才能以認可者的身分擁有完整寫入權限，並在專案中擁有決策權。現有的認可者會透過內部提名程序提名人選，且須在沒人提出異議的情況下達成共識 (沉默即為同意)，才會送出邀請。若您認為自己符合資格，想更深入參與專案事務，歡迎連絡現有的認可者，與對方討論相關事宜。
 
-## 安全性問題
+## 安全問題
 
-不應在此問題追蹤器上回報安全性問題。 相反， [向我們的安全專家提出問題](https://helpx.adobe.com/security/alertus.html)
+資訊安全方面的問題不應透過此問題追蹤器回報。請[向我們的安全專首頁提出問題](https://helpx.adobe.com/security/alertus.html)
