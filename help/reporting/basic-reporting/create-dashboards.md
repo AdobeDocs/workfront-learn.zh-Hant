@@ -1,6 +1,6 @@
 ---
 title: 建立控制面板
-description: 了解如何在Workfront中將各種清單報表、圖表、日曆和外部網頁結合到控制面板中。
+description: 了解如何將各種清單報告、圖表、行事曆和外部網頁結合在 Workfront 的儀表板中。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

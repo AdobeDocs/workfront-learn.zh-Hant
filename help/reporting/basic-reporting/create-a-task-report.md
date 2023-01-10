@@ -1,6 +1,6 @@
 ---
 title: 建立任務報告
-description: 了解如何使用複雜篩選器建立任務報表，以及尋找您在Workfront中建立的報表。 活動 — 建立附註報表，並附上提示。
+description: 了解如何使用複雜的篩選器建立任務報告，並在 Workfront 中找到您所建立的報告。活動 - 建立帶有提示的筆記報告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
