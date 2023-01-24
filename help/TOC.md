@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
+source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
 workflow-type: tm+mt
-source-wordcount: '2379'
+source-wordcount: '2385'
 ht-degree: 2%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 2%
       + [指派及管理版面範本的存取權](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [使用版面範本自訂物件區域](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [使用版面範本自訂專案詳細資訊](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
+      + [使用版面範本自訂專案標題](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
       + [使用版面範本自訂報表清單](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
    + 電子郵件和應用程式內通知 {#email-and-in-app-notifications}
       + [管理應用程式內和電子郵件通知](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
@@ -587,7 +588,7 @@ ht-degree: 2%
    + 看板 {#kanban}
       + [建立看板小組](agile/create-a-kanban-team.md)
       + [以看板小組的形式管理工作](agile/manage-work-kanban-team.md)
-   + 展示板  {#boards}
+   + 板  {#boards}
       + [查找和建立基本展示板](boards/find-and-create-a-basic-board.md)
       + [管理展示板欄](boards/manage-board-columns.md)
       + [將資訊卡新增至展示板](boards/add-cards-to-a-board.md)
