@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
+source-git-commit: 5665cdab87bf09dc9fde94137481fba4d9764cf4
 workflow-type: tm+mt
-source-wordcount: '2385'
+source-wordcount: '2378'
 ht-degree: 2%
 
 ---
@@ -330,8 +330,7 @@ ht-degree: 2%
 
 + 整合 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [使用Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
-      + [使用Workfront for Adobe Creative Cloud上傳校樣](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
+      + [使用Adobe Workfront擴充功能進行Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [正在設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [對應中繼資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
@@ -588,7 +587,7 @@ ht-degree: 2%
    + 看板 {#kanban}
       + [建立看板小組](agile/create-a-kanban-team.md)
       + [以看板小組的形式管理工作](agile/manage-work-kanban-team.md)
-   + 板  {#boards}
+   + 展示板  {#boards}
       + [查找和建立基本展示板](boards/find-and-create-a-basic-board.md)
       + [管理展示板欄](boards/manage-board-columns.md)
       + [將資訊卡新增至展示板](boards/add-cards-to-a-board.md)
