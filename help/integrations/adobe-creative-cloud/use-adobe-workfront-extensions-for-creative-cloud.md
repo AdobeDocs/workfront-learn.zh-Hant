@@ -8,16 +8,23 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: null
-source-git-commit: 2676209549c4805d372eacaf62daef2cd2481c11
+source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # 使用Adobe Workfront擴充功能進行Creative Cloud
 
-在Adobe Workfront中尋找並更新指派給您的工作，而不需離開下列Adobe Creative Cloud應用程式 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects。
+在Adobe Workfront中尋找並更新指派給您的工作，而不需離開下列Adobe Creative Cloud應用程式：
+
+* Photoshop
+* XD
+* InDesign
+* Illustrator
+* Premiere Pro
+* After Effects
 
 您必須為您使用的Adobe Creative Cloud應用程式安裝正確的外掛程式：
 
@@ -27,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->請注意， **Premiere Pro** 和 **After Effects** 目前無法透過外掛程式，在Workfront中上傳和檢閱及核准影片。
+>**Premiere Pro** 和 **After Effects** 目前無法透過外掛程式，在Workfront中上傳影片以及檢閱和核准。
 
 
 在此影片中，您將學習如何從Creative Cloud應用程式中執行下列作業：
