@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe Workfront擴充功能進行Creative Cloud
+title: 使用Adobe Workfront外掛程式進行Creative Cloud
 description: 在Adobe Workfront中尋找並更新指派給您的工作，而不需離開下列Adobe Creative Cloud應用程式 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects
 activity: use
 feature: Workfront Integrations and Apps
@@ -7,15 +7,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
+kt: 8811
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# 使用Adobe Workfront擴充功能進行Creative Cloud
+# 使用Adobe Workfront外掛程式進行Creative Cloud
 
 在Adobe Workfront中尋找並更新指派給您的工作，而不需離開下列Adobe Creative Cloud應用程式：
 
@@ -41,8 +41,10 @@ ht-degree: 0%
 
 * 查找Workfront分配
 * 上傳檔案至Workfront
+* 添加註釋和標籤團隊成員
 * 請求文檔批准
 * 上傳校樣並指派校對工作流程
+* 記錄時間
 * 標籤您的工作完成
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
