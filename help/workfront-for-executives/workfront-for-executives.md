@@ -12,7 +12,8 @@ hide: true
 hidefromtoc: true
 kt: null
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
-source-git-commit: cec56c154fd578d6c3d8177073546d8b024b078d
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 1%
@@ -23,13 +24,13 @@ ht-degree: 1%
 
 ## 報告和儀表板
 
-### 報表
+### 報告
 
 Workfront中的報表是做出更佳決策、更快速的骨幹。 您可以在專案區域、人員區域或任務登陸頁面中，隨處看到這些區段。
 
 領導者和執行官可導覽至報表區域，以檢視包含特定資訊的自訂報表。 為了提高最重要報表的可見度，Workfront使用控制面板。
 
-### 儀錶板
+### 儀表板
 
 通過使用控制面板，領導者可以查看並快速深入到其組織當前正在處理的任何部分。控制面板只是提供資訊領導者可能需要定期查看的報告的集合。 控制面板可完全自訂，讓使用Workfront的任何人都能查看對他們而言重要的工作。
 
