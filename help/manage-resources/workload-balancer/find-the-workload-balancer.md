@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+source-git-commit: 5be1b743256cbabbf7e44bea0437e96b6094d170
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,13 @@ ht-degree: 0%
 
 其目的是讓您更深入了解和管理您所管理人員的日常和每週工作負載。 這可協助您根據角色和可用性，在多個專案間進行更佳的指派。
 
-![資源主菜單選項](assets/Find_01.png)
+![在主功能表中進行資源配置](assets/Find_01.png)
 
 * 按一下 [!UICONTROL 資源] 在 [!UICONTROL 主菜單].
 * 前往 [!UICONTROL 排程] 節。
-* 按一下 [!UICONTROL &quot;切換到工作負載平衡器&quot;] 連結。
+* 按一下 [!UICONTROL &quot;工作負載平衡器&quot;] 區段。
 
-![切換到工作負載平衡器](assets/Find_02.png)
-
-此 [!DNL Workload Balancer] 是前往Workfront工具的「資源管理」區域時的預設選項。
+![工作負載平衡器節](assets/Find_02.png)
 
 ## 工作負載平衡器中的區域
 
