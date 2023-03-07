@@ -2,7 +2,7 @@
 title: WorkfrontTutorials
 description: 訓練影片和文章的資料庫，旨在協助您更清楚了解Workfront功能和設定。  其中包含最佳實務、策劃的練習和其他資源，可協助您和您的組織成功使用Workfront。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: f31f45b9f020e761a09fdd9adbb407f440505538
+source-git-commit: 59074bd3a448ad6d564f59599b8f57efc28982d1
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -45,7 +45,7 @@ See other user landing pages to get ideas.
 
 ## 員工精選
 
-<table>
+<table style="margin-top: 0 !important">
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
@@ -53,11 +53,9 @@ See other user landing pages to get ideas.
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>尋找和建立版面範本</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         了解如何建立基本版面範本。
+         <em>了解如何建立基本版面範本。</em>
       </p>
     </td>
    <td>
@@ -66,11 +64,9 @@ See other user landing pages to get ideas.
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>提出請求</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-      <br/>
-         了解如何提出、檢視和編輯請求。
+         <em>了解如何提出、檢視和編輯請求。</em>
       </p>
 
 <td>
@@ -79,11 +75,9 @@ See other user landing pages to get ideas.
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>建立簡單報表</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         了解如何建立簡單的自訂報表。
+         <em>了解如何建立簡單的自訂報表。</em>
       </p>
     </td>
   </tr>
