@@ -1,6 +1,7 @@
 ---
 title: 管理應用程式內和電子郵件事件通知
-description: 了解使用者如何控制他們收到的應用程式內通知和電子郵件通知，以便收到與其工作相關、有用的電子郵件。
+description: 了解使用者如何控制他們收到的應用程式內和電子郵件通知，以獲得與其工作相關的實用電子郵件。
+short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,10 +11,10 @@ level: Beginner
 thumbnail: 10095.jpeg
 kt: 10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
-source-wordcount: '617'
-ht-degree: 9%
+source-wordcount: '616'
+ht-degree: 8%
 
 ---
 
@@ -85,12 +86,12 @@ Workfront可傳送給使用者的通知類型有數種。 其中有些通知是�
 * [!UICONTROL 我的其中一項任務的前置任務已完成]
 * [!UICONTROL 有人將我加入定向更新]
 * [!UICONTROL 有人對我的工作項目發表評論]
-* [!UICONTROL 分配給我的任務的到期日更改]
+* [!UICONTROL 在指派給我的一項任務上變更了到期日期]
 
 
 專為項目經理：
 
-* [!UICONTROL 我正在做的一個項目]
+* [!UICONTROL 我所在的一個專案變為使用中專案]
 * [!UICONTROL 我持有的專案落後]
 * [!UICONTROL 向我持有的專案新增了一個問題]
 * [!UICONTROL 在我擁有的項目上已完成里程碑任務]
