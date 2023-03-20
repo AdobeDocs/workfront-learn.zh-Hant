@@ -1,5 +1,5 @@
 ---
-title: 使用許可證、訪問級別和作業角色設定用戶
+title: 使用許可證和訪問級別設定用戶
 description: 了解許可證和訪問級別如何控制用戶擁有的訪問權限。 了解作業角色在系統中的使用方式。
 feature: System Setup and Administration
 activity: deploy
@@ -10,24 +10,20 @@ level: Beginner
 thumbnail: 335066.jpeg
 kt: 8754
 exl-id: 49cb518a-f3ae-4fdd-b617-2c19006c7552
+last-substantial-update: 2023-03-20T00:00:00Z
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 226b5c2123b9f05a5d4ab8bbf73591be66c808a0
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 2%
+source-wordcount: '58'
+ht-degree: 0%
 
 ---
 
 # 使用許可證、訪問級別和作業角色設定用戶
 
-在此影片中，您將了解：
+在此影片中，您將學習：
 
-* 授權
-* 存取層級
-* 工作角色
+* 哪些許可證和訪問級別
+* 如何建立和管理訪問級別
 
 >[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12)
-
-在許多情況下，產品組合和方案由不同的人擁有，並且管理方式不同。 因此， [!DNL Workfront] 區隔了產品組合和方案權限控制項，讓系統管理員能更輕鬆地設定Workfront，以了解您的使用者和組織如何運作。
-
-![[!UICONTROL Portfolio] 和 [!UICONTROL 方案] 突出顯示的設定 [!UICONTROL 新訪問級別] 視窗](assets/admin-fund-access-levels.png)
