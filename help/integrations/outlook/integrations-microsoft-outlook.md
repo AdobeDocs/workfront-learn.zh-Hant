@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: e902bae4c4dae0c7800d1a97c1835eff3bb6d924
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12)
 
+>[!IMPORTANT]
+>
+>如果您找不到影片中所述的Workfront增益集，則您的IT部門可能需要先完成一些設定工作。 如需詳細指示，請參閱 [設定Adobe Workfront for Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
 
 ## 將Microsoft Outlook日曆與 [!DNL Workfront] 首頁日曆
 
