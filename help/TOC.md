@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
+source-git-commit: 8c00be25fc5ce3d7d8a25476e6f52cb40c758673
 workflow-type: tm+mt
-source-wordcount: '2380'
+source-wordcount: '2345'
 ht-degree: 2%
 
 ---
@@ -297,7 +297,7 @@ ht-degree: 2%
       + [圍繞企業和組織目標進行協作](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [根據您的策略調整組和團隊](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
    + 建立您的目標 {#create-goals}
-      + [了解如何使用 [!UICONTROL Workfront目標]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
+      + [[!UICONTROL Workfront目標] 概述](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [設定 [!UICONTROL Workfront目標] 針對您的組織](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [將目標存取權授予所選使用者](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [為建立版面範本 [!UICONTROL Workfront目標] 使用者](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
@@ -311,18 +311,12 @@ ht-degree: 2%
    + 管理您的目標 {#manage-goals}
       + [協調您的目標](workfront-goals/manage-your-goals/align-your-goals.md)
       + [刪除目標對齊](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [將活動轉換為已對齊的目標](workfront-goals/manage-your-goals/convert-an-activity-to-an-aligned-goal.md)
-      + [定性更新](workfront-goals/manage-your-goals/make-a-qualitative-update.md)
       + [進行數量更新](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
-      + [手動將目標連結到彼此](workfront-goals/manage-your-goals/manually-connect-goals-to-one-another.md)
-      + [使用追蹤和更新目標 [!UICONTROL 登入]](workfront-goals/manage-your-goals/track-and-update-goals-using-check-ins.md)
       + [完成後關閉目標](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + 監視您的目標 {#monitor-goals}
       + [了解圖表區段](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
-      + [檢視個別目標更新](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
       + [計算目標進度](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [傳達目標狀態](workfront-goals/monitor-your-goals/communicate-goal-status.md)
-      + [導覽 [!UICONTROL 脈衝] 更新資料流](workfront-goals/monitor-your-goals/navigate-the-pulse-update-stream.md)
 
 
 
