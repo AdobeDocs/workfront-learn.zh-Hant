@@ -1,6 +1,6 @@
 ---
 title: 管理應用程式內和電子郵件事件通知
-description: 了解使用者如何控制他們收到的應用程式內和電子郵件通知，以獲得與其工作相關的實用電子郵件。
+description: 了解使用者如何控制他們收到的應用程式內通知和電子郵件通知，以便收到與其工作相關、有用的電子郵件。
 short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
@@ -14,7 +14,7 @@ exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
 source-wordcount: '616'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
@@ -79,7 +79,7 @@ Workfront可傳送給使用者的通知類型有數種。 其中有些通知是�
 
 ## Recommendations
 
-有幾項通知顯示 [!DNL Workfront] 建議您保留為已勾選狀態，無論是即時電子郵件或每日摘要。
+有幾項通知顯示 [!DNL Workfront] 建議您保持選中狀態，無論是即時電子郵件還是每日摘要。
 
 對於大多數用戶：
 
