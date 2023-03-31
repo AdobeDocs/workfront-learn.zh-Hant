@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
+source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![的影像 [!UICONTROL 目標詳細資料] 面板 [!DNL Workfront Goals] 和 [!UICONTROL 複製] 選項](assets/03-workfront-goals-copy-a-goal.png)
 
-1. 按一下 **[!UICONTROL 啟動]**，目標狀態會更新為「作用中」。 目標必須有相關聯的活動或結果，才能「啟動」。
+1. 按一下3點圖示，然後選取  **[!UICONTROL 啟動]**，目標狀態會更新為「作用中」。 目標必須有相關聯的活動或結果，才能「啟動」。
 
 如果您複製了上一個時段內未完成的目標，並想在以下時段內繼續執行，請執行下列操作：
 
