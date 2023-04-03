@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,10 @@ ht-degree: 0%
 1. 按一下 [!UICONTROL 儲存變更].
 
 將目標與另一個目標對齊會建立子目標。 將子項目標視為有助於組織或團隊父項目標進展的個別目標。 子目標可啟動並影響父目標的進度。
+
+## 現在啟動父目標
+
+現在您已建立子目標，它就會變成父目標的進度指標。 按一下上層目標名稱旁的三個點功能表時，您會看到「啟動」選項。
+
+![螢幕擷圖顯示如何啟動父目標。](assets/activate-the-parent-goal.png)
+

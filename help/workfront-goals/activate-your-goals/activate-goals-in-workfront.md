@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![草稿狀態中Workfront目標中目標的螢幕擷圖](assets/04-workfront-goals-activate-goals.png)
 
-## 進度指標啟動目標
+## 需要進度指標來啟動目標
 
 在繼續前進之前，必須了解 [!DNL Workfront Goals]. 進度指標是 [!DNL Goals] 用於計算目標的進度。 進度指標是一致的目標、結果、活動和項目。 你稍後會更詳細地了解這些。 目前，必須了解必須將一致的目標、結果、活動和專案新增至目標，才能啟用目標。
 
@@ -32,3 +32,8 @@ ht-degree: 0%
 
 與其他進展指標相比，項目有點獨特，因為它們被視為一種活動。 活動可區分為兩種類型：手動進度條和項目。 因此，項目也會推動進度。 儘管所有類型的進度指標都可與父目標相連，但必須記住，在管理這些指標的方式上存在差異。
 
+## 現在啟動目標
+
+當目標上至少有一個進度指標時，當您按一下目標名稱旁的三個點功能表時，就會看到「啟動」選項。
+
+![螢幕擷圖顯示如何啟用目標。](assets/activate-a-goal-with-a-result.png)
