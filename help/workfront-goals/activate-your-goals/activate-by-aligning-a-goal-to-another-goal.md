@@ -9,24 +9,26 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 1%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
 # 將目標與 [!DNL Workfront Goals]
 
-1. 尋找要對齊的目標，然後按一下其名稱以開啟 [!UICONTROL 目標詳細資料] 中。
-1. 按一下 [!UICONTROL 與另一個目標一致] 在面板的右上角。
+當您協調兩個目標時，一個將成為父目標，而另一個將成為子目標。 父目標可以有多個子目標，但子目標只能與一個父目標一致。
 
-   ![螢幕擷圖 [!UICONTROL 目標詳細資料] 面板 [!UICONTROL 與另一個目標一致]](assets/06-workfront-goals-align-goals.png)
+1. 按一下子目標的名稱，以開啟子目標。 [!UICONTROL 目標清單]. 依預設，您會發現自己位於 [!UICONTROL 目標詳細資料] 標籤。
+1. 按一下 [!UICONTROL +添加] 按鈕 [!UICONTROL 上層目標資訊] 中。
 
-1. 開始在 [!UICONTROL 與另一個目標一致] 欄位，然後在清單中出現時選取它。 清單中只會顯示同一期間或未來期間的目標。
+   ![螢幕擷圖 [!UICONTROL 目標詳細資料] 標籤](assets/06-workfront-goals-align-goals.png)
 
-   ![螢幕擷圖 [!UICONTROL 目標詳細資料] 顯示 [!UICONTROL 對齊] 節](assets/07-workfront-goals-align-to.png)
+1. 開始在 [!UICONTROL 上層目標] 欄位，然後在清單中出現時選取它。 清單中只會顯示同一期間或未來期間的目標。
 
-1. 按一下[!UICONTROL 儲存]。
+   ![螢幕擷圖 [!UICONTROL 目標詳細資料] 顯示 [!UICONTROL 上層目標資訊] 面板](assets/07-workfront-goals-align-to.png)
+
+1. 按一下 [!UICONTROL 儲存變更].
 
 將目標與另一個目標對齊會建立子目標。 將子項目標視為有助於組織或團隊父項目標進展的個別目標。 子目標可啟動並影響父目標的進度。

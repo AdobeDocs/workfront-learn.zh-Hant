@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8c00be25fc5ce3d7d8a25476e6f52cb40c758673
+source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
 workflow-type: tm+mt
-source-wordcount: '2345'
+source-wordcount: '2341'
 ht-degree: 2%
 
 ---
@@ -302,7 +302,6 @@ ht-degree: 2%
       + [將目標存取權授予所選使用者](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [為建立版面範本 [!UICONTROL Workfront目標] 使用者](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [建立目標](workfront-goals/create-your-goals/create-goals-in-workfront.md)
-      + [複製現有目標](workfront-goals/create-your-goals/copy-an-existing-goal.md)
    + 啟用您的目標 {#activate-goals}
       + [啟動目標](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [通過將目標與另一個目標對齊來激活](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
