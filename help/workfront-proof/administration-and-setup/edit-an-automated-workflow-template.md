@@ -11,7 +11,7 @@ thumbnail: 335131.png
 kt: 8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Lean More URLs
 
 此影片簡短示範您可在 [!UICONTROL 工作流程] 的上界。 請參閱此視頻下的項目符號清單，該清單會查看這些設定。 此視頻沒有音頻。
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
 
 以下是您可在 [!UICONTROL 工作流程] 小節：
 

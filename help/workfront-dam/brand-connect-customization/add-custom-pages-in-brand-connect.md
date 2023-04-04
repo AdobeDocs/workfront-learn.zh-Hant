@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8981
 exl-id: e6dc7c1d-200c-4cea-8dd1-bdc86ff96d25
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 * 建立自訂Brand Connect頁面
 * 自訂導覽列中的選項
 
->[!VIDEO](https://video.tv.adobe.com/v/335243/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335243/?quality=12&learn=on)

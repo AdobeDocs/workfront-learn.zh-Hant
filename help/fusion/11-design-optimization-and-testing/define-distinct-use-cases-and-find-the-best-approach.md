@@ -10,7 +10,7 @@ level: Beginner
 kt: 9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 * 為高效能確定正確的設計
 * 挑戰假設，向利益相關方提供最佳建議
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on)
 
 ## 想要進一步了解嗎？ 我們建議下列項目：
 

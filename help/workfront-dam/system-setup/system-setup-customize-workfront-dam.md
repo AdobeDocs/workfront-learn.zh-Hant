@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -29,4 +29,4 @@ ht-degree: 0%
 * 控制應用程式內通知
 * 設定和維護計畫 [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on)

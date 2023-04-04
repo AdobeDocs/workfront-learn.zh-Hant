@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -25,6 +25,6 @@ ht-degree: 0%
 * 系統和群組管理員如何授予 [!UICONTROL Analytics] 在 [!UICONTROL 全新Workfront體驗]
 * 系統和群組管理員如何授予 [!UICONTROL Analytics] in [!UICONTROL Workfront Classic]
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
 擁有Workfront授權的任何人([!UICONTROL 工作], [!UICONTROL 計畫]，或 [!UICONTROL Collaborator] in [!UICONTROL Workfront業務] 計畫或更高版本)可以 [!UICONTROL Analytics] 將其新增至版面範本後，就會指派這些範本。 不過，只有在Workfront存取層級允許的情況下，您才會看到專案和使用者資訊，以及特定專案和使用者的共用權限。

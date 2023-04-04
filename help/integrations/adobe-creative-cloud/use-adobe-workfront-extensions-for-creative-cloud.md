@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8811
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -48,4 +48,4 @@ ht-degree: 0%
 * 記錄時間
 * 標籤您的工作完成
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on)

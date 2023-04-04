@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 * 存取專案量度圖表
 * 自訂圖表中的資訊
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on)
 
 您可以將整個專案量度控制面板匯出為.png檔案，並搭配 [!UICONTROL 匯出] 按鈕。 這可讓您透過電子郵件或簡報輕鬆與他人共用資料。
 

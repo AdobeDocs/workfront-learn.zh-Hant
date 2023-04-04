@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 * 監視和管理燈箱
 * 在燈箱上協作
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on)
 
 ## 燈箱與資料夾的比較
 

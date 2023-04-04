@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 * 建立和編輯群組
 * 新增和編輯使用者
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
 
 ## 群組和使用者檢閱
 

@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 * 使用現有的報表元素（篩選器、檢視和群組）來存取Workfront中追蹤的重要資訊
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on)

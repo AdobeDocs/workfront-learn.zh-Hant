@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 11201
 exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 * 有關文本模式結構的其他詳細資訊
 * 如何建立計算的自訂資料欄位和計算欄
 
->[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12&learn=on)
 
 ## 實用連結
 

@@ -10,7 +10,7 @@ level: Beginner
 kt: 9063
 exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -24,4 +24,4 @@ ht-degree: 0%
 * 預設情況下，系統會處理哪些常見錯誤類型
 * 如何使用錯誤處理模組套用自訂錯誤處理
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on)

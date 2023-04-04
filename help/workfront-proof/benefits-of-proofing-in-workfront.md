@@ -11,7 +11,7 @@ thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 * 什麼是校對？
 * 在中使用數位校對的優點 [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on)
 
 ## 校對術語
 

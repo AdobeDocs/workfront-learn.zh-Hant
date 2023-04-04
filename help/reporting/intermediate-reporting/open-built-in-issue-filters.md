@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 * 了解一些有用的問題報告元素
 * 了解如何建立自己的問題篩選
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 ## 活動：建立問題報告
 

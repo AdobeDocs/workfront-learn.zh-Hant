@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 * 選取正確的專案範本
 * 將請求轉換為專案
 
->[!VIDEO](https://video.tv.adobe.com/v/335083/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335083/?quality=12&learn=on)

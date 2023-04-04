@@ -11,7 +11,7 @@ thumbnail: 339959.png
 kt: 9506
 exl-id: f569e8a7-f26d-4a11-b602-e51cdfe97350
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -26,4 +26,4 @@ ht-degree: 0%
 * 計算編輯器的功能
 * 如何使用計算編輯器在計算欄位中建立ADDWEEKDAYS日期表達式
 
->[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on)

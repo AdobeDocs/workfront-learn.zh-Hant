@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8733
 doc-type: video
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * 如何快速了解員工投入每個專案的時間
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on)
 
 ## 檢閱專案逗留時間
 

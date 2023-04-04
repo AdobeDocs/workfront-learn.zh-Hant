@@ -11,7 +11,7 @@ thumbnail: 335162.png
 kt: 8874
 exl-id: 5a9ea239-9f20-4ccc-9fc3-8a7e21178664
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 * 如何優化資源管理工具 — 持續時間和計畫日期、計畫時數和職務職責分配
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on)

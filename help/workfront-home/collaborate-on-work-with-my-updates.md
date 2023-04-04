@@ -11,7 +11,7 @@ thumbnail: 340342.png
 kt: 9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -27,4 +27,4 @@ ht-degree: 0%
 * 使用「提及次數」區段來檢視您已納入
 * 回覆更新
 
->[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on)

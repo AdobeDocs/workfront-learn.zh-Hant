@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 * 在 [!UICONTROL 脈衝] 更新資料流
 
->[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on)
 
 ## 篩選脈衝流中的資訊
 

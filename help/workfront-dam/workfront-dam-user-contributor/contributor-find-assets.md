@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 * 查看資料夾詳細資訊
 * 檢視及更新資產中繼資料和關鍵字
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on)
 
 ## 基本搜尋條件
 

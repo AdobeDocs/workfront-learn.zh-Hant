@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 * 查看和更新Workfront工作 [!DNL Gmail]
 * 核准Workfront工作 [!DNL Gmail]
 
->[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on)

@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 * 狀態為何重要
 * 如何篩選工作清單以查看已完成的工作
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on)

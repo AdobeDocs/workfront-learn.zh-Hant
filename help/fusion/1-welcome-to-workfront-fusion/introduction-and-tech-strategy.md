@@ -10,7 +10,7 @@ level: Beginner
 kt: 8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 * 融合核心和設計器功能
 * 融合範例案例
 
->[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on)

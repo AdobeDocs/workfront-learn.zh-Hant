@@ -11,7 +11,7 @@ thumbnail: 335102.png
 kt: 8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 * 將使用者標籤在 [!DNL Workfront] 更新
 * 回覆現有更新
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)
 
 ## 在中更新工作的提示 [!UICONTROL 首頁]
 

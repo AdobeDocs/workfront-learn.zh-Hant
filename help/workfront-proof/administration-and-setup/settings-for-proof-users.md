@@ -11,7 +11,7 @@ thumbnail: 335126.png
 kt: 8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 * 在中調整校樣使用者設定 [!DNL  Workfront]
 * 在校對後端設定中調整校樣使用者設定
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on)
 
 <!--
 Lean More URLs

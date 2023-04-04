@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 4%
@@ -26,7 +26,7 @@ ht-degree: 4%
 * 如何建立和修改檢視
 * 如何與其他Workfront使用者共用檢視
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
 ## 活動：建立基本檢視
 

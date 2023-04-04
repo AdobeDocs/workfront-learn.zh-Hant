@@ -5,7 +5,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 6%
@@ -20,4 +20,4 @@ ht-degree: 6%
 * 為什麼計畫時間對您的項目很重要
 * 如何將計畫小時數添加到任務
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)

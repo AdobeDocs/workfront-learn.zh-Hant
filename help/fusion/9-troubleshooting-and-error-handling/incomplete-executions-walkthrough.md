@@ -10,7 +10,7 @@ level: Beginner
 kt: 9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 Workfront建議您先觀看練習逐步影片，然後再嘗試在自己的環境中重新建立練習。
 
->[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on)
 
 ## 想要進一步了解嗎？ 我們建議下列項目：
 

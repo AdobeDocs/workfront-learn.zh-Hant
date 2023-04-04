@@ -10,7 +10,7 @@ level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 * 構成Workfront Fusion的三個核心概念：方案、應用程式和模組
 
->[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on)
 
 ## 核心概念術語
 

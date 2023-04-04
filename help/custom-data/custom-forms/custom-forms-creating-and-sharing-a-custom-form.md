@@ -11,7 +11,7 @@ thumbnail: 335172.png
 kt: 8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 5%
@@ -27,7 +27,7 @@ ht-degree: 5%
 * 使用區段和邏輯組織欄位
 * 與其他使用者共用表單
 
->[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on)
 
 ## 自訂表單可搭配多種物件類型使用
 

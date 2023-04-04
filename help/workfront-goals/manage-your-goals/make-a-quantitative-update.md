@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 * 對進度指標（如結果、活動、一致目標等）進行定量更新或更新 來推動你的目標
 
->[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)

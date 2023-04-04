@@ -11,7 +11,7 @@ thumbnail: 335170.jpeg
 kt: 8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 * 請參閱 [!UICONTROL 依專案檢視 ]檢視
 * 了解資源資訊在此檢視中的顯示方式
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on)
 
 對於「按項目查看」選項，預設值是顯示「預算」列，該列可根據業務案例提取項目所需的估計資源數（如果已填寫）。 這也表示依預設，Net欄會使用「預算」欄的數字來告訴您還剩多少資源。
 

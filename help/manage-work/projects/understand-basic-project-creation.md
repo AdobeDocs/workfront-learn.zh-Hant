@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 22%
@@ -26,7 +26,7 @@ ht-degree: 22%
 * 中專案的定義 [!DNL Workfront]
 * 建立專案的三種最常見方式
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
 取得您的 [!DNL  Workfront] 使用專案範本，快速啟動及執行專案。 接著，請先關注以下五個欄位，以規劃您的專案：
 

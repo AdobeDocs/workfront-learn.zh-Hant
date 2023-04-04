@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8730
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 * 如何在飛行計畫圖中對項目進行細化，使「燃耗」圖和「飛行任務」圖顯示
 * 如何建立時間範圍篩選器以放大日期範圍
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on)

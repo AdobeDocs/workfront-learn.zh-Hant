@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8973
 exl-id: 7853a76c-02df-4f50-bb05-c03abfeafd05
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 * 設定關鍵字清單
 * 建立並匯入關鍵字清單
 
->[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on)
 
 ## 關鍵字最佳實務
 

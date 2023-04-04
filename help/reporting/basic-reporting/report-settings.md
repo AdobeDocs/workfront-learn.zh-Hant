@@ -11,7 +11,7 @@ thumbnail: 335159.png
 kt: 8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 * 如何存取報表設定
 * 有些常用報表設定用於
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on)

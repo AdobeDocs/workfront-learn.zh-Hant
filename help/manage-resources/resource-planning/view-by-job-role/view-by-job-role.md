@@ -11,7 +11,7 @@ thumbnail: 335169.jpeg
 kt: 8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 * 了解資源資訊在此檢視中的顯示方式
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on)
 
 對於「按作業角色查看」選項，預設值是顯示「已預算」列，該列可從業務案例中提取項目所需的估計資源數（如果已填寫）。 這也表示依預設，Net欄會使用「預算」欄的數字來告訴您還剩多少資源。
 

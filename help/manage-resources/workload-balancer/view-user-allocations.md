@@ -11,7 +11,7 @@ thumbnail: 335164.png
 kt: 8876
 exl-id: 05a10df0-9f96-4a38-b23c-c54b64231722
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 * 選取圖表模式，以取得使用者配置的高階檢視
 * 顯示使用者的每日分配劃分
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on)

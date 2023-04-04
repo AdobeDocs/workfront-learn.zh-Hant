@@ -11,7 +11,7 @@ thumbnail: review-approve-digital-work.png
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
@@ -80,7 +80,7 @@ ht-degree: 0%
 * 回覆校樣留言
 * 批准或拒絕校樣
 
->[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on)
 
 <!--
 #### Learn more

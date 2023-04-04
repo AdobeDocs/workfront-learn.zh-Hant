@@ -10,7 +10,7 @@ level: Beginner
 kt: 9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 傳送較少API呼叫
 * 使用更少模組
 
->[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on)
 
 ## 想要進一步了解嗎？ 我們建議下列項目：
 

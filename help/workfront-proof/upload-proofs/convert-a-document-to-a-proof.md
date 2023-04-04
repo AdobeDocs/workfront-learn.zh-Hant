@@ -11,7 +11,7 @@ thumbnail: 335134.png
 kt: 8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 * 產生校樣時新增工作流程
 * 建立校樣後新增或編輯工作流程
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on)
 
 
 ## 誰可以上傳檔案？

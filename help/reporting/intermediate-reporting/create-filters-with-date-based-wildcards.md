@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 * 使用萬用字元、屬性、運算子和修飾元建立自訂日期
 * 使用萬用字元建立自訂日期範圍
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 ## 活動問題
 

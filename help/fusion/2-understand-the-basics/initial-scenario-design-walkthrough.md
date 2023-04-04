@@ -10,7 +10,7 @@ level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Workfront建議您先觀看練習逐步影片，然後再嘗試在自己的環�
 * 使用方案設計器
 * 建立基本藍本
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
 
 >[!TIP]
 >

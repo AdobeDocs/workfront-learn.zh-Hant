@@ -11,7 +11,7 @@ thumbnail: 335132.png
 kt: 8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 * 新增基本校對工作流程，讓相關人員可以檢閱及核准資產
 * 設定校對審核的截止時間
 
->[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12&learn=on)
 
 ## 該你了
 
