@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2344'
 ht-degree: 2%
 
 ---
@@ -306,7 +306,7 @@ ht-degree: 2%
       + [啟動目標](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [通過將目標與另一個目標對齊來激活](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [將結果新增至目標](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
-      + [新增活動至目標](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+      + [新增活動和專案至目標](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
    + 管理您的目標 {#manage-goals}
       + [協調您的目標](workfront-goals/manage-your-goals/align-your-goals.md)
       + [刪除目標對齊](workfront-goals/manage-your-goals/remove-goal-alignment.md)

@@ -1,5 +1,5 @@
 ---
-title: 新增 [!DNL Workfront Goals] 至版面範本
+title: 為建立版面範本 [!DNL Workfront Goals] 使用者
 description: 了解如何使用 [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] 術語，以符合您的組織。
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# 使用建立版面範本 [!DNL Workfront Goals]
+# 為建立版面範本 [!DNL Workfront Goals] 使用者
 
 在 **[!UICONTROL 設定]** 區域，您也可以建立並指派版面範本，其中包含 [!DNL Workfront Goals] 以便您和您的使用者能更輕鬆存取。
 
