@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '2344'
+source-wordcount: '2346'
 ht-degree: 2%
 
 ---
@@ -310,7 +310,7 @@ ht-degree: 2%
    + 管理您的目標 {#manage-goals}
       + [協調您的目標](workfront-goals/manage-your-goals/align-your-goals.md)
       + [刪除目標對齊](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [進行數量更新](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
+      + [更新成果和活動的進展](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [完成後關閉目標](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + 監視您的目標 {#monitor-goals}
       + [了解圖表區段](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)

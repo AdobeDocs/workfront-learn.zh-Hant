@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 <!--Insert link to LP 1, above -->
 
-使用目標對齊功能：
+使用「目標對齊」部分可以：
 
 * 檢視屬於您或您的組織的目標。
 * 顯示目標層次結構並查看對齊的子目標。
-* 存取「目標詳細資料」面板並更新目標、其結果或活動。
+* 開啟目標以查看其進度指標。
 
 確保目標一致意味著從上到下的每個人都將執行推動相同計畫的工作。 視覺效果是每個最上層企業目標如何直接與部門、團隊和個人層級一致的重要部分。 通過使團隊在功能上相互協調，可以減少孤立的問題。 協調使每個人的目標更加清晰，並將組織與真正重要的事項聯繫起來。
 
@@ -49,6 +49,7 @@ ht-degree: 0%
 
 在此影片中，您將學習如何：
 
-* 導覽 [!UICONTROL 目標對齊] 頁面
+* 使用由下而上和由上而下的方法來協調目標
+* 導覽 [!UICONTROL 目標對齊] 節
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)
