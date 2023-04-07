@@ -9,21 +9,20 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 傳達目標狀態
 
-現在，您已使用 [!UICONTROL 登入]，請稍後退一步，一覽您正在執行的目標，以及這些目標與團隊、群組和公司目標的關係。 就目標的進度和狀態與他人溝通是保持一致的重要部分。
+現在，您已使用更新目標，請花點時間退後一步，以鳥瞰的方式查看您正在執行的目標，以及這些目標與團隊、團體和公司目標的關係。 就目標的進度和狀態與他人溝通是保持一致的重要部分。
 
 有多種方式可讓適當的人員更新您的目標。 您可以透過下列方式開始：
 
 * 共用和報告您的目標
-* 設定您的 [!UICONTROL 脈衝] 串流以建立和檢視個別目標更新
 * 善用 [!UICONTROL 圖表] 區段，以取得目標進度的完整快照
 
 ## 共用目標

@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,8 @@ ht-degree: 0%
 
 ![覆蓋中不同進度標籤的圖形 [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
-![目標進度百分比欄的螢幕截圖，位於 [!UICONTROL 簽入] 區段 [!DNL Workfront Goals]](assets/16-workfront-goals-progress-status-bar.png)
 
-<!-- Learn more graphic -->
+>[!TIP]
+>
+>有關用於計算目標進度的公式的詳細資訊，請瀏覽本文： [Adobe Workfront目標中的目標進度和條件概覽](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
 
-* 有關用於計算目標進度的公式的詳細資訊，請瀏覽「計算目標進度」一文，位於 [!DNL   Goals].
-
-
-<!-- need link to documentation article, above -->
