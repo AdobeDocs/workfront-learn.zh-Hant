@@ -10,16 +10,14 @@ level: Beginner
 kt: 9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # 開發工具逐步說明
-
-## 總覽
 
 安裝及使用Workfront開發工具中的不同區域，深入探討所提出的請求/回應和進階情境設計秘訣。
 

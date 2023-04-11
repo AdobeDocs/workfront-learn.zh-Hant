@@ -10,16 +10,14 @@ level: Beginner
 kt: 9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
 # 陣列逐步說明
-
-## 總覽
 
 檢閱先前使用簡單且複雜陣列的逐步練習。 我們將回顧我們找到這些資訊的方式，並在必要時使用陣列函式來利用資訊。
 

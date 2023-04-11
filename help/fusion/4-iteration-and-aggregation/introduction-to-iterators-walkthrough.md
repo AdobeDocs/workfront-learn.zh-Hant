@@ -10,16 +10,14 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # 迭代程式逐步介紹
-
-## 總覽
 
 查看Workfront中的特定專案，然後查看該專案內的所有工作。 然後，您將使用增量工具模組來計算項目內的任務數。最後，您將使用設定變數模組從未解決的問題數中減去子項數，為每個任務包生成一個數值。
 

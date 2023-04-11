@@ -10,16 +10,14 @@ level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
 # Webhook逐步說明
-
-## 總覽
 
 此情境會建立便利店應用程式，方便客戶判斷客戶是否年齡夠大，足以購買酒精。 收銀員只需將客戶的姓名和出生日期，以及經驗證的客戶代號寄至已提供的URL。 輸入後，即會觸發我們的情境，以計算適當的回應並傳回給要求者。
 
