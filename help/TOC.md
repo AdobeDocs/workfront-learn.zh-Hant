@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
+source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
 workflow-type: tm+mt
-source-wordcount: '2353'
+source-wordcount: '2360'
 ht-degree: 2%
 
 ---
@@ -141,6 +141,7 @@ ht-degree: 2%
       + [了解流量請求的設定](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [建立請求佇列](manage-work/request-queues/create-a-request-queue.md)
       + [建立請求流程](manage-work/request-queues/create-a-request-flow.md)
+      + [請求佇列常見問題的解答](manage-work/request-queues/request-queue-faq.md)
    + 核准程式和里程碑路徑 {#approval-processes-and-milestone-paths}
       + [建立一次性使用的核准流程](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [附加和編輯現有的批准流程](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
