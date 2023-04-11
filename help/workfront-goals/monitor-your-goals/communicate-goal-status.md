@@ -9,16 +9,16 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '469'
+ht-degree: 1%
 
 ---
 
 # 傳達目標狀態
 
-現在，您已使用更新目標，請花點時間退後一步，以鳥瞰的方式查看您正在執行的目標，以及這些目標與團隊、團體和公司目標的關係。 就目標的進度和狀態與他人溝通是保持一致的重要部分。
+現在，您已更新了目標，請花點時間退一步，以鳥瞰的方式了解您正在執行的目標，以及這些目標與團隊、團體和公司目標的關係。 就目標的進度和狀態與他人溝通是保持一致的重要部分。
 
 有多種方式可讓適當的人員更新您的目標。 您可以透過下列方式開始：
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. 按一下目標名稱旁的3點圖示，然後按一下 [!UICONTROL **共用**]. 此 [!UICONTROL 目標存取] 框。
 
-   ![Asss](assets/17-workfront-goals-share-a-goal.png)
+   ![共用目標的螢幕擷圖](assets/17-workfront-goals-share-a-goal.png)
 
 1. 執行下列任一項作業：
 

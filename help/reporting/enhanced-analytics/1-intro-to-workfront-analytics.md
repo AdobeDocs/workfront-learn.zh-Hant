@@ -1,5 +1,5 @@
 ---
-title: 進入Workfton Analytics
+title: 產品簡介 — Workftont Analytics簡介
 description: 了解分析的來源，以及透過產品經理Joel Pettigrue提供的令人興奮的功能 [!DNL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 doc-type: video
 kt: 8870
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---

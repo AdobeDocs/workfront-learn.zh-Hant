@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2353'
 ht-degree: 2%
 
 ---
@@ -222,6 +222,7 @@ ht-degree: 2%
       + [高級報告第2部分](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [高級報告第3部分](reporting/advanced-reporting/advanced-reporting-part-3.md)
    + 增強型分析 {#enhanced-analytics}
+      + [產品簡介 [!UICONTROL 增強的Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [開始使用 [!UICONTROL 增強的Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [新增 [!UICONTROL analytics] 配置模板](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [了解基本導覽](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -274,7 +275,7 @@ ht-degree: 2%
       + [查看分配任務時的超時](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [資源管理工具中的可見性](manage-resources/pto/visibility-in-resource-management-tools.md)
    + 案例規劃工具 {#scenario-planner}
-      + [關於方案規劃器的產品的一刻](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [關於方案規劃器的產品](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [什麼是方案規劃器？](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [在方案計畫器中訪問計畫](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
       + [在方案計畫器中建立計畫](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
