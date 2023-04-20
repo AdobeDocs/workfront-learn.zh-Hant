@@ -3,10 +3,10 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
+source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
 workflow-type: tm+mt
-source-wordcount: '2360'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 2%
       + [查找佈局模板](administration-and-setup/layout-templates/find-layout-templates.md)
       + [使用版面範本自訂術語](administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [自訂 [!UICONTROL 主菜單] 搭配版面範本](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [通過佈局模板添加和管理管腳](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
       + [使用版面範本自訂首頁](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [指派及管理版面範本的存取權](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [使用版面範本自訂物件區域](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
@@ -64,6 +65,7 @@ ht-degree: 2%
       + [建立里程碑](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
    + 系統效能和維護 {#system-perfomance-and-maintenance}
       + [負責現有的Adobe Workfront執行個體](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
