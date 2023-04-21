@@ -3,10 +3,10 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2369'
+ht-degree: 2%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 + 管理工作 {#manage-work}
    + 專案 {#projects}
       + [了解基本專案的建立](manage-work/projects/understand-basic-project-creation.md)
-      + [了解建立專案的其他方式](manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [了解建立專案的四種方式](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [填寫專案詳細資訊](manage-work/projects/fill-in-the-project-details.md)
       + [導覽專案頁面](manage-work/projects/navigate-the-project-page.md)
       + [開始規劃專案](manage-work/projects/getting-started-plan-a-project.md)

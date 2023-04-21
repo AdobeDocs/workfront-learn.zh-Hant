@@ -1,5 +1,5 @@
 ---
-title: 了解建立專案的其他方式
+title: 了解建立專案的四種方式
 description: 了解如何從範本建立專案、從草稿開始建立專案、複製現有專案或匯入 [!DNL Microsoft Project] 檔案。
 activity: use
 feature: Work Management
@@ -11,14 +11,14 @@ team: Technical Marketing
 kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-# 了解建立專案的其他方式
+# 了解建立專案的四種方式
 
 在此影片中，您將學習如何：
 
