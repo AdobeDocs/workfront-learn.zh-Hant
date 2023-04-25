@@ -10,27 +10,21 @@ role: User
 level: Intermediate
 kt: 10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 518ede1e0a57a3075d8db122d48666c45dae8a4b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # 共用專案
 
-讓利益相關方和協作者了解項目是管理項目的重要部分。
+在此影片中，您將學習：
 
-共用專案，確保每個人都能查看所需資訊。 在Workfront中，這是使用 [!UICONTROL 共用] 選項。 您可以從個別專案，從 [!UICONTROL 更多] 的雙曲正切值。
+* 自動共用在Workfront中如何運作
+* 如何與人員共用專案
+* 如何與團隊共用專案
+* 如何將專案放入產品組合以共用專案
+* 共用專案的最佳實務是什麼
 
-![項目訪問窗口](assets/planner-fund-share-project-smaller.png)
-
-或者，您可以從上的專案清單中一次共用多個專案 [!UICONTROL 專案] 頁面，方法是選取專案並按一下 [!UICONTROL 共用] 按鈕。
-
-共用專案可讓所有參與者在需要時查看專案資訊。
-
-<!---
-Learn More Icon
-Share permissions on objects
-Share a project
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
