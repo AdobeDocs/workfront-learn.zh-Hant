@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1402821a23ed67d46179e419aff18f7befc66620
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 0%
 ## 什麼是 [!DNL Jira] ?
 
 [!DNL Jira]  是由 [!DNL Atlassian] 跟蹤開發和技術支援團隊的項目和問題。 許多團隊使用 [!DNL Jira]  跟蹤任務級進度，但它們也使用 [!DNL Workfront] 來管理專案。 這表示團隊會加倍努力，在 [!DNL Workfront] 和 [!DNL Jira] . 但是 [!DNL Jira]  本機整合，這類資訊可以自動在兩個應用程式之間傳輸。
+
+## 如何為Jira安裝Adobe Workfront?
+
+前往 [Adobe Workfront為吉拉](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=en) 了解如何安裝和設定Jira適用的Adobe Workfront。
 
 ## 什麼是 [!DNL Jira]  整合功能？
 
