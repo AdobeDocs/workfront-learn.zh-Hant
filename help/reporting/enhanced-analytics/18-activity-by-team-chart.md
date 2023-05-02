@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -38,3 +38,9 @@ ht-degree: 0%
 1. 紫色方塊顯示指派給該專案的使用者在當天登入，而較深的陰影表示登入的使用者人數較多。
 1. 粉紅色框顯示用戶在當天更改了項目的任務狀態，而更深的陰影表示更多的任務狀態發生更改。
 1. 藍色框顯示用戶已完成項目的任務，且陰影較深，表示已完成的任務數較多。
+
+## 如何導覽至圖表
+
+1. 按一下 [!UICONTROL 人員] 標籤。
+1. 使用 [!UICONTROL 篩選] 來選擇要檢查的主團隊。
+1. 您會看到依團隊圖表的活動出現在人物圖表頂端。

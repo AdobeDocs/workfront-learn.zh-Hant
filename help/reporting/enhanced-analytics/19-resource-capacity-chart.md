@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ ht-degree: 0%
 1. 時數在最下方。 這是圖表的x軸，會計算至上方團隊中顯示的小時數範圍。
 1. 圓圈顯示分配給主團隊的計畫小時數。
 1. 垂直線顯示主團隊可用的總小時數。
+
+## 如何導覽至圖表
+
+1. 按一下 [!UICONTROL 人員] 標籤。
+1. 使用 [!UICONTROL 篩選] 來選擇要檢查的主團隊。
+1. 您會看到 [!UICONTROL 資源容量] 圖表顯示在團隊活動圖表下方。
 
 ## 如何使用圖表
 

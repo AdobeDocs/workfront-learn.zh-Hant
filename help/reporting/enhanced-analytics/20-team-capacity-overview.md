@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ ht-degree: 0%
 1. 底部的日期來自選取的日期範圍。
 1. 較深的藍色填充顏色表示家庭隊正經歷倦怠(4)，或未受挑戰。
 1. 較輕或更透明的藍色表示主隊的工作量是平衡的
+
+## 如何導覽至圖表
+
+1. 按一下 [!UICONTROL 人員] 標籤。
+1. 使用 [!UICONTROL 篩選] 來選擇要檢查的主團隊。
+1. 您會看到團隊容量圖表顯示在 [!UICONTROL 資源容量] 圖表。
 
 ## 如何使用圖表
 
