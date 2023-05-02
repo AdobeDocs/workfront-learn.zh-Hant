@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -42,5 +42,5 @@ ht-degree: 0%
 ## 如何導覽至圖表
 
 1. 按一下 [!UICONTROL 人員] 標籤。
-1. 使用 [!UICONTROL 篩選] 來選擇要檢查的主團隊。
+1. 使用 [!UICONTROL 篩選] 選擇要檢查的一個或多個主隊。
 1. 您會看到依團隊圖表的活動出現在人物圖表頂端。

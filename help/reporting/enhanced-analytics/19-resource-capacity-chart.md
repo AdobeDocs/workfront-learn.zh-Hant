@@ -10,7 +10,7 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 ## 如何導覽至圖表
 
 1. 按一下 [!UICONTROL 人員] 標籤。
-1. 使用 [!UICONTROL 篩選] 來選擇要檢查的主團隊。
+1. 使用 [!UICONTROL 篩選] 選擇要檢查的一個或多個主隊。
 1. 您會看到 [!UICONTROL 資源容量] 圖表顯示在團隊活動圖表下方。
 
 ## 如何使用圖表
