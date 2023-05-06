@@ -1,6 +1,6 @@
 ---
 title: 了解專案通訊
-description: 了解如何使用專案、工作、問題或檔案的更新，來傳達專案工作的相關資訊。 接著，在 [!DNL  Workfront].
+description: 了解如何使用良好的專案規劃、更新、任務狀態、完成率、問題和報告，來傳達專案工作的相關資訊。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,30 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-05T00:00:00Z
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 96e0a94ad39354765c171f762003c58feec5a4c8
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 2%
 
 ---
 
 # 了解專案通訊
 
-正如俗話所說，管理項目的90%是溝通。 與專案團隊、您的經理和專案利害關係人進行溝通。
+在此影片中，您將學習如何透過下列方式與所有專案利害關係人溝通：
 
-但當專案團隊使用電子郵件、即時訊息、會議和便箋來進行專案通訊時，資訊會被分散……甚至更糟，被遺忘。 保持與項目本身的項目工作的溝通 [!DNL Workfront] 使用更新。
+* 良好的項目規劃
+* 更新
+* 任務狀態和完成百分比
+* 問題
+* 報告
 
-當項目團隊成員正在處理分配時，他們可以從 [!DNL Workfront] [!UICONTROL 首頁] 在分配給它們的任務上。
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on)
 
-![更新專案中的區段](assets/planner-fund-project-communication.png)
-
-從任務、問題和文檔到項目級別的更新 [!UICONTROL 更新] 頁簽，使資訊快速且易於查看。
-
-接著，您只需按一下按鈕，即可回覆更新。 這可讓所有對話集中在一個位置，讓您稍後可以回復。
-
-<!---
-learn more urls
-Communicate about work in Home
-Subscribe to items in Workfront
-Update work
---->
+>[!TIP]
+>
+>若要建立顯示於影片中的附註搜尋報表，請參閱 [建立任務報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) 教學課程。
+>
+>若要將「附註搜尋」報表新增至您的專案面板，請參閱 [建立控制面板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) 教學課程。
