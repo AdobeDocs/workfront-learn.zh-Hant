@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: d85820a7516bfde170ec1df8ce96b16dafab2cf1
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,11 @@ ht-degree: 0%
 ![顯示視圖的項目任務清單](assets/planner-fund-task-list-fvg.png)
 
 許多 [!DNL Workfront] 客戶建立自訂檢視，公開自訂表單資訊和與正在完成的工作相關的其他欄位。
+
+## 了解如何建立自訂篩選器、檢視和群組
+
+[建立基本篩選](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+
+[建立基本檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+
+[建立基本分組](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
