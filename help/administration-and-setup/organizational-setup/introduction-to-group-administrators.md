@@ -1,6 +1,6 @@
 ---
 title: 了解群組管理員的需求
-description: 了解系統管理員如何使用群組管理員來協助維護 [!DNL Workfront] 設定，讓群組對其工作有更多控制權。
+description: 了解系統管理員如何使用群組管理員來協助維護  [!DNL Workfront]  設定，同時給予群組對其工作更大的控制能力。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

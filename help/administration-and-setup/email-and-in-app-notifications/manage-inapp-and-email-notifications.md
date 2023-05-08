@@ -1,7 +1,7 @@
 ---
 title: 管理應用程式內和電子郵件事件通知
 description: 了解使用者如何控制他們收到的應用程式內通知和電子郵件通知，以便收到與其工作相關、有用的電子郵件。
-short-description: 了解使用者如何控制他們收到的應用程式內和電子郵件通知。
+short-description: 了解使用者如何控制他們收到的應用程式內通知和電子郵件通知。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
