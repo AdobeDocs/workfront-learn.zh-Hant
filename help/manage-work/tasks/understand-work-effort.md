@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 9348bd7044e7a8385154dedc3349d3719d86d42d
+source-git-commit: d1598021f9106630929dfa488ae331250616ee7e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Workfront了解，有些組織在建立專案時不會使用計畫小時。 但�
 
 同時考慮這兩個概念後，Workfront [!UICONTROL 工作量] 選項。
 
-您可以使用，而不必為專案中的每個任務輸入特定小時數 [!UICONTROL 工作量] 指示任務是小型、中型還是大型工作。 Workfront會根據專案內的設定，使用這些工作自動估計計畫時數。
+您可以使用，而不是為專案中的每個任務輸入特定小時數 [!UICONTROL 工作量] 指示任務是小型、中型還是大型工作。 Workfront會根據專案內的設定，使用這些工作自動估計計畫時數。
 
 這樣，如果您打算使用任何Workfront的資源管理工具，您需要的估計值已經填寫完畢，用戶對即將到來的工作量有了了解。
 
