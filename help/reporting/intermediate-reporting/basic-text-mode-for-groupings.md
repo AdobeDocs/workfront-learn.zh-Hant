@@ -1,6 +1,6 @@
 ---
-title: 了解分組的基本文字模式
-description: 了解哪些文字模式、駝峰式大小寫，以及一些基本的「即插即用」文字模式，可在Workfront的分組中使用。
+title: 瞭解群組的基本文字模式
+description: 瞭解什麼是文字模式、什麼是駝峰式大小寫，以及可以在Workfront中的分組中使用的一些基本「隨插即用」文字模式。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -11,41 +11,41 @@ team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 18aa5b742c4ad6210893af6141aa0b2777ab3c2a
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
-# 了解分組的基本文字模式
+# 瞭解群組的基本文字模式
 
 >[!IMPORTANT]
 >
->必要條件：
+>先決條件：
 >
->* 了解報表元素
->* 了解報表元件
+>* 瞭解報表元素
+>* 瞭解報表元件
 >* 建立基本分組
 
 
 >[!TIP]
 >
->* 若要更深入了解文字模式，建議您觀看錄影的網路研討會活動 [詢問專家 — 文字模式報表簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，長度為一小時。
->* 若要進一步了解文字模式，建議您觀看 [進階報表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教學課程，總共需要5.5小時。
+>* 若要更深入地瞭解文字模式，我們建議您觀看錄製的網路研討會活動 [詢問專家 — 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，長度為一小時。
+>* 若要進一步瞭解文字模式，建議您觀看 [進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教學課程，總共有五個半小時的長度。
 
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
 * 什麼是文字模式
-* 駝峰是什麼
-* 您可在群組中使用一些基本的「即插即用」文字模式
+* 什麼是駝峰式大小寫
+* 您可以用於分組的一些基本「隨插即用」文字模式
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## 任務 — 4個父組
+## 任務 — 4個父項群組
 
-以下文本模式將根據最多四個父級對任務進行分組，並將不存在的父級留空。
+下列文字模式將依據最多四個層級的父項來分組任務，並將不存在的父項留白。
 
 ```
 textmode=true
@@ -57,12 +57,12 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![顯示按4個父項分組的項目任務的螢幕影像](assets/4-parents-grouping.png)
+![顯示按4個父項分組的專案任務的熒幕影像](assets/4-parents-grouping.png)
 
 
 ## 任務 — 完成百分比分組
 
-下列文字模式會根據工作完成百分比來分組工作。 分組後，任務將分為以下類別之一：
+下列文字模式會根據任務的完成百分比來分組任務。 任務在分組時將屬於以下類別之一：
 
 * 0%
 * 1%至25%
@@ -79,11 +79,11 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![顯示依完成百分比分組的專案工作的螢幕影像](assets/percent-complete-grouping.png)
+![顯示按完成百分比分組的專案任務的熒幕影像](assets/percent-complete-grouping.png)
 
-## 任務 — statusAccussWith，然後是status
+## 任務 — statusEquatesWith，然後按status
 
-以下文本模式將按statusEqualsWith，然後按status對任務進行分組。
+下列文字模式將依statusEquatesWith，然後依狀態來分組工作。
 
 ```
 group.0.enumclass=com.attask.common.constants.TaskStatusEnum
@@ -103,10 +103,10 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![螢幕影像，顯示依statusEqualsWith分組的專案任務](assets/status-equates-with.png)
+![顯示按statusEquatesWith分組的專案任務的熒幕影像](assets/status-equates-with.png)
 
 
-## 校樣核准 — 依專案名稱分組
+## 校訂核准 — 依專案名稱分組
 
 ```
 group.0.valueformat=HTML
@@ -114,5 +114,16 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![螢幕影像，顯示依專案名稱分組的校樣核准](assets/proof-approvals-grouped-by-project-name.png)
+![熒幕影像顯示依專案名稱分組的校訂核准](assets/proof-approvals-grouped-by-project-name.png)
+
+
+## 校訂核准 — 按檔名稱分組
+
+```
+group.0.displayname=Document Name
+group.0.valuefield=documentVersion:document:name
+group.0.valueformat=HTML
+```
+
+![熒幕影像顯示依專案名稱分組的校訂核准](assets/proof-approvals-grouped-by-doc-name.png)
 

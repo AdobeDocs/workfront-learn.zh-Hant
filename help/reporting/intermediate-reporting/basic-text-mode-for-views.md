@@ -1,6 +1,6 @@
 ---
-title: 了解檢視的基本文字模式
-description: 了解哪些文字模式、駝峰式大小寫，以及一些基本的「即插即用」文字模式，可在Workfront的檢視中使用。
+title: 瞭解檢視的基本文字模式
+description: 瞭解什麼是文字模式、什麼是駝峰式大小寫，以及可以在Workfront的檢視中使用的一些基本「隨插即用」文字模式。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -11,44 +11,44 @@ team: Technical Marketing
 kt: 11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 18aa5b742c4ad6210893af6141aa0b2777ab3c2a
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
 
 ---
 
-# 了解檢視的基本文字模式
+# 瞭解檢視的基本文字模式
 
 
 >[!IMPORTANT]
 >
->必要條件：
+>先決條件：
 >
->* 了解報表元素
->* 了解報表元件
+>* 瞭解報表元素
+>* 瞭解報表元件
 >* 建立基本檢視
 
 
 >[!TIP]
 >
->* 若要更深入了解文字模式，建議您觀看錄影的網路研討會活動 [詢問專家 — 文字模式報表簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，長度為一小時。
->* 若要進一步了解文字模式，建議您觀看 [進階報表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教學課程，總共需要5.5小時。
+>* 若要更深入地瞭解文字模式，我們建議您觀看錄製的網路研討會活動 [詢問專家 — 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，長度為一小時。
+>* 若要進一步瞭解文字模式，建議您觀看 [進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教學課程，總共有五個半小時的長度。
 
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
 * 什麼是文字模式
-* 駝峰是什麼
-* 您可以在檢視中使用一些基本的「即插即用」文字模式
+* 什麼是駝峰式大小寫
+* 您可以在檢視中使用一些基本的「隨插即用」文字模式
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## 任務 — 4個父視圖
+## 任務 — 4個父檢視
 
-首先為「任務名」和「父名」建立列，然後使用以下文本模式建立其他三列。
+先為「工作名稱」和「父系名稱」建立欄，然後使用下列文字模式建立其他三個欄。
 
-### 任務 — 父代名稱的父代
+### 任務 — 父系名稱的父系
 
 ```
 displayname=Parent of Parent Name
@@ -62,7 +62,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### 任務 — 父代名稱的父代
+### 任務 — 父項名稱的父項
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -76,7 +76,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### 任務 — 父代的父代的父代的父代名稱
+### 任務 — 父項名稱父項的父項
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -90,11 +90,11 @@ valuefield=parent:parent:parent:parent:name
 valueformat=HTML
 ```
 
-![顯示4個父視圖的螢幕影像](assets/4-parents-view.png)
+![顯示4個父檢視的熒幕影像](assets/4-parents-view.png)
 
-## 使用者 — 在使用者檢視中顯示清單的迭代
+## 使用者 — 在使用者檢視中顯示清單的反複專案
 
-### 用戶 — 所有作業角色
+### 使用者 — 所有職位角色
 
 ```
 displayname=All job roles
@@ -106,7 +106,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### 用戶 — 顯示主要的所有作業角色
+### 使用者 — 所有顯示主要的工作角色
 
 ```
 displayname=All Job Roles showing primary
@@ -132,10 +132,10 @@ valueformat=HTML
 
 >[!NOTE]
 >
->透過UI可存取「團隊」欄位，顯示所有團隊（以逗號分隔），但使用上述文字模式時，會將每個團隊顯示在個別行上。
+>有一個可透過UI存取的團隊欄位，該欄位顯示所有團隊，以逗號分隔，但使用上面的文字模式將在單獨的一行中顯示每個團隊。
 
 
-### 用戶 — 所有組
+### 使用者 — 所有群組
 
 ```
 displayname=All groups
@@ -147,7 +147,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### 用戶 — 顯示首頁組的所有組
+### 使用者 — 顯示主群組的所有群組
 
 ```
 displayname=All groups showing home group
@@ -160,7 +160,7 @@ valueformat=HTML
 ```
 
 
-### 使用者 — 直接報表
+### 使用者 — 直接下屬
 
 ```
 displayname=Direct reports
@@ -172,7 +172,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-### 用戶 — 未來PTO
+### 使用者 — 未來PTO
 
 ```
 displayname=Future PTO
@@ -186,9 +186,9 @@ valueformat=HTML
 width=150
 ```
 
-![顯示「用戶清單」視圖的螢幕影像](assets/user-lists-view-large.png)
+![顯示使用者清單檢視的熒幕影像](assets/user-lists-view-large.png)
 
-## 任務 — 如何顯示任務分配和處理狀態
+## 任務 — 如何顯示任務指派和處理狀態
 
 ```
 displayname=Assignments and Status
@@ -202,10 +202,10 @@ valueformat=HTML
 width=150
 ```
 
-![顯示「分配」和「狀態」視圖的螢幕影像](assets/assignments-and-status-view.png)
+![顯示「工作總攬」和「狀態」檢視的熒幕影像](assets/assignments-and-status-view.png)
 
 
-## 任務 — 如何在多個任務分配上顯示角色和分配
+## 任務 — 如何顯示多個任務指派的角色和配置
 
 ### 任務 — 角色+小時
 
@@ -219,7 +219,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### 任務 — 分配+百分比分配
+### 任務 — 指派+百分比分配
 
 ```
 displayname=Assignment+percent
@@ -231,13 +231,13 @@ textmode=true
 type=iterate
 ```
 
-![顯示「分配」和「角色」視圖的螢幕影像](assets/assignments-roles-and-percent-view.png)
+![顯示「工作總攬」和「角色」檢視的熒幕影像](assets/assignments-roles-and-percent-view.png)
 
-## 任務 — 跨項目前置任務和後置任務
+## 任務 — 跨專案前置任務與後置任務
 
-### 任務篩選器（可選）
+### 任務篩選（選擇性）
 
-**向我顯示至少有一個跨項目前身的所有任務**
+**顯示至少有一個跨專案前置任務的所有任務**
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -245,7 +245,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-### 任務 — 顯示前置名稱和項目前置名稱
+### 任務 — 顯示前置任務名稱和前置任務所在專案
 
 ```
 displayname=Predecessor names
@@ -259,7 +259,7 @@ valueformat=HTML
 width=150
 ```
 
-### 任務 — 顯示後繼名稱和項目後繼項在
+### 任務 — 顯示後續任務名稱，且專案後續任務已加入
 
 ```
 displayname=Successor names
@@ -303,7 +303,7 @@ valueformat=HTML
 width=90
 ```
 
-### 任務 — 顯示跨項目前置項目的完成百分比
+### 任務 — 顯示跨專案前置任務專案的完成百分比
 
 ```
 displayname=Predecessor project percent complete
@@ -317,10 +317,10 @@ valueformat=HTML
 width=150
 ```
 
-![顯示「交叉項目前置項和後置項」視圖的螢幕影像](assets/cross-project-predecessors-and-successors.png)
+![顯示「跨專案前置任務」和「後置任務」檢視的熒幕影像](assets/cross-project-predecessors-and-successors.png)
 
 
-## 任務 — 小版本，顯示所有已分配的人員以及每個人員的分配
+## 任務 — 反複專案顯示所有指派的人員及指派每個人員
 
 ```
 displayname=All assignees and requesters
@@ -332,9 +332,9 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-![螢幕影像，顯示所有指派的人員以及指派給每個人員的人員](assets/all-assignees-and-requesters.png)
+![顯示所有指派人員及指派人員的熒幕影像](assets/all-assignees-and-requesters.png)
 
-## 任務/項目 — 顯示項目或任務上所有自定義表單的迭代
+## 任務/專案 — 反複專案顯示專案或任務上的所有自訂表單
 
 ```
 displayname=All Forms Assigned
@@ -346,10 +346,10 @@ valuefield=category:name
 valueformat=HTML
 ```
 
-![顯示專案中所有自訂表單的螢幕影像](assets/all-custom-forms-on-a-project.png)
+![顯示專案中所有自訂表單的熒幕影像](assets/all-custom-forms-on-a-project.png)
 
 
-## 項目 — 在項目視圖中顯示可解析項的所有主要聯繫人的小版本
+## 專案 — 反複專案在專案檢視中顯示可解析專案的所有主要連絡人
 
 ```
 displayname=Requestor
@@ -363,9 +363,9 @@ valueformat=HTML
 width=150
 ```
 
-![螢幕影像，顯示可解析度的主要接觸點](assets/primary-contacts-for-resolvables.png)
+![顯示可解析專案主要連絡人的熒幕影像](assets/primary-contacts-for-resolvables.png)
 
-## 項目 — 顯示所有項目組成員的小版本
+## 專案 — 反複專案顯示所有專案團隊成員
 
 ```
 displayname=Project Team Members
@@ -378,9 +378,9 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-![顯示所有專案團隊成員的螢幕影像](assets/all-project-team-members.png)
+![顯示所有專案團隊成員的熒幕影像](assets/all-project-team-members.png)
 
-## 項目 — 顯示項目所有可解決問題的entryDate的小版本
+## 專案 — 反複專案顯示專案所有可解決問題的專案日期
 
 ```
 displayname=Resolvables entry date
@@ -396,9 +396,9 @@ valuefield=entryDate
 valueformat=HTML
 ```
 
-![螢幕影像，顯示專案所有可解決問題的entryDate](assets/resolvables-entry-date.png)
+![顯示專案中所有可解決問題之輸入日期的熒幕影像](assets/resolvables-entry-date.png)
 
-## 專案 — 顯示原始專案請求者的首頁群組
+## 專案 — 顯示原始專案請求者的主群組
 
 ```
 displayname=Requestor home group
@@ -410,7 +410,7 @@ valuefield=convertedOpTaskOriginator:homeGroup:name
 valueformat=HTML
 ```
 
-![顯示專案要求者首頁群組的螢幕影像](assets/requestor-home-group.png)
+![顯示專案請求者主群組的熒幕影像](assets/requestor-home-group.png)
 
 ## 專案 — 顯示專案是否為請求佇列
 
@@ -428,9 +428,9 @@ enumclass=com.attask.common.constants.ProjectStatusEnum
 displayname=Public Selection
 ```
 
-![顯示專案是否為請求佇列的畫面影像](assets/project-is-a-request-queue.png)
+![顯示專案是否為請求佇列的熒幕影像](assets/project-is-a-request-queue.png)
 
-## 問題 — 顯示所有解決的項目組成員的小版本
+## 問題 — 反複專案顯示所有已解決的專案團隊成員
 
 ```
 displayname=Resolve Project: Team Members
@@ -444,9 +444,9 @@ valueformat=HTML
 width=150
 ```
 
-![顯示所有解析項目組成員的螢幕影像](assets/all-resolve-project-team-members.png)
+![顯示所有解析專案團隊成員的熒幕影像](assets/all-resolve-project-team-members.png)
 
-## 問題 — 顯示問題主要聯繫人的所有團隊的小版本
+## 問題 — 反複專案顯示問題主要連絡人的所有團隊
 
 ```
 displayname=Requestor Teams
@@ -460,9 +460,9 @@ valueformat=HTML
 width=150
 ```
 
-![顯示所有主要聯絡團隊的螢幕影像](assets/all-primary-contact-teams.png)
+![顯示所有主要聯絡團隊的熒幕影像](assets/all-primary-contact-teams.png)
 
-## 文檔 — 顯示文檔報告中資料夾的小版本
+## 檔案 — 反複專案顯示檔案報告中的資料夾
 
 ```
 displayname=Folder
@@ -474,9 +474,9 @@ valuefield=name
 valueformat=HTML
 ```
 
-![顯示文檔報告中資料夾的螢幕影像](assets/folder-in-a-document-report.png)
+![顯示檔案報告中資料夾的熒幕影像](assets/folder-in-a-document-report.png)
 
-## 文檔 — 顯示文檔報表中父資料夾的小版本
+## 檔案 — 在檔案報告中顯示父資料夾的反複專案
 
 ```
 displayname=Parent Folder
@@ -488,12 +488,12 @@ valuefield=parent:name
 valueformat=HTML
 ```
 
-![在文檔報表中顯示父資料夾的螢幕影像](assets/parent-folder-in-a-document-report.png)
+![顯示檔案報告中父資料夾的熒幕影像](assets/parent-folder-in-a-document-report.png)
 
-## 文檔 — 文檔批准日期
+## 檔案 — 檔案核准日期
 
 ```
-displayname=Document Approval Dates
+displayname=Document approval dates
 valueformat=HTML
 listdelimiter=<br>
 linkedname=direct
@@ -506,11 +506,11 @@ shortview=false
 section=0
 ```
 
-![顯示「文檔批准日期」視圖的螢幕影像](assets/document-approval-dates.png)
+![顯示檔案核准日期檢視的熒幕影像](assets/document-approval-dates.png)
 
 ## 校訂核准
 
-### 校樣核准 — 顯示專案名稱
+### 校訂核准 — 顯示專案名稱
 
 ```
 displayname=Project Name
@@ -519,7 +519,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### 校樣批准 — 顯示任務名稱
+### 校訂核准 — 顯示任務名稱
 
 ```
 displayname=Task Name
@@ -528,4 +528,4 @@ valuefield=documentVersion:document:task:name
 valueformat=HTML
 ```
 
-![顯示專案和校樣核准工作的螢幕影像](assets/proof-approval-project-and-task.png)
+![顯示校訂核准專案和任務的熒幕影像](assets/proof-approval-project-and-task.png)
