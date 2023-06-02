@@ -1,6 +1,6 @@
 ---
-title: 提出請求
-description: 了解如何尋找 [!UICONTROL 請求] 區域，並在 [!DNL  Workfront]. 接著，了解如何檢視提交的請求和草稿請求。
+title: 提出要求
+description: 瞭解如何找到 [!UICONTROL 請求] 區域，並在以下位置提出請求： [!DNL  Workfront]. 然後瞭解如何檢視已提交和草稿請求。
 activity: use
 feature: Work Management
 type: Tutorial
@@ -8,25 +8,26 @@ role: User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 336092.png
+last-substantial-update: 2023-05-18T00:00:00Z
 kt: 8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 doc-type: video
-source-git-commit: 3261d5fe43a29cd016a3950027a481aea947e747
+source-git-commit: e8318b89bcf2fb3a6f27a9468495dac1d9084732
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-# 提出請求
+# 提出要求
 
-在許多組織中，啟動新項目、開發新產品或建立交付項的第一步是在 [!DNL Workfront]. 您可以追蹤要求的進度，並視需要提供其他資訊。
+在許多組織中，開始新專案、開發新產品或建立交付專案的第一步是提出請求 [!DNL Workfront]. 您可以追蹤請求的進度，並在需要時提供其他資訊。
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
 * 導覽至請求區域
-* 提出請求
-* 查看提交的請求
-* 查找請求草稿
+* 提出要求
+* 檢視已提交的請求
+* 尋找請求的草稿
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
