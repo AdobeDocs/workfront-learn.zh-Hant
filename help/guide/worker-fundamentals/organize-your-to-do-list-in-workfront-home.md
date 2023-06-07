@@ -1,25 +1,25 @@
 ---
-title: 在首頁中組織您的待辦事項清單
-description: 在此視頻中，了解如何對工作分配進行排序、按類型篩選分配、識別已準備好啟動的工作，以及接受工作分配。
+title: 在首頁組織您的待辦事項清單
+description: 在本影片中，瞭解如何排序工作指派、依型別篩選指派、識別準備開始的工作以及接受工作指派。
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 3dc5d407ea6ad97b597b2bfba961f0b169643762
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# 在首頁中組織您的待辦事項清單
+# 在首頁組織您的待辦事項清單
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 對工作分配進行排序
-* 按類型篩選工作分配
-* 識別已準備好開始的工作
-* 接受工作分配
+* 排序工作指派
+* 依型別篩選工作指派
+* 識別已準備開始的工作
+* 接受工作指派
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
