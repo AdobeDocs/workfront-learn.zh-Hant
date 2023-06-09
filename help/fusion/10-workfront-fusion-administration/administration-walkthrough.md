@@ -1,6 +1,6 @@
 ---
 title: 管理逐步說明
-description: 了解如何在不同組織或團隊之間切換，以及在 [!DNL Adobe Workfront Fusion].
+description: 瞭解如何在不同的組織或團隊之間切換，並在中將使用者新增到系統 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,25 +10,29 @@ level: Beginner
 kt: 9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 # 管理逐步說明
 
-了解如何在不同組織或團隊之間切換，以及將使用者新增至系統。
+瞭解如何在不同的組織或團隊之間切換並將使用者新增到系統。
 
-![具有錯誤處理的情境的影像](assets/workfront-fusion-administration-1.png)
+![處理錯誤情境的影像](assets/workfront-fusion-administration-1.png)
 
 ## 管理逐步說明
 
-Workfront建議您先觀看練習逐步影片，然後再嘗試在自己的環境中重新建立練習。
+在本影片中，您將瞭解：
+
+* 如何在組織和團隊之間導覽
+* 如何建立團隊
+* 如何邀請使用者加入組織和團隊
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
-## 想要進一步了解嗎？ 我們建議下列項目：
+## 想要瞭解更多？ 我們建議採取下列步驟：
 
 [Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

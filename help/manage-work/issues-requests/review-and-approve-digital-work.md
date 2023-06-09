@@ -1,6 +1,6 @@
 ---
-title: 檢閱和核准數位工作
-description: 瞭解如何在中尋找和核准專案、任務、問題、檔案和校樣 [!DNL  Workfront].
+title: 使用Workfront首頁檢閱和核准數位工作
+description: 瞭解如何在中尋找和核准專案、任務、問題、檔案和校樣 [!DNL Workfront Home].
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -11,23 +11,30 @@ team: Technical Marketing
 kt: 8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: e8318b89bcf2fb3a6f27a9468495dac1d9084732
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# 檢閱和核准數位工作
+# 檢閱和核准數位工作，使用 [!DNL Workfront Home]
 
 在本影片中，您將瞭解如何：
 
-* 尋找核准 [!DNL  Workfront]
+* 尋找核准 [!DNL Workfront Home]
 * 為專案、任務和問題建立核准
 * 進行檔案核准
 * 為校訂進行核准
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
+
+
+>[!NOTE]
+>
+>除了可在專案和自訂報告中找到需要核准的檔案、校樣和工作專案（專案、任務和問題） [!DNL Workfront Home].
+
+
 
 <!---
 learn more URLS
