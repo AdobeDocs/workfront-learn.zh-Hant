@@ -1,6 +1,6 @@
 ---
 title: 建立專案範本
-description: 了解如何從草稿開始和從現有範本建立專案範本。
+description: 瞭解如何從頭開始並從現有範本建立專案範本。
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -11,29 +11,28 @@ team: Technical Marketing
 kt: 8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # 建立專案範本
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 從頭建立範本
+* 從頭開始建立範本
 * 從現有專案建立範本
-* 使用Blueprint建立模板
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
-## 使用Blueprint建立模板
+## 使用Blueprint建立範本
 
-系統管理員可以使用Blueprint幫助構建項目模板。 此功能位於「主菜單」中，可讓您訪問預先構建的、可供使用的模板，這些模板針對某個部門和特定的成熟級別。 這些範本可讓使用者搶先建立可重複的專案，並有助於維持各專案在範圍內類似的一致性。
+系統管理員可以使用Blueprint來協助建置專案範本。 此功能位於主要功能表中，可讓您存取針對特定部門和特定成熟度層級的預先建立、現成可用的範本。 這些範本為使用者提供了可重複專案建立的良好開端，並有助於在範圍類似的專案之間維持一致性。
 
-雖然在建立項目時可以使用使用藍圖建立的項目模板，但在建立新項目時（如將任務或請求轉換為項目）不能直接應用藍圖。 藍圖與專案範本之間的主要區別，是藍圖用來建立範本，而專案範本則用來建立專案。
+雖然使用Blueprint建立的專案範本可以在建立專案時使用，但在建立新專案時不能直接套用Blueprint （例如將任務或請求轉換為專案）。 Blueprint和專案範本的主要區別在於Blueprint用於建立範本，而專案範本用於建立專案。
 
-![主菜單中的藍圖](assets/pt-blueprints-01.png)
+![主功能表中的Blueprint](assets/pt-blueprints-01.png)
 
-若要將Blueprint安裝到生產環境或沙箱環境，請在「主菜單」中選擇「Blueprint」。 瀏覽目錄，或使用右側篩選功能表中的依類型篩選選項，找到並安裝最符合您專案需求的藍圖。 視需要，先設定專案範本的詳細資訊（例如將Blueprint的工作角色對應至您組織的工作角色），再安裝Blueprint。 安裝Blueprint後，您可以變更新範本，以符合組織的需求。
+若要將Blueprint安裝至您的生產或沙箱環境，請在主選單中選取Blueprint。 瀏覽目錄或使用右側篩選功能表中的依型別篩選選項，尋找並安裝最符合您專案需求的藍圖。 視需要先設定專案範本的詳細資訊（例如將Blueprint的工作角色對應到貴組織的工作角色），然後再安裝Blueprint。 安裝Blueprint後，您可以根據組織的需求對新範本進行變更。

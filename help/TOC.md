@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '2370'
+source-wordcount: '2374'
 ht-degree: 2%
 
 ---
@@ -73,6 +73,13 @@ ht-degree: 2%
 
    + 系統效能與維護 {#system-perfomance-and-maintenance}
       + [負責現有的Adobe Workfront執行個體](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
+   + 專案財務 {#project-finances}
+      + [瞭解績效量度](manage-work/project-finances/understand-performance-metrics.md)
+      + [設定任務收入和成本預設值](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [設定匯率](manage-work/project-finances/set-up-exchange-rates.md)
+      + [設定費用型別](manage-work/project-finances/set-up-expense-types.md)
+      + [瞭解財務存取權](manage-work/project-finances/understand-financial-access.md)
 
 
 + 自訂資料 {#custom-data}
@@ -176,16 +183,10 @@ ht-degree: 2%
       + [記錄並檢閱時數](manage-work/close-a-project/log-and-review-hours.md)
       + [關閉專案活動](manage-work/close-a-project/close-a-project-activity.md)
 
-   + 專案財務 {#project-finances}
-      + [瞭解績效量度](manage-work/project-finances/understand-performance-metrics.md)
-      + [設定任務收入和成本預設值](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-      + [設定匯率](manage-work/project-finances/set-up-exchange-rates.md)
-      + [設定費用型別](manage-work/project-finances/set-up-expense-types.md)
-      + [瞭解財務存取權](manage-work/project-finances/understand-financial-access.md)
+   + 使用者的專案財務 {#project-finances-users}
       + [更新與檢閱財務](manage-work/project-finances/update-and-review-finances.md)
       + [尋找財務資訊](manage-work/project-finances/find-financial-information.md)
       + [瞭解多種收費率](manage-work/project-finances/multiple-billing-rates.md)
-
 
 
 + 報告 {#reporting}
