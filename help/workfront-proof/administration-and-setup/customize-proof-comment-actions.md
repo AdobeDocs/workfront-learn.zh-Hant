@@ -1,6 +1,6 @@
 ---
-title: 自訂校樣留言的動作
-description: 了解如何對校樣留言使用動作。 了解如何針對的校對功能設定和自訂動作標籤。
+title: 自訂校訂評論的動作
+description: 瞭解如何對校訂評論使用動作。 瞭解如何為的校訂功能設定和自訂動作標籤。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,27 +8,27 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335128.png
-kt: 8828
+jira: KT-8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# 自訂校樣留言的動作
+# 自訂校訂評論的動作
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
-* 動作是什麼
-* 在注釋中如何使用動作
+* 什麼是動作
+* 評論上使用的動作
 * 如何自訂動作標籤
 
 >[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on)
 
-## 該你了
+## 輪到你了
 
-查看您已建立的校樣工作流程，並透過檢閱和核准工作流程反思您與團隊的討論。 是否需要採取行動？ 如果是，請更新您記錄工作流程的檔案以包含動作。
+檢視您已建立的校訂工作流程，並思考您與使用檢閱和核准工作流程的團隊進行的討論。 是否需要動作？ 若是如此，請更新您記錄工作流程的檔案，以包含動作。
 

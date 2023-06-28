@@ -1,6 +1,6 @@
 ---
-title: 從項目計劃分配任務
-description: 了解如何使用 [!DNL  Workfront] 專案。
+title: 從專案計畫指派任務
+description: 瞭解如何使用中的內聯編輯將使用者指派給任務 [!DNL  Workfront] 專案。
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -8,21 +8,21 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8779
+jira: KT-8779
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# 從項目計劃分配任務
+# 從專案計畫指派任務
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 使用內嵌編輯將使用者指派給任務
+* 使用內聯編輯將使用者指派給任務
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 

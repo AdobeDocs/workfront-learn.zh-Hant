@@ -1,6 +1,6 @@
 ---
-title: 調整工作負載平衡器中的每日分配
-description: 了解如何重新分配分配的小時數或百分比，以及如何將工作從一個用戶重新分配給另一個用戶。
+title: 在工作負載平衡器中調整每日分配
+description: 瞭解如何重新分配分配分配的時數或百分比，以及將工作從一個使用者重新指派給另一個使用者。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -8,22 +8,22 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335165.png
-kt: 8877
+jira: KT-8877
 exl-id: 27b9da27-d70c-45e7-a99d-d26cccc5277d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# 調整 [!DNL Workload Balancer]
+# 調整每日配置，在 [!DNL Workload Balancer]
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 重新分配分配的小時數或百分比
-* 將工作從一個用戶重新分配給另一個用戶
+* 重新分配分配分配的時數或百分比
+* 將工作從一個使用者重新指派給另一個使用者
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on)

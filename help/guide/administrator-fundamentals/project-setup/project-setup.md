@@ -1,13 +1,13 @@
 ---
 title: 專案設定
-description: 此影片可讓您了解如何變更自訂狀態、設定全域專案偏好設定及建立排程。
+description: 在本影片中，瞭解如何變更自訂狀態、設定全域專案偏好設定及建立排程。
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 專案設定
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
 * 變更自訂狀態
-* 設定全局項目首選項
-* 建立和使用排程
+* 設定全域專案偏好設定
+* 建立及使用排程
 
 >[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on)

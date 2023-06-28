@@ -1,22 +1,22 @@
 ---
-title: 使用小版本頁
-description: 了解如何閱讀迭代狀態條、查找和閱讀燃耗圖，以及如何查看和移動迭代序列影像板中的文章。
+title: 使用反複專案頁面
+description: 瞭解如何閱讀反複專案狀態列、尋找和閱讀待執行工作圖表，以及如何在反複專案分鏡指令碼中檢視和移動劇本。
 feature: Agile
 role: Admin, User, Leader
 level: Intermediate
-kt: 10875
+jira: KT-10875
 thumbnail: 346285.jpeg
 exl-id: 9ad64b05-55d6-4ca4-a8f3-89a1c2c54f34
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 使用小版本頁
+# 使用反複專案頁面
 
-了解如何閱讀迭代狀態條、查找和閱讀燃耗圖，以及如何查看和移動迭代序列影像板中的文章。
+瞭解如何閱讀反複專案狀態列、尋找和閱讀待執行工作圖表，以及如何在反複專案分鏡指令碼中檢視和移動劇本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346285/?quality=12&learn=on)

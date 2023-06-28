@@ -1,31 +1,31 @@
 ---
-title: 了解電子郵件警報和校樣通知
-description: 了解以下主題中的電子郵件警報與校樣通知之間的差異： [!DNL  Workfront].
+title: 瞭解電子郵件提醒和校樣通知
+description: 瞭解中的電子郵件提醒與校樣通知之間的差異 [!DNL  Workfront].
 feature: Workfront Proof
 type: Tutorial
 role: User
 level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
-kt: 10174
+jira: KT-10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# 了解電子郵件警報和校樣通知
+# 瞭解電子郵件提醒和校樣通知
 
-電子郵件警報與校樣通知電子郵件不同。 當您被指派新校樣以進行檢閱、校樣延遲或有新版校樣供您查看時，您會收到校樣通知電子郵件。
+電子郵件警報與校樣通知電子郵件不同。 當您將新校訂指派給您審閱、校訂延遲，或當有新版本的校訂供您檢視時，您將收到校訂通知電子郵件。
 
-![校樣通知電子郵件的影像，指出有要檢閱的新校樣。](assets/email-alert-1.png)
+![表示有新校訂要稽核的校訂通知電子郵件影像。](assets/email-alert-1.png)
 
-如果您在上傳校樣時關閉通知選項，則不會有人收到來自 [!DNL Workfront] 有新證據可供審查。
+如果您在上傳校樣時關閉通知選項，則沒有人會收到來自的任何通訊 [!DNL Workfront] 有新校訂可供檢閱的相關資訊。
 
-電子郵件警報是根據審核者/核准者來設定，最常是在校樣上傳時設定。 系統會為您的校樣收件者指派預設的電子郵件警報類型，因此您不必在每次上傳校樣時都加以設定。 請與系統管理員聯繫，了解如何設定這些預設值。
+電子郵件警報是每個檢閱者/核准者設定的，最常見的是當校樣上傳時。 預設電子郵件警報型別可能會指派給校樣收件者，因此您不需要每次上傳校樣時都進行設定。 請洽詢您的系統管理員，瞭解如何設定這些預設值。
 
-![電子郵件警報的影像，指出已對校樣做出決定，且有要檢閱的留言。](assets/email-alert-2.png)
+![電子郵件警示的影像，指出校樣已做出決定且有評論要檢閱。](assets/email-alert-2.png)
 
 即使電子郵件警報設定為 [!UICONTROL 已停用]，校樣收件者仍會收到新校樣或版本的通知。
 

@@ -1,12 +1,12 @@
 ---
 title: 讓專案上線
-description: 此影片可讓您了解如何使用專案狀態讓專案上線。
+description: 在本影片中，瞭解如何使用專案狀態讓專案上線。
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 讓專案上線
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
 * 使用專案狀態讓您的專案上線
 

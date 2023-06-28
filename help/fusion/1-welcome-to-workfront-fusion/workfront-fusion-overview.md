@@ -1,15 +1,15 @@
 ---
 title: Workfront Fusion培訓概述
-description: 了解Adobe Workfront Fusion活動手冊，以及如何取得Workfront測試硬碟帳戶。
+description: 瞭解Adobe Workfront Fusion活動手冊以及如何取得Workfront試用帳戶。
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11035
+jira: KT-11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -18,44 +18,44 @@ ht-degree: 0%
 
 # Workfront Fusion培訓概述
 
-每個Workfront Fusion小節都包含多個教學課程，每個教學課程都會呈現您在前往下一個教學課程之前需要了解的概念。 逐步練習可協助您掌握大部分概念。
+每個Workfront Fusion區段都包含多個教學課程，每個教學課程都會介紹進入下一個教學課程之前需要瞭解的概念。 逐步解說練習可協助您掌握大部分的概念。
 
-影片會示範如何完成每個逐步練習，這通常會導致建立新的Workfront Fusion案例。 接著，您可以在自己的Workfront Fusion環境中完成本練習，並新增至您自己的案例集合。
+影片會說明如何完成每個逐步解說練習，這通常會導致建立新的Workfront Fusion案例。 然後，您可以在自己的Workfront Fusion環境中完成練習，將新增到您自己的情境集合中。
 
-在某些教學課程中，您將從頭開始建立新案例。 在其他教學課程中，您會先製作先前建立之案例的復本。
+在某些教學課程中，您會從頭開始建立新情境。 在其他教學課程中，您首先會複製您先前建立的情境。
 
 >[!IMPORTANT]
 >
->請務必依序完成每個教學課程，以便在您需要製作副本時提供正確的案例。
+>請務必依序完成每個教學課程，以便在您需要製作副本時可以使用正確的情境。
 
-## 培訓資源與Workfront Fusion
+## 訓練資源與存取Workfront Fusion
 
-### 要求Workfront測試硬碟
+### 請求Workfront試用版
 
-若要完成Workfront Fusion學習路徑中的練習，您需要Workfront測試硬碟。 如果您已有測試驅動器，則我們建議為此培訓使用新的驅動器。
+若要完成Workfront Fusion學習路徑中的練習，您需要使用Workfront試用版。 如果您已經有試用版，我們建議您將新版用於此訓練。
 
-填寫以要求實務環境 [此表單](https://forms.office.com/r/f1J8HRGrNY). 如果您無法存取表單，請將您的姓名、電子郵件地址和公司名稱傳送至wfttstdr@adobe.com。
+透過填寫來請求實踐環境 [此表單](https://forms.office.com/r/f1J8HRGrNY). 如果您無法存取表單，請將您的姓名、電子郵件地址和公司名稱傳送至wfttstdr@adobe.com。
 
-### 存取Workfront Fusion以利實踐
+### 存取Workfront Fusion以取得實務
 
-Workfront不提供Workfront Fusion測試硬碟。 若要在您完成教學課程時加以實務，請向貴組織的Workfront Fusion管理員要求存取Workfront Fusion。
+Workfront不提供Workfront Fusion測試磁碟機。 若要在完成教學課程後進行練習，請向您組織的Workfront Fusion管理員請求對Workfront Fusion的存取權。
 
-### 完成逐步說明練習的逐步指示
+### 完成逐步解說練習的逐步指示
 
-完成逐步練習的逐步指示。 您可以從左側導覽列的「融合>練習」下存取這些內容，或使用逐步教學課程底部的連結。
+提供完成逐步解說練習的逐步指示。 您可以從「Fusion >練習」下方的左側導覽列存取這些內容，或使用逐步解說教學課程底部提供的連結。
 
-### 選用實務練習
+### 選擇性練習練習
 
-一些逐步練習後會提供實務練習和挑戰。
+部分逐步解說練習後，將提供練習和挑戰。
 
-解決練習的方法有很多種。 其目的是要挑戰您，讓您在沒有步驟可遵循或「正確答案」的情況下，嘗試達成藍本目標，因為這是您在公司建立藍本時需要做的事情。
+有多種不同的方法可解決這些實務練習。 其目的是要挑戰您嘗試達成案例目標，而不需要遵循步驟或「正確答案」，因為這是您在公司建立案例時需要做的事。
 
-練習與逐步練習有關。
+此練習練習與逐步解說活動有關。
 
-挑戰在於那些想嘗試一些與他們學到的其他概念有關的東西的人。
+挑戰在於那些想要嘗試與他們所學到的其他概念相關的東西的人。
 
 ### 如何取得協助
 
-提供逐步指示以協助您完成逐步練習。
+提供逐步指示，以協助您完成逐步解說練習。
 
-此外， [Workfront Fusion 2.0社區](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) 您可以在此張貼問題。
+此外， [Workfront Fusion 2.0社群](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) 您可以在此張貼問題。

@@ -1,6 +1,6 @@
 ---
-title: 了解 [!UICONTROL 增強的Analytics]
-description: 了解如何從KPI資料中獲得關於目前狀況以及過去趨勢的價值。
+title: 瞭解中的KPI [!UICONTROL 增強型分析]
+description: 瞭解如何從KPI資料取得價值，瞭解目前的情況以及過去的趨勢。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -8,28 +8,28 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8728
+jira: KT-8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# 了解 [!UICONTROL 增強的Analytics]
+# 瞭解中的KPI [!UICONTROL 增強型分析]
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
-* 如何從KPI資料獲取價值
+* 如何從KPI資料取得價值
 
 >[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12&learn=on)
 
 ## 比較KPI
 
-KPI不僅能提供目前所發生情況的寶貴資訊，而且能讓使用者比較活動隨時間的變更，或比較產品組合、方案、專案擁有者或任何其他使用的篩選器之間的差異。
+KPI不僅針對目前所發生的情況提供寶貴資訊，也讓使用者能夠比較活動在一段時間內的變化，或比較專案組合、計畫、專案所有者或任何其他使用的篩選器之間的差異。
 
-![並排顯示兩個瀏覽器分頁的影像](assets/section-2-0.png)
+![同時顯示兩個瀏覽器標籤的影像](assets/section-2-0.png)
 
-例如，您可以在兩個瀏覽器分頁中提取分析，以比較KPI。
+例如，您可以在兩個瀏覽器標籤中調出分析資料，以比較KPI。

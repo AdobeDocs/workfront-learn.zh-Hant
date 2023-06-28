@@ -1,6 +1,6 @@
 ---
-title: 了解流量請求的設定
-description: 了解中的請求流程處理方式 [!DNL  Workfront] 工作。 然後建立路由規則、主題組和隊列主題。
+title: 瞭解流量請求的設定
+description: 瞭解中的請求流程處理方式 [!DNL  Workfront] 有效。 然後建立路由規則、主題群組和佇列主題。
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -8,21 +8,21 @@ role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335222.jpeg
-kt: 8959
+jira: KT-8959
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# 了解流量請求的設定
+# 瞭解流量請求的設定
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
-* 隊列管理專用的請求流進程
-* 如何建立和使用路由規則、主題組和隊列主題
+* 佇列管理特定的請求流程處理
+* 如何建立和使用路由規則、主題群組和佇列主題
 
 >[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)

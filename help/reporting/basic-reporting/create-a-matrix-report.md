@@ -1,6 +1,6 @@
 ---
 title: 建立矩陣報表
-description: 了解矩陣報表何時有用，以及如何在Workfront中建立矩陣報表。
+description: 瞭解矩陣報表何時有用，以及如何在Workfront中建立矩陣報表。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,10 +8,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
-kt: 8861
+jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -20,35 +20,35 @@ ht-degree: 0%
 
 # 建立矩陣報表
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
-* 矩陣報表可能有用時
+* 矩陣報表何時有用
 * 以及如何建立矩陣報表
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
 ## 活動：建立矩陣報表
 
-建立矩陣報表，依請求佇列排序，顯示每個狀態中有多少個請求。 這可以快速了解工作量，以及您如何跟上進度。
+建立矩陣報表，顯示每個狀態有多少請求，並按請求佇列排序。 這可讓您快速瞭解需要完成的工作量，以及您跟進工作的程度。
 
-您希望請求佇列在列群組中顯示。 狀態顯示為列分組。 將報表命名為「依狀態和請求佇列的請求」。
+您希望請求佇列出現在列分組中。 狀態會顯示為欄群組。 將報表命名為「依狀態的要求與要求佇列」。
 
-## 回答
+## 答案
 
-1. 選擇 **[!UICONTROL 報表]** 從 **[!UICONTROL 主菜單]**.
-1. 按一下 **[!UICONTROL 新增報表]** 選項，然後選取 **[!UICONTROL 問題]**.
-1. 前往 **[!UICONTROL 分組]** 按一下 **[!UICONTROL 切換到矩陣分組]**.
-1. 針對 [!UICONTROL 列分組]，選取 **[!UICONTROL 專案]** > **[!UICONTROL 名稱]**.
-1. 針對 [!UICONTROL 欄分組]，選取 **[!UICONTROL 問題]** > **[!UICONTROL 狀態]**.
+1. 選取 **[!UICONTROL 報表]** 從 **[!UICONTROL 主要功能表]**.
+1. 按一下 **[!UICONTROL 新報告]** 選項並選取 **[!UICONTROL 問題]**.
+1. 前往 **[!UICONTROL 群組]** 標籤並按一下 **[!UICONTROL 切換至矩陣群組]**.
+1. 對象 [!UICONTROL 列群組]，選取 **[!UICONTROL 專案]** > **[!UICONTROL 名稱]**.
+1. 對象 [!UICONTROL 欄分組]，選取 **[!UICONTROL 問題]** > **[!UICONTROL 狀態]**.
 
-   ![建立新問題報告分組的螢幕影像](assets/matrix-report-groupings.png)
+   ![建立新問題報告分組的畫面影像](assets/matrix-report-groupings.png)
 
 1. 前往 **[!UICONTROL 篩選器]** 標籤。
-1. 若要確定您在使用中的請求佇列中只看到請求，請新增下列篩選規則：
+1. 若要確定您只看到作用中請求佇列中的請求，請新增下列篩選規則：
 
-   * [!UICONTROL 專案] > [!UICONTROL 狀態等於] > [!UICONTROL 等於] > [!UICONTROL 目前]
-   * [!UICONTROL 隊列定義] > [!UICONTROL 為公用] > [!UICONTROL 不等於] > [!UICONTROL 無] （這是我們如何得知專案實際上是請求佇列，由「佇列定義」指派給其中一個公用選項。）
+   * [!UICONTROL 專案] > [!UICONTROL 狀態等同於] > [!UICONTROL 等於] > [!UICONTROL 目前]
+   * [!UICONTROL 佇列定義] > [!UICONTROL 為公開] > [!UICONTROL 不等於] > [!UICONTROL 無] （這就是我們如何知道專案實際上是一個請求佇列，透過將佇列定義指派給其中一個公用選項。）
 
-1. 按一下 **[!UICONTROL 儲存+關閉]**. 提示輸入報表名稱時，請輸入「依狀態和請求佇列的請求」。
+1. 按一下 **[!UICONTROL 儲存+關閉]**. 當系統提示您輸入報表名稱時，請輸入「按狀態的請求和請求佇列」。
 
-   ![建立新問題報告篩選器的螢幕影像](assets/matrix-report-filters.png)
+   ![建立新問題報告篩選器的畫面影像](assets/matrix-report-filters.png)

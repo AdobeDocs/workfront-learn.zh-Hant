@@ -1,6 +1,6 @@
 ---
-title: 檢閱並核准校樣
-description: 了解如何存取校樣並加上註解、使用標籤來指出必要的變更、回覆校樣註解，以及在 [!DNL Workfront].
+title: 檢閱及核准證明
+description: 瞭解如何存取和評論校訂、使用標籤指示必要的變更、回覆校訂評論，以及針對中的校訂做出決定 [!DNL Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,77 +8,77 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: review-approve-digital-work.png
-kt: 8841
+jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-# 檢閱並核准校樣
+# 檢閱及核准證明
 
-在開始審查證明之前，請務必了解您的期望。 您在校對工作流程中的角色為何？ 審查校樣、批准校樣，還是兩者都批准？
+開始檢閱校訂之前，請確定您知道對您的期望。 您在校訂工作流程中的角色為何？ 檢閱證明、核准證明，或兩者皆核准？
 
-作為副本編輯者，你的重點可能是審查語法錯誤和拼寫錯誤的證據。 行銷和創意團隊可能會專注於資產的設計，並確保遵循企業品牌。 法律小組可確保服務合同的措辭是無懈可擊的。 而項目經理可能會確保被審核的內容符合與其關聯的項目的目的和目標。
+身為文案編輯者，您的重點可能是檢閱文法錯誤和拼字錯誤的校訂。 行銷和創意團隊可能會專注於資產的設計並確保遵循企業品牌。 法律團隊可確保服務合約的措辭嚴謹。 而專案經理可能會確保所檢閱的內容符合其所關聯專案的意圖和目標。
 
-可能也會要求您核准校樣。 批准證明意味著你在說，「這個工作沒問題，隨時可以走。」 或者，您可能不得不說，「這項工作需要進行變更，請將其傳回以進行修訂。」
+系統可能會要求您也核准證明。 核准校訂表示您說：「此工作正常，可以開始。」 或者，您可能必須說：「此工作需要變更，請將其傳回以進行修訂。」
 
-一旦您知道預期的內容，就能開始檢閱證明。
+知道預期情況後，您就可以開始檢閱校訂。
 
-## 接收校樣以進行審核
+## 接收校訂以供檢閱
 
-當資產準備好進行審核和核準時，您會收到電子郵件通知。
+當資產準備好供檢閱和核準時，您將會收到電子郵件通知。
 
-![新校樣電子郵件的影像，要求檢閱和核准 [!DNL  Workfront].](assets/new-proof-emails.png)
+![新校訂電子郵件的影像，要求稽核和核准中的兩個校訂 [!DNL  Workfront].](assets/new-proof-emails.png)
 
-請務必注意，此校樣連結是您專屬的。 如果您與某人共用連結，則他們所做的任何注釋和標注都會以您的名稱進行標籤。
+請務必注意，此校訂連結是您專屬的。 如果您與某人共用連結，他們所做的任何評論和標示都會以您的名稱標籤。
 
-此 [!UICONTROL 新校樣] 電子郵件也包含校樣的基本資訊：
+此 [!UICONTROL 新校訂] 電子郵件也包含有關校樣的基本資訊：
 
-* 校樣的名稱是電子郵件的主旨行。
-* 縮圖可讓您快速查看要檢閱的內容。
-* 版本號碼可讓您知道要查看的校樣版本。
-* 最重要的是，截止日期會顯示在電子郵件中的兩個位置，就在校樣詳細資訊區段的正上方，以及您所屬的工作流程階段的灰色列。
+* 校訂的名稱是電子郵件的主旨行。
+* 縮圖可讓您快速檢視要檢閱的內容。
+* 版本號碼可讓您知道您將檢視哪個版本的校訂。
+* 而且最重要的是，截止日期會顯示在電子郵件中的兩個位置 — 在校樣詳細資訊區段的正上方，以及您所屬工作流程階段的灰色列。
 
-準備好開始審核後，您只需按一下藍色 [!UICONTROL 前往校樣] 按鈕，檔案將自動開啟到 [!DNL Workfront’s] 校對檢視器。
+準備好開始評論後，只需按一下藍色即可 [!UICONTROL 前往校訂] 按鈕和檔案會自動開啟到 [!DNL Workfront’s] 校訂檢視器。
 
-### 從 [!UICONTROL 首頁]
+### 開啟校樣來源 [!UICONTROL 首頁]
 
-如果你在 [!DNL Workfront] 並且被要求核准校樣，您會在 [!UICONTROL 工作清單] of [!DNL Workfront] [!UICONTROL 首頁]. 只選擇 [!UICONTROL 核准] 從 [!UICONTROL 篩選]，這樣您就能專注於這類工作。
+如果您在 [!DNL Workfront] 並且已被要求核准一個校訂，您將會在 [!UICONTROL 工作清單] 之 [!DNL Workfront] [!UICONTROL 首頁]. 選取「 」很有幫助 [!UICONTROL 核准] 從 [!UICONTROL 篩選]，讓您專心處理這類工作。
 
-![的影像 [!DNL Workfront] [!UICONTROL 首頁] 和 [!UICONTROL 核准] 已啟用篩選，並從清單中選取校樣。](assets/open-proof-from-home.png)
+![的影像 [!DNL Workfront] [!UICONTROL 首頁] 使用 [!UICONTROL 核准] 篩選器已啟用，並從清單中選取校訂。](assets/open-proof-from-home.png)
 
-請務必注意，校樣會顯示在 [!DNL Workfront] [!UICONTROL 首頁] 只有在您被指派核準時才可以。 如果您剛被要求僅檢閱證明，則不會顯示在 [!DNL Workfront] [!UICONTROL 首頁] 選取時間 [!UICONTROL 核准 ]從篩選清單。
+請務必注意，校樣會出現在 [!DNL Workfront] [!UICONTROL 首頁] 只有在您被指派核準時。 如果您僅被要求檢閱校訂，它將不會出現在 [!DNL Workfront] [!UICONTROL 首頁] 當您選取 [!UICONTROL 核准]從篩選器清單中選取。
 
-在 [!UICONTROL 工作清單]，然後按一下 [!UICONTROL 前往校樣] 連結以開啟至校對檢視器。
+選取中的校訂核准 [!UICONTROL 工作清單]，然後按一下 [!UICONTROL 前往校訂] 連結以在校訂檢視器中開啟它。
 
-根據貴組織的校樣和專案工作流程，您可能會在 [!DNL Workfront] [!UICONTROL 首頁] 而非校樣核准請求。 在這種情況下，您會從 [!UICONTROL 檔案] 任務本身的部分（有關說明，請參閱下文）。
+根據您組織的校訂和專案工作流程，您可能會在中看到任務指派 [!DNL Workfront] [!UICONTROL 首頁] 而不是校訂核准請求。 在此案例中，您會從以下位置開啟校樣： [!UICONTROL 檔案] 任務本身的區段（如需指示，請參閱下文）。
 
-您也可以在 [!DNL Workfront] 專為您的團隊或組織建立的控制面板，以協助管理校樣工作流程。
+您也可以在以下位置找到要檢閱的校訂： [!DNL Workfront] 專為您的團隊或組織建立的儀表板，用於協助管理校訂工作流程。
 
-### 從專案、任務或問題開啟校樣
+### 開啟專案、任務或問題的校訂
 
-如果您通常在 [!DNL Workfront]，您可能偏好直接從 [!DNL Documents] 該項目的部分。
+如果您通常處理中的專案、任務或問題 [!DNL Workfront]，您可能偏好直接從以下位置開啟校樣： [!DNL Documents] 區段。
 
-![的影像 [!UICONTROL 檔案] 在 [!DNL  Workfront] 任務 [!UICONTROL 開啟校樣 ]反白顯示連結。](assets/open-proof-from-documents.png)
+![的影像 [!UICONTROL 檔案] 區段位於 [!DNL  Workfront] 任務 [!UICONTROL 未完成的校訂]連結反白顯示。](assets/open-proof-from-documents.png)
 
 1. 按一下專案、任務或問題的名稱。
-2. 按一下 [!UICONTROL 檔案] 在項目頁面的左側面板功能表中。
-3. 在 [!UICONTROL 檔案] 清單。
-4. 按一下 [!UICONTROL 開啟校樣] 連結以開啟校對檢視器。
+2. 按一下 [!UICONTROL 檔案] 在專案頁面的左側面板選單中。
+3. 在下列位置尋找證明： [!UICONTROL 檔案] 清單。
+4. 按一下 [!UICONTROL 未完成的校訂] 開啟校樣檢視器的連結。
 
-## 檢閱並核准校樣
+## 檢閱及核准證明
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 知道在審查證據時
-* 對校樣發表評論
-* 使用標籤指示校樣上需要的更改
-* 回覆校樣留言
-* 批准或拒絕校樣
+* 瞭解檢閱校訂時的期望
+* 對校訂進行評論
+* 使用標籤來指示校訂上所需的變更
+* 回覆校訂評論
+* 核准或拒絕證明
 
 >[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on)
 

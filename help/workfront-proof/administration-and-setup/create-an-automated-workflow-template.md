@@ -1,6 +1,6 @@
 ---
 title: 建立自動化工作流程範本
-description: 了解如何指派校樣收件者並設定校樣截止時間，借此建立自動化的工作流程範本。 然後，與其他使用者共用範本。
+description: 瞭解如何透過指派校樣收件者和設定校樣截止日期來建立自動化工作流程範本。 然後與其他使用者共用範本。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335130.png
-kt: 8830
+jira: KT-8830
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -20,22 +20,22 @@ ht-degree: 0%
 
 # 建立自動化工作流程範本
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 為 [!DNL  Workfront] 打
+* 建立自動化工作流程範本，用於 [!DNL  Workfront] 校訂
 * 指派校樣收件者
-* 設定審核和審批流程的截止日期
+* 設定檢閱和核准程式期限
 * 與其他人共用自動化工作流程範本
 
 >[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on)
 
-## 其他階段激活選項
+## 其他階段啟用選項
 
-用於決定校對工作流程階段何時應開始的兩個選項很少使用（如果有的話）:the [!UICONTROL 日期和時間] 選項和「[!UICONTROL 上一階段截止日期過後]」。
+很少使用兩個選項來決定校訂工作流程階段何時應該開始（如果有的話）： [!UICONTROL 日期與時間] 選項和&quot;[!UICONTROL 當上一個階段的截止日期過去時]」選項。
 
-第二個選項只適用於有大量人員檢閱，而您不想等待所有人的情況。 這有點像「我會給你一定時間完成你的審核，然後你失去機會」。 但即便如此，審查過程也可能因此變慢。
+第二個選項真的只適用於您有大量人員檢閱且您不想等待所有人員檢閱的情況。 這有點像是「我會給你一些時間來完成您的評論，然後您就會失去機會」選項。 但即使如此，也可能會減慢稽核流程的速度。
 
-如果您確實使用「[!UICONTROL 上一階段的截止時間]，」請務必記住，如果您不想等待最後期限過去，您可以隨時手動啟動階段。
+如果您確實使用「[!UICONTROL 當上一個階段的截止日期過去時]」，請務必記住，如果您不想等待截止日期過去，可以隨時手動啟用階段。
 
 <!--
 Lean More URLs

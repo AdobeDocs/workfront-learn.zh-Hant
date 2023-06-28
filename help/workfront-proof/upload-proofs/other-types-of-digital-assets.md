@@ -1,6 +1,6 @@
 ---
-title: 上傳影片校樣
-description: 了解如何上傳影片以在 [!DNL  Workfront].
+title: 上傳視訊的證明
+description: 瞭解如何上傳視訊以進行校樣 [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -8,45 +8,45 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: upload-a-proof-video.png
-kt: 10176
+jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-# 上傳影片校樣
+# 上傳視訊的證明
 
-[!DNL Workfront’s] 校對功能不僅適用於PDF、試算表或影像等靜態檔案。 [!DNL Workfront] 支援超過150種檔案類型，包括大小高達4GB的視訊和Web捕獲。
+[!DNL Workfront’s] 校訂功能不只適用於PDF、試算表或影像等靜態檔案。 [!DNL Workfront] 支援超過150種檔案型別，包括大小最多4GB的視訊和網頁擷取。
 
-請記住，要上傳較大的檔案需要更久的時間。 開始大型上傳之前，請確定您的網際網路連線穩定，因為中斷可能會終止上傳程式。
+請記住，上傳大型檔案需要更長的時間。 由於中斷可能會終止上傳程式，在開始大量上傳之前，請確認您的網際網路連線是否穩定。
 
 <!-- For a complete list of uploadable file types, see the article, Supported proofing file types. -->
 
-[!DNL Workfront’s] 校樣檢視器是檢閱和核准影片檔案的理想場所。 校樣收件者可以直接在校樣檢視器中播放影片。 註解會加上時間戳記，因此您確切知道註解要參照的影片部分。 校樣收件者甚至可以使用標籤工具，並直接在暫停的視訊上畫圖。
+[!DNL Workfront’s] 校訂檢視器是檢閱和核准視訊檔案的理想場所。 校樣收件者可以在校樣檢視器中播放視訊。 註解會加上時間戳記，因此您可以清楚知道註解指的是視訊的哪一部分。 校樣收件者甚至可以使用標籤工具，並直接在暫停的視訊上繪圖。
 
-支援的視訊類型包括MOV、MP4和H.264。 <!-- Check the supported file types list to make sure the video type you use is compatible with Workfront’s proofing features.-->
+支援的視訊型別包括MOV、MP4和H.264。 <!-- Check the supported file types list to make sure the video type you use is compatible with Workfront’s proofing features.-->
 
-![視頻校樣檔案上的標籤影像。](assets/upload-a-proof-of-a-video.png)
+![視訊校樣檔案上的標籤影像。](assets/upload-a-proof-of-a-video.png)
 
-上傳影片至 [!DNL Workfront] 執行的步驟與上傳靜態檔案相同。
+上傳視訊於 [!DNL Workfront] 會遵循與上傳靜態檔案相同的步驟。
 
-* 開啟應上傳至的專案、工作或發佈影片。
-* 選擇 [!UICONTROL **檔案**] 的上界。
-* 從 [!UICONTROL **新增** ]按鈕，選擇 [!UICONTROL **校樣**].
+* 開啟視訊應上傳至的專案、任務或問題。
+* 選取 [!UICONTROL **檔案**] 從左側面板選單。
+* 從 [!UICONTROL **新增**]&#x200B;按鈕，選取 [!UICONTROL **證明**].
 * 將視訊檔案拖放至上傳區域或使用瀏覽功能。
-* 指派基本或自動化的工作流程。
-* 設定最後期限。
-* 按一下 [!UICONTROL **建立校樣**] 完成。
+* 指派基本或自動化工作流程。
+* 設定期限。
+* 按一下 [!UICONTROL **建立校訂**] 完成。
 
-## 該你了
+## 輪到你了
 
 >[!IMPORTANT]
 >
->別忘了提醒同事，您會在Workfront訓練中向他們傳送校樣。
+>別忘了提醒您的同事，作為Workfront培訓的一部分，您向他們傳送了證明。
 
 
-如果您有可用的視訊檔案，請將其上傳至Workfront中的實務專案、工作或問題。 應用與通常使用的工作流相似的基本或自動化工作流，或者應用實際工作流（如果您已經知道它是什麼）。
+如果您有可用的視訊檔案，請將其上傳到Workfront中的練習專案、任務或問題。 套用基本或自動化工作流程（類似於您通常使用的工作流程），或套用實際的工作流程（如果您已知道它是什麼）。
 

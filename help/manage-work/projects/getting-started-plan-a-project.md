@@ -1,6 +1,6 @@
 ---
 title: 開始規劃專案
-description: 了解專案的五個主要元件、狀態代表的意義、方式 [!UICONTROL 檢視] 可協助您查看相關資訊，以及如何設定開始日期或到期日。
+description: 瞭解專案的五個主要元件、狀態表示什麼、如何 [!UICONTROL 檢視] 可協助您檢視相關資訊，以及如何設定開始或到期日。
 activity: use
 feature: Work Management
 thumbnail: 335086.jpeg
@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8772
+jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # 開始規劃專案
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
 * 專案的五個主要元件
-* 規劃狀態表示什麼
-* 如何 [!UICONTROL 檢視] 可協助您查看所需資訊
+* Planning狀態所代表的意義
+* 如何 [!UICONTROL 檢視] 可協助您檢視所需的資訊
 * 如何設定開始或完成日期
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)

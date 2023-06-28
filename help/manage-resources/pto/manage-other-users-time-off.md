@@ -1,43 +1,43 @@
 ---
-title: 管理其他用戶的休假
-description: 了解經理和其他領導如何管理團隊的日程安排。
+title: 管理其他使用者的休假
+description: 瞭解經理和其他主管如何管理團隊的休假行事曆。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
-kt: 10181
+jira: KT-10181
 exl-id: f2f0f897-939c-45d1-8a3d-037d92d86b79
-source-git-commit: 02bc5a09a838be6d98c9b746bff731236ee4116f
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-# 管理其他使用者的休假時間
+# 管理其他使用者的休假
 
-如果經理或其他領導通過其Workfront訪問級別分配了「編輯用戶」權限，則他們可以管理其團隊成員的超時日曆。 存取層級是由Workfront系統管理員建立並指派。
+如果經理或其他領導擁有透過其Workfront存取層級指派的「編輯使用者」許可權，就可以管理其團隊成員的休假行事曆。 存取層級是由Workfront系統管理員建立和指派。
 
-Workfront建議貴組織制定管理員更新員工個人日曆時間的政策或程式。
+Workfront建議貴組織訂有經理更新員工個人休假行事曆時的原則或程式。
 
 ![主功能表中的使用者](assets/mouto_01.png)
 
-要管理其他用戶的日曆：
+若要管理其他使用者的行事曆：
 
-* 按一下 [!UICONTROL 主菜單] 並選擇用戶。
+* 按一下 [!UICONTROL 主要功能表] 並選取「使用者」。
 
-* 使用搜索表徵圖查找用戶或滾動查看清單。
+* 使用搜尋圖示來尋找使用者或捲動清單。
 
-* 在清單中按一下使用者的名稱。
+* 按一下清單中的使用者名稱。
 
-* 按一下 [!UICONTROL 關閉時間] ，位於使用者設定檔頁面的左側面板功能表中。
+* 按一下 [!UICONTROL 休假] 在使用者設定檔頁面的左側面板選單中。
 
-* 按一下日曆上的日期。
+* 按一下行事曆上的日期。
 
-* Workfront假了一整天。 如果是，請繼續按一下 [!UICONTROL 儲存] 按鈕。
+* Workfront假設有一天的休假。 如果是這種情況，請繼續並按一下 [!UICONTROL 儲存] 按鈕。
 
-* 連續多天休假，將「截止」日期更改為離職的最後一天。 按一下 [!UICONTROL 儲存] 按鈕。
+* 連續多天休假，請將「結束日期」變更為「休假日」。 按一下 [!UICONTROL 儲存] 按鈕。
 
-* 如果將部分日標籤為「關閉」，請取消選中 [!UICONTROL 全天] 框。 然後指出使用者當天的工作時間（可用的時間）。 按一下 [!UICONTROL 儲存] 按鈕。
+* 如果標示為部分休假，請取消勾選 [!UICONTROL 全天] 方塊。 然後指出使用者當天將工作的時數（可使用的時數）。 按一下 [!UICONTROL 儲存] 按鈕。

@@ -1,11 +1,11 @@
 ---
 title: 所需時數
-description: 此影片會說明Workfront中的計畫時數、為什麼計畫時數對您的專案很重要，以及如何將計畫時數新增至工作
+description: 在本影片中，瞭解Workfront中的計畫時數、計畫時數為何對您的專案很重要、如何為任務新增計畫時數
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 6%
@@ -14,10 +14,10 @@ ht-degree: 6%
 
 # 所需時數
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 在Workfront的計畫時間
-* 為什麼計畫時間對您的項目很重要
-* 如何將計畫小時數添加到任務
+* Workfront中有哪些計畫時數
+* 為什麼計畫時數對您的專案很重要
+* 如何將計畫時數新增至任務
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)

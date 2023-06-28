@@ -1,6 +1,6 @@
 ---
-title: 編輯校樣工作流程
-description: 了解如何更新校樣截止時間、將使用者新增至現有的工作流程，以及將現有的工作流程切換至中的自動化工作流程 [!DNL  Workfront].
+title: 編輯校訂工作流程
+description: 瞭解如何更新校訂期限、將使用者新增至現有工作流程，以及在中將現有工作流程切換至自動化工作流程 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,34 +8,34 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335138.png
-kt: 8838
+jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-# 編輯校樣工作流程
+# 編輯校訂工作流程
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 更新校樣截止日期
-* 將使用者新增至現有的工作流程
+* 更新校訂期限
+* 將使用者新增至現有工作流程
 * 將現有工作流程切換為自動化工作流程
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
 
-## 該你了
+## 輪到你了
 
 >[!IMPORTANT]
 >
->別忘了提醒指派給校樣工作流程的同事，您正在使用校樣，做為Workfront訓練的一部分。
+>別忘了提醒任何指派到校訂工作流程的同事，您正在使用校訂作為您Workfront培訓的一部分。
 
-1. 尋找您上傳至Workfront的校樣。 使用「校對工作流」窗口執行以下操作：將截止日期推遲一天，並將審核者變更為審核者和核准者。
-1. 確認校樣已指派自動化工作流程，然後新增範本至校樣。
+1. 尋找您上傳至Workfront的證明。 使用「校訂工作流程」視窗執行下列作業：將截止日期推後一天，並將「稽核者」變更為「稽核者和核准者」。
+1. 確保校訂已指派自動化工作流程，然後將範本新增到校訂中。
 
 
 

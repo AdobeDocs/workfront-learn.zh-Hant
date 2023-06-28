@@ -1,38 +1,38 @@
 ---
-title: 簡介 [!UICONTROL Workfront DAM]
-description: 了解如何搜尋和檢視資產，並探索資料夾結構如何影響資產組織和存取，位於 [!UICONTROL Workfront DAM].
+title: 簡介 [!UICONTROL WORKFRONT DAM]
+description: 瞭解如何搜尋和檢視資產，並探索檔案夾結構如何影響中的資產組織和存取 [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 team: Technical Marketing
-kt: 8965
+jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
-# 系統設定：簡介 [!UICONTROL Workfront DAM]
+# 系統設定：簡介 [!UICONTROL WORKFRONT DAM]
 
-[!UICONTROL Workfront DAM] 是數位資產管理(DAM)解決方案，專為管理、控制及發佈行銷和創意資產而打造。 它可與您在中已有的工作流程搭配使用 [!DNL Workfront]，您可以在此管理項目、任務分配和其他工作。 使用 [!DNL Workfront] 建立資產請求，然後管理資產的生產和審閱。 使用組織、儲存及分發已完成和已核准的資產 [!UICONTROL Workfront DAM].
+[!UICONTROL WORKFRONT DAM] 是數位資產管理(DAM)解決方案，專為管理、控制和發佈您的行銷和創意資產而設計。 此工作流程可與您已擁有的工作流程搭配使用 [!DNL Workfront]，您可在此管理專案、任務指派和其他工作。 使用 [!DNL Workfront] 以建立資產請求，然後管理資產的製作和檢閱。 使用策劃、儲存和分發已完成和已核准的資產 [!UICONTROL WORKFRONT DAM].
 
 
-作為系統管理員，您負責設定 [!UICONTROL Workfront DAM] 並維護它。 您需要相關人員提供其程式的深入分析，以便為他們提供符合其需求的系統。 這些利害關係人可能包括：
+作為系統管理員，您負責設定 [!UICONTROL WORKFRONT DAM] 並加以維護。 您需要利害關係人提供對其流程的深入分析，以便為他們提供符合其需求的系統。 這些利害關係人可能包括：
 
 * 內部客戶，例如銷售經理、廣告代表或行銷專家
-* 生產經理
+* 生產管理員
 * 創意總監
 * 創意團隊成員
 
-在此影片中，您會：
+在本影片中，您將：
 
-* 取得 [!UICONTROL Workfront DAM]
-* 搜尋及檢視資產
-* 探索資料夾結構如何影響資產組織和存取
+* 取得的高層級概述 [!UICONTROL WORKFRONT DAM]
+* 搜尋和檢視資產
+* 探索檔案夾結構如何影響資產組織和存取
 
 >[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on)

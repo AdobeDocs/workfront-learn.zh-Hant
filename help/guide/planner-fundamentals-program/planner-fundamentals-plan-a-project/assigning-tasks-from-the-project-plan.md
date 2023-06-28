@@ -1,22 +1,22 @@
 ---
-title: 從項目計劃分配任務
-description: 此影片會說明如何使用內嵌編輯將使用者指派給工作
+title: 從專案計畫指派任務
+description: 在本影片中，瞭解如何使用內嵌編輯將使用者指派至任務
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# 從項目計劃分配任務
+# 從專案計畫指派任務
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 使用行內編輯將用戶分配給任務
+* 使用內嵌編輯將使用者指派至任務
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)

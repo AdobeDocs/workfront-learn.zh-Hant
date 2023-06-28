@@ -8,10 +8,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
-kt: 8859
+jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 11%
@@ -20,34 +20,34 @@ ht-degree: 11%
 
 # 建立任務報告
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
-* 如何使用複雜篩選器建立任務報表
-* 如何尋找您建立的報表
+* 如何使用複雜篩選器建立任務報告
+* 如何尋找您建立的報告
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## 活動：建立附註報告並附上提示
+## 活動：建立具有提示的附註報告
 
-建立「附註」報表，以便根據附註內容、作者、登入日期、專案名稱或稽核類型來搜尋使用者附註（即注釋或更新）或系統附註。 將報表命名為「附註搜尋」。
+根據附註內容、作者、輸入日期、專案名稱或稽核型別，建立可用來搜尋使用者附註（即註解或更新）或系統附註的附註報告。 將報表命名為「附註搜尋」。
 
-使用「注釋文本」提示時，此報告將在更新線程內搜索，以快速提取滿足提示中指定的標準的任何內容。 執行報表時，您不需要填入所有提示，只需填入您關心的提示。 會自動忽略空白的項目。
+使用「註記文字」提示時，此報表會在更新對話串中搜尋，以快速擷取符合提示中所指定條件的任何內容。 執行報告時，您不需要填寫每個提示，只需填寫您關心的提示。 會自動忽略空白字元。
 
-檢視應包含下列欄：
+此檢視應包括下列專案的欄：
 
 * 附註文字
 * 稽核文字
 * 輸入日期
-* 所有者：名稱
+* 擁有者：名稱
 * 稽核類型
 * 任務名稱
 * 問題名稱
 
-將篩選標籤留空。
+篩選器索引標籤請保留空白。
 
-項目名稱組。
+依專案名稱分組。
 
-包括以下提示：
+包含下列內容的提示：
 
 * 稽核文字
 * 附註文字
@@ -56,45 +56,45 @@ ht-degree: 11%
 * 專案名稱
 * 稽核類型
 
-## 回答
+## 答案
 
-1. 選擇 **[!UICONTROL 報表]** 從 **[!UICONTROL 主菜單]**.
-1. 按一下 **[!UICONTROL 新增報表]** 選取 **[!UICONTROL 附註]**.
-1. 在 **[!UICONTROL 欄（檢視）]** 設定要包含的欄：
+1. 選取 **[!UICONTROL 報表]** 從 **[!UICONTROL 主要功能表]**.
+1. 按一下 **[!UICONTROL 新報告]** 功能表並選取 **[!UICONTROL 注意]**.
+1. 在 **[!UICONTROL 欄（檢視）]** 設定欄以包含：
 
-   ![用於建立附註報表列的螢幕影像](assets/note-report-columns.png)
+   ![建立備註報表欄的畫面影像](assets/note-report-columns.png)
 
-   * [!UICONTROL 附註] > [!UICONTROL 附註文字]
-   * [!UICONTROL 附註] > [!UICONTROL 審核文本]
-   * [!UICONTROL 附註] > [!UICONTROL 參加日期]
-   * [!UICONTROL 擁有者] > [!UICONTROL 名稱]
-   * [!UICONTROL 附註] > [!UICONTROL 稽核類型]
+   * [!UICONTROL 注意] > [!UICONTROL 附註文字]
+   * [!UICONTROL 注意] > [!UICONTROL 稽核文字]
+   * [!UICONTROL 注意] > [!UICONTROL 輸入日期]
+   * [!UICONTROL 所有者] > [!UICONTROL 名稱]
+   * [!UICONTROL 注意] > [!UICONTROL 稽核型別]
    * [!UICONTROL 任務] > [!UICONTROL 名稱]
    * [!UICONTROL 問題] > [!UICONTROL 名稱]
 
-1. 選取 **[!UICONTROL 參加日期]** 欄和變更 **[!UICONTROL 排序至降序]**.
-1. 在 **[!UICONTROL 分組]** 索引標籤，將報表設定為群組依據 [!UICONTROL 專案] > [!UICONTROL 名稱].
+1. 選取 **[!UICONTROL 輸入日期]** 欄並變更 **[!UICONTROL 排序至降序]**.
+1. 在 **[!UICONTROL 群組]** 索引標籤中，將報表設定為分組依據 [!UICONTROL 專案] > [!UICONTROL 名稱].
 
-   ![用於建立附註報表分組的螢幕影像](assets/note-report-groupings.png)
+   ![建立備註報表群組的畫面影像](assets/note-report-groupings.png)
 
 1. 離開 [!UICONTROL 篩選器] 空白。
 1. 開啟 **[!UICONTROL 報表設定]** 並將報表命名為「附註搜尋」。
-1. 在 [!UICONTROL 說明] 欄位中，按一下「根據選定的審核類型和其他提示搜索系統或用戶注釋」。 系統注釋顯示在「審核文本」列中，用戶注釋顯示在「注釋文本」列中。
+1. 在 [!UICONTROL 說明] 欄位，輸入類似於「根據所選稽核型別搜尋系統或使用者備註」和其他提示的內容。 系統附註會出現在「稽核文字」欄中，而使用者附註則會出現在「附註文字」欄中。」
 
-   ![要建立附註報表設定的螢幕影像](assets/note-report-report-options.png)
+   ![建立備註報表設定的畫面影像](assets/note-report-report-options.png)
 
-1. 選擇 **[!UICONTROL 詳細資訊標籤]** 以便報表載入時顯示。
-1. 將報表設為在控制面板上納入報表時顯示200個項目。
-1. 按一下 **[!UICONTROL 報表提示]** 並添加：
+1. 選取 **[!UICONTROL 詳細資訊標籤]** 以便在報告載入時顯示。
+1. 將報告設定為當報告包含在儀表板上時顯示200個專案。
+1. 按一下 **[!UICONTROL 報告提示]** 並新增：
 
-   ![要建立附註報告提示的螢幕影像](assets/note-report-report-prompts.png)
+   ![建立備註報告提示的畫面影像](assets/note-report-report-prompts.png)
 
-   * [!UICONTROL 附註] > [!UICONTROL 審核文本]
-   * [!UICONTROL 附註] > [!UICONTROL 附註文字]
-   * [!UICONTROL 擁有者] > [!UICONTROL 名稱]
-   * [!UICONTROL 附註] > [!UICONTROL 參加日期]
+   * [!UICONTROL 注意] > [!UICONTROL 稽核文字]
+   * [!UICONTROL 注意] > [!UICONTROL 附註文字]
+   * [!UICONTROL 所有者] > [!UICONTROL 名稱]
+   * [!UICONTROL 注意] > [!UICONTROL 輸入日期]
    * [!UICONTROL 專案] > [!UICONTROL 名稱]
-   * [!UICONTROL 附註] > [!UICONTROL 稽核類型]
+   * [!UICONTROL 注意] > [!UICONTROL 稽核型別]
 
-1. 勾選 **[!UICONTROL 在控制面板中顯示提示]**.
+1. 勾選方塊 **[!UICONTROL 在儀表板中顯示提示]**.
 1. 儲存並關閉您的報表。

@@ -1,6 +1,6 @@
 ---
-title: 什麼是資源規劃器？
-description: 了解資源規劃器是什麼。
+title: 什麼是資源規劃工具？
+description: 瞭解資源規劃工具是什麼。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -8,21 +8,21 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335167.jpeg
-kt: 8879
+jira: KT-8879
 exl-id: f4d97236-7652-4877-bca3-d935760b6dbc
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# 什麼是 [!DNL Resource Planner]?
+# 什麼是 [!DNL Resource Planner]？
 
-要真正增強人的權能，管理者必須規劃和安排其人的努力。 然而，在試圖捕獲這些資料並按月、按季、甚至每年管理這些資料的同時，找到那些在適當時間擁有適當技能的人是一項重大任務。
+若要真正增強員工的能力，經理必須規劃並排程員工的工作。 然而，在適當的時間尋找具備適當技能的人員，同時嘗試擷取這些資料並每月、每季甚至每年管理這些資料，是一項主要工作。
 
-不過，使用Workfront的資源規劃員，這項工作可能會容易一些。
+不過，使用Workfront的資源規劃工具可讓這項工作輕鬆一點。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on)

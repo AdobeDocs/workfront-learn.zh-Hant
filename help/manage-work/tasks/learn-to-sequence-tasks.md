@@ -1,6 +1,6 @@
 ---
-title: 了解如何排序任務
-description: 了解前身是什麼，以及他們如何將任務排序到專案中。 然後學習如何使用持續時間和前置任務來建立時間軸。
+title: 瞭解如何排序任務
+description: 瞭解前置任務是什麼，以及前置任務在專案中的排序方式。 然後瞭解如何使用持續時間和前置任務來建立時間表。
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -8,24 +8,24 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8778
+jira: KT-8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# 了解如何排序任務
+# 瞭解如何排序任務
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
-* 前任是什麼 [!DNL  Workfront]
-* 前置任務如何排序項目中的任務
-* 如何使用持續時間和前置作業建立時間軸
-* 如何更改或輸入前置任務
+* 前置任務是什麼 [!DNL  Workfront]
+* 前置任務在專案中如何排序任務
+* 如何使用持續時間和前置任務來建立時間表
+* 如何變更或輸入前置任務
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 

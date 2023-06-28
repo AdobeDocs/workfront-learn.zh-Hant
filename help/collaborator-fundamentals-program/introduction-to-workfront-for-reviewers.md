@@ -1,20 +1,20 @@
 ---
-title: 簡介 [!DNL Workfront] 供審閱者
-description: 了解擁有Review許可證的用戶如何使用 [!DNL  Workfront].
+title: 簡介 [!DNL Workfront] 適用於檢閱者
+description: 瞭解擁有檢閱授權的使用者如何使用 [!DNL  Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: 8805
+jira: KT-8805
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
-# 簡介 [!DNL Workfront] 供審閱者
+# 簡介 [!DNL Workfront] 適用於檢閱者
 
-在此影片中，您將了解如何使用 [!DNL  Workfront] 和審核許可證。
+在本影片中，您將瞭解如何使用 [!DNL  Workfront] 擁有檢閱授權。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on)

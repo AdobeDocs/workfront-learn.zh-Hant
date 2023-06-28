@@ -1,6 +1,6 @@
 ---
 title: 尋找您的專案
-description: 了解如何在 [!DNL  Workfront] 使用針、我的最愛、控制面板和 [!UICONTROL 專案] 頁面。
+description: 瞭解如何在中尋找您的專案 [!DNL  Workfront] 使用pin、我的最愛、儀表板和 [!UICONTROL 專案] 頁面。
 activity: use
 feature: Work Management
 thumbnail: find-projects.jpeg
@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8716,8717,8718,8719
+jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 尋找您的專案
 
-Workfront無法為您管理專案，但可讓您洞察所完成的工作。 [!DNL Workfront] 讓您更輕鬆地監視工作進度、與您的團隊溝通、進行時間軸調整等。
+Workfront無法為您管理專案，但可讓您看到所完成的工作所需的可見度。 [!DNL Workfront] 讓您更輕鬆地監視工作進度、與團隊溝通、調整時間表等。
 
 <!---
 In this section, you will learn how to:
@@ -31,38 +31,38 @@ Find project communications
 Use [!DNL Workfront] features when reviewing the task list to monitor project progress
 --->
 
-## 查找最近的項目
+## 尋找最近的專案
 
-按一下 [!UICONTROL 收件者] 表徵圖。
+您可以按一下「 」，快速找到最近的專案（以及其他物件）。 [!UICONTROL 最近專案] 圖示。
 
-![[!UICONTROL 狀態] 項目標題中展開的欄位](assets/recents.png)
+![[!UICONTROL 狀態] 專案標題中展開的欄位](assets/recents.png)
 
 >[!NOTE]
 >
->下列影片不包含音訊。 這是 [!DNL Workfront] 功能。
+>下列影片未包含音訊。 它們展示了 [!DNL Workfront] 提及的功能。
 
-## 固定專案
+## 釘選專案
 
-當您在處理專案時，將專案釘到功能表列以便只要按一下即可開啟，讓您輕鬆找到。
+當您正在處理專案時，您可以將其釘選到功能表列，按一下即可將其開啟，讓您輕鬆找到。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
-## 收藏項目
+## 將專案加入最愛
 
-如果您管理多個專案，您可能想要按一下星號圖示，將其設為「我的最愛」。 然後，您可以在 [!UICONTROL 我的最愛] 的子菜單。
+如果您正在管理多個專案，可按一下星形圖示將它們設為「我的最愛」。 然後，您便可以在「 」下找到您的清單 [!UICONTROL 我的最愛] 圖示加以檢視。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 
 
-## 從控制面板開啟專案
+## 從儀表板開啟專案
 
-許多 [!DNL Workfront] 客戶使用在控制面板上編譯的報表來尋找其進行中的工作。
+許多 [!DNL Workfront] 客戶可使用在控制面板上編譯的報告來尋找他們正在進行中的工作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12&learn=on)
 
 
 ## 從「專案」頁面開啟專案
 
-當然，您的專案總是可在主要 [!UICONTROL 專案] 的上界。 只需按一下專案名稱即可開啟。
+當然，您的專案會一律顯示在以下主畫面中： [!UICONTROL 專案] 區域。 只需按一下專案名稱即可開啟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12&learn=on)

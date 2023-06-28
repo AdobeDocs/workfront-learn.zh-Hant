@@ -9,12 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
-kt: 8854
+jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: f7e6fa6a728699c307fbba926d1bdaa697ba4894
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '696'
 ht-degree: 6%
 
 ---
@@ -87,3 +87,45 @@ ht-degree: 6%
 1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
 ![使用里程碑檢視的任務清單影像](assets/view-milestone-exercise-2.png)
+
+## 活動3：建立期間型別和任務限制檢視
+
+此檢視可讓您檢查並編輯專案中的所有期間型別和任務限制。
+
+使用下列資料欄建立名為「期間型別和任務限制檢視」的任務檢視：
+
+* [!UICONTROL 任務名稱]
+* [!UICONTROL 指派]
+* [!UICONTROL 期間]
+* [!UICONTROL 計畫持續時間]
+* [!UICONTROL 計畫小時]
+* [!UICONTROL 前置任務]
+* [!UICONTROL 開始日期]
+* [!UICONTROL 到期日]
+* [!UICONTROL 期間類型]
+* [!UICONTROL 任務限制]
+* [!UICONTROL 限制日期]
+
+變更 [!UICONTROL 欄位格式] 於 [!UICONTROL 開始日期] 和 [!UICONTROL 到期日] 欄，顯示日期和時間。
+
+## 活動3答案
+
+![顯示期間型別和任務限制檢視的畫面影像](assets/view-activity-3.png)
+
+1. 在專案任務清單中，前往 **[!UICONTROL 檢視]** 下拉式功能表並選取 **[!UICONTROL 新增檢視]**.
+1. 將檢視命名為「期間型別和任務限制檢視」。
+1. 移除 [!UICONTROL 完成%] 欄。
+1. 按一下 **[!UICONTROL 新增欄]**.
+1. 在 [!UICONTROL 顯示在此欄中] 欄位，型別 [!UICONTROL &quot;duration&quot;] 然後選取 [!UICONTROL 「計畫期間」] 在 [!UICONTROL 任務] 欄位來源。
+1. 將此欄移動到 [!UICONTROL 持續時間] 和 [!UICONTROL 計畫小時] 欄。
+1. 按一下 **[!UICONTROL 新增欄]** 再來一次。
+1. 在 [!UICONTROL 顯示在此欄中] 欄位，型別 [!UICONTROL &quot;duration type&quot;] 然後選取 [!UICONTROL &quot;期間型別&quot;] 在 [!UICONTROL 任務] 欄位來源。
+1. 按一下 **[!UICONTROL 新增欄]** 再來一次。
+1. 在 [!UICONTROL 顯示在此欄中] 欄位，型別 [!UICONTROL &quot;constraint&quot;] 然後選取 [!UICONTROL 「任務限制」] 在「任務」欄位來源下。
+1. 按一下 **[!UICONTROL 新增欄]** 再來一次。
+1. 在 [!UICONTROL 顯示在此欄中] 欄位，型別 [!UICONTROL &quot;constraint&quot;] 然後選取 [!UICONTROL &quot;限制日期&quot;] 在「任務」欄位來源下。
+1. 選取 [!UICONTROL 開始日期] 欄，然後按一下 [!UICONTROL 進階選項].
+1. 在 [!UICONTROL 欄位格式] 下拉式清單選取 [!UICONTROL 「2060年10月17日凌晨3:00」].
+1. 選取 [!UICONTROL 到期日] 欄，然後按一下 [!UICONTROL 進階選項].
+1. 在 [!UICONTROL 欄位格式] 下拉式清單選取 [!UICONTROL 「2060年10月17日凌晨3:00」].
+1. 按一下&#x200B;**[!UICONTROL 儲存]**。

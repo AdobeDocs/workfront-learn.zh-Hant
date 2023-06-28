@@ -1,6 +1,6 @@
 ---
-title: 指派及管理版面範本的存取權
-description: 了解如何將版面範本指派給使用者，並控制哪些人可以管理存取權。
+title: 指派及管理對版面配置範本的存取權
+description: 瞭解如何將版面配置範本指派給使用者，以及控制誰可以管理存取權。
 feature: System Setup and Administration
 level: Intermediate
 activity: deploy
@@ -8,22 +8,22 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 thumbnail: 335080.jpeg
-kt: 8766
+jira: KT-8766
 exl-id: 9f250af7-0da4-4e50-80de-52136dc350fa
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# 指派及管理版面範本的存取權
+# 指派和管理對版面配置範本的存取權
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 定位至分配
-* 將版面範本指派給使用者、群組或團隊
-* 控制可管理配置模板訪問的人員
+* 導覽至工作分派
+* 將版面配置範本指派給使用者、群組或團隊
+* 控制誰可以管理版面配置範本存取權
 
 >[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on)

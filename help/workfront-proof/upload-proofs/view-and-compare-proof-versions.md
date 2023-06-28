@@ -1,6 +1,6 @@
 ---
-title: 檢視和比較校樣版本
-description: 了解如何在 [!DNL  Workfront].
+title: 檢視和比較校訂版本
+description: 瞭解如何在中開啟、識別、標示、評論和比較校訂版本 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,24 +8,24 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335142.png
-kt: 8845
+jira: KT-8845
 doc-type: video
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 檢視和比較校樣版本
+# 檢視和比較校訂版本
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 開啟校樣版本
-* 確定您要查看的校樣版本
-* 在版本上進行注釋和標注
-* 比較目前版本與舊版檔案
+* 開啟校訂的版本
+* 決定您要檢視的校訂版本
+* 對版本進行註釋和標示
+* 比較檔案的目前版本與先前版本
 
 >[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on)
 

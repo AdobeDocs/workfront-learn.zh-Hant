@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '2374'
+source-wordcount: '2384'
 ht-degree: 2%
 
 ---
@@ -187,6 +187,9 @@ ht-degree: 2%
       + [更新與檢閱財務](manage-work/project-finances/update-and-review-finances.md)
       + [尋找財務資訊](manage-work/project-finances/find-financial-information.md)
       + [瞭解多種收費率](manage-work/project-finances/multiple-billing-rates.md)
+
+   + 中繼專案 {#intermediate-projects}
+      + [瞭解和管理期間型別和任務限制](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 
 
 + 報告 {#reporting}

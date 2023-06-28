@@ -1,6 +1,6 @@
 ---
-title: 了解工作和人員圖表
-description: 在 [!UICONTROL 增強的Analytics]，工作圖表會從項目和任務角度顯示活動，而人物圖表則從主團隊的角度顯示活動。
+title: 瞭解工作和人員圖表
+description: 在 [!UICONTROL 增強型分析]，工作圖表會從專案和任務的角度顯示活動，而人員圖表則會從主團隊的角度顯示活動。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -8,42 +8,42 @@ thumbnail: understand-work-and-people-charts.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10028
+jira: KT-10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 4%
 
 ---
 
-# 了解工作和人員圖表，位於 [!UICONTROL 增強的Analytics]
+# 瞭解中的工作和人員圖表 [!UICONTROL 增強型分析]
 
-工作圖表從項目和任務角度顯示活動，而人物圖表從主團隊的角度顯示活動。
+工作圖表從專案和任務的角度顯示活動，而人員圖表從主團隊的角度顯示活動。
 
-從左側面板菜單中選擇要查看的Analytics圖表類型（工作或人員）。
+從左側面板選單中選取您要檢視的Analytics圖表型別 — 「工作」或「人員」。
 
 ## 工作圖
 
-![尋找 [!UICONTROL Analytics] 功能 [!DNL Workfront Classic]](assets/section-1-1.png)
+![尋找的影像 [!UICONTROL 分析] 中的功能 [!DNL Workfront Classic]](assets/section-1-1.png)
 
-前往「工作」圖表時，預設會看到：
+當您移至「工作圖表」時，預設會看到：
 
-1. KPI統計資訊
+1. KPI統計資料
 1. 小眾測試版計畫
 1. 專案活動
-1. 專案樹狀圖（上方未顯示）
+1. 專案樹狀圖（未在上方顯示）
 
-向下切入資料時，「燃耗」(Burndown)和「飛行任務」(Tasks in flight)圖表將出現。
+向下鑽研資料時，就會顯示「待執行工作」和「執行中的工作」表。
 
-* 按一下「飛行計畫」(Flight plan)視圖中的項目，該項目的「燃耗」(Burndown)視圖將顯示在其下。
-* 在「樹狀圖」視圖中按一下項目，「燃耗」和「飛行任務」視圖都將顯示在其下。
+* 按一下小眾測試版計畫檢視中的專案，該專案的待執行工作檢視將顯示在其下方。
+* 按一下「樹狀圖」檢視中的專案，「待執行工作」和「外部測試版中的任務」檢視都會顯示在專案下方。
 
-## 人物圖
+## 人員圖表
 
-![尋找 [!UICONTROL Analytics] 功能 [!DNL Workfront Classic]](assets/section-1-2.png)
+![尋找的影像 [!UICONTROL 分析] 中的功能 [!DNL Workfront Classic]](assets/section-1-2.png)
 
-人員圖表包括：
+人員圖表包含：
 
 1. 依團隊的活動
 1. 資源容量

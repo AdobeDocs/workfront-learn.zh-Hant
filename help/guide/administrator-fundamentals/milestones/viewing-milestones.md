@@ -1,24 +1,24 @@
 ---
-title: 查看里程碑
-description: 此影片會說明如何檢視專案中的里程碑，並在「專案」區域中使用里程碑檢視。
+title: 檢視里程碑
+description: 在本影片中，瞭解如何檢視專案中的里程碑，以及使用專案區域中的里程碑檢視。
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: User
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# 查看里程碑
+# 檢視里程碑
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 查看特定項目中的里程碑
-* 閱讀「項目」區域中的里程碑視圖
+* 檢視特定專案中的里程碑
+* 閱讀專案區域中的里程碑檢視
 
 >[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)

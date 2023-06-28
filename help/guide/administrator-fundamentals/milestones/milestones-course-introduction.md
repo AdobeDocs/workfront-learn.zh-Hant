@@ -1,13 +1,13 @@
 ---
 title: 里程碑：課程簡介
-description: 此影片會說明裡程碑如何協助您持續推進專案。
+description: 在本影片中，瞭解里程碑如何協助您讓專案不斷向前發展。
 topic: null
 activity: deploy
 doc-type: intro video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 0%
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 里程碑：課程簡介
 
-此影片中，您將了解里程碑如何協助您讓專案持續向前進。
+在本影片中，您將瞭解里程碑如何協助您讓專案不斷向前發展。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on)

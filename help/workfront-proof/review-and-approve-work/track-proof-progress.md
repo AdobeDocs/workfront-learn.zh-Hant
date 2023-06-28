@@ -1,6 +1,6 @@
 ---
-title: 追蹤校樣進度
-description: 了解如何使用 [!UICONTROL SOCD] 指標、證明進度和報告，以追蹤證明的進度 [!DNL  Workfront].
+title: 追蹤校訂進度
+description: 瞭解如何使用 [!UICONTROL SOCD] 用於追蹤中校訂進度的指標、校訂進度和報告 [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -8,58 +8,58 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: track-proof-progress.png
-kt: 10111
+jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '674'
 ht-degree: 1%
 
 ---
 
-# 追蹤校樣進度
+# 追蹤校訂進度
 
-身為專案經理、證明經理或審核與核准程式中的其他利害關係人，您會想要追蹤證明的進度。 您可以透過 [!DNL Workfront’s] 內建 **證明進度指標** 在 [!UICONTROL 檔案] 頁面或撰寫自訂報表。
+身為專案經理、校樣經理或稽核及核准流程中的其他利害關係人，您將想要追蹤校樣進度。 您可以透過以下方式執行此操作： [!DNL Workfront’s] 內建 **校訂進度指示器** 於 [!UICONTROL 檔案] 頁面或撰寫自訂報表。
 
-要查看校樣進度，請在 [!DNL Workfront]，您必須擁有「計畫」、「工作」或「審核」許可證，並且是校對用戶。 如果你不確定 [!DNL Workfront] 配置檔案符合這些要求，請與貴組織的校對系統管理員聯繫。
+若要檢視中校訂進度 [!DNL Workfront]，您必須擁有計畫、工作或檢閱授權且為校訂使用者。 如果您不確定 [!DNL Workfront] 設定檔符合這些要求，請洽詢您組織的校訂系統管理員。
 
-## 使用追蹤校樣進度 [!UICONTROL SOCD] 指標和證明狀態
+## 透過以下專案追蹤校訂進度 [!UICONTROL SOCD] 指標和校訂狀態
 
-從高層了解通過審核和批准流程(使用 [!UICONTROL SOCD] 表徵圖 [!UICONTROL 檔案] 清單。 這些圖示表示對校樣採取的特定動作。
+透過，以高階方式瞭解校訂如何通過檢閱和核准流程 [!UICONTROL SOCD] 圖示於 [!UICONTROL 檔案] 清單。 這些圖示會指出對校樣執行的特定動作。
 
-![的影像 [!UICONTROL 檔案] 清單 [!DNL  Workfront] 專案 [!UICONTROL SOCD] 表徵圖。](assets/manage-proofs-socd.png)
+![的影像 [!UICONTROL 檔案] 清單于 [!DNL  Workfront] 專案與 [!UICONTROL SOCD] 圖示會反白顯示。](assets/manage-proofs-socd.png)
 
-這些圖示會指出從您將校樣傳送給收件者，到他們決定校樣時，校樣所完成的工作。
+圖示會指出對校訂完成的工作，從您將校訂傳送給收件者到他們對校訂做出決定為止。
 
 * **S —** 校樣已傳送給收件者。
-* **O —** 校樣已經開啟。
-* **C —** 已對證據發表評論。
-* **D —** 已對校樣（核准、拒絕等）做出決定。
+* **O —** 校訂已開啟。
+* **C —** 已對此校訂進行評論。
+* **D —** 證明已做出決定（已核准、已拒絕等）。
 
-顏色會指出動作是否完成。
+這些顏色表示動作是否完成。
 
-* **懷特 —** 步驟還沒發生。
+* **白色 —** 步驟尚未發生。
 * **綠色 —** 步驟已完成。
-* **橙色 —** 證明截止時間在24小時內，且步驟尚未發生。
-* **紅色 —** 校樣截止日期已過，而步驟尚未發生。
+* **橙色 —** 校訂截止日期在24小時內，並且步驟尚未發生。
+* **紅色 —** 校訂截止日期已過，該步驟尚未發生。
 
-此 [!UICONTROL SOCD] 在 [!UICONTROL 檔案] 清單、摘要面板或 [!UICONTROL 文檔詳細資訊]，是證明進度的高階摘要。 [!DNL Workfront] 根據校對程式中「最落後」的收件者來設定。
+此 [!UICONTROL SOCD] 於 [!UICONTROL 檔案] 清單、摘要面板或 [!UICONTROL 檔案詳細資訊]是校訂進度的高階摘要。 [!DNL Workfront] 根據在校樣程式中「最落後」的收件者來設定此設定。
 
-例如，如果有三個審核者/批准者，其中只有兩個審核者查看了校樣並發表了評論，則 [!UICONTROL SOCD] 圖示會顯示已傳送校樣([!UICONTROL S])和開啟([!UICONTROL O])，但並未提供評論([!UICONTROL C])。
+例如，如果有三名稽核者/核准者，且只有兩名稽核者/核准者檢視過校樣並發表了評論，則 [!UICONTROL SOCD] 圖示會顯示校樣已傳送([!UICONTROL S])和已開啟([!UICONTROL O])，但並未進行評論([!UICONTROL C])。
 
-如果您想要了解每個校樣收件者的運作方式，請開啟校樣工作流程。 整體校樣進度位於視窗頂端。 每個階段在灰條中都有其自己的進度指標。  每個使用者旁邊就是個人的進度。
+如果您想知道每個個別校樣收件者的表現，請開啟校樣工作流程。 整體校訂進度位於視窗頂端。 灰色列中的每個階段都有自己的進度指示器。  而在每個使用者旁邊，是該個人的進度。
 
-![的影像 [!UICONTROL 校對工作流程] 的子句。](assets/manage-proofs-socd-in-proofing-workflow-window.png)
+![的影像 [!UICONTROL 校訂工作流程] 檔案的區段。](assets/manage-proofs-socd-in-proofing-workflow-window.png)
 
-## 校樣狀態
+## 校訂狀態
 
-校樣狀態是根據階段校樣收件者的狀態。 整體校樣狀態會顯示在 [!UICONTROL 檔案] 頁面，位於 [!UICONTROL SOCD] 指標，因此您可以輕鬆判斷是否對證明有決定。
+校訂狀態以階段校訂收件者的狀態為基礎。 整體校訂狀態可見於 [!UICONTROL 檔案] 頁面，右側 [!UICONTROL SOCD] 指標，以便您輕鬆判斷您是否對校訂有決策。
 
-![的影像 [!UICONTROL 檔案] 清單 [!DNL  Workfront] 會強調顯示整體校樣狀態的專案。](assets/manage-proofs-overall-status.png)
+![的影像 [!UICONTROL 檔案] 清單于 [!DNL  Workfront] 突出顯示整體校訂狀態的專案。](assets/manage-proofs-overall-status.png)
 
-此校樣狀態表示校樣的整體狀態。 例如，如果兩個收件者核准了校樣，其個別狀態會顯示 [!UICONTROL 已核准]. 不過，第三個收件者尚未作出決定，因此該人的狀態為 [!UICONTROL 待定]. 因此，整體狀態顯示為 [!UICONTROL 待定].
+此校訂狀態代表校訂的整體狀態。 例如，如果兩個收件者核准證明，則其個別狀態會顯示 [!UICONTROL 已核准]. 但是，第三個收件者尚未做出決定，因此該人員的狀態為 [!UICONTROL 擱置中]. 因此，整體狀態會顯示為 [!UICONTROL 擱置中].
 
-如果您的組織已設定自訂狀態，系統將會使用這些狀態。 否則，您會看到下列標準狀態選項：
+如果貴組織配置了自訂狀態，則會使用這些狀態。 否則，您將會看到下列的標準狀態選項：
 
 * [!UICONTROL 未決]
 * [!UICONTROL 已核准]
@@ -67,25 +67,25 @@ ht-degree: 1%
 * [!UICONTROL 所需變更]
 * [!UICONTROL 不相關]
 
-開啟校對工作流程視窗，查看指派給的收件者的校樣狀態 [!UICONTROL 審核者與核准者] 或 [!UICONTROL 核准者 ]校樣角色。
+開啟校訂工作流程視窗以檢視指派的收件者的校訂狀態 [!UICONTROL 檢閱者和核准者] 或 [!UICONTROL 核准者]校訂角色。
 
-## 報表於 [!DNL Workfront]
+## 中的報表 [!DNL Workfront]
 
-您也可以運用 [!DNL Workfront’s] 報告功能，可在校樣在審核和核准程式中移動時追蹤校樣。
+您也可以善用 [!DNL Workfront’s] 報告功能，可在校樣通過稽核和核准程式時進行追蹤。
 
-校樣核准報表可協助您追蹤未完成的核准，以確保符合期限。
+校訂核准報告可幫助您追蹤未完成的核准，以確保遵守截止日期。
 
-![校樣核准報表的影像，位於 [!DNL  Workfront].](assets/proof-approval-report.png)
+![中的校訂核准報告影像 [!DNL  Workfront].](assets/proof-approval-report.png)
 
-文檔版本報告允許您管理和跟蹤校樣版本。
+檔案版本報告可讓您管理和追蹤校訂版本。
 
-![檔案版本報表的影像，位於 [!DNL  Workfront].](assets/document-version-report.png)
+![中的檔案版本報表影像 [!DNL  Workfront].](assets/document-version-report.png)
 
-建議您使用 [!DNL Workfront] 顧問，以建立符合貴組織需求的報表。 有些報表需要熟悉 [!DNL Workfront’s] 文本模式報告。
+我們建議您與您的 [!DNL Workfront] 顧問，建立符合您組織需求的報告。 部分報表需先熟悉 [!DNL Workfront’s] 文字模式報告。
 
-## 該你了
+## 輪到你了
 
-請洽詢您的團隊或校對系統管理員，了解您將在Workfront中使用哪種報表，以確保校樣工作流程順利執行。
+請洽詢您的團隊或校訂系統管理員，以瞭解您將在Workfront中使用何種報告，讓校訂工作流程順暢運作。
 
 <!--
 ### Learn more

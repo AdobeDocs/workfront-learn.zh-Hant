@@ -1,6 +1,6 @@
 ---
-title: 更新和審查財務
-description: 了解如何在 [!DNL  Workfront].
+title: 更新與檢閱財務
+description: 瞭解如何在中檢閱與專案關聯的財務資訊 [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,43 +8,43 @@ thumbnail: update-and-review-finances.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10137
+jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-# 更新和審查財務
+# 更新與檢閱財務
 
-如果貴組織使用 [!DNL Workfront] 要跟蹤與項目相關的財務資訊，審查費用和建立賬單記錄可能是您結束項目的流程的一部分。
+如果您的組織使用 [!DNL Workfront] 若要追蹤與專案相關的財務資訊，複查費用並建立帳單記錄可能是關閉專案程式的一部分。
 
 >[!NOTE]
 >
->許多 [!DNL Workfront] 客戶在協力廠商系統中處理其費用和項目財務，而不是 [!DNL Workfront]. 因此，在關閉項目之前，您可能有不同的流程或准則來更新和審閱財務資訊。
+>許多 [!DNL Workfront] 客戶在協力廠商系統中處理他們的費用和專案財務，而不是在 [!DNL Workfront]. 因此，在結束專案之前，您可能會有不同的程式或准則來更新和稽核財務資訊。
 
 
 ## 費用
 
-可以記錄單個任務或項目本身的費用。 無論您登錄的是哪個項目，您都可以在 [!UICONTROL 費用] 區段。
+費用可以記錄在個別任務或專案本身上。 無論費用登入的是哪個專案，您都可以在 [!UICONTROL 費用] 專案本身的區段。
 
-![[!UICONTROL 費用] 項目部分](assets/expense-section.png)
+![[!UICONTROL 費用] 專案的區段](assets/expense-section.png)
 
-## 帳單記錄
+## 付費記錄
 
-帳單記錄用於 [!DNL Workfront] 將可結算時數、可結算費用、可結算收入和額外可結算金額收集到單個記錄和金額中。 這些資料通常會從 [!DNL Workfront] 進入第三方發票或會計系統。
+付費記錄用於 [!DNL Workfront] 將可記帳小時、可記帳費用、可記帳收入和其他可記帳金額收集到單一記錄和金額中。 通常是從匯出這些檔案 [!DNL Workfront] 至協力廠商開立商業發票或會計系統。
 
-您必須在 [!DNL Workfront] 以便建立和查看計費記錄。
+您必須有權存取中的財務資料 [!DNL Workfront] 以便建立及檢視付費記錄。
 
-## 財務詳細資訊
+## 財務詳細資料
 
-產品一覽 [!UICONTROL 金融] 資訊 [!UICONTROL 專案詳細資料] 可讓您查看效益、收入和成本的實際數字。
+產品一覽 [!UICONTROL 財務] 中的資訊 [!UICONTROL 專案詳細資訊] 可讓您檢視收益、收入和成本的實際數字。
 
-![財務部分 [!UICONTROL 專案詳細資料] 項目窗口](assets/finance-section-project-details.png)
+![的財務部分 [!UICONTROL 專案詳細資訊] 專案視窗](assets/finance-section-project-details.png)
 
-大部分的財務資訊 [!UICONTROL 專案詳細資料] 是在建立專案期間設定的，而您在此處看到的數字是根據該資訊而定。 因此，在您關閉一個項目時，您確實不需要更新或添加財務詳細資訊。
+中的大部分財務資訊 [!UICONTROL 專案詳細資訊] 是在建立專案期間所設定，而您在這裡看到的數字就是以該資訊為基礎。 因此，當您關閉專案時，您不需要在財務詳細資料中更新或新增任何內容。
 
 <!---
 learn more urls

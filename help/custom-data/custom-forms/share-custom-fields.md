@@ -1,6 +1,6 @@
 ---
 title: 共用自訂欄位
-description: 了解如何調整自訂欄位的權限，以判斷使用者是否可管理或僅檢視自訂欄位。
+description: 瞭解如何調整自訂欄位的許可權，以決定使用者是否可以管理或僅檢視自訂欄位。
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
@@ -8,9 +8,9 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: share-custom-field.png
-kt: 10090
+jira: KT-10090
 exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
-source-git-commit: 077dc4b312f928b397a670c9a2e5a350e3b4ae56
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -19,19 +19,19 @@ ht-degree: 0%
 
 # 共用自訂欄位
 
-依預設， [!DNL Workfront] 具有編輯自訂表單權限的計畫授權者皆可編輯。 您可以限制這些權限，並決定使用者是否可管理或僅檢視自訂欄位。
+依預設，中的自訂欄位 [!DNL Workfront] 所有擁有計畫授權且有權編輯自訂表單的人皆可編輯。 您可以限制這些許可權，並決定使用者是否可以管理或僅檢視自訂欄位。
 
-依預設，新的自訂欄位具有編輯權限，這表示使用者可以查看欄位並編輯其值。 但如果您不希望其他人編輯或刪除它，請變更欄位的權限。
+依預設，新的自訂欄位具有編輯許可權，這表示使用者可以檢視該欄位並編輯其值。 但如果您不想讓其他人編輯或刪除它，請變更欄位上的許可權。
 
 1. 按一下 **[!UICONTROL 共用欄位]**.
-1. 變更 [!UICONTROL 可編輯的全系統] to [!UICONTROL 使此可見系統範圍] 按一下 **設定圖示**.
+1. 變更 [!UICONTROL 可編輯的系統範圍] 至 [!UICONTROL 使其在整個系統內可見] 按一下 **設定圖示**.
 
-![[!UICONTROL 使此可見系統範圍] 選項 [!UICONTROL 共用欄位] 子頁簽](assets/custom-forms-field-sharing-1.png)
+![[!UICONTROL 使其在整個系統內可見] 中的選項 [!UICONTROL 共用欄位] 子標籤](assets/custom-forms-field-sharing-1.png)
 
-如果您希望特定使用者、團隊、角色、群組或公司能夠編輯或刪除自訂表單產生器中的欄位，請為他們提供管理權限。
+如果您希望特定使用者、團隊、角色、群組或公司能夠編輯或刪除自訂表單產生器中的欄位，請授予他們管理許可權。
 
-![[!UICONTROL 共用欄位] 子標籤 [!UICONTROL 欄位設定] 標籤（在自訂表單產生器中）](assets/custom-forms-field-sharing-2.png)
+![[!UICONTROL 共用欄位] 中的子標籤 [!UICONTROL 欄位設定] 自訂表單產生器中的索引標籤](assets/custom-forms-field-sharing-2.png)
 
-所有自訂欄位都是以 [!UICONTROL 可編輯的全系統]. 您可以大量編輯共用，移除或變更 [!UICONTROL 欄位] 的 [!UICONTROL 自訂Forms] 區段 [!UICONTROL 設定] 的上界。
+所有自訂欄位都是以預設共用來建立 [!UICONTROL 可編輯的系統範圍]. 您可以大量編輯共用，以移除或變更以下專案中的此選項： [!UICONTROL 欄位] 的標籤 [!UICONTROL 自訂Forms] 中的區段 [!UICONTROL 設定] 區域。
 
-![[!UICONTROL 自訂欄位存取] 視窗](assets/custom-forms-field-sharing-3.png)
+![[!UICONTROL 自訂欄位存取權] 視窗](assets/custom-forms-field-sharing-3.png)

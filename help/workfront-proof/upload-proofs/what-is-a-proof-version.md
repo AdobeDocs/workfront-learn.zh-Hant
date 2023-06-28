@@ -1,6 +1,6 @@
 ---
-title: 什麼是校樣版本？
-description: 探索各版本如何協助您使用[!DNL]校對功能，跨檔案的多個迭代管理審核和核准程式。
+title: 什麼是校訂版本？
+description: 瞭解版本如何協助您使用[！DNL]校訂功能跨檔案的多個反複專案管理稽核和核准流程。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -8,23 +8,23 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: what-is-a-proof-version.png
-kt: 10161
+jira: KT-10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# 什麼是校樣版本？
+# 什麼是校訂版本？
 
-[!DNL Workfront’s] 校對功能可協助您的組織使用版本，跨檔案的多個反覆項目管理審核和核准程式。
+[!DNL Workfront’s] 校訂功能可協助您的組織跨使用版本的檔案的多個反複專案管理稽核和核准流程。
 
-版本的基本定義是校樣的修訂副本。 例如，您組織在使用者會議展位的設計，已透過使用完成初始審核和核准程式 [!DNL Workfront’s] 校對功能。 已進行更正，更新的檔案已準備好供審閱。
+版本的基本定義是校訂的修訂版本。 例如，使用者大會上您組織攤位的設計已透過使用進行初始檢閱和核准程式 [!DNL Workfront’s] 校訂功能。 已進行更正，更新後的檔案已可供檢閱。
 
-新檔案可新增至 [!DNL Workfront] 作為原始檔案的版本。
+可將新檔案新增至 [!DNL Workfront] 作為原始檔案的版本。
 
-此「堆疊」版本在原始檔案上，可保留修訂版本的歷史記錄，同時確保您正在查看工作的最新小版本。 [!DNL Workfront’s] 校對檢視器也可讓您比較檔案的最新版本。
+這會將版本「棧疊」在原始檔案上，保留修訂版本的歷史記錄，同時確保您檢視的是最新版的工作。 [!DNL Workfront’s] 校訂檢視器也可讓您比較檔案的最新版本與舊版本。
 
-讓我們開始檢閱和比較校樣版本。
+讓我們開始檢閱和比較校訂版本。

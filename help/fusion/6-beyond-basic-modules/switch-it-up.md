@@ -1,27 +1,27 @@
 ---
-title: 切開！
-description: 了解交換機功能和交換機模組是什麼，何時使用交換機功能與交換機模組 [!DNL Adobe Workfront Fusion].
+title: 切換一下！
+description: 瞭解什麼是交換器功能和交換器模組，以及何時在中使用交換器功能和交換器模組 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9047
+jira: KT-9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# 切開！
+# 切換一下！
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
-* 哪些交換機功能和模組及其不同之處
-* 何時使用交換機功能與交換機模組
+* 什麼是交換器功能和模組，以及它們之間的差異
+* 何時使用切換函式與切換模組
 
 >[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on)

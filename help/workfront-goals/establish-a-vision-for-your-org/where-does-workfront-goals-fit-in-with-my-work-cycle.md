@@ -1,28 +1,28 @@
 ---
-title: 了解 [!UICONTROL Workfront目標] 適合您的工作週期
-description: 了解典型工作生命週期中的6個步驟，以及工作生命週期中「策略階段」的核心組成部分。
+title: 瞭解如何 [!UICONTROL Workfront目標] 適合您的工作週期
+description: 瞭解典型工作生命週期中的6個步驟，以及工作生命週期中「策略階段」的核心建置區塊。
 activity: use
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8890
+jira: KT-8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# 了解 [!UICONTROL Workfront目標] 適合您的工作週期
+# 瞭解如何 [!UICONTROL Workfront目標] 適合您的工作週期
 
-在此影片中，您將了解：
+在本影片中，您將瞭解：
 
 * 典型工作生命週期中的6個步驟
-* 工作生命週期&quot;戰略階段&quot;的核心構件
+* 工作生命週期「策略階段」的核心建置組塊
 
 >[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on)
 
@@ -30,8 +30,8 @@ ht-degree: 0%
 Your turn graphic
 -->
 
-請花一分鐘時間反思影片中呈現的下列問題。 記下一些初步想法作為回應。 使用這些問題來指導您與團隊的討論。 你學了什麼？
+請花一分鐘時間思考影片中提出的下列問題。 記下一些最初的想法作為回應。 使用這些問題來幫助指導您與團隊的討論。 您學到了什麼？
 
-1. 我們要達到什麼目的？
+1. 我們想要達成什麼目標？
 1. 我們如何衡量成功？
-1. 實現這些目標的不同選擇是什麼？ 考慮到我們的限制，哪些選項最好？
+1. 達成這些目標的不同選項為何？ 考慮到我們的限制，哪些選項是最佳選擇？

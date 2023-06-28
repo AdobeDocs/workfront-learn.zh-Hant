@@ -1,15 +1,15 @@
 ---
-title: 在中啟用目標 [!DNL Workfront Goals]
-description: 了解如何在 [!DNL Workfront Goals] 一旦您建立後。
+title: 啟用目標 [!DNL Workfront Goals]
+description: 瞭解如何在中啟用目標 [!DNL Workfront Goals] 建立之後。
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10118
+jira: KT-10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -18,22 +18,22 @@ ht-degree: 0%
 
 # 在中啟用目標 [!DNL Workfront]
 
-既然您已建立目標，就啟動目標吧！ 建立目標時，目標會儲存於 [!UICONTROL 草稿] 狀態。 [!UICONTROL 草稿] 在您啟動目標之前，目標不是目標管理的一部分。 啟動後，會切換至 [!UICONTROL 作用中] 狀態並在控制面板中顯示進度，以及它們與整體策略的一致性。 目標 [!UICONTROL 作用中] 狀態與進度指標相關聯，通常為活動、結果、項目或對齊目標（子級 — 父級目標關係）。
+現在您已建立目標，讓我們來啟用它們！ 當您建立目標時，它儲存在 [!UICONTROL 草稿] 狀態。 [!UICONTROL 草稿] 在您啟用目標之前，目標不會成為目標管理的一部分。 一旦啟用，他們就會切換至 [!UICONTROL 作用中] 在儀表板中顯示進度，以及進度與整體策略的協調方式。 中的目標 [!UICONTROL 作用中] 狀態與進度指示器相關聯，通常是活動、結果、專案或校準的目標（子 — 父目標關係）。
 
-![草稿狀態中Workfront目標中目標的螢幕擷圖](assets/04-workfront-goals-activate-goals.png)
+![處於草稿狀態的Workfront目標中的目標熒幕擷圖](assets/04-workfront-goals-activate-goals.png)
 
-## 需要進度指標來啟動目標
+## 需要進度指示器才能啟用目標
 
-在繼續前進之前，必須了解 [!DNL Workfront Goals]. 進度指標是 [!DNL Goals] 用於計算目標的進度。 進度指標是一致的目標、結果、活動和項目。 你稍後會更詳細地了解這些。 目前，必須了解必須將一致的目標、結果、活動和專案新增至目標，才能啟用目標。
+在繼續之前，請務必瞭解中使用的進度指示器 [!DNL Workfront Goals]. 進度指示器是中的物件 [!DNL Goals] 用於計算目標的進度。 進度指標是校準的目標、結果、活動和專案。 您稍後將更詳細地瞭解這些內容。 目前，請務必瞭解一致的目標、結果、活動和專案必須新增至目標才能啟用。
 
-要添加進度指標，請開啟目標，選擇左側的「進度指標」頁簽，然後選擇旁邊的「新建進度指標」下拉菜單。
+若要新增進度指示器，請開啟目標並選取左側的「進度指示器」索引標籤，然後選取其旁邊的「新增進度指示器」下拉式功能表。
 
-![螢幕截圖顯示結果、活動和項目以及目標進度指標。](assets/05-workfront-goals-progress-indicators.png)
+![顯示結果、活動和專案以及目標進度指示器的熒幕擷圖。](assets/05-workfront-goals-progress-indicators.png)
 
-與其他進展指標相比，項目有點獨特，因為它們被視為一種活動。 活動可區分為兩種類型：手動進度條和項目。 因此，項目也會推動進度。 儘管所有類型的進度指標都可與父目標相連，但必須記住，在管理這些指標的方式上存在差異。
+相較於其他進度指標，專案有些獨特，因為它們被視為一種活動型別。 活動可以分成兩種型別：手動進度列和專案。 因此，專案也會推動進度。 雖然所有型別的進度指示器皆可連線至上層目標，但請務必記住，您管理這些指示器的方式有所差異。
 
-## 現在啟動目標
+## 現在啟用目標
 
-當目標上至少有一個進度指標時，當您按一下目標名稱旁的三個點功能表時，就會看到「啟動」選項。
+當您的目標上至少有一個進度指示器時，當您按一下目標名稱旁邊的三個點選單時，將會看到「啟動」選項。
 
-![螢幕擷圖顯示如何啟用目標。](assets/activate-a-goal-with-a-result.png)
+![顯示如何啟用目標的熒幕擷圖。](assets/activate-a-goal-with-a-result.png)

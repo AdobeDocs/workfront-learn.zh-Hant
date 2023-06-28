@@ -1,6 +1,6 @@
 ---
-title: 自定義校樣決策選項
-description: 了解什麼是證明決策。 然後，更名校樣決策選項，並隱藏校樣系統設定中不需要的選項。
+title: 自訂校訂決定選項
+description: 瞭解什麼是校訂決定。 然後重新命名校樣決定選項，並在校樣系統設定中隱藏不需要的選項。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,31 +8,31 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335127.png
-kt: 8827
+jira: KT-8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
-# 自定義校樣決策選項
+# 自訂校訂決定選項
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
-* 什麼證據決定
-* 如何更名校樣決策選項
-* 如何隱藏不需要的證明決策選項
+* 什麼是校訂決定
+* 如何重新命名校訂決定選項
+* 如何隱藏不需要的校樣決定選項
 
 >[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on)
 
-## 該你了
+## 輪到你了
 
-1. 決定貴組織的證明工作流程需要哪些決策選項。 請記住，這些設定是全域的，因此使用測試的每個團隊都會看到相同的選項。
-1. 現在登入Workfront，並前往校對設定。 在「決策」標籤中，重新命名符合組織需求的決策。 隱藏不需要的選項。
-1. 完成決策設定後，請上傳校樣並指派您為審核與核准者，以快速測試他們。
+1. 決定貴組織的校訂工作流程需要哪些決定選項。 請記住，這些設定是全域的，因此每個使用校樣的團隊都會看到相同的選項。
+1. 現在登入Workfront並前往校訂設定。 在「決定」標籤中，重新命名決定以符合您組織的需求。 隱藏不需要的選項。
+1. 完成決定設定後，請上傳校樣並指派您自己為檢閱和核准者，快速測試設定內容。
 
 
 <!--

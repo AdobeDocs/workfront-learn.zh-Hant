@@ -1,24 +1,24 @@
 ---
-title: 查找佈局模板
-description: 此影片會說明版面範本的用途。
+title: 尋找版面範本
+description: 在本影片中，瞭解版面範本及其功用。
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 0%
 
 ---
 
-# 查找佈局模板
+# 尋找版面範本
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
-* 版面範本是什麼
+* 什麼是版面範本
 * 版面範本為何有用
 
 >[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on)

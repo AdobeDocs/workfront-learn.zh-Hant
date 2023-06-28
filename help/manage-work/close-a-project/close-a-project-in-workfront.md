@@ -1,6 +1,6 @@
 ---
 title: 關閉專案
-description: 了解要檢閱的資訊，以及在關閉資料之前，必須先在專案中更新資料的重要原因 [!DNL  Workfront].
+description: 瞭解在關閉專案前要檢閱哪些資訊，以及更新專案中的資料為何很重要 [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8783
+jira: KT-8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # 關閉專案
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 要在 [!DNL Workfront] 結束項目之前
-* 更新資料為何重要
-* 您可以詢問的問題可協助您改善未來的專案
+* 檢閱資訊 [!DNL Workfront] 關閉專案前
+* 為什麼擁有更新資料很重要
+* 您可以提出問題來協助您改善未來的專案
 
 >[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12&learn=on)
 

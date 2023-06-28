@@ -1,6 +1,6 @@
 ---
-title: 了解日期類型和進度狀態
-description: 了解如何在 [!DNL  Workfront] 和使用進度狀態幫助您跟蹤工作進度。
+title: 瞭解日期型別和進度狀態
+description: 瞭解如何在中檢視不同的日期型別 [!DNL  Workfront] 並使用進度狀態來協助您追蹤工作進度。
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -8,22 +8,22 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8782
+jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# 了解日期類型和進度狀態
+# 瞭解日期型別和進度狀態
 
-在此影片中，您將學習如何：
+在本影片中，您將瞭解如何：
 
-* 選擇要比較的視圖 [!DNL Workfront's] 不同的日期類型
-* 使用進度狀態幫助您跟蹤工作進度
+* 選取要比較的檢視 [!DNL Workfront's] 不同的日期型別
+* 使用進度狀態來協助您追蹤工作進度
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 

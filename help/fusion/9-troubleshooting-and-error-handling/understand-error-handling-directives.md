@@ -1,77 +1,77 @@
 ---
-title: 了解錯誤處理指令
-description: 了解允許執行繼續的錯誤處理程式指令，以及可停止執行的錯誤處理程式指令，位於 [!DNL Adobe Workfront Fusion].
+title: 瞭解處理指示詞的錯誤
+description: 瞭解允許繼續執行的錯誤處理常式指令和停止執行的錯誤處理常式指令，請參閱 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9064
+jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
-# 了解錯誤處理指令
+# 瞭解處理指示詞的錯誤
 
-在此影片中，您將學習：
+在本影片中，您將瞭解：
 
-* 允許執行繼續的三個錯誤處理程式指令
-* 停止執行的兩個錯誤處理程式指令
+* 允許繼續執行的三個錯誤處理常式指令
+* 停止執行的兩個錯誤處理常式指示詞
 
 >[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
 
-## 指令 — 方案繼續
+## 指令 — 案例繼續
 
 ### 繼續
 
-* 指定替換輸出，並提供給遇到錯誤的模組。
-* 處理後續模組。
-* 方案執行狀態會標示為「成功」。
+* 會指定替代輸出，並提供給發生錯誤的模組。
+* 後續模組會進行處理。
+* 案例執行狀態會標示為「成功」。
 
-![恢復指令的映像](assets/troubleshooting-and-error-handling-2.png)
+![Resume指示詞的影像](assets/troubleshooting-and-error-handling-2.png)
 
-### 插播
+### 中斷
 
-* 方案執行的狀態儲存在未完成執行的佇列中，可以手動解決錯誤。 但是，這裡提到了一些例外。
-* 不會處理後續模組。
-* 如果有未處理的套件組合，則方案執行會正常繼續。
-* 方案執行狀態標籤為「警告」。
+* 情境執行的狀態會儲存在未完成執行的佇列中，而錯誤可以手動解決。 不過，這裡有一些例外情況。
+* 後續模組不會進行處理。
+* 如果有未處理的組合，情境執行會正常繼續。
+* 情境執行狀態會標示為「警告」。
 
-![Break指令的影像](assets/troubleshooting-and-error-handling-3.png)
+![Break指示詞的影像](assets/troubleshooting-and-error-handling-3.png)
 
 ### 忽略
 
-* 系統會忽略錯誤，且不會處理後續模組。
-* 如果有未處理的套件組合，則方案執行會正常繼續。
-* 方案執行狀態會標示為「成功」。
+* 會忽略錯誤，且不會處理後續模組。
+* 如果有未處理的組合，情境執行會正常繼續。
+* 案例執行狀態會標示為「成功」。
 
-![忽略指令的映像](assets/troubleshooting-and-error-handling-4.png)
+![Ignore指示詞的影像](assets/troubleshooting-and-error-handling-4.png)
 
-## 指令 — 方案停止
+## 指示 — 案例停止
 
-### 回復
+### 復原
 
-* 方案執行立即停止，並在所有模組上啟動回滾階段，以嘗試將所有模組恢復到其初始狀態。
-* 不會處理後續模組。
-* 除非有一些錯誤類型，否則藍本會在「藍本」設定下指定的「連續錯誤數」後停用。
-* 方案執行狀態被標籤為「錯誤」。
+* 案例執行會立即停止，並且所有模組上的復原階段會啟動，以嘗試將所有模組回復到其初始狀態。
+* 後續模組不會進行處理。
+* 除了一些錯誤型別，在「案例」設定下指定的「連續錯誤數」後，將停用案例。
+* 案例執行狀態會標示為「錯誤」。
 
 >[!NOTE]
 >
->如果未將錯誤處理程式路由附加到模組，且未選中「方案」設定下的「允許儲存不完整的執行」設定，則此為預設行為。
+>如果沒有將錯誤處理常式路由附加到模組，並且未勾選「案例」設定下的「允許儲存不完整的執行」設定時，此為預設行為。
 
-![回滾指令的映像](assets/troubleshooting-and-error-handling-5.png)
+![Rollback指令的影像](assets/troubleshooting-and-error-handling-5.png)
 
 ### 認可
 
-* 系統會忽略錯誤，且不會處理後續模組。
-* 如果有未處理的套件組合，則方案執行會正常繼續。
-* 方案執行狀態會標示為「成功」。
+* 會忽略錯誤，且不會處理後續模組。
+* 如果有未處理的組合，情境執行會正常繼續。
+* 案例執行狀態會標示為「成功」。
 
-![提交指令的映像](assets/troubleshooting-and-error-handling-6.png)
+![認可指示詞的影像](assets/troubleshooting-and-error-handling-6.png)

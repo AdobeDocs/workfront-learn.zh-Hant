@@ -1,20 +1,20 @@
 ---
-title: 建立一次性使用的核准程式
-description: 此影片會說明如何在物件上建立一次性核准程式。
+title: 建立單一使用核准流程
+description: 在本影片中，瞭解如何在物件上建立單次使用的核准流程。
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# 建立一次性使用的核准程式
+# 建立單一使用核准流程
 
-在此影片中，您將學習如何對物件建立單一使用的核准程式。
+在本影片中，您將會瞭解如何在物件上建立單一使用核准流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)

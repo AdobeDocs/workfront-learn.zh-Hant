@@ -1,6 +1,6 @@
 ---
 title: 如何在中建立計畫 [!DNL Scenario Planner]
-description: 了解如何在 [!DNL Scenario Planner].
+description: 瞭解如何在中建立計畫 [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -8,28 +8,28 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335318.jpeg
-kt: 9076
+jira: KT-9076
 exl-id: 554c00cd-5958-4e5d-acec-22a96a7353b0
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-# 在 [!DNL Scenario Planner]
+# 在中建立計畫 [!DNL Scenario Planner]
 
-此影片會說明如何在 [!DNL Scenario Planner].
+在本影片中，您將瞭解如何在 [!DNL Scenario Planner].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on)
 
-## 估計計畫的職務職責資訊
+## 預估計畫的工作角色資訊
 
-建立計畫時，可以確定是否應以FTE或小時來估計職務職責工作。 系統預設值為FTE，但在建立計畫時可切換該FTE。
+建立計畫時，您可以建立職務角色工作量是應以FTE還是時數進行估計。 系統預設值為FTE，但可在建立計畫時進行切換。
 
-![選擇 [!UICONTROL FTE] 或 [!UICONTROL 小時] 在 [!UICONTROL 新計畫] 視窗](assets/scenario-planner-1.png)
+![選取 [!UICONTROL FTE] 或 [!UICONTROL 小時] 在 [!UICONTROL 新計畫] 視窗](assets/scenario-planner-1.png)
 
-建立計畫後，為計畫、計畫方案和任何方案中的任務職責添加的所有編號都將以選定的格式輸入並顯示。 該格式顯示在需要作業角色資訊的列的頂部。
+建立計畫後，系統會以選取的格式，輸入並顯示計畫中職位角色、計畫情境和所有行動方案的所有新增數字。 該格式會顯示在需要工作角色資訊的欄頂端。
 
-![在 [!UICONTROL FTE] 或 [!UICONTROL 小時] 在 [!DNL Scenario Planner]](assets/scenario-planner-2.png)
+![在中檢視資訊 [!UICONTROL FTE] 或 [!UICONTROL 小時] 在 [!DNL Scenario Planner]](assets/scenario-planner-2.png)

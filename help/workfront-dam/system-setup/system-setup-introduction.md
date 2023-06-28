@@ -1,15 +1,15 @@
 ---
-title: 了解 [!UICONTROL Workfront DAM] 課程
-description: 了解 [!UICONTROL Workfront DAM] 管理員，第1部分系統設定課程。
+title: 瞭解 [!UICONTROL WORKFRONT DAM] 課程
+description: 瞭解將涵蓋的內容 [!UICONTROL WORKFRONT DAM] 管理員，第1部分系統設定課程。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 team: Technical Marketing
-kt: 8964
+jira: KT-8964
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 # 系統設定：簡介
 
-在此影片中，您會：
+在本影片中，您將：
 
-* 取得 [!UICONTROL Workfront DAM] 課程
+* 取得「 」的簡介 [!UICONTROL WORKFRONT DAM] 課程
 
 >[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12&learn=on)
 
