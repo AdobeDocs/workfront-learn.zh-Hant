@@ -5,12 +5,13 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
+last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 1%
+source-wordcount: '368'
+ht-degree: 0%
 
 ---
 
@@ -38,10 +39,18 @@ ht-degree: 1%
 
 您可以使用 [!UICONTROL 搜尋] 欄位中的欄位，或尋找列在 [!UICONTROL 專案] 區域。
 
+如果您從請求佇列開啟請求，可以按一下階層連結區域中的專案名稱。
+
 **可以將請求自訂表單中的資訊傳輸到專案嗎？**
 
 是. 這涉及建立自訂表單並選取兩者 [!UICONTROL 問題] 和 [!UICONTROL 專案] 物件型別。
 
 **我正在檢視專案或任務報告。 如何找出此物件源自哪個請求？**
 
-您可以善用 **[!UICONTROL 轉換的問題建立者]** 欄位來源，可將該資訊新增至您的專案和任務報表。
+您可以存取以下欄位： **[!UICONTROL 轉換的問題]** 和 **[!UICONTROL 轉換的問題建立者]** 欄位來源，將該資訊新增至您的專案和任務報告。
+
+**篩選報表中請求佇列的最佳方式為何？**
+
+如果您的專案篩選器包括 **佇列>>是公用>>等於>>無** 您的報告只會顯示符合以下條件的專案： **NOT** 請求佇列。
+
+如果您的專案篩選器包括 **佇列>>是公用>>不等於>>無** 您的報告將僅顯示符合以下條件的專案： **為** 請求佇列。
