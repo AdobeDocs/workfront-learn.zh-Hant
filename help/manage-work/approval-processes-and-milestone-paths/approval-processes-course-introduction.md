@@ -2,14 +2,14 @@
 title: 核准流程課程簡介
 description: 瞭解核准流程如何簡化和自動化工作稽核流程。
 activity: deploy
-feature: Work Management
+feature: Approvals
 type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8961
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%

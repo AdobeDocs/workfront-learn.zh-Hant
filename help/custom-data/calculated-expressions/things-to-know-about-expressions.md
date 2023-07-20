@@ -1,7 +1,7 @@
 ---
 title: 計算欄位運算式的須知事項
 description: 快速一覽在中使用自訂計算欄位時需要瞭解的概念清單 [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -38,13 +38,13 @@ Workfront資料庫中的時數會以分鐘為單位儲存。 如果您參考的�
 
 建議寫入運算式的方式是每個運算式之間只有很小或沒有間距。
 
-* IF(ISBLANK({description})，&quot;No Description&quot;，&quot;Has Description&quot;)
+* IF(ISBLANK({description})、「沒有說明」、「有說明」)
 
 ![欄位之間無間距的運算式](assets/T2K02.png)
 
 不過，如果間距可協助您檢視目前的情況，則可新增一些間距至運算式。 額外的空格不應妨礙運算式收集或計算中的值 [!DNL Workfront].
 
-* 若為(ISBLANK ({description})， &quot;No Description&quot; ， &quot;Has Description&quot; )
+* IF (ISBLANK ({description})、「沒有說明」、「有說明」 )
 
 ![欄位之間有間距的運算式](assets/T2K03.png)
 
@@ -69,7 +69,7 @@ Workfront資料庫中的時數會以分鐘為單位儲存。 如果您參考的�
 您想要檢視問題已開啟的天數。 使用運算式DATEDIFF建立名為「開啟天數」的計算欄位。
 
 * 欄位名稱=未結天數
-* 運算式= DATEDIFF({entryDate}，$$TODAY)
+* 運算式= DATEDIFF({entryDate}，$$今天)
 
 儲存後，問題首次建立或在Workfront中輸入的間隔天數，與今天的日期可以顯示在物件的詳細資訊頁面或報告檢視中。
 
@@ -121,4 +121,4 @@ Workfront資料庫中的時數會以分鐘為單位儲存。 如果您參考的�
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you’re ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.-->

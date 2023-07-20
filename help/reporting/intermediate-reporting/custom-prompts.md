@@ -2,7 +2,7 @@
 title: 建立自訂提示
 description: 瞭解自訂提示是什麼、如何使用文字模式建立自訂提示，以及可以在Workfront的報表中使用的一些範例。
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 336822.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 2%
