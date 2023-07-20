@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 * **完成核准 —** 這可能意味著提醒其他人尚未完成的核准。 透過以下方式更新以執行此操作 [!DNL Workfront]. 視您的 [!DNL Workfront] 許可權，您或許可以自行完成核准。
 * **移除核准 —** 如果不需要核准，直接刪除可能會更容易。 您執行此動作的能力取決於您的 [!DNL Workfront] 許可權。
-* **變更狀態 —** 選取沒有附加核准的狀態。 只需確定狀態等於「完成」。
+* **變更狀態 —** 選取沒有附加核准的狀態。 請確定狀態等同於「完成」。
 
 如果您的組織在專案期間使用問題來追蹤問題、變更單或其他事件，請遵循上的相同步驟 [!UICONTROL 問題] 區段。

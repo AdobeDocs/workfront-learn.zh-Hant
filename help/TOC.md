@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
 workflow-type: tm+mt
-source-wordcount: '2384'
+source-wordcount: '2387'
 ht-degree: 2%
 
 ---
@@ -120,7 +120,6 @@ ht-degree: 2%
       + [追蹤整體專案進度](manage-work/projects/track-overall-project-progress.md)
       + [使用專案量度追蹤工作進度](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [瞭解 [!UICONTROL 甘特圖] 檢視](manage-work/projects/understand-the-gantt-view.md)
-      + [關閉專案](manage-work/projects/change-the-project-status.md)
 
    + 任務 {#tasks}
       + [建立任務](manage-work/tasks/how-to-create-tasks.md)
@@ -176,6 +175,7 @@ ht-degree: 2%
 
    + 關閉專案 {#close-a-project}
       + [關閉專案](manage-work/close-a-project/close-a-project-in-workfront.md)
+      + [將專案狀態變更為完成](manage-work/projects/change-the-project-status.md)
       + [關閉任務和問題](manage-work/close-a-project/close-tasks-and-issues.md)
       + [完成核准](manage-work/close-a-project/complete-approvals.md)
       + [上傳資產](manage-work/close-a-project/upload-assets.md)
