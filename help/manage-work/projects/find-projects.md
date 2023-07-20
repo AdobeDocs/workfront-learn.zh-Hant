@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d66815b0b0a572113ed85dee9bdf469dac08581f
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,6 @@ Use [!DNL Workfront] features when reviewing the task list to monitor project pr
 您可以按一下「 」，快速找到最近的專案（以及其他物件）。 [!UICONTROL 最近專案] 圖示。
 
 ![[!UICONTROL 狀態] 專案標題中展開的欄位](assets/recents.png)
-
->[!NOTE]
->
->下列影片未包含音訊。 它們展示了 [!DNL Workfront] 提及的功能。
 
 ## 釘選專案
 
