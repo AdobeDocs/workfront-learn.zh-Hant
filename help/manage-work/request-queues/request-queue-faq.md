@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,9 @@ ht-degree: 0%
 
 如果您從請求佇列開啟請求，可以按一下階層連結區域中的專案名稱。
 
-**可以將請求自訂表單中的資訊傳輸到專案嗎？**
+**可以將資訊從請求自訂表單傳輸到專案自訂表單嗎？**
 
-是. 這涉及建立自訂表單並選取兩者 [!UICONTROL 問題] 和 [!UICONTROL 專案] 物件型別。
+是. 建立自訂表單時，請選取兩者 [!UICONTROL 專案] 和 [!UICONTROL 問題] 作為物件型別。 將自訂表單附加至請求。 將請求轉換為專案時，自訂表單將自動附加到新專案，並且任何欄位中包含的值將顯示在請求和專案自訂表單中。
 
 **我正在檢視專案或任務報告。 如何找出此物件源自哪個請求？**
 

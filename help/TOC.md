@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2389'
 ht-degree: 2%
 
 ---
@@ -332,7 +332,7 @@ ht-degree: 2%
 
 + 整合 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [使用Adobe Workfront外掛程式進行Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+      + [使用Adobe Workfront外掛程式來整合Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [正在設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)

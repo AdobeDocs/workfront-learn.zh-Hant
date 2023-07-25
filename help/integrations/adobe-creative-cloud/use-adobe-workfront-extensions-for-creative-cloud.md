@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe Workfront外掛程式進行Creative Cloud
-description: 在不離開下列Adobe Creative Cloud應用程式的情況下，在Adobe Workfront中尋找並更新指派給您的工作 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects
+title: 使用Adobe Workfront外掛程式來整合Creative Cloud
+description: 將Workfront與Creative Cloud整合，以在Workfront中尋找並更新指派給您的工作，無需離開下列Creative Cloud應用程式 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,16 +10,19 @@ team: Technical Marketing
 jira: KT-8811
 doc-type: video
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+badgeIntegration: label="整合" type="positive"
+feature-set: Workfront
+topic: Integrations
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# 使用Adobe Workfront外掛程式進行Creative Cloud
+# 使用Adobe Workfront外掛程式來整合Creative Cloud
 
-在Adobe Workfront中尋找並更新指派給您的工作，而不需離開下列Adobe Creative Cloud應用程式：
+將Workfront與Creative Cloud整合，以在Adobe Workfront中尋找並更新指派給您的工作，無需離開下列Adobe Creative Cloud應用程式：
 
 * Photoshop
 * XD

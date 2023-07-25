@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,11 @@ ht-degree: 0%
 * 使用進度狀態來協助您追蹤工作進度
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>如影片所述，人員必須變更狀態，從 **[!UICONTROL 新增]** 至 **[!UICONTROL 進行中]** 當他們開始一項任務時，請 [!UICONTROL 實際開始日期] 將正確無誤。 但如果他們在開始任務時忘記執行此動作，則可返回並編輯 [!UICONTROL 實際開始日期] 隨時。
+
 
 <!---
 Task progress status overview
