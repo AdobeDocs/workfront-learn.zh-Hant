@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '685'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ ht-degree: 0%
 >
 >先決條件：
 >
->* 瞭解報表元素
->* 瞭解報表元件
->* 建立基本檢視
+>* [瞭解報表元素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [瞭解報表元件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [建立基本檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
->* 若要更深入地瞭解文字模式，我們建議您觀看錄製的網路研討會活動 [詢問專家 — 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，長度為一小時。
+>* 若要更深入地瞭解文字模式，我們建議您觀看錄製的網路研討會活動 [詢問專家 — 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，即一小時的長度。
 >* 若要進一步瞭解文字模式，建議您觀看 [進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教學課程，總共有五個半小時的長度。
 
 在本影片中，您將瞭解：
@@ -44,9 +44,9 @@ ht-degree: 0%
 
 ## 任務 — 4個父檢視
 
-先為「工作名稱」和「父系名稱」建立欄，然後使用下列文字模式建立其他三個欄。
+先為「工作名稱」和「父項名稱」建立欄，然後使用下列文字模式建立其他三欄。
 
-### 任務 — 父系名稱的父系
+### 任務 — 父級名稱的父級
 
 ```
 displayname=Parent of Parent Name
@@ -74,7 +74,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### 任務 — 父項名稱父項的父項
+### 任務 — 父項名稱之父項的父項
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -130,7 +130,7 @@ valueformat=HTML
 
 >[!NOTE]
 >
->有一個可透過UI存取的團隊欄位，該欄位顯示所有團隊，以逗號分隔，但使用上面的文字模式將在單獨的一行中顯示每個團隊。
+>有一個可透過UI存取的團隊欄位，該欄位顯示所有團隊（以逗號分隔），但使用上面的文字模式將在單獨的一行中顯示每個團隊。
 
 
 ### 使用者 — 所有群組
@@ -145,7 +145,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### 使用者 — 顯示主群組的所有群組
+### 使用者 — 所有顯示主群組的群組
 
 ```
 displayname=All groups showing home group
@@ -186,7 +186,7 @@ width=150
 
 ![顯示使用者清單檢視的熒幕影像](assets/user-lists-view-large.png)
 
-## 任務 — 如何顯示任務指派和處理狀態
+## 任務 — 如何顯示任務指派及處理狀態
 
 ```
 displayname=Assignments and Status
@@ -203,7 +203,7 @@ width=150
 ![顯示「工作總攬」和「狀態」檢視的熒幕影像](assets/assignments-and-status-view.png)
 
 
-## 任務 — 如何顯示多個任務指派的角色和配置
+## 任務 — 如何在多個任務指派上顯示角色和配置
 
 ### 任務 — 角色+小時
 
@@ -229,21 +229,28 @@ textmode=true
 type=iterate
 ```
 
-![顯示「工作總攬」和「角色」檢視的熒幕影像](assets/assignments-roles-and-percent-view.png)
+![顯示「指派」和「角色」檢視的熒幕影像](assets/assignments-roles-and-percent-view.png)
 
-## 任務 — 跨專案前置任務與後置任務
+## 任務 — 跨專案的前置任務和後置任務
 
 ### 任務篩選（選擇性）
 
-**顯示至少有一個跨專案前置任務的所有任務**
+**顯示目前專案上至少有一個跨專案前置任務或至少一個跨專案前置任務的所有任務**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
-### 任務 — 顯示前置任務名稱和前置任務所在專案
+### 任務 — 顯示前置任務名稱和前置任務已加入的專案
 
 ```
 displayname=Predecessor names
@@ -257,7 +264,7 @@ valueformat=HTML
 width=150
 ```
 
-### 任務 — 顯示後續任務名稱，且專案後續任務已加入
+### 任務 — 顯示後續任務名稱且專案後續任務已加入
 
 ```
 displayname=Successor names
@@ -315,7 +322,7 @@ valueformat=HTML
 width=150
 ```
 
-![顯示「跨專案前置任務」和「後置任務」檢視的熒幕影像](assets/cross-project-predecessors-and-successors.png)
+![顯示跨專案前置任務和後續任務檢視的熒幕影像](assets/cross-project-predecessors-and-successors.png)
 
 
 ## 任務 — 反複專案顯示所有指派的人員及指派每個人員
@@ -330,9 +337,9 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-![顯示所有指派人員及指派人員的熒幕影像](assets/all-assignees-and-requesters.png)
+![熒幕影像會顯示所有指派的人員以及每個人的指派者](assets/all-assignees-and-requesters.png)
 
-## 任務/專案 — 反複專案顯示專案或任務上的所有自訂表單
+## 任務/專案 — 顯示專案或任務上所有自訂表單的疊代
 
 ```
 displayname=All Forms Assigned
@@ -361,7 +368,7 @@ valueformat=HTML
 width=150
 ```
 
-![顯示可解析專案主要連絡人的熒幕影像](assets/primary-contacts-for-resolvables.png)
+![顯示可解析專案主要聯絡人的熒幕影像](assets/primary-contacts-for-resolvables.png)
 
 ## 專案 — 反複專案顯示所有專案團隊成員
 
@@ -378,7 +385,7 @@ valueformat=HTML
 
 ![顯示所有專案團隊成員的熒幕影像](assets/all-project-team-members.png)
 
-## 專案 — 反複專案顯示專案所有可解決問題的專案日期
+## 專案 — 反複專案顯示專案所有可解決問題的專案Date
 
 ```
 displayname=Resolvables entry date
@@ -394,7 +401,7 @@ valuefield=entryDate
 valueformat=HTML
 ```
 
-![顯示專案中所有可解決問題之輸入日期的熒幕影像](assets/resolvables-entry-date.png)
+![顯示專案所有可解決問題之entryDate的熒幕影像](assets/resolvables-entry-date.png)
 
 ## 專案 — 顯示原始專案請求者的主群組
 
@@ -428,7 +435,7 @@ displayname=Public Selection
 
 ![顯示專案是否為請求佇列的熒幕影像](assets/project-is-a-request-queue.png)
 
-## 問題 — 反複專案顯示所有已解決的專案團隊成員
+## 問題 — 反複專案顯示所有解決的專案團隊成員
 
 ```
 displayname=Resolve Project: Team Members
