@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
 workflow-type: tm+mt
-source-wordcount: '2389'
+source-wordcount: '2392'
 ht-degree: 2%
 
 ---
@@ -37,16 +37,16 @@ ht-degree: 2%
       + [設定全域預設問題偏好設定](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
 
    + 版面配置範本 {#layout-templates}
-      + [什麼是版面範本？](administration-and-setup/layout-templates/what-are-layout-templates.md)
+      + [什麼是版面配置範本？](administration-and-setup/layout-templates/what-are-layout-templates.md)
       + [尋找版面範本](administration-and-setup/layout-templates/find-layout-templates.md)
-      + [使用版面範本自訂術語](administration-and-setup/layout-templates/customize-workfront-terminology.md)
-      + [自訂 [!UICONTROL 主要功能表] 使用版面範本](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [使用版面配置範本自訂術語](administration-and-setup/layout-templates/customize-workfront-terminology.md)
+      + [自訂 [!UICONTROL 主要功能表] 使用版面配置範本](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
       + [透過版面範本新增和管理圖釘](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
-      + [使用版面範本自訂首頁](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
-      + [指派和管理對版面配置範本的存取權](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
+      + [使用版面配置範本自訂首頁](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
+      + [指派及管理對版面配置範本的存取權](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [使用版面配置範本自訂物件區域](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
-      + [使用版面範本自訂專案詳細資訊](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
-      + [使用版面範本自訂專案標題](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
+      + [使用版面配置範本自訂專案詳細資訊](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
+      + [使用版面配置範本自訂專案標題](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
       + [使用版面配置範本自訂報表清單](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
 
 
@@ -84,7 +84,7 @@ ht-degree: 2%
 
 + 自訂資料 {#custom-data}
    + 自訂表單 {#custom-forms}
-      + [建立和共用自訂表單](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
+      + [建立和共用自訂表格](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [共用自訂欄位](custom-data/custom-forms/share-custom-fields.md)
       + [編輯自訂表單](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [將自訂表單附加至物件](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
@@ -93,7 +93,7 @@ ht-degree: 2%
    + 計算運算式 {#calculated-expressions}
       + [開始使用計算欄位和運算式](custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
       + [瞭解資料運算式結構](custom-data/calculated-expressions/data-expression-structure.md)
-      + [瞭解日期和時間以及數學運算式](custom-data/calculated-expressions/date-and-time-and-mathematical-expressions.md)
+      + [瞭解日期和時間以及數學的運算式](custom-data/calculated-expressions/date-and-time-and-mathematical-expressions.md)
       + [建立ADDDAYS、ADDWEEKDAY、ADDMONTHS、ADDYEARS運算式](custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.md)
       + [使用計算編輯器](custom-data/calculated-expressions/use-the-calculation-editor.md)
       + [建立DATEDIFF和WEEKDAYDIFF運算式](custom-data/calculated-expressions/create-datediff-and-weekdaydiff-expressions.md)
@@ -102,7 +102,7 @@ ht-degree: 2%
       + [建立LEFT/RIGHT運算式](custom-data/calculated-expressions/create-left-right-expressions.md)
       + [使用ISBLANK和CONTAINS運算式](custom-data/calculated-expressions/isblank-and-contains.md)
       + [建立IF文字運算式](custom-data/calculated-expressions/create-an-if-text-expression.md)
-      + [計算欄位運算式的須知事項](custom-data/calculated-expressions/things-to-know-about-expressions.md)
+      + [有關計算欄位運算式的須知事項](custom-data/calculated-expressions/things-to-know-about-expressions.md)
 
 + 管理工作 {#manage-work}
    + 專案 {#projects}
@@ -132,7 +132,7 @@ ht-degree: 2%
       + [瞭解 [!UICONTROL 工作量]](manage-work/tasks/understand-work-effort.md)
 
    + 問題/請求 {#issues-requests}
-      + [處理非計畫工作](manage-work/issues-requests/handle-unplanned-work.md)
+      + [處理未計畫工作](manage-work/issues-requests/handle-unplanned-work.md)
       + [提出要求](manage-work/issues-requests/make-a-request.md)
       + [尋找請求](manage-work/issues-requests/find-requests.md)
       + [管理請求](manage-work/issues-requests/manage-incoming-requests.md)
@@ -140,24 +140,24 @@ ht-degree: 2%
       + [更新請求](manage-work/issues-requests/update-a-request.md)
       + [從請求建立專案](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [將問題轉換為其他工作專案](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [檢閱和核准數位工作](manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [檢閱及核准數位工作](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [問題報告](manage-work/issues-requests/report-on-issues.md)
 
    + 專案組合 {#portfolios}
       + [產品組合概述](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [業務案例簡介](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [優先處理及管理投資組合的工作](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [排定工作優先順序並管理產品組合](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 請求佇列 {#request-queues}
       + [瞭解請求佇列](manage-work/request-queues/understand-request-queues.md)
       + [瞭解流量請求的設定](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [建立請求佇列](manage-work/request-queues/create-a-request-queue.md)
       + [建立請求流程](manage-work/request-queues/create-a-request-flow.md)
-      + [關於請求佇列的常見問題解答](manage-work/request-queues/request-queue-faq.md)
+      + [有關請求佇列的常見問題解答](manage-work/request-queues/request-queue-faq.md)
 
    + 核准程式和里程碑路徑 {#approval-processes-and-milestone-paths}
-      + [建立單次使用的核准流程](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [附加及編輯現有核准流程](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+      + [建立單一使用核准程式](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [附加及編輯現有的核准流程](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [委派任務、問題和核准](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [檢視里程碑](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
       + [套用里程碑](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
@@ -175,7 +175,7 @@ ht-degree: 2%
 
    + 關閉專案 {#close-a-project}
       + [關閉專案](manage-work/close-a-project/close-a-project-in-workfront.md)
-      + [將專案狀態變更為完成](manage-work/projects/change-the-project-status.md)
+      + [變更專案狀態以完成](manage-work/projects/change-the-project-status.md)
       + [關閉任務和問題](manage-work/close-a-project/close-tasks-and-issues.md)
       + [完成核准](manage-work/close-a-project/complete-approvals.md)
       + [上傳資產](manage-work/close-a-project/upload-assets.md)
@@ -184,12 +184,13 @@ ht-degree: 2%
       + [關閉專案活動](manage-work/close-a-project/close-a-project-activity.md)
 
    + 使用者的專案財務 {#project-finances-users}
-      + [更新與檢閱財務](manage-work/project-finances/update-and-review-finances.md)
+      + [更新及檢閱財務](manage-work/project-finances/update-and-review-finances.md)
       + [尋找財務資訊](manage-work/project-finances/find-financial-information.md)
       + [瞭解多種收費率](manage-work/project-finances/multiple-billing-rates.md)
 
    + 中繼專案 {#intermediate-projects}
-      + [瞭解和管理期間型別和任務限制](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [瞭解並管理期間型別和任務限制](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [瞭解跨專案前置任務](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
 
 
 + 報告 {#reporting}
@@ -203,7 +204,7 @@ ht-degree: 2%
       + [建立基本篩選活動](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [建立簡單報表](reporting/basic-reporting/create-a-simple-report.md)
       + [建立任務報告](reporting/basic-reporting/create-a-task-report.md)
-      + [使用圖表建立報告](reporting/basic-reporting/create-reports-with-charts.md)
+      + [使用圖表建立報表](reporting/basic-reporting/create-reports-with-charts.md)
       + [建立矩陣報表](reporting/basic-reporting/create-a-matrix-report.md)
       + [建立儀表板](reporting/basic-reporting/create-dashboards.md)
       + [傳送和共用報表](reporting/basic-reporting/how-to-send-and-share-reports.md)
@@ -222,7 +223,7 @@ ht-degree: 2%
       + [瞭解內建問題篩選器](reporting/intermediate-reporting/open-built-in-issue-filters.md)
       + [瞭解篩選器的基本文字模式](reporting/intermediate-reporting/basic-text-mode-for-filters.md)
       + [瞭解檢視的基本文字模式](reporting/intermediate-reporting/basic-text-mode-for-views.md)
-      + [瞭解群組的基本文字模式](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+      + [瞭解分組的基本文字模式](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [建立自訂提示](reporting/intermediate-reporting/custom-prompts.md)
 
    + 進階報告 {#advanced-reporting}
@@ -232,7 +233,7 @@ ht-degree: 2%
       + [進階報告第3部分](reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + 增強型分析 {#enhanced-analytics}
-      + [產品使用時刻，關於 [!UICONTROL 增強型分析]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+      + [與產品分享關於 [!UICONTROL 增強型分析]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [開始使用 [!UICONTROL 增強型分析]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [新增 [!UICONTROL 分析] 至版面配置範本](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [瞭解基本導覽](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -240,13 +241,13 @@ ht-degree: 2%
       + [瞭解篩選器](reporting/enhanced-analytics/6-filters-overview.md)
       + [瞭解日期範圍和時間範圍](reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
       + [瞭解計畫時數和持續時間檢視](reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-      + [瞭解動作：暫留並拖曳並點按](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
+      + [瞭解動作：暫留按一下並拖曳並點入](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
       + [瞭解KPI](reporting/enhanced-analytics/10-kpis-overview.md)
       + [瞭解導覽和檢閱專案](reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
       + [使用時間範圍和其他圖表深入瞭解](reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
       + [瞭解導覽和檢閱專案活動](reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
       + [深入瞭解導覽](reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
-      + [瞭解存取和檢閱待執行工作](reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
+      + [瞭解存取及檢閱待執行工作](reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
       + [檢閱小眾測試版中的任務](reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [進行更新以採取行動](reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
       + [依團隊圖表瞭解活動](reporting/enhanced-analytics/18-activity-by-team-chart.md)
@@ -266,7 +267,7 @@ ht-degree: 2%
    + 工作負載平衡器 {#workload-balancer}
       + [尋找工作負載平衡器](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [篩選工作負載平衡器](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
-      + [在工作負載平衡器中檢視使用者配置](manage-resources/workload-balancer/view-user-allocations.md)
+      + [在工作負載平衡器中檢視使用者分配](manage-resources/workload-balancer/view-user-allocations.md)
       + [在工作負載平衡器中調整每日分配](manage-resources/workload-balancer/adjust-daily-allocations.md)
       + [要考慮用於工作負載平衡器的設定](manage-resources/workload-balancer/settings-to-consider-for-the-workload-balancer.md)
       + [在工作負載平衡器中指派工作](manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
@@ -279,26 +280,26 @@ ht-degree: 2%
       + [依專案檢視](manage-resources/resource-planning/view-by-project/view-by-project.md)
 
    + 個人休假行事曆 {#personal-time-off-calendar}
-      + [為何使用休假行事曆？](manage-resources/pto/why-use-time-off-calendar.md)
+      + [為何要使用休假行事曆？](manage-resources/pto/why-use-time-off-calendar.md)
       + [休假如何影響專案時間表](manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [管理其他使用者的休假](manage-resources/pto/manage-other-users-time-off.md)
       + [檢視指派任務時的休假](manage-resources/pto/see-time-off-when-assigning-tasks.md)
-      + [資源管理工具的可見度](manage-resources/pto/visibility-in-resource-management-tools.md)
+      + [資源管理工具的可見性](manage-resources/pto/visibility-in-resource-management-tools.md)
 
    + 案例規劃工具 {#scenario-planner}
       + [有關Scenario Planner的產品時刻](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [什麼是Scenario Planner？](manage-resources/scenario-planner/what-is-scenario-planner.md)
-      + [存取「案例規劃工具」中的計畫](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
-      + [在案例規劃工具中建立計畫](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
+      + [存取「情境規劃工具」中的計畫](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
+      + [在「案例規劃工具」中建立計畫](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
       + [使用計畫建立方案](manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
-      + [在「案例規劃工具」中調整職務角色、預算及成本資訊](manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
-      + [更新與複製計畫](manage-resources/scenario-planner/update-and-copy-plans.md)
+      + [在「情境規劃工具」中調整職務角色、預算和成本資訊](manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
+      + [更新並複製計畫](manage-resources/scenario-planner/update-and-copy-plans.md)
       + [發佈情境](manage-resources/scenario-planner/publish-a-scenario.md)
 
 + Workfront 目標 {#workfront-goals}
    + 為您的組織建立願景 {#establish-a-vision-and-strategy}
       + [瞭解Workfront目標背後的願景](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
-      + [瞭解Workfront目標如何運作](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
+      + [瞭解Workfront目標的運作方式](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
       + [瞭解Workfront目標如何配合您的工作週期](workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [為您的組織建立願景和策略](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
       + [建立明確的目標陳述式](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
@@ -307,9 +308,9 @@ ht-degree: 2%
 
    + 建立您的目標 {#create-goals}
       + [[!UICONTROL Workfront目標] 概觀](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
-      + [設定 [!UICONTROL Workfront目標] 適用於您的組織](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
+      + [設定 [!UICONTROL Workfront目標] 針對您的組織](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [將目標存取權授與選取的使用者](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
-      + [建立版面範本 [!UICONTROL Workfront目標] 使用者](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
+      + [建立佈局範本 [!UICONTROL Workfront目標] 使用者](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [建立目標](workfront-goals/create-your-goals/create-goals-in-workfront.md)
 
    + 啟用您的目標 {#activate-goals}
@@ -332,7 +333,7 @@ ht-degree: 2%
 
 + 整合 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [使用Adobe Workfront外掛程式來整合Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+      + [使用Adobe Workfront外掛程式整合Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [正在設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
@@ -356,19 +357,19 @@ ht-degree: 2%
       + [在Microsoft Teams中搜尋和共用Adobe Workfront專案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
       + [從Microsoft Teams建立Adobe Workfront任務](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
       + [從Microsoft Teams提交Adobe Workfront請求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
-      + [管理Microsoft Teams中的Adobe Workfront通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
+      + [在Microsoft Teams中管理Adobe Workfront通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [瞭解Workfront的 [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [檢視最近的工作 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+      + [檢視最近工作 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
       + [透過存取您的待辦事項清單 [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
-      + [透過以下方式指派任務 [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
+      + [指派工作透過 [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
       + [透過進行核准 [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [搜尋Workfront，透過 [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
 
 + Fusion {#fusion}
    + 歡迎使用Workfront Fusion {#welcome-to-workfront-fusion}
-      + [簡介與技術策略](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+      + [簡介和技術策略](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [以新使用者身分登入](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
       + [Workfront Fusion培訓概述](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
       + [設定Workfront Fusion練習檔案](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
@@ -378,33 +379,33 @@ ht-degree: 2%
       + [初始案例設計逐步說明](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
       + [對應面板和公式編輯器](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [對應面板重要附註](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
-      + [超出基本對應逐步說明](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
+      + [超越基本對應逐步說明](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
       + [使用篩選器](fusion/2-understand-the-basics/use-filters.md)
       + [篩選逐步解說](fusion/2-understand-the-basics/filters-walkthrough.md)
       + [存取舊版逐步說明](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
 
-   + 通用聯結器與路由 {#universal-connectors-and-routing}
+   + 通用聯結器和路由 {#universal-connectors-and-routing}
       + [Universal connectors練習概述](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [通用聯結器簡介逐步說明](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
       + [瞭解路由器](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [路由器逐步說明](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
       + [通用路由模式](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [路由模式逐步說明](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
-      + [設定與取得](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
+      + [設定並取得](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [取得/設定變數逐步解說](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
 
-   + 反複和彙總 {#iteration-and-aggregation}
+   + 反複運算與彙總 {#iteration-and-aggregation}
       + [迭代器簡介](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [迭代器逐步解說簡介](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
       + [彙總簡介](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
-      + [彙總逐步解說](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+      + [彙總逐步說明](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
       + [進階彙總逐步說明](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
 
    + 執行歷史記錄和排程 {#execution-history-and-scheduling}
       + [執行歷史記錄簡介](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [執行歷史記錄逐步解說](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
       + [瞭解情境排程](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
-      + [平衡執行週期和組合](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
+      + [平衡執行週期與組合](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [執行週期和套件組合逐步解說](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
 
    + 基本模組以外 {#beyond-basic-modules}
@@ -413,15 +414,15 @@ ht-degree: 2%
       + [切換函式逐步說明](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
       + [切換模組逐步說明](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
       + [瞭解webhook世界](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
-      + [Webhook逐步解說](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+      + [Webhook逐步說明](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
 
    + 資料結構和資料存放區 {#data-structures-and-data-stores}
       + [瞭解資料結構](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [資料結構逐步說明](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
       + [瞭解資料存放區](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
-      + [資料存放區逐步解說](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+      + [資料儲存逐步解說](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
 
-   + 最終功能位元和框 {#final-functional-bits-and-bobs}
+   + 最終功能位元和邊框 {#final-functional-bits-and-bobs}
       + [Workfront應用程式逐步說明](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
       + [瞭解陣列集合和元素](fusion/8-final-functional-bits-and-bobs/understand-arrays-collections-and-elements.md)
       + [陣列逐步說明](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
@@ -438,11 +439,11 @@ ht-degree: 2%
       + [未完成的執行逐步解說](fusion/9-troubleshooting-and-error-handling/incomplete-executions-walkthrough.md)
 
    + Workfront Fusion管理 {#workfront-fusion-administration}
-      + [瞭解組織團隊和使用者](fusion/10-workfront-fusion-administration/understand-organizations-teams-and-users.md)
-      + [管理逐步說明](fusion/10-workfront-fusion-administration/administration-walkthrough.md)
+      + [瞭解組織的團隊和使用者](fusion/10-workfront-fusion-administration/understand-organizations-teams-and-users.md)
+      + [管理逐步解說](fusion/10-workfront-fusion-administration/administration-walkthrough.md)
 
    + 設計最佳化和測試 {#design-optimization-and-testing}
-      + [定義不同的使用案例並找到最佳方法](fusion/11-design-optimization-and-testing/define-distinct-use-cases-and-find-the-best-approach.md)
+      + [定義不同的使用案例並找出最佳方法](fusion/11-design-optimization-and-testing/define-distinct-use-cases-and-find-the-best-approach.md)
       + [Workfront Fusion案例最佳化](fusion/11-design-optimization-and-testing/workfront-fusion-scenario-optimization.md)
       + [協助工具與清晰度](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
       + [案例護欄](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
@@ -460,10 +461,10 @@ ht-degree: 2%
       + [彙總](fusion/12-exercises/aggregation.md)
       + [進階彙總](fusion/12-exercises/advanced-aggregation.md)
       + [執行歷史記錄](fusion/12-exercises/execution-history.md)
-      + [探索回合、循環和組合](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [探索執行、循環和組合](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [Switch函式](fusion/12-exercises/switch-function.md)
       + [切換模組](fusion/12-exercises/switch-module.md)
-      + [Webhook](fusion/12-exercises/webhooks.md)
+      + [Webhooks](fusion/12-exercises/webhooks.md)
       + [資料結構](fusion/12-exercises/data-structures.md)
       + [資料存放區](fusion/12-exercises/data-stores.md)
       + [使用JSON](fusion/12-exercises/working-with-json.md)
@@ -478,10 +479,10 @@ ht-degree: 2%
       + [什麼是自動化工作流程範本](workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
       + [自訂校訂評論動作](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [自訂校訂決定選項](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [瞭解電子郵件提醒和校樣通知](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [瞭解電子郵件警示和校樣通知](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [校訂角色和電子郵件警示](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
-      + [校樣報告](workfront-proof/administration-and-setup/report-on-proofs.md)
-      + [在風險證明設定中設定預設值](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
+      + [校訂報表](workfront-proof/administration-and-setup/report-on-proofs.md)
+      + [在風險證明設定中設定預設](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
       + [設定全域校訂設定](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
       + [設定預設校訂角色](workfront-proof/administration-and-setup/set-default-proof-roles.md)
       + [設定校訂帳戶預設設定](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
@@ -495,10 +496,10 @@ ht-degree: 2%
       + [上傳校訂版本](workfront-proof/upload-proofs/upload-a-proof-version.md)
       + [管理校訂版本](workfront-proof/upload-proofs/manage-proof-versions.md)
       + [上傳視訊的證明](workfront-proof/upload-proofs/other-types-of-digital-assets.md)
-      + [上傳網站的證明](workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
-      + [使用基本工作流程上傳校樣](workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
-      + [使用自動化工作流程上傳校樣](workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
-      + [以拖放方式上傳](workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
+      + [上傳網站證明](workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
+      + [使用基本工作流程上傳校訂](workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+      + [使用自動化工作流程上傳證明](workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
+      + [使用拖放操作上傳](workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
       + [將多個檔案合併為單一校訂](workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
 
    + 校訂工作流程 {#proof-workflows}
@@ -511,7 +512,7 @@ ht-degree: 2%
    + 檢閱和核准工作 {#review-and-approve-work-for-proof}
       + [瀏覽到校訂檢視器](workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
       + [檢閱及核准證明](workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
-      + [檢閱並回覆校訂評論](workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
+      + [檢閱和回應校訂評論](workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
       + [檢閱含有校訂的影片](workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
       + [檢閱有證據的網站](workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
       + [瞭解校訂詳細資訊](workfront-proof/review-and-approve-work/proof-details-overview.md)
@@ -542,16 +543,16 @@ ht-degree: 2%
       + [什麼是 [!UICONTROL Brand Connect]？](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [在中建立系統設定 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [在中新增自訂頁面 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
-      + [在中建立品牌指南 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)
+      + [在中建立品牌指引 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)
       + [自訂外觀 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-appearance-of-brand-connect.md)
       + [自訂外觀 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-look-of-brand-connect.md)
 
    + Workfront DAM使用者：貢獻者 {#workfront-dam-contributor}
       + [瞭解 [!UICONTROL WORKFRONT DAM] 作為投稿人](workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
-      + [以投稿人角色瞭解資產管理](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
-      + [瞭解以投稿人身分尋找資產](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
-      + [以投稿人身份瞭解燈箱](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [作為投稿人瞭解中繼資料和關鍵字最佳實務](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [以投稿人身份瞭解資產管理](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
+      + [瞭解以貢獻者身分尋找資產](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
+      + [以投稿人身份瞭解Lightbox](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
+      + [瞭解身為投稿人的中繼資料和關鍵字最佳實務](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [以投稿人身份使用資產](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [以貢獻者身分傳送檔案](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [以投稿人身份發佈資產](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -562,7 +563,7 @@ ht-degree: 2%
       + [瞭解 [!UICONTROL Brand Connect] 通知](workfront-dam/brand-connect-user/brand-connect-notifications.md)
       + [瞭解以使用者身分下載和共用](workfront-dam/brand-connect-user/brand-connect-downloading-and-sharing.md)
       + [以使用者身分瞭解燈箱](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
-      + [瞭解以使用者身分導覽和搜尋](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
+      + [瞭解作為使用者的導覽和搜尋](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [以使用者身分使用資產](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + 首頁 {#home}
@@ -571,12 +572,12 @@ ht-degree: 2%
    + [排定工作優先順序](workfront-home/prioritize-your-work-in-workfront-home.md)
    + [指示工作狀態](workfront-home/indicate-work-status-in-workfront-home.md)
    + [溝通工作](workfront-home/communicate-about-work-in-workfront-home.md)
-   + [記錄工作時數](workfront-home/log-hours-on-work-in-workfront-home.md)
+   + [在工作時數上記錄](workfront-home/log-hours-on-work-in-workfront-home.md)
    + [將指派的工作標示為完成](workfront-home/mark-assigned-work-as-complete.md)
    + [核准中的工作 [!UICONTROL 首頁]](workfront-home/approve-work-in-workfront-home.md)
-   + [合作處理工作 [!UICONTROL 我的更新]](workfront-home/collaborate-on-work-with-my-updates.md)
-   + [檢閱中的工作 [!UICONTROL 我的更新] 或 [!UICONTROL 首頁]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
-   + [瞭解更新和通知](manage-work/issues-requests/understand-updates-and-notifications.md)
+   + [合作使用 [!UICONTROL 我的更新]](workfront-home/collaborate-on-work-with-my-updates.md)
+   + [檢閱工作 [!UICONTROL 我的更新] 或 [!UICONTROL 首頁]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
+   + [瞭解更新與通知](manage-work/issues-requests/understand-updates-and-notifications.md)
 
 + 敏捷 {#agile}
 
@@ -592,18 +593,18 @@ ht-degree: 2%
       + [作為Kanban團隊管理工作](agile/manage-work-kanban-team.md)
 
    + 展示板  {#boards}
-      + [尋找和建立基本展示板](boards/find-and-create-a-basic-board.md)
+      + [尋找並建立基本展示板](boards/find-and-create-a-basic-board.md)
       + [管理展示板欄](boards/manage-board-columns.md)
-      + [新增卡片至展示板](boards/add-cards-to-a-board.md)
+      + [將卡片新增到展示板](boards/add-cards-to-a-board.md)
       + [管理展示板上的卡片](boards/manage-cards-on-a-board.md)
       + [新增和管理討論區的團隊成員](boards/add-and-manage-team-members-for-a-board.md)
       + [在展示板上新增及編輯欄設定](boards/add-and-edit-column-settings-on-a-board.md)
-      + [新增和管理卡片標籤](boards/add-and-manage-tags-for-cards.md)
+      + [新增和管理卡片的標籤](boards/add-and-manage-tags-for-cards.md)
 
 + 最佳實務 {#best-practices}
    + [敏捷](best-practices/agile-bp.md)
    + [API總管](best-practices/api-explorer-bp.md)
-   + [業務案例與專案組合最佳化工具](best-practices/business-case-and-portfolio-optimizer-bp.md)
+   + [業務案例和產品組合最佳化工具](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [溝通](best-practices/communication-bp.md)
    + [自訂表單](best-practices/custom-forms-bp.md)
    + [自訂報表](best-practices/custom-reports-bp.md)
@@ -613,7 +614,7 @@ ht-degree: 2%
    + [工作角色](best-practices/job-roles-bp.md)
    + [版面配置範本](best-practices/layout-templates-bp.md)
    + [授權和存取層級](best-practices/licenses-access-levels-bp.md)
-   + [入門和採用](best-practices/onboarding-adoption-bp.md)
+   + [入職和採用](best-practices/onboarding-adoption-bp.md)
    + [組織單位](best-practices/organizational-units-bp.md)
    + [Portfolio和計畫](best-practices/portfolios-programs-bp.md)
    + [預覽沙箱](best-practices/preview-sandbox-bp.md)
@@ -627,7 +628,7 @@ ht-degree: 2%
    + [排程](best-practices/schedules-bp.md)
    + [狀態](best-practices/statuses-bp.md)
    + [系統效能與維護](best-practices/system-performance-maintenance-bp.md)
-   + [文字模式報告](best-practices/test-mode-reporting-bp.md)
+   + [文字模式報表](best-practices/test-mode-reporting-bp.md)
    + [時間表規劃與管理](best-practices/timeline-planning-management-bp.md)
    + [時程表和登入時間](best-practices/timesheets-logging-time-bp.md)
    + [使用情況](best-practices/utilization-bp.md)
@@ -638,9 +639,9 @@ ht-degree: 2%
 
 
 
-+ [使用敏捷的好處](agile/benefits-of-using-agile.md)
-+ [什麼是Scrum方法以及如何運作？](agile/what-is-the-scrum-methodology.md)
-+ [什麼是Kanban方法以及如何運作？](agile/what-is-the-kanban-methodology.md)
++ [使用Agile的優勢](agile/benefits-of-using-agile.md)
++ [什麼是Scrum方法以及其運作方式？](agile/what-is-the-scrum-methodology.md)
++ [什麼是Kanban方法以及其運作方式？](agile/what-is-the-kanban-methodology.md)
 + [轉換至敏捷](agile/transitioning-to-agile.md)
 + [適用於高階主管的Workfront](workfront-for-executives/workfront-for-executives.md)
 
