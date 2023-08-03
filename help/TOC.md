@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
+source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
 workflow-type: tm+mt
-source-wordcount: '2401'
+source-wordcount: '2405'
 ht-degree: 2%
 
 ---
@@ -122,6 +122,7 @@ ht-degree: 2%
       + [追蹤整體專案進度](manage-work/projects/track-overall-project-progress.md)
       + [使用專案量度追蹤工作進度](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [瞭解 [!UICONTROL 甘特圖] 檢視](manage-work/projects/understand-the-gantt-view.md)
+      + [瞭解 [!UICONTROL 展示板] 檢視](manage-work/projects/understand-the-board-view.md)
 
    + 任務 {#tasks}
       + [建立任務](manage-work/tasks/how-to-create-tasks.md)
