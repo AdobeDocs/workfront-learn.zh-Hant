@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
+source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
 workflow-type: tm+mt
-source-wordcount: '2405'
+source-wordcount: '2410'
 ht-degree: 2%
 
 ---
@@ -600,6 +600,7 @@ ht-degree: 2%
       + [管理展示板欄](boards/manage-board-columns.md)
       + [將卡片新增到展示板](boards/add-cards-to-a-board.md)
       + [管理展示板上的卡片](boards/manage-cards-on-a-board.md)
+      + [在展示板上自訂卡片](boards/customize-cards-on-a-board.md)
       + [新增和管理討論區的團隊成員](boards/add-and-manage-team-members-for-a-board.md)
       + [在展示板上新增及編輯欄設定](boards/add-and-edit-column-settings-on-a-board.md)
       + [新增和管理卡片的標籤](boards/add-and-manage-tags-for-cards.md)
