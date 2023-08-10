@@ -3,7 +3,7 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
 source-wordcount: '2410'
 ht-degree: 2%
@@ -138,18 +138,12 @@ ht-degree: 2%
       + [處理未計畫工作](manage-work/issues-requests/handle-unplanned-work.md)
       + [提出要求](manage-work/issues-requests/make-a-request.md)
       + [尋找請求](manage-work/issues-requests/find-requests.md)
-      + [管理請求](manage-work/issues-requests/manage-incoming-requests.md)
       + [管理問題指派](manage-work/issues-requests/manage-issue-assignments.md)
       + [更新請求](manage-work/issues-requests/update-a-request.md)
-      + [從請求建立專案](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [將問題轉換為其他工作專案](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [將問題/請求轉換為專案](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [將問題/請求轉換為任務](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [檢閱及核准數位工作](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [問題報告](manage-work/issues-requests/report-on-issues.md)
-
-   + 專案組合 {#portfolios}
-      + [產品組合概述](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [業務案例簡介](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [排定工作優先順序並管理產品組合](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 請求佇列 {#request-queues}
       + [瞭解請求佇列](manage-work/request-queues/understand-request-queues.md)
@@ -157,6 +151,11 @@ ht-degree: 2%
       + [建立請求佇列](manage-work/request-queues/create-a-request-queue.md)
       + [建立請求流程](manage-work/request-queues/create-a-request-flow.md)
       + [有關請求佇列的常見問題解答](manage-work/request-queues/request-queue-faq.md)
+
+   + 專案組合 {#portfolios}
+      + [產品組合概述](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [業務案例簡介](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [排定工作優先順序並管理產品組合](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 核准程式和里程碑路徑 {#approval-processes-and-milestone-paths}
       + [建立單一使用核准程式](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
