@@ -11,7 +11,7 @@ level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -32,4 +32,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
 
-如果您想瞭解如何建立自訂報告並將其放在儀表板中，請參閱 [基本報告建立課程](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)
+如果您想瞭解如何建立自訂報告並將其放在儀表板中，請參閱 [基本報告建立課程](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html).

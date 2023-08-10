@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -32,13 +32,13 @@ ht-degree: 0%
 
 此 [!UICONTROL 選項] 如果系統管理員希望您使用他們設定的預設值，則可以隱藏區段。 如果 [!UICONTROL 選項] 區段確實會出現，以下是選項的意思：
 
-**保持初始問題並將其解決方案連結至此專案。**
+**保持初始問題並將其解決方案連結至此專案**
 
 如果選取此選項，專案完成時原始問題將標籤為已解決。 如果此選項為 **非** 選取後，建立專案時將會刪除原始問題。
 
 **允許（使用者名稱）存取此專案**
 
-如果選取此選項，提出請求的人（或代表提出請求的人）將在新專案建立後自動獲得存取權。 如果此選項為 **非** 選取後，即不會授予他們任何權利。
+如果選取此選項，提出請求的人（或代表提出請求的人）將在新專案建立後自動獲得存取權。 如果此選項為 **非** 如此一來，他們便不會自動獲得任何權利。
 
 ![顯示轉換選項的專案畫面影像](assets/conversion-options.png)
 
