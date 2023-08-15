@@ -1,8 +1,8 @@
 ---
 source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 # 參與
@@ -18,7 +18,7 @@ ht-degree: 97%
 
 ## 投稿人指南檔案
 
-請參閱[投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)。
+請參閱[投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hant)。
 
 ## 有問題嗎？
 
@@ -43,4 +43,4 @@ submitting a pull request!
 
 ## 安全問題
 
-資訊安全方面的問題不應透過此問題追蹤器回報。請[向我們的安全專首頁提出問題](https://helpx.adobe.com/security/alertus.html)
+資訊安全方面的問題不應透過此問題追蹤器回報。請[向我們的安全專首頁提出問題](https://helpx.adobe.com/tw/security/alertus.html)
