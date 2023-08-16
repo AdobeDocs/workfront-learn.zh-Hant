@@ -1,6 +1,6 @@
 ---
 title: 關閉任務和問題
-description: 瞭解在結束專案之前，如何確認任務和問題已關閉 [!DNL  Workfront].
+description: 瞭解在關閉專案之前，如何確認任務及問題已關閉 [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a63de5541cbe92d1dbea286caf5465df0bbdce9a
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,8 @@ ht-degree: 0%
 
 關閉的首要步驟之一 [!DNL Workfront] project會確認所有任務和問題的狀態為「完成」或同等狀態。
 
-從工作清單開始並選取 [!UICONTROL 檢視] 會顯示 [!UICONTROL 完成百分比] 或 [!UICONTROL 狀態] 欄或兩者。 透過快速瀏覽任務清單，您可以查明哪些任務尚未發生狀態變更。
+如果 [!UICONTROL 完成百分比] 專案標題中的欄位會顯示100%您知道所有任務都標示為100%完成。 然而，若任務為 [!UICONTROL 完成 — 未決核准] 仍會讀取為100%，因此不要忘記檢查這些項。 另請參閱 [完成核准](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) 以取得所有關於核准的提示。
 
-![專案顯示 [!UICONTROL 完成百分比] 欄](assets/planner-fund-close-tasks-and-issues.png)
+如果您有任何未完成的問題，包括未決核准的問題，則「問題」標籤旁會有數字顯示數量。 如果數字為零，則表示您沒有任何未完成的問題。
 
-並非每個組織都使用 [!DNL Workfront's] 記錄或解決專案期間發生的問題、變更單等的問題功能。 但如果您這樣做，請切換到 [!UICONTROL 問題] 區段，並確認所有問題已解決。
-
-<!---
-learn more
-Update task status
-Issue statuses
---->
+![專案顯示 [!UICONTROL 完成百分比] 和未完成的問題](assets/close-tasks-and-issues.png)
