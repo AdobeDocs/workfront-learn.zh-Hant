@@ -1,6 +1,6 @@
 ---
 title: 完成核准
-description: 瞭解如何識別未完成的核准，並加以解決，以便您能夠關閉專案 [!DNL  Workfront].
+description: 瞭解如何識別未完成的核准，並加以解決，以便您可在以下位置關閉專案： [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,27 +8,30 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 # 完成核准
 
-任務和問題核准是許多工作流程的一部分。 但未解析的核准可能會阻止您將專案狀態設定為「完成」。
+任務和問題核准是許多工作流程的一部分。 但未解析的核准，會阻止您將專案狀態設定為「完成」。
 
-於 [!UICONTROL 任務] 區段，選取 [!UICONTROL 檢視] 這包括 [!UICONTROL 狀態] 欄。 快速瀏覽該欄將顯示是否有具有「」的任務未完成核准[!UICONTROL  — 核准待處理]」在狀態名稱之後。
+在 [!UICONTROL 任務] 區段，選取 [!UICONTROL 檢視] 這包括 [!UICONTROL 狀態] 欄。 快速瀏覽該欄，將顯示任務是否具有不完整的核准&quot;[!UICONTROL  — 未決核准]」在狀態名稱后面。
 
-![顯示未完成核准的專案](assets/planner-fund-approval-pending.png)
+![顯示未完成核准的專案](assets/approval-pending.png)
 
-您可以選擇要執行的動作：
+有幾個選項可供您選擇：
 
-* **完成核准 —** 這可能意味著提醒其他人尚未完成的核准。 透過以下方式更新以執行此操作 [!DNL Workfront]. 視您的 [!DNL Workfront] 許可權，您或許可以自行完成核准。
+* **完成核准 —** 這可能表示提醒其他人該未完成的核准。 您可以透過開啟任務並按一下「核准」標籤，檢視誰被指派為核准者。
 * **移除核准 —** 如果不需要核准，直接刪除可能會更容易。 您執行此動作的能力取決於您的 [!DNL Workfront] 許可權。
-* **變更狀態 —** 選取沒有附加核准的狀態。 請確定狀態等同於「完成」。
+* **變更狀態 —** 如果不需要核准，您可以選取沒有附加核准的狀態。 請確定狀態等同於「完成」。
+
+![顯示任務核准者的專案](assets/task-approvers.png)
 
 如果您的組織在專案期間使用問題來追蹤問題、變更單或其他事件，請遵循上的相同步驟 [!UICONTROL 問題] 區段。

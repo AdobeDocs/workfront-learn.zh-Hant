@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 如果您剛好在使用範本，而且需要使用該範本建立專案，請按一下範本名稱旁邊的3點選單。 然後選取「建立專案」。
 
-![功能表中的建立專案選項](assets/direct-template-01.png)
+![在功能表中建立專案選項](assets/direct-template-01.png)
 
 詳細資訊視窗可讓您變更新專案的設定。
 
@@ -29,8 +29,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->若要使用此方法建立專案，您需要存取Workfront的「範本」區域。 如果您無法存取範本，您仍然可以使用範本從專案區域或在轉換問題/任務時建立專案。
+>若要使用此方法建立專案，您需要存取Workfront的「範本」區域。 如果您無法存取範本，您仍然可以從專案區域或在轉換問題/任務時使用範本建立專案。
 
-**Pro-Tip**：如果您有經常使用的範本，請將其新增至最愛！ 除了顯示在導覽列中的「我的最愛」和「最近使用」功能表下外，您還會看到「新增專案」功能表中列出的範本。
+>[!TIP]
+>
+>如果您經常使用範本，請將其加入我的最愛！ 除了顯示在導覽列中的「我的最愛」功能表下外，您還會在「新增專案」功能表中看到範本列出。
+
 
 ![新專案我的最愛範本](assets/direct-template-03.png)
