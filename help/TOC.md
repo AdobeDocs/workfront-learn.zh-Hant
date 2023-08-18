@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '2414'
+source-wordcount: '2416'
 ht-degree: 2%
 
 ---
@@ -154,8 +154,8 @@ ht-degree: 2%
 
    + 專案組合 {#portfolios}
       + [產品組合概述](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [業務案例簡介](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [排定工作優先順序並管理產品組合](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [瞭解 [!UICONTROL 業務案例]](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [使用 [!UICONTROL Portfolio最佳化工具] 排定工作優先順序並加以管理](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 核准程式和里程碑路徑 {#approval-processes-and-milestone-paths}
       + [建立單一使用核准程式](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
@@ -608,7 +608,7 @@ ht-degree: 2%
    + [敏捷](best-practices/agile-bp.md)
    + [API總管](best-practices/api-explorer-bp.md)
    + [業務案例和產品組合最佳化工具](best-practices/business-case-and-portfolio-optimizer-bp.md)
-   + [溝通](best-practices/communication-bp.md)
+   + [通訊](best-practices/communication-bp.md)
    + [自訂表單](best-practices/custom-forms-bp.md)
    + [自訂報表](best-practices/custom-reports-bp.md)
    + [儀表板](best-practices/dashboards-bp.md)

@@ -1,58 +1,60 @@
 ---
-title: 產品組合概觀
-description: 了解產品組合 [!DNL Workfront] 以及它們如何協助您排定專案優先順序，並相互比較專案。
+title: 產品組合概述
+description: 瞭解Workfront中的專案組合，以及這些專案組合如何協助您排定專案的優先順序，並相互比較專案。
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
+last-substantial-update: 2023-08-18T00:00:00Z
+jira: KT-13837
 level: Intermediate
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
 
-# 產品組合概觀
+# 產品組合概述
 
-經理們往往有一項棘手的工作：找出哪些項目最能幫助公司實現目標。 這意味著根據對這些目標重要的標準來判斷當前項目或潛在項目。 此標準可包括所需資源數量、項目成本與項目帶來的成本、和/或相關風險數量等。 有了這些資訊，經理可以決定哪些項目應首先完成，哪些項目可以擱置。
+經理通常需要費力地找出哪些專案最能協助公司達成其目的和目標。 這表示根據對這些目標很重要的准則來判斷目前或可能的專案。 此標準可包含所需資源數量、專案成本與成本對比，以及瞭解相關風險等。 有了這些資訊，經理就可以決定哪些專案應該完成以及何時完成。
 
-考慮和規劃項目並不是一項過於困難的任務 — 大多數經理都習慣了這一過程。 真正的鬥爭是將項目相互比較。 篩選一長串詳細的項目清單非常耗時。 這就是投資組合 [!DNL  Workfront] 可以幫忙。
+思考和規劃專案並非一項過於困難的任務，而是一個大多數經理都習慣的過程。 真正的難題在於比較專案彼此之間的差異。 篩選冗長而詳細的專案清單相當耗時。 這是Workfront中的產品組合可以提供協助的地方。
 
-## 什麼是產品組合？
+## 什麼是投資組合？
 
-產品組合是針對相同資源、預算、排程和優先順序完成的專案集合。 例如，行銷機構可能會使用產品組合來為特定客戶將所有專案分組。
+投資組合是專案的集合，專案會針對相同的資源、預算、時程表和優先順序完成。 例如，行銷機構可能會使用投資組合將特定客戶的所有專案分組。
 
-導覽至 **[!UICONTROL Portfolio]** 區段 [!UICONTROL 主菜單]，然後按一下產品組合名稱以開啟它。
+導覽至 **[!UICONTROL Portfolio]** 區段來自 [!UICONTROL 主要功能表]，然後按一下投資組合名稱以開啟。
 
-您可以使用 **[!UICONTROL 新增專案]** 按鈕，輕鬆將現有專案新增至產品組合。 或者，您可以直接在產品組合中建立新專案。
+您可以使用 **[!UICONTROL 新增專案]** 按鈕輕鬆將現有專案新增至投資組合。 或者，您可以直接在投資組合中建立新專案。
 
 ![的下拉式功能表影像 [!UICONTROL 新增專案] 按鈕](assets/01-portfolio-management3.png)
 
-將專案新增至產品組合後，您就可以使用頁面標題中的摘要資訊，以高階檢視專案收集對整體目標的貢獻，無論是正面或負面。
+將專案新增至投資組合後，您可以使用頁面標頭中的摘要資訊，以取得此專案集合如何對投資組合的整體目標有正面或負面貢獻的高層級檢視。
 
-![頁首中產品組合摘要資訊的影像](assets/02-portfolio-management1.png)
+![頁面標頭中投資組合摘要資訊的影像](assets/02-portfolio-management1.png)
 
-您也可以使用產品組合最佳化工具來排定支援整體策略目標的專案優先順序。
+您可以使用產品組合最佳化工具(亦稱為 [!UICONTROL Portfolio最佳化工具])，以根據淨值、一致性、成本、風險和ROI來排定專案的優先順序。
 
-![在產品組合中排定項目優先順序的影像](assets/03-portfolio-management2.png)
+![在投資組合中排定專案優先順序的影像](assets/03-portfolio-management2.png)
 
-## 存取產品組合
+## 存取投資組合
 
-若要使用產品組合，您必須在 [!DNL Workfront] 並指派存取層級，提供您處理產品組合的權限。
+若要使用產品組合，您必須在Workfront中指派計畫授權，並指派存取層級，以授予您使用產品組合的許可權。
 
-建立產品組合時，只有產品組合建立者或經理才能存取該產品組合。 您可以共用作品集來授予其存取權。 這也可讓您存取產品組合內建立的方案和專案。
+建立產品組合時，只有產品組合建立者或經理有存取權。 您可以透過共用來授予其他人投資組合的存取權。 這也允許存取投資組合中的所有計畫和專案。
 
-開啟產品組合，按一下三點功能表，然後選取 **[!UICONTROL 共用]**. 新增應具有存取權的個人、團隊、工作角色、群組或公司。 然後確定每個應具有的訪問類型 — 管理或查看。
+開啟投資組合，按一下三個點的功能表，然後選取 **[!UICONTROL 共用]**. 新增應具備存取權的個人、團隊、工作角色、群組或公司。 然後決定每個使用者應該具有的存取型別 — 管理或檢視。
 
-![的影像 [!UICONTROL 共用] 選項 [!DNL Workfront] 作品集](assets/04-portfolio-management11.png)
+![的影像 [!UICONTROL 共用] 中的選項 [!DNL Workfront] 作品集](assets/04-portfolio-management11.png)
 
 <!--
 Pro-tips graphic
-If a user can’t access a specific portfolio, make sure it’s shared with them. The Workfront access level determines that a user can access portfolios in general, but sharing makes sure they can see specific portfolios. 
+If a user can't access a specific portfolio, make sure it's shared with them. The Workfront access level determines that a user can access portfolios in general, but sharing makes sure they can see specific portfolios. 
 -->
 
 <!--
