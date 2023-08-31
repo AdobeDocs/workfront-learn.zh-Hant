@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '2416'
+source-wordcount: '2422'
 ht-degree: 2%
 
 ---
@@ -211,10 +211,6 @@ ht-degree: 2%
       + [建立儀表板](reporting/basic-reporting/create-dashboards.md)
       + [傳送和共用報表](reporting/basic-reporting/how-to-send-and-share-reports.md)
       + [瞭解報表設定](reporting/basic-reporting/report-settings.md)
-      + [瞭解行事曆介面](reporting/basic-reporting/tour-of-the-interface.md)
-      + [建立自訂行事曆](reporting/basic-reporting/creating-custom-calendars.md)
-      + [瞭解其他行事曆選項](reporting/basic-reporting/additional-calendar-options.md)
-      + [輪到您建立行事曆](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + 中繼報告 {#intermediate-reporting}
       + [使用使用者型萬用字元建立篩選器](reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
@@ -233,6 +229,12 @@ ht-degree: 2%
       + [進階報告第1部分](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [進階報告第2部分](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [進階報告第3部分](reporting/advanced-reporting/advanced-reporting-part-3.md)
+
+   + 行事曆報告 {#calendar-reports}
+      + [瞭解行事曆報告介面](reporting/basic-reporting/tour-of-the-interface.md)
+      + [建立自訂行事曆報告](reporting/basic-reporting/creating-custom-calendars.md)
+      + [瞭解其他行事曆報告選項](reporting/basic-reporting/additional-calendar-options.md)
+      + [輪到您建立行事曆報告](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + 增強型分析 {#enhanced-analytics}
       + [與產品分享關於 [!UICONTROL 增強型分析]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
@@ -562,10 +564,10 @@ ht-degree: 2%
 
    + Brand Connect使用者 {#brand-connect}
       + [瞭解 [!UICONTROL Brand Connect] 作為使用者](workfront-dam/brand-connect-user/brand-connect-introduction.md)
+      + [瞭解作為使用者的導覽和搜尋](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [瞭解 [!UICONTROL Brand Connect] 通知](workfront-dam/brand-connect-user/brand-connect-notifications.md)
       + [瞭解以使用者身分下載和共用](workfront-dam/brand-connect-user/brand-connect-downloading-and-sharing.md)
       + [以使用者身分瞭解燈箱](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
-      + [瞭解作為使用者的導覽和搜尋](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [以使用者身分使用資產](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + 首頁 {#home}

@@ -10,7 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # 設定匯率
 
-[!DNL Workfront] 支援跨國公司的客戶組織使用不同貨幣。 專案和報告可以使用匯率，以反映世界各地不同貨幣的財務資訊。
+[!DNL Workfront] 支援跨國公司的客戶組織使用不同貨幣。 可在專案和報告上使用匯率，以反映世界各地不同貨幣的財務資訊。
 
-匯率由系統管理員管理。 您可以視需要為貴組織設定其他幣別。
+匯率由系統管理員管理。 您可以視需要為貴組織設定其他貨幣。
 
-[!DNL Workfront]的基準（預設）貨幣為美元。 除非在個別專案上指定不同的貨幣，否則預設會以這種貨幣計算財務資訊。
+Workfront的預設基礎貨幣為美元。 這是預設會以計算財務資訊的貨幣。 此預設值可在全域和個別專案上變更。
 
-## 設定貨幣與匯率
+## 設定貨幣和匯率
 
 ![選取匯率的影像](assets/setting-up-finances-4.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Workfront不會更新或追蹤匯率的目前市值。 如有需要，必須手動完成更新。
+>Workfront不會更新或追蹤匯率的目前市值。 如有需要，必須手動進行更新。
