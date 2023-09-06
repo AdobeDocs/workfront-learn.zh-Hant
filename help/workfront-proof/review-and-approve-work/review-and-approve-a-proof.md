@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: cbeb3387107da639899ab22e4372200356551154
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,16 @@ ht-degree: 0%
 2. 按一下 [!UICONTROL 檔案] 在專案頁面的左側面板選單中。
 3. 在中找到證明 [!UICONTROL 檔案] 清單。
 4. 按一下 [!UICONTROL 未完成的校訂] 開啟校訂檢視器的連結。
+
+## 如何核准校訂
+
+開啟校訂後，您將看到 **做出決定** 按鈕頂端，旁邊 **新增註解**. 如果您不是此校訂的核准者，則不會看到此按鈕。
+
+![第一個決策按鈕的影像。](assets/make-decision-1.png)
+
+當您準備好進行決定時，請按一下 **做出決定** 按鈕以檢視您的決定選項。 選取您的選擇，然後按一下其他 **做出決定** 按鈕下方的。
+
+![第二個決策按鈕的影像。](assets/make-decision-2.png)
 
 ## 檢閱及核准證明
 
