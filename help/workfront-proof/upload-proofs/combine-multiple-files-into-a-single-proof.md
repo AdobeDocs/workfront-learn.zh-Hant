@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 很抱歉，若您的清單中有影片、動畫和互動式URL等豐富媒體檔案，則無法合併檔案。
 
-![說明您無法合併視訊檔案的錯誤訊息影像。](assets/combine-proofs-2.png)
+![說明您無法合併視訊檔案的錯誤訊息影像。](assets/combine-proofs-error.png)
 
 
 ## 輪到您
