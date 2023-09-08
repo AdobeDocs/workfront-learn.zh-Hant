@@ -12,7 +12,7 @@ last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 5e13fec9021af23c1c2fb6c9126c3a28370675b4
+source-git-commit: 507f4b74d990dfe13ea2e167e90663142fa13e9d
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # 建立專案範本並瞭解 [!UICONTROL 藍圖]
 
-瞭解如何從頭開始並從現有範本建立專案範本，並瞭解如何進行 [!UICONTROL 藍圖] 可讓您存取Workfront專家建立的實用專案範本世界。
+瞭解如何從頭開始並從現有專案建立專案範本，並瞭解如何進行 [!UICONTROL 藍圖] 可讓您存取Workfront專家建立的實用專案範本世界。
 
 ## 建立專案範本
 
