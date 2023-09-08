@@ -1,6 +1,6 @@
 ---
 title: 建立專案範本並瞭解 [!UICONTROL 藍圖]
-description: 瞭解如何從頭開始並從現有範本建立專案範本，並瞭解如何進行 [!UICONTROL 藍圖] 可讓您存取Workfront專家建立的實用專案範本世界。
+description: 瞭解如何從頭開始並從現有專案建立專案範本，並瞭解如何進行 [!UICONTROL 藍圖] 可讓您存取Workfront專家建立的實用專案範本世界。
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -12,7 +12,7 @@ last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
+source-git-commit: 5e13fec9021af23c1c2fb6c9126c3a28370675b4
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
