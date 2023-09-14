@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
+source-git-commit: 0c1695807751540ce72fb68e0cbfc1f04a5862a9
 workflow-type: tm+mt
-source-wordcount: '2426'
+source-wordcount: '2428'
 ht-degree: 2%
 
 ---
@@ -193,6 +193,7 @@ ht-degree: 2%
    + 中繼專案 {#intermediate-projects}
       + [瞭解並管理期間型別和任務限制](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
       + [瞭解跨專案前置任務](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [進階前置任務](manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + 報告 {#reporting}
