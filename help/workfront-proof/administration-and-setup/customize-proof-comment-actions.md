@@ -1,6 +1,6 @@
 ---
-title: 自訂校訂評論的動作
-description: 瞭解如何對校訂評論使用動作。 瞭解如何為的校訂功能設定和自訂動作標籤。
+title: 自訂校訂評論動作
+description: 瞭解如何對校訂評論使用動作。 瞭解如何設定和自訂的校訂功能的動作標籤。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,14 +11,14 @@ thumbnail: 335128.png
 jira: KT-8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-# 自訂校訂評論的動作
+# 自訂校訂評論動作
 
 在本影片中，您將瞭解：
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on)
 
-## 輪到你了
+## 輪到您
 
 檢視您已建立的校訂工作流程，並思考您與使用檢閱和核准工作流程的團隊進行的討論。 是否需要動作？ 若是如此，請更新您記錄工作流程的檔案，以包含動作。
 

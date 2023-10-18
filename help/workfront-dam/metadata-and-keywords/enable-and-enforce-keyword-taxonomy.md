@@ -1,6 +1,6 @@
 ---
-title: 啟用和強制執行關鍵字分類
-description: 瞭解如何在使用者可以輸入自己的關鍵字並設定搜尋Facet時，啟用和強制執行關鍵字分類 [!UICONTROL WORKFRONT DAM].
+title: 啟用並強制執行關鍵字分類
+description: 瞭解如何在使用者可以輸入自己的關鍵字並設定搜尋面向時，啟用及強制執行關鍵字分類法 [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 中繼資料和關鍵字：啟用和強制執行關鍵字分類
+# 啟用並強制執行關鍵字分類
 
 在本影片中，您將瞭解如何：
 

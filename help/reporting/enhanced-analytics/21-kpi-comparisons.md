@@ -1,6 +1,6 @@
 ---
-title: 瞭解中的KPI比較使用案例 [!UICONTROL 增強型分析]
-description: 瞭解如何比較目前日期範圍和先前日期範圍的KPI，以及如何比較使用兩個不同篩選條件的KPI。
+title: 瞭解KPI比較使用案例
+description: 瞭解如何在中比較KPI [!UICONTROL 增強型分析] 從目前的日期範圍到先前的日期範圍，以及如何比較具有兩個不同篩選器的重要績效指標。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -11,19 +11,19 @@ team: Technical Marketing
 jira: KT-8739
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# 瞭解中的KPI比較使用案例 [!UICONTROL 增強型分析]
+# 瞭解KPI比較使用案例
 
 在本影片中，您將瞭解：
 
 * 如何比較目前日期範圍與先前日期範圍的KPI
 * 如何變更日期範圍
-* 如何並排比較使用兩個不同篩選器的KPI
+* 如何將具有兩個不同篩選器的KPI並排比較
 
 >[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on)

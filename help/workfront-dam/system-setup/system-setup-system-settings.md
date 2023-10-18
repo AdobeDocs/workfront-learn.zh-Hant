@@ -1,6 +1,6 @@
 ---
-title: 瞭解中的系統設定 [!UICONTROL WORKFRONT DAM]
-description: 瞭解如何建立全域設定、設定資產選項、建立資料夾設定、制定下載規則，以及檢視報告和稽核記錄 [!UICONTROL WORKFRONT DAM].
+title: 瞭解系統設定
+description: 瞭解如何建立全域設定、設定資產選項、建立檔案夾設定、建立下載規則，以及檢視報告和稽核記錄 [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8968
 exl-id: 88b528a4-85be-44ed-b4d1-7acfdb2742d0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# 系統設定：系統設定
+# 瞭解系統設定
 
 在本影片中，您將瞭解如何：
 

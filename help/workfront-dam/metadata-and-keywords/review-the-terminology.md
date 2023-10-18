@@ -1,6 +1,6 @@
 ---
-title: 檢閱中繼資料和關鍵字術語
-description: 瞭解什麼是中繼資料、開發中繼資料策略時需要問哪些問題，以及更多資訊。 [!UICONTROL WORKFRONT DAM].
+title: 檢閱中繼資料術語
+description: 瞭解什麼是中繼資料、開發中繼資料策略時需要問哪些問題，以及更多資訊 [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8971
 exl-id: 566415e9-f9a5-4038-aae7-6e08ae67d4b3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# 中繼資料和關鍵字：檢閱術語
+# 檢閱中繼資料術語
 
 在本影片中，您將瞭解：
 
-* 中繼資料是什麼以及來自何處
+* 什麼是中繼資料以及中繼資料的來源
 * 開發中繼資料策略時應問哪些問題
 * 關鍵字和中繼資料有何不同
 * 關鍵字分類法如何帶來好處

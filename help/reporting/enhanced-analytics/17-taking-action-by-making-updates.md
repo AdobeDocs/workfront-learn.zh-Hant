@@ -1,6 +1,6 @@
 ---
-title: 透過更新以下內容採取動作： [!UICONTROL 增強型分析]
-description: 瞭解如何在Workfront的「小眾測試版中的任務」圖表中進行更新。
+title: 進行更新以採取行動
+description: 瞭解如何從任務報告表中任務進行更新，位置在 [!UICONTROL 增強型分析].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8736
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# 透過更新以下內容採取動作： [!UICONTROL 增強型分析]
+# 進行更新以採取行動
 
 在本影片中，您將瞭解：
 

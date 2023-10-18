@@ -1,5 +1,5 @@
 ---
-title: 初始情境設計
+title: 初始案例設計
 description: 瞭解當您首次登入Workfront Fusion以及建置您的第一個案例時的一些基本導覽提示。
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '978'
 ht-degree: 0%
 
 ---
 
-# 初始情境設計
+# 初始案例設計
 
 瞭解當您首次登入Workfront Fusion以及建置您的第一個案例時的一些基本導覽提示。
 

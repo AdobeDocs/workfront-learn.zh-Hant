@@ -1,6 +1,6 @@
 ---
 title: 校訂使用者的設定
-description: 瞭解如何判斷哪些 [!DNL  Workfront] 使用者取得校訂授權，然後在兩者中調整使用者設定 [!DNL Workfront] 和後端設定。
+description: 瞭解如何判斷哪些 [!DNL  Workfront] 使用者取得校訂授權，然後在兩者中調整使用者設定 [!DNL Workfront] 以及後端設定。
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -11,7 +11,7 @@ thumbnail: 335126.png
 jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 校訂使用者的設定
 
-開始在中建立使用者之前 [!DNL  Workfront]，讓您的全域使用者成為最佳實務 [!DNL Workfront] 和校訂系統設定完成。 其中一些設定會在建立時套用至使用者設定檔。 但如果您在建立部分使用者之前未完成這些設定，請不要擔心……您可以在每個個別使用者設定檔上編輯這些設定。
+開始在中建立使用者之前 [!DNL  Workfront]，最佳實務是讓您的全域 [!DNL Workfront] 和校訂系統設定完成。 其中一些設定會在建立時套用至使用者設定檔。 但如果您在建立部分使用者之前並未完成這些設定，請不要擔心……您可以在每個個別的使用者設定檔上編輯這些設定。
 
 
 在本影片中，您將瞭解如何：
