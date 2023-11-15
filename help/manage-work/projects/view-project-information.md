@@ -7,12 +7,12 @@ feature: Work Management
 thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 無論您是檢視主要 [!UICONTROL 專案] 在頁面或個別專案中，微調您的清單以檢視您需要的資訊 [!UICONTROL 篩選器]， [!UICONTROL 檢視]、和 [!UICONTROL 群組].
 
-您可以透過「 」，深入瞭解您所有的專案進度 [!UICONTROL 專案] 頁面。
+您可以透過 [!UICONTROL 專案] 頁面。
 
 ![顯示篩選器的專案頁面](assets/planner-fund-project-page-fvg-copy.png)
 
 使用 [!UICONTROL 篩選器] 以根據特定條件縮小清單。 然後選取 [!UICONTROL 檢視] 以顯示與專案相關的資訊欄。 最後，選取 [!UICONTROL 分組] 以符合您需求的方式組織專案。
 
-當您在 [!UICONTROL 任務] 專案的區段，利用 [!UICONTROL 篩選器]， [!UICONTROL 檢視]、和 [!UICONTROL 群組] 同樣協助您監視正在完成的工作。 由於您檢視的是任務而不是專案，因此您有一組完全不同的選擇。
+當您在 [!UICONTROL 任務] 專案的區段，利用 [!UICONTROL 篩選器]， [!UICONTROL 檢視]、和 [!UICONTROL 群組] 再次協助您監視正在完成的工作。 由於您檢視的是任務而非專案，因此您有一組完全不同的選擇。
 
-![顯示檢視的專案任務清單](assets/planner-fund-task-list-fvg.png)
+![專案任務清單，檢視顯示](assets/planner-fund-task-list-fvg.png)
 
-許多 [!DNL Workfront] 客戶建立自訂檢視，以公開自訂表單資訊和與正在完成的工作相關的其他欄位。
+許多 [!DNL Workfront] 客戶會建立自訂檢視，其中顯示自訂表格資訊以及與正在完成的工作相關的其他欄位。
 
 ## 瞭解如何建立自訂篩選器、檢視和群組
 

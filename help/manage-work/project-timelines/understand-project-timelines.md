@@ -1,19 +1,19 @@
 ---
 title: 瞭解專案時間表
-description: 瞭解如何從開始或完成日期開始排程專案。 然後瞭解持續時間、前置任務及任務限制如何影響專案計畫。
+description: 瞭解如何從開始或完成日期開始排程專案。 然後瞭解持續時間、前置任務和任務限制如何影響專案計畫。
 activity: use
 feature: Work Management
 thumbnail: 335213.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->如需期間型別和任務限制的更完整說明，請參閱 [瞭解和管理期間型別和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=en).
+>如需持續時間型別與任務限制的更完整說明，請參閱 [瞭解並管理期間型別和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=en).

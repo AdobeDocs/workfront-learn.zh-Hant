@@ -1,25 +1,25 @@
 ---
 title: 上傳資產
-description: 在關閉專案之前，請先上傳檔案、校樣和其他資產到專案，以確保所有相關資料都與專案相關聯。
+description: 請先上傳檔案、校樣和其他資產到專案，再關閉專案，確保所有相關資料都與專案相關聯。
 activity: use
 team: Technical Marketing
 feature: Work Management
 thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 上傳資產
 
-在關閉之前 [!DNL Workfront] 專案，請確定所有相關檔案都附加在 [!UICONTROL 檔案] 區段。 根據貴組織的方針決定，將這些檔案上傳為檔案或校樣。
+在您關閉之前 [!DNL Workfront] 專案，請確定所有相關檔案都附加在 [!UICONTROL 檔案] 區段。 根據您組織的方針決定，將這些檔案上傳為檔案或校訂。
 
 您可能需要以現有檔案的版本上傳檔案或校訂。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 如果您的組織使用檔案核准，請選取清單中的每個專案，並檢查檔案詳細資訊以檢視核准是否已完成。
 
-![顯示檔案核准的「檔案」頁面上的側邊摘要](assets/planner-fund-document-approval.png)
+![檔案頁面上顯示檔案核准的側邊摘要](assets/planner-fund-document-approval.png)
 
 <!---
 learn more urls

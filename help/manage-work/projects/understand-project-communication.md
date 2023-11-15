@@ -1,20 +1,20 @@
 ---
 title: 瞭解專案通訊
-description: 瞭解如何使用良好的專案計畫、更新、任務狀態、完成百分比、問題和報告來傳達專案工作。
+description: 瞭解如何使用良好的專案計畫、更新、任務狀態、完成百分比、問題和報告來溝通專案工作。
 activity: use
 team: Technical Marketing
 feature: Work Management
 thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,6 @@ ht-degree: 2%
 
 >[!TIP]
 >
->若要建立影片中所顯示的「附註搜尋」報告，請參閱 [建立任務報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) 教學課程。
+>若要建立影片中顯示的備註搜尋報告，請參閱 [建立任務報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) 教學課程。
 >
 >若要將「附註搜尋」報告新增至專案面板，請參閱 [建立儀表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) 教學課程。

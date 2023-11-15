@@ -6,19 +6,19 @@ team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 計畫專案 — 檢閱
 
-取得您的 [!DNL  Workfront] 使用專案範本，快速啟動並執行專案。 接著，請先專注在下列五個欄位上，以規劃您的專案：
+取得您的 [!DNL  Workfront] 使用專案範本讓專案快速上線並執行。 接著，請先專注在下列五個欄位規劃您的專案：
 
 1. 任務
 1. 期間
@@ -26,7 +26,7 @@ ht-degree: 5%
 1. 前置任務
 1. 指派
 
-一切設定完成後，將專案狀態變更為目前，讓專案上線。 隨著專案進行，您會想要追蹤完成的工作、出現的問題、需要回答的問題等等。 請記住……您可以在以下位置找到並管理所有這些資訊： [!DNL Workfront]！
+一切設定完成後，將專案狀態變更為目前，讓專案上線。 隨著專案進行，您會想要追蹤完成的工作、發生的問題、需要回答的問題等等。 請記住……您可在以下位置找到並管理所有這些資訊： [!DNL Workfront]！
 
 <!---
 footer urls for the LP

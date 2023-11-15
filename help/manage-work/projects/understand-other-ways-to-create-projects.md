@@ -6,14 +6,14 @@ feature: Work Management
 thumbnail: 335084.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
-## Pro提示
+## 專業秘訣
 
-* 此 [!UICONTROL 從範本新增專案] 視窗可讓您輕鬆為您的專案選取正確的範本。 捲動左側面板以尋找範本，然後選取它以取得其內容的預覽。 此預覽會顯示範本中有多少任務、所需職務角色等。
+* 此 [!UICONTROL 透過範本新增專案] 視窗可讓您輕鬆為您的專案選取正確的範本。 捲動左側面板以尋找範本，然後選取它以取得其內容的預覽。 此預覽會顯示範本中有多少任務、所需工作角色等。
 
-![[!UICONTROL 從範本新增專案] 視窗](assets/planner-fund-new-project-from-template-window.png)
+![[!UICONTROL 透過範本新增專案] 視窗](assets/planner-fund-new-project-from-template-window.png)
 
-* 如果有您經常使用的範本，請將其加入我的最愛！ 您會看到「 」中列出的範本 [!UICONTROL 新增專案] 功能表，以及顯示在下方的 [!UICONTROL 我的最愛和最近] 圖示加以檢視。 只要在範本頁面上按一下您看到的最愛星形圖示，同時選擇要用來建立專案的範本等。
+* 如果您經常使用範本，請將其加入我的最愛！ 您會看到「 」中列出的範本 [!UICONTROL 新增專案] 功能表，以及出現在下方的 [!UICONTROL 我的最愛和最新] 圖示加以儲存。 只要在範本頁面上按一下您看到的最愛星形圖示，同時選擇要用來建立專案的範本即可。
 
-![[!UICONTROL 我的最愛範本] 清單位於 [!UICONTROL 新增專案] 按鈕](assets/planner-fund-template-favorites.png)
+![[!UICONTROL 我的最愛範本] 清單在 [!UICONTROL 新增專案] 按鈕](assets/planner-fund-template-favorites.png)
 
 <!---
 learn more:

@@ -6,14 +6,14 @@ feature: Work Management
 thumbnail: 335095.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: b26ce60a2cac197d19b48656fedaa2eb51c33657
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如影片所述，人員必須變更狀態，從 **[!UICONTROL 新增]** 至 **[!UICONTROL 進行中]** 當他們開始一項任務時，請 [!UICONTROL 實際開始日期] 都會正確。 但如果他們在開始任務時忘記執行此動作，則可返回並編輯 [!UICONTROL 實際開始日期] 隨時。
+>如影片所述，人員變更狀態很重要，從 **[!UICONTROL 新增]** 至 **[!UICONTROL 進行中]** 當他們開始一項任務時，讓 [!UICONTROL 實際開始日期] 都會正確。 但如果他們在啟動任務時忘記執行此動作，則可返回並編輯 [!UICONTROL 實際開始日期] 隨時。
 
 
 <!---

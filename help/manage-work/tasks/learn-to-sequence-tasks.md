@@ -6,14 +6,14 @@ feature: Work Management
 thumbnail: 335091.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 在本影片中，您將瞭解：
 
 * 前置任務是什麼 [!DNL  Workfront]
-* 前置任務在專案中如何排序任務
+* 前置任務在專案中排列任務的方式
 * 如何使用持續時間和前置任務來建立時間表
 * 如何變更或輸入前置任務
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 <!---
 Learn more urls
-There’s a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you’re curious, here are some articles about additional functionality.
+There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
 Overview of task predecessors
 Create predecessor relationships by chaining tasks
 Creating a predecessor relationship on the task list

@@ -1,19 +1,19 @@
 ---
 title: 更新請求
-description: 瞭解如何尋找您已提交的請求，並在這些請求上進行更新 [!DNL  Workfront].
+description: 瞭解如何尋找您已提交的請求，並在對這些請求進行更新 [!DNL  Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 thumbnail: 336091.png
 jira: KT-8807
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: 共用專案
-description: 瞭解如何共用專案，讓專案相關人和對專案感興趣的其他人能夠使用檢視正在完成的工作 [!DNL  Workfront].
+description: 瞭解如何共用專案，讓專案的利害關係人和其他感興趣的人能夠使用檢視正在完成的工作 [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
 thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 5b1e0bf5cc50fcfe4a4df7cbce608fb20643bf9b
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

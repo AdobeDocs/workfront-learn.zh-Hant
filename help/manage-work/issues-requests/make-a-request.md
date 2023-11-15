@@ -1,20 +1,20 @@
 ---
 title: 提出要求
-description: 瞭解如何找到 [!UICONTROL 請求] 區域，並在以下位置提出請求： [!DNL  Workfront]. 然後瞭解如何檢視已提交和草稿請求。
+description: 瞭解如何找到 [!UICONTROL 請求] 區域並在中提出請求 [!DNL  Workfront]. 然後，瞭解如何檢視已提交的和草稿請求。
 activity: use
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
