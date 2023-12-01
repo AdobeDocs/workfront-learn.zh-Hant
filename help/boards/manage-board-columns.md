@@ -10,7 +10,7 @@ role: User, Leader
 level: Beginner
 exl-id: 50a1b0f4-1857-43cf-a8ae-1ebb2344afa0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何編輯、新增、重新排列和刪除展示板上的欄。
 
->[!VIDEO](https://video.tv.adobe.com/v/346570)
+>[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on)

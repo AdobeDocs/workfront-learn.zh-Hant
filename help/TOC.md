@@ -268,7 +268,7 @@ ht-degree: 2%
       + [使用者的資源管理設定](manage-resources/resource-management/settings-for-users.md)
       + [資源管理設定、工作負載平衡器和使用率報告](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
-   + 工作負載平衡器 {#workload-balancer}
+   + 工作量平衡工具 {#workload-balancer}
       + [尋找工作負載平衡器](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [篩選工作負載平衡器](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [在工作負載平衡器中檢視使用者分配](manage-resources/workload-balancer/view-user-allocations.md)
@@ -639,7 +639,7 @@ ht-degree: 2%
    + [時程表和登入時間](best-practices/timesheets-logging-time-bp.md)
    + [使用情況](best-practices/utilization-bp.md)
    + [Workfront 目標](best-practices/workfront-goals-bp.md)
-   + [工作負載平衡器](best-practices/workload-balancer-bp.md)
+   + [工作量平衡工具](best-practices/workload-balancer-bp.md)
 
 
 
