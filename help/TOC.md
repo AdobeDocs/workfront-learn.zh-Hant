@@ -3,10 +3,10 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2436'
-ht-degree: 2%
+source-wordcount: '2375'
+ht-degree: 1%
 
 ---
 
@@ -84,11 +84,12 @@ ht-degree: 2%
 
 
 + 自訂資料 {#custom-data}
-   + 自訂表單 {#custom-forms}
+   + 自訂Forms {#custom-forms}
       + [建立和共用自訂表格](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [共用自訂欄位](custom-data/custom-forms/share-custom-fields.md)
       + [編輯自訂表單](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [將自訂表單附加至物件](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [將分割槽符號和邏輯新增到自訂表單](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [將自訂表單匯出為PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + 計算運算式 {#calculated-expressions}
@@ -151,7 +152,7 @@ ht-degree: 2%
       + [建立請求流程](manage-work/request-queues/create-a-request-flow.md)
       + [有關請求佇列的常見問題解答](manage-work/request-queues/request-queue-faq.md)
 
-   + 專案組合 {#portfolios}
+   + Portfolio {#portfolios}
       + [產品組合概述](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [瞭解 [!UICONTROL 業務案例]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [使用 [!UICONTROL Portfolio最佳化工具] 排定工作優先順序並加以管理](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
@@ -268,7 +269,7 @@ ht-degree: 2%
       + [使用者的資源管理設定](manage-resources/resource-management/settings-for-users.md)
       + [資源管理設定、工作負載平衡器和使用率報告](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
-   + 工作量平衡工具 {#workload-balancer}
+   + 工作負載平衡器 {#workload-balancer}
       + [尋找工作負載平衡器](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [篩選工作負載平衡器](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [在工作負載平衡器中檢視使用者分配](manage-resources/workload-balancer/view-user-allocations.md)
@@ -290,7 +291,7 @@ ht-degree: 2%
       + [檢視指派任務時的休假](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [資源管理工具的可見性](manage-resources/pto/visibility-in-resource-management-tools.md)
 
-   + 案例規劃工具 {#scenario-planner}
+   + 情境規劃工具 {#scenario-planner}
       + [有關Scenario Planner的產品時刻](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [什麼是Scenario Planner？](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [存取「情境規劃工具」中的計畫](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
@@ -300,7 +301,7 @@ ht-degree: 2%
       + [更新並複製計畫](manage-resources/scenario-planner/update-and-copy-plans.md)
       + [發佈情境](manage-resources/scenario-planner/publish-a-scenario.md)
 
-+ Workfront 目標 {#workfront-goals}
++ Workfront目標 {#workfront-goals}
    + 為您的組織建立願景 {#establish-a-vision-and-strategy}
       + [瞭解Workfront目標背後的願景](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
       + [瞭解Workfront目標的運作方式](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
@@ -523,7 +524,7 @@ ht-degree: 2%
       + [管理校訂評論](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [追蹤校訂進度](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-+ Workfront DAM {#workfront-dam-program}
++ WORKFRONT DAM {#workfront-dam-program}
    + 系統設定 {#system-setup}
       + [瞭解 [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [瞭解系統設定](workfront-dam/system-setup/system-setup-system-settings.md)
@@ -587,13 +588,13 @@ ht-degree: 2%
 + 敏捷 {#agile}
 
    + Scrum {#scrum}
-      + [建立Scum敏捷團隊](agile/create-a-scrum-agile-team.md)
+      + [建立Scrum敏捷團隊](agile/create-a-scrum-agile-team.md)
       + [作為Scrum團隊管理工作](agile/manage-work-scrum-team.md)
       + [整理待處理專案](agile/gooming-the-backlog.md)
       + [計畫和建立反複專案](agile/plan-and-create-an-iteration.md)
       + [使用反複專案頁面](agile/using-the-iteration-page.md)
 
-   + 看板 {#kanban}
+   + Kanban {#kanban}
       + [建立Kanban團隊](agile/create-a-kanban-team.md)
       + [作為Kanban團隊管理工作](agile/manage-work-kanban-team.md)
 
@@ -612,9 +613,9 @@ ht-degree: 2%
    + [API總管](best-practices/api-explorer-bp.md)
    + [業務案例和產品組合最佳化工具](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [通訊](best-practices/communication-bp.md)
-   + [自訂表單](best-practices/custom-forms-bp.md)
+   + [我的群組中的自訂表格](best-practices/custom-forms-bp.md)
    + [自訂報表](best-practices/custom-reports-bp.md)
-   + [儀表板](best-practices/dashboards-bp.md)
+   + [儀錶板](best-practices/dashboards-bp.md)
    + [文件](best-practices/documents-bp.md)
    + [篩選器、檢視和群組](best-practices/filters-views-groupings-bp.md)
    + [工作角色](best-practices/job-roles-bp.md)
@@ -626,7 +627,7 @@ ht-degree: 2%
    + [預覽沙箱](best-practices/preview-sandbox-bp.md)
    + [專案、任務和問題偏好設定](best-practices/project-task-issue-preferences-bp.md)
    + [專案範本](best-practices/project-templates-bp.md)
-   + [Workfront Proof](best-practices/proofing-bp.md)
+   + [Workfront 校訂](best-practices/proofing-bp.md)
    + [請求佇列](best-practices/request-queues-bp.md)
    + [資源規劃工具](best-practices/resource-planner-bp.md)
    + [資源集區](best-practices/resource-pools-bp.md)
