@@ -1,63 +1,70 @@
 ---
-title: 最佳實務 — 業務案例與Portfolio最佳化工具
-description: 在切換至敏捷方法之前，請先檢視幾項建議及要問的問題。
+title: 最佳實務 - 業務案例和專案組合最佳化工具
+description: 在轉換使用敏捷方法之前，簡單查看一些建議和要提出的問題。
 feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 0%
+source-wordcount: '440'
+ht-degree: 75%
 
 ---
 
-# 最佳實務 — 業務案例與Portfolio最佳化工具
+# 最佳實務 - 業務案例和專案組合最佳化工具
 
-## 什麼是Adobe Workfront「最佳實務」？
+## 什麼是 Adobe Workfront「最佳實務」？
 
-最佳實務准則是代表有效率、有效率的行動方針；您和您公司的使用者可輕鬆採用；並且可在您的組織內成功複製。
+最佳實務是代表有效果、有效率之行動方針的準則；您和公司的使用者可以輕鬆採用；並且可以成功複製到整個組織。
 
-在檢閱這些建議時，請記住，部分Workfront最佳實務是通用的，而其他實務則可能更特定於主題。 使用這些最佳實務作為框架，以協助指導您的Workfront系統設定和使用。
+當您檢閱這些建議時，請記住，有一些 Workfront 最佳實務是通用的，而其他做法可能針對特定主題。將這些最佳實務視為框架，作為設定和使用 Workfront 系統時的指引。
 
-## 瀏覽此頁面
+## 導覽此頁面
 
-捲動瀏覽本頁面時，首先您會找到該主題所有最佳實務的高層級清單。 這可讓您檢閱建議，而不需深入瞭解「原因」的詳細資訊。
+當您捲動瀏覽此頁面時，您會先找到該主題所有最佳實務的高層次清單。這樣您便可以檢視建議而無需深入瞭解詳細的「原因」。
 
-「為什麼這些是最佳實務？」 區域位於高階清單之後，可讓您更詳細地瞭解部分最佳實務，以及為何將其視為流程、工具等，因此您應考慮使用Workfront執行個體進行實作。
-
-</br>
-</br>
-
-## 業務案例和Portfolio最佳化工具最佳實務
-
-* 在您的專案之前或開始時，使用業務案例。
-
-* 在業務案例中預估並調整重要的專案資訊，例如成本、一致性、淨值、風險和ROI。
+「為什麼這些是最佳實務？」區域，位在高層次清單之後，詳細說明一部分的最佳實務，以及為什麼這些實務被認定為您的 Workfront 執行個體應該考慮執行的流程、工具等。
 
 </br>
 </br>
 
-## 為什麼有這些最佳實務？
+## 業務案例和專案組合最佳化工具最佳實務
+
+* 在專案開始之前或開始時使用業務案例。
+
+* 估算和調整業務案例中的重要專案資訊，例如成本、符合目標、淨值、風險和 ROI。
+
+</br>
+</br>
+
+## 為什麼這些是最佳實務？
 
 **最佳實務**
 
-在您的專案之前或開始時，使用業務案例。
+在專案開始之前或開始時使用業務案例。
 
-**原因如下**
+**原因說明**
 
-在專案開始之前，或甚至在專案開始時使用業務案例，可讓您真正預測該專案將需要的內容(資源（人力和非人力）、預算、時間範圍，以及如何在潛在風險發生之前降低潛在風險。
+在專案開始之前甚至在專案開始時使用業務案例，讓您可以真正預測該專案的需求，包括資源 (人力和非人力)、預算和時間範圍，以及如何在潛在風險出現之前便將風險減輕。
 
-它也會讓您有機會向利害關係人展示您的專案對部門、地區和/或公司目標的貢獻。
+您也可以藉此機會向利害關係人說明您的專案對於部門、區域和/或公司目標將有哪些貢獻。
+
+如需如何使用業務案例的指示，請參閱 [瞭解業務案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
 
 </br>
 </br>
 
 **最佳實務**
 
-在業務案例中預估並調整重要的專案資訊，例如成本、一致性、淨值、風險和ROI。
+估算和調整業務案例中的重要專案資訊，例如成本、符合目標、淨值、風險和 ROI。
 
-**原因如下**
+**原因說明**
 
-確定此資訊與「現實生活」專案所需資訊儘可能接近，可讓您準確使用Portfolio最佳化工具中的分數功能，以決定所列專案的優先順序。 Portfolio最佳化工具是很好的工具，可確保您的專案有效地排定優先順序，並與公司的策略和價值相符。
+確保此資訊與「真實生活」專案所需資訊儘可能接近，可讓您精確使用Portfolio最佳化工具中的分數功能，以決定所列專案的優先順序。 Portfolio最佳化工具是絕佳的工具，可確保您的專案被有效率地排定優先順序，並符合您公司的策略和價值。
+
+如需如何使用業務案例的指示，請參閱 [瞭解業務案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+
+如需如何使用Portfolio最佳化程式的指示，請參閱 [使用Portfolio最佳化工具來排定優先順序並管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+
