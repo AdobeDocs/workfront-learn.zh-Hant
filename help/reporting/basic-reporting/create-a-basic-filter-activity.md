@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 33%
+ht-degree: 32%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 33%
 ![影像顯示建立新篩選器的畫面](assets/basic-filter-activity-1.png)
 
 1. 從[!UICONTROL 主選單]導覽至「[!UICONTROL 專案]」區域。接著會顯示專案清單。
-1. 按一下 **[!UICONTROL 篩選]** 功能表並選取 [!UICONTROL 舊版篩選器]
+1. 按一下 **[!UICONTROL 篩選]** 功能表並選取 [!UICONTROL 舊版篩選器].
 1. 選取 **[!UICONTROL 新增篩選器]**.
 1. 將您的篩選器命名為「行銷組合中的所有專案」。
 1. 按一下「**[!UICONTROL 新增篩選規則]**」。
@@ -39,7 +39,7 @@ ht-degree: 33%
 1. 「[!UICONTROL 等於]」運算子維持原本設定。
 1. Type &quot;[!UICONTROL 行銷]中的&quot; [!UICONTROL 開始輸入名稱] 欄位。
 1. 選取 [!UICONTROL 行銷Portfolio] 假設您有一個您要篩選的名稱組合。 如果您不直接使用預先輸入功能來尋找您想要的投資組合。
-1. 按一下「**[!UICONTROL 儲存篩選器]**」
+1. 按一下 **[!UICONTROL 儲存篩選器]**.
 
 ## 活動2 — 我擁有的專案本月關閉
 
@@ -54,7 +54,7 @@ ht-degree: 33%
 ![影像顯示建立新篩選器的畫面](assets/basic-filter-activity-updated-6-15-21.png)
 
 1. 從[!UICONTROL 主選單]導覽至「[!UICONTROL 專案]」區域。接著會顯示專案清單。
-1. 按一下 **[!UICONTROL 篩選]** 功能表並選取 [!UICONTROL 舊版篩選器]
+1. 按一下 **[!UICONTROL 篩選]** 功能表並選取 [!UICONTROL 舊版篩選器].
 1. 選取 **[!UICONTROL 新增篩選器]**.
 1. 將您的篩選器命名為「本月關閉的我所擁有的專案」。
 1. 按一下「**[!UICONTROL 新增篩選規則]**」。
@@ -69,4 +69,4 @@ ht-degree: 33%
 1. 再按一下「[!UICONTROL 新增篩選規則]」。
 1. 在 [!UICONTROL 開始輸入欄位名稱] 欄位型別「計畫」，然後選取 [!UICONTROL 計畫完成日期] 在 [!UICONTROL 專案] 欄位來源。
 1. 將「[!UICONTROL 等於]」運算子變更為「[!UICONTROL 本月]」。
-1. 按一下「**[!UICONTROL 儲存篩選器]**」
+1. 按一下 **[!UICONTROL 儲存篩選器]**.

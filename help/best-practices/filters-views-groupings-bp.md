@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 71%
+source-wordcount: '785'
+ht-degree: 70%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 71%
 
 針對您想查看每個段落的資料建立一次性的報告不但耗費時間，也讓 Workfront 系統切分成多個區塊。
 
-如需有關如何建立具有提示的報表的說明，請參閱中標示為「如何設定及使用報表提示」的章節。 [瞭解報表設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+如需有關如何建立帶有提示的報表的說明，請參閱 [瞭解報表設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) 視訊。
 
 如需如何使用自訂提示建立報表的指示，請參閱 [建立自訂提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 
