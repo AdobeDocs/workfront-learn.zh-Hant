@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 84%
 
 ---
@@ -35,8 +35,6 @@ ht-degree: 84%
 * 考慮使用報告提示來縮小報告結果的範圍，而不是建置多個類似的報告或在報告中建立複雜的篩選結構。
 
 * 複製類似的現有報告來建立新的報告，加速報告建立。
-
-* 盡量使用開箱即可用的報告功能來取代文字模式。
 
 * 使用基於使用者的萬用字元來建立動態報告，讓檢視報告的使用者看到與他們相關的資訊。
 
@@ -88,7 +86,7 @@ ht-degree: 84%
 </br>
 </br>
 
-如需如何在報表中使用使用者型萬用字元的指示，請參閱 [使用使用者型萬用字元建立篩選器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+如需如何在報表中使用使用者型萬用字元的指示，請參閱 [使用使用者型萬用字元建立篩選器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **最佳實務**
 

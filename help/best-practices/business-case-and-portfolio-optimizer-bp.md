@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 75%
@@ -51,7 +51,7 @@ ht-degree: 75%
 
 您也可以藉此機會向利害關係人說明您的專案對於部門、區域和/或公司目標將有哪些貢獻。
 
-如需如何使用業務案例的指示，請參閱 [瞭解業務案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+如需如何使用業務案例的指示，請參閱 [瞭解業務案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
 </br>
 </br>
@@ -64,7 +64,7 @@ ht-degree: 75%
 
 確保此資訊與「真實生活」專案所需資訊儘可能接近，可讓您精確使用Portfolio最佳化工具中的分數功能，以決定所列專案的優先順序。 Portfolio最佳化工具是絕佳的工具，可確保您的專案被有效率地排定優先順序，並符合您公司的策略和價值。
 
-如需如何使用業務案例的指示，請參閱 [瞭解業務案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+如需如何使用業務案例的指示，請參閱 [瞭解業務案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
-如需如何使用Portfolio最佳化程式的指示，請參閱 [使用Portfolio最佳化工具來排定優先順序並管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+如需如何使用Portfolio最佳化程式的指示，請參閱 [使用Portfolio最佳化工具來排定優先順序並管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
 
