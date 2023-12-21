@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 97e97fa1a91e7ddae69c1e9fff162917c72b757d
+source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 85%
@@ -49,9 +49,9 @@ ht-degree: 85%
 
 逐步操作您的工作流程，可以更容易發現需要溝通的地方，並確認已啟用正確的通知。這會根據組織現有的運作方式啟動相關通知，避免垃圾郵件或通訊中斷。
 
-如需如何設定事件通知的指示，請參閱 [設定事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)
+如需如何設定事件通知的指示，請參閱 [設定事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
 
-如需如何管理事件通知的指示，請參閱 [管理應用程式內和電子郵件事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)
+如需如何管理事件通知的指示，請參閱 [管理應用程式內和電子郵件事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
 
 </br>
 </br>
