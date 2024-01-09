@@ -3,10 +3,10 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '2374'
-ht-degree: 98%
+source-wordcount: '2386'
+ht-degree: 97%
 
 ---
 
@@ -169,6 +169,8 @@ ht-degree: 98%
       + [直接使用範本建立專案](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [共用專案範本](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [複製現有專案](manage-work/manage-projects/copy-an-existing-project.md)
+      + [停用專案範本](manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+      + [在專案範本中編輯專案團隊](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + 專案時間表 {#project-timelines}
       + [瞭解專案時間表](manage-work/project-timelines/understand-project-timelines.md)
