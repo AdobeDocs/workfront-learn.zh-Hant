@@ -11,7 +11,7 @@ last-substantial-update: 2024-01-09T00:00:00Z
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
-source-git-commit: 6800bbaa25945647522f42e774fa6e53b6f7cafd
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 9%
@@ -22,7 +22,7 @@ ht-degree: 9%
 
 觀看這段影片，您將會瞭解：
 
-* 如何避免無意中將專案團隊成員加入範本專案團隊。
+* 如何避免將**非專案團隊成員無意納入**本專案團隊中。
 * 如何編輯範本專案團隊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)

@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '1705'
-ht-degree: 61%
+source-wordcount: '1743'
+ht-degree: 60%
 
 ---
 
@@ -190,6 +190,8 @@ ht-degree: 61%
 
 專案範本也應該隨著流程與團隊變更進行更新。建立定期步調（例如每季），以檢查並檢視目前未使用哪些範本。 您可以停用這些專案，因為它們仍在Workfront中，但不會顯示在範本選擇清單中。
 
+如需如何停用專案範本的說明，請參閱 [停用專案範本](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -245,4 +247,4 @@ ht-degree: 61%
 
 所有這些使用者都會列入專案團隊中，列示在專案的「人員與排程」區段。因此，這些範本會被傳播到從該範本建立的所有專案。 這可能會導致使用者混淆，因為作為專案團隊的一員，他們收到有關專案活動的通知、在「我參與的專案」清單中檢視專案，以及取得專案及其任務、問題和檔案的許可權。
 
-
+如需如何在專案範本中編輯專案團隊的說明，請參閱 [在專案範本中編輯專案團隊](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).

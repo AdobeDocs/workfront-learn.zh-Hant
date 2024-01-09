@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '826'
 ht-degree: 86%
 
 ---
@@ -134,7 +134,7 @@ ht-degree: 86%
 
 任何管理專案範本的人都會樂於在清單中看到每個範本的有效狀態（True或False）。 更好 — 欄位可內嵌編輯！
 
-建立名為「專案範本使用中狀態」的專案範本檢視，其欄位如下：
+建立名為「標準+作用中狀態」的專案範本檢視，其欄位如下：
 
 * [!UICONTROL 名稱]
 * [!UICONTROL 所有者]
