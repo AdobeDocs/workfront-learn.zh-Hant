@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
+source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
 workflow-type: tm+mt
-source-wordcount: '2386'
+source-wordcount: '2378'
 ht-degree: 97%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 97%
 
    + 建立和管理使用者 {#create-and-manage-users}
       + [新增使用者](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
-      + [建立個人使用者](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
-      + [大量新增使用者](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [修改使用者資訊](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [何時以及如何停用或刪除使用者](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [瞭解系統稽核記錄](administration-and-setup/create-and-manage-users/system-audit-log.md)
