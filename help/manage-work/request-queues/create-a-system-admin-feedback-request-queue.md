@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: a371abf052a0ef37edc31fa1e0b02d8265567447
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 5%
@@ -37,6 +37,5 @@ ht-degree: 5%
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 若要瞭解如何建立 **管理員團隊意見反應報表** 在影片中使用，請參閱 [建立任務報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=zh-Hant) 教學課程並尋找活動給 **建立管理員團隊意見反應報表** 觀看影片。
-<br>
-<br>
+
 若要瞭解如何建立自訂表格，請參閱 [建立和共用自訂表格](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 教學課程。
