@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '794'
 ht-degree: 47%
 
 ---
@@ -101,7 +101,7 @@ ht-degree: 47%
 
 ## 活動2：建立管理員團隊意見反應報表
 
-這是問題報告，會顯示為系統管理員建立的意見要求佇列中的所有問題。 您可在以下位置瞭解如何建立此請求佇列： **建立系統管理員回饋要求佇列** 教學課程。
+這是問題報告，會顯示為系統管理員建立的意見要求佇列中的所有問題。 您可在以下位置瞭解如何建立此請求佇列： [建立系統管理員回饋要求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) 教學課程。
 
 此報表也使用自訂表單。 若要瞭解如何建立自訂表格，請參閱 [建立和共用自訂表格](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 教學課程。
 
@@ -159,7 +159,8 @@ ht-degree: 47%
    ![建立問題報告欄的畫面影像](assets/task-report-activity-2-1.png)
 
    * 「[!UICONTROL 問題]」>「[!UICONTROL 名稱]」
-   * [!UICONTROL 主要連絡人] > [!UICONTROL 名稱] 注意：這會以「擁有者：名稱」作為欄標籤顯示。 您可以按一下「進階選項」，然後在 **自訂欄標籤** 欄位。
+   * [!UICONTROL 主要連絡人] > [!UICONTROL 名稱]
+      * 注意：這會以「擁有者：名稱」作為欄標籤顯示。 您可以按一下「進階選項」，然後在 **自訂欄標籤** 欄位。
    * [!UICONTROL 問題] > [!UICONTROL 程式型別]
    * [!UICONTROL 問題] > [!UICONTROL 處理程式名稱]
    * [!UICONTROL 問題] > [!UICONTROL 程式等級]
