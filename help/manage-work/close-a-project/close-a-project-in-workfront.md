@@ -1,6 +1,6 @@
 ---
-title: 關閉專案
-description: 瞭解在關閉專案之前要檢閱哪些資訊，以及更新專案中的資料為何很重要 [!DNL  Workfront].
+title: 結束專案
+description: 瞭解在  [!DNL  Workfront] 中要結束專案之前需檢閱哪些資訊，以及持續更新資料的重要性。
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -11,25 +11,23 @@ team: Technical Marketing
 jira: KT-8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 關閉專案
+# 結束專案
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解以下資訊：
 
-* 要在其中檢閱的資訊 [!DNL Workfront] 關閉專案前
-* 更新資料為何重要
-* 您可以提出問題來協助您改善未來的專案
+* 在結束專案之前要在 [!DNL Workfront] 中檢閱的資訊
+* 持續更新資料的重要性
+* 您可以提出問題以協助改善未來的專案
 
 >[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12&learn=on)
 
 <!---
-learn more urls:
-Update task status
-Issue statuses
+This video is confusing. We have heard multiple complaints that it doesn't show how to actually change the project to Complete. "Change the project status to complete" covers the same material in more depth and clarity, so we've removed this tutorial from the TOC and redirected it's URL to point to "Change the project status to complete".
 --->
