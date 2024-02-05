@@ -1,6 +1,6 @@
 ---
-title: 通用聯結器簡介逐步說明
-description: 瞭解如何透過HTTP聯結器呼叫Poke API，以收集和張貼有關「精靈寶可夢」字元的資訊，完整於 [!DNL Adobe Workfront Fusion].
+title: 通用連接器操作示範簡介
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何透過 HTTP 連接器呼叫 Poke API 來收集和張貼關於寶可夢角色的資訊。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,37 +11,37 @@ jira: KT-9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 通用聯結器簡介逐步說明
+# 通用連接器操作示範簡介
 
-## 總覽
+## 概觀
 
-在試算表中使用「精靈寶可夢」字元，透過HTTP聯結器呼叫Poke API，以收集和張貼有關該字元的更多資訊。
+使用試算表中的寶可夢角色，經由 HTTP 連接器呼叫 Poke API 來收集及張貼關於該角色的更多資訊。
 
-![Fusion情境的影像](assets/universal-connectors-and-routing-1.png)
+![影像顯示 Fusion 情境](assets/universal-connectors-and-routing-1.png)
 
-## 通用聯結器簡介逐步說明
+## 通用連接器操作示範簡介
 
-Workfront建議您先觀看練習逐步解說影片，然後再嘗試在您自己的環境中重新建立練習。
+Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12&learn=on)
 
-### 練習URL
+### 練習 URL
 
-Pokémon API網站： `https://pokeapi.co/`
+寶可夢 API 網站：`https://pokeapi.co/`
 
-練習URL： `https://pokeapi.co/api/v2/pokemon/{Character}`
+練習 URL：`https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >
->如需完成逐步解說的說明，請前往 [通用聯結器簡介逐步說明](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) 練習。
+>如需完成操作示範的逐步指示，請前往[通用連接器操作示範簡介](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=zh-Hant)練習。
 
 
-## 想要瞭解更多？ 我們建議採取下列步驟：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
