@@ -1,6 +1,6 @@
 ---
-title: 在中使用資產 [!UICONTROL WORKFRONT DAM]
-description: 瞭解如何使用中的資產 [!UICONTROL WORKFRONT DAM].
+title: 使用 [!UICONTROL Workfront DAM] 中的資產
+description: 瞭解如何使用 [!UICONTROL Workfront DAM] 中的資產。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8995
 doc-type: video
 exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 投稿人：使用資產
+# 貢獻者：使用資產
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 上傳資產至 [!UICONTROL WORKFRONT DAM]
-* 將中繼資料和關鍵字新增至資產
+* 將資產上傳至 [!UICONTROL Workfront DAM]
+* 把中繼資料和關鍵字新增至資產
 * 使用中繼資料範本
 * 將相關檔案新增至資產
 * 下載資產
