@@ -1,6 +1,6 @@
 ---
-title: 作為專案時間表一部分的校訂工作流程
-description: 瞭解在中將稽核和核准程式與專案時間表混合的建議 [!DNL  Workfront].
+title: 包含在專案時間表當中的校訂工作流程
+description: 瞭解在  [!DNL  Workfront] 中將檢閱和核准流程與專案時間表結合的建議。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8825
 exl-id: 51cc65eb-2ac8-4de5-88d1-67c1556432ba
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 作為專案時間表一部分的校訂工作流程
+# 包含在專案時間表當中的校訂工作流程
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
-* Recommendations可將稽核和核准程式與專案時間表混合
+* 將檢閱和核准流程與專案時間表結合的建議。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12&learn=on)
 
