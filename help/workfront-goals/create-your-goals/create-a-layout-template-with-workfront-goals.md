@@ -1,6 +1,6 @@
 ---
-title: 建立版面範本 [!DNL Workfront Goals] 使用者
-description: 瞭解如何使用建立版面範本 [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] 適合您組織的術語。
+title: 為  [!DNL Workfront Goals]  使用者建立版面範本
+description: 瞭解如何使用符合貴組織需求的  [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals]  術語來建立版面範本。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,23 +11,23 @@ jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 建立版面範本 [!DNL Workfront Goals] 使用者
+# 為 [!DNL Workfront Goals] 使用者建立版面範本
 
-在 **[!UICONTROL 設定]** 區域，您也可以建立並指派配置範本，包括 [!DNL Workfront Goals] 讓您和您的使用者更輕鬆地存取它。
+在「**[!UICONTROL 設定]**」區域中，您可以建立並指派包含 [!DNL Workfront Goals] 的版面範本，讓您和使用者存取更方便。
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
 * 建立版面範本
-* 將版面配置範本指派給使用者
-* 新增 [!DNL Goals] 至版面範本
-* 變更 [!DNL Goals] 適合您組織的術語
-* 新增 [!DNL Goals] 至 [!DNL Workfront] [!UICONTROL 主要功能表]
+* 指派版面範本給使用者
+* 新增 [!DNL Goals] 到版面範本
+* 變更 [!DNL Goals] 術語以符合貴組織需求
+* 把 [!DNL Goals] 新增到 [!DNL Workfront] [!UICONTROL 主選單]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on)
 
