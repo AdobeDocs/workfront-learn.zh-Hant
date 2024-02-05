@@ -1,6 +1,6 @@
 ---
-title: 迭代器簡介
-description: 瞭解如何使用疊代和彙總，以及中不同型別的疊代 [!DNL Adobe Workfront Fusion].
+title: 疊代器簡介
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何使用疊代與彙總，以及不同類型的疊代器。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-9018
 exl-id: a790156d-e04e-4fd0-b4a3-9c30cfaeaac5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 迭代器簡介
+# 疊代器簡介
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
-* 如何使用反複運算和彙總
-* 不同型別的迭代器
+* 如何使用疊代和彙總
+* 不同類型的疊代器
 
 >[!VIDEO](https://video.tv.adobe.com/v/335277/?quality=12&learn=on)
