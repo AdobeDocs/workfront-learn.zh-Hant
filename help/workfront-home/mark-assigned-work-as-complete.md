@@ -1,6 +1,6 @@
 ---
-title: 在中將指派的工作標示為完成 [!UICONTROL 首頁]
-description: 瞭解如何透過變更已指派任務或問題的狀態以指示其完成 [!UICONTROL 工作清單]. 然後篩選清單以僅檢視已完成的工作。
+title: 在[!UICONTROL 首頁]中將指派的工作標示為已完成
+description: 瞭解如何透過「[!UICONTROL 工作清單]」變更所指派任務或問題的狀態，表示其已完成。接著篩選清單，使清單僅顯示已完成的工作。
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,27 +12,27 @@ jira: KT-8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使用狀態表示工作已完成 [!DNL Workfront] [!UICONTROL 首頁]
+# 在 [!DNL Workfront] [!UICONTROL 首頁]中使用狀態來表示工作已完成
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
-* 如何使用狀態傳達工作進度
-* 為什麼狀態在中很重要 [!DNL  Workfront]
-* 如何篩選 [!UICONTROL 工作清單] 檢視已完成的工作
+* 如何藉由狀態轉達工作進度
+* 為什麼在 [!DNL  Workfront] 中狀態很重要
+* 如何篩選「[!UICONTROL 工作清單]」來查看已完成的工作
 
 >[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on)
 
 
-## 表示工作完成的另外兩種方式
+## 表示工作已完成的另外兩種方式
 
-* 變更 [!UICONTROL 狀態] 下拉式功能表完成。
-* 更新 [!UICONTROL 完成百分比] 至100%。 這會自動將狀態變更為完成。
+* 把「[!UICONTROL 狀態]」下拉式選單變更至「完成」。
+* 把「[!UICONTROL 完成百分比]」更新為「100%」。這樣狀態會自動變更為「完成」。
 
 <!---
 learn more URLs
