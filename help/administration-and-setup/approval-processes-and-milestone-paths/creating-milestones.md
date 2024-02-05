@@ -11,22 +11,22 @@ level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 建立里程碑路徑和里程碑步驟
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
-* 里程碑路徑是什麼
-* 里程碑路徑的建立方式
-* 如何將里程碑步驟新增至里程碑路徑
+* 什麼是里程碑路徑
+* 如何建立里程碑路徑
+* 如何將里程碑步驟新增到里程碑路徑
 
 >[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on)
 
 >[!NOTE]
 >
->系統管理員可以授予Plan授權使用者建立其里程碑路徑的存取權。
+>系統管理員可以授予權限給具有「計劃」授權的使用者，讓他們建立自己的里程碑路徑。
