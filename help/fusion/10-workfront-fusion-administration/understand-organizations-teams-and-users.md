@@ -1,6 +1,6 @@
 ---
 title: 瞭解組織、團隊和使用者
-description: 瞭解如何在組織、團隊和使用者之間使用、建立和導覽 [!DNL Adobe Workfront Fusion].
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何使用、建立和導覽到不同的組織、團隊和使用者。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-9068
 exl-id: d7b08769-aeca-4b4e-b04c-96472c8ae476
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 瞭解組織、團隊和使用者
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
-* 如何在組織、團隊和使用者之間使用、建立和導覽
+* 如何使用、建立和導覽到不同的組織、團隊和使用者。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on)
