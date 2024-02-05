@@ -1,6 +1,6 @@
 ---
-title: 說明Brand Connect中的Lightbox
-description: 瞭解如何在Brand Connect的Lighbox上建立、使用、管理、共用及共同作業 [!UICONTROL WORKFRONT DAM].
+title: 說明 Brand Connect 的 Lightbox 功能
+description: 瞭解如何在 [!UICONTROL Workfront DAM] 的 Brand Connect 中建立、使用、管理、共用 Lightbox 及在 Lightbox 上共同作業。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,24 +11,24 @@ jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Brand Connect：燈箱
+# Brand Connect: lightbox
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 使用燈箱收集資產以便輕鬆存取
-* 建立燈箱並新增檔案
-* 共用燈箱
-* 觀看和管理燈箱
-* 在Lightbox上共同作業
+* 使用 lightbox 收集資產使存取更方便
+* 建立 lightbox 並新增檔案
+* 共用 lightbox
+* 觀看和管理 lightbox
+* 在 lightbox 上共同作業
 
 >[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on)
 
-## 燈箱與資料夾的比較
+## lightbox 與資料夾比較
 
-資料夾是用來儲存及組織資產。 您無法在Brand Connect中建立資料夾。 Lightbox可讓您將不同資料夾中的資產連結收集到一個位置。 例如，您可以使用Lightbox來收集與冬季銷售廣告資料相關的資產。
+資料夾用來儲存和整理資產。您無法在 Brand Connect 中建立資料夾。Lightbox 允許您把不同資料夾中各項資產的連結收集起來並放到同一個地方。例如，您可以使用 Lightbox 來收集與冬季促銷廣告素材相關的資產。
