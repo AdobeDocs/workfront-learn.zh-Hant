@@ -1,6 +1,6 @@
 ---
-title: Webhook逐步解說
-description: 瞭解如何使用webhook建立應用程式，以判斷客戶是否達到購買酒精的年齡 [!DNL Adobe Workfront Fusion].
+title: Webhook 操作示範
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何使用 Webhook 來建立一個應用程式，判斷客戶是否符合購買酒類的年齡限制。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,57 +11,57 @@ jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '371'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Webhook逐步解說
+# Webhook 操作示範
 
-此情境會建立便利商店應用程式，方便他們輕鬆判斷客戶是否年事已至購買酒精。 出納只需要將客戶的名稱和出生日期，以及經過驗證的使用者端權杖，張貼至提供的URL。 輸入後，就會觸發我們的情境以計算適當的回應，並將其傳回給請求者。
+此情景建立一個便利超商應用程式，讓他們可以輕鬆判斷客戶是否符合購買酒類的年齡限制。收銀員只需將客戶的姓名和出生日期以及經過驗證的用戶端語彙基元發佈到所提供的 URL 即可。輸入後，便會觸發我們的情境來計算適當的回應並傳回給請求者。
 
-![使用交換器模組的影像](assets/beyond-basic-modules-5.png)
+![影像顯示使用切換模組](assets/beyond-basic-modules-5.png)
 
-## Webhook逐步解說
+## Webhook 操作示範
 
-Workfront建議您先觀看練習逐步解說影片，然後再嘗試在您自己的環境中重新建立練習。
+Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on)
 
 >[!TIP]
 >
->如需完成逐步解說的說明，請前往 [Webhook逐步解說](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/webhooks.html?lang=en) 練習。
+>如需完成操作示範的逐步指示，請至 [Webhook 操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/webhooks.html?lang=zh-Hant)練習。
 
-## Postman設定
+## Postman 設定
 
-若要進行逐步解說練習，您需要下載免費的Postman應用程式。 請依照下列步驟，導覽至Postman的右側區域以進行練習。
+若要跟隨著操作示範一起練習，您必須下載免費的 Postman 應用程式。按照以下步驟導覽到 Postman 的右側區域進行練習。
 
-1. 建立工作區，然後將其開啟。
-1. 按一下「新增」標籤，並建立名為「飲酒年齡」的新系列。
-1. 再次按一下「新增」索引標籤，然後建立名為GET生日的新增GET請求。
-1. 將請求動作從「GET」變更為「POST」。
-1. 前往「POSTURL」欄位下方的「內文」子標籤區域。
+1. 建立一個工作區，然後開啟該工作區。
+1. 按一下「新增」標籤，然後建立一個新集合，名為「飲酒年齡」。
+1. 再次按一下「新增」標籤並建立一個新的 GET 請求，名為「GET 出生日期」。
+1. 將請求動作從 GET 變更為 POST。
+1. 前往「POST URL」欄位下方的「正文」子標籤區域。
 1. 選擇「授權」子標籤下方的表單資料。
-1. 為Name、Birthdate和clientToken建立三個金鑰。
+1. 建立三個索引鍵「姓名」、「出生日期」和「clientToken」。
 
-![使用交換器模組的影像](assets/beyond-basic-modules-6.png)
+![影像顯示使用切換模組](assets/beyond-basic-modules-6.png)
 
-## 輪到你了
+## 換您來操作
 
 >[!NOTE]
 >
->練習練習和挑戰是選用的，並非完成Fusion訓練的必要條件。
+>您可以選擇實作練習與挑戰，但這不是完成 Fusion 培訓的必要條件。
 
-此練習練習是以您在逐步解說中所學知識為基礎，但並未提供解決方案。
+本實作練習以您在操作示範中學到的知識為基礎，但未提供解決方案。
 
-建立正在等待建立新更新的Workfront webhook，然後記錄日期、進行更新的人員姓名以及更新的內容。 將此資訊以電子郵件寄給您自己。
+建立一個 Workfront Webhook，等待新的更新內容建立後，便記錄日期、進行更新的人員名稱以及更新內容。把這些資訊用電子郵件傳送給自己。
 
-**提示**：使用Workfront Watch事件觸發模組建立您的webhook。 此外，在Workfront中，更新稱為附註。
+**提示**：使用 Workfront Watch Events 觸發模組來建立 Webhook。此外，在 Workfront 中，更新稱為備註。
 
-**挑戰**：您可以找到並新增進行更新的URL以方便存取嗎？
+**挑戰**：您能否找到並新增進行更新的 URL，使之更方便存取？
 
 
-## 想要瞭解更多？ 我們建議採取下列步驟：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
