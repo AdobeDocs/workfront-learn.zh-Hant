@@ -1,6 +1,6 @@
 ---
-title: 在工作負載平衡器中檢視使用者配置
-description: 瞭解如何選取圖表模式以取得使用者配置的高層級檢視，並顯示使用者的每日配置劃分。
+title: 檢視工作負載平衡器中的使用者配置
+description: 瞭解如何選取圖表模式，從高層次的角度檢視使用者配置以及其每日配置的細項。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,17 +12,17 @@ jira: KT-8876
 exl-id: 05a10df0-9f96-4a38-b23c-c54b64231722
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在中檢視使用者配置 [!DNL Workload Balancer]
+# 檢視 [!DNL Workload Balancer] 中的使用者配置
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 選取圖表模式以取得使用者配置的高層級檢視
-* 顯示使用者的每日配置劃分
+* 選取圖表模式，從高層次的角度檢視使用者配置
+* 顯示使用者每日配置的細項
 
 >[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on)
