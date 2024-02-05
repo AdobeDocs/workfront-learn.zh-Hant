@@ -1,6 +1,6 @@
 ---
-title: 傳送 [!UICONTROL 宣告中心] 訊息
-description: 瞭解如何透過傳送應用程式內訊息給使用者 [!UICONTROL 宣告中心].
+title: 傳送[!UICONTROL 公告中心]訊息
+description: 瞭解如何透過[!UICONTROL 公告中心]傳送應用程式內的訊息給使用者。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,9 +11,9 @@ thumbnail: 10094.jpeg
 jira: KT-10094
 exl-id: 7372516e-47e0-44a9-a756-ddc17824da84
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,32 +21,32 @@ ht-degree: 0%
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
 --->
 
-# 傳送 [!UICONTROL 宣告中心] 訊息
+# 傳送[!UICONTROL 公告中心]訊息
 
-此 [!UICONTROL 宣告中心] 是系統管理員接收通訊的集中位置 [!DNL Workfront] 或傳送公告至貴組織的 [!DNL Workfront] 使用者。
+[!UICONTROL 公告中心]是系統管理員工作的中心位置，可接收來自 [!DNL Workfront] 的通訊或是向貴組織的 [!DNL Workfront] 使用者傳送公告。
 
-[!DNL Workfront] 會傳送軟體版本、即將舉辦的網路研討會、系統維護等的公告給系統管理員。 此 [!UICONTROL 宣告中心] 將所有這些重要資訊放在一個位置，這樣您就不會在電子郵件收件匣中的其他訊息中遺失這些資訊。
+[!DNL Workfront] 對系統管理員傳送關於軟體發佈、即將到來的網路研討會、系統維護等公告。[!UICONTROL 公告中心]把所有重要資訊集中在一起，也不會被電子郵件收件匣中的其他資訊淹沒。
 
-通知圖示會顯示任何透過傳送的未讀取通知和公告 [!DNL Workfront]. 清單中的公告會加上標籤，如果您想開啟該清單，可點按。
+通知圖示顯示透過 [!DNL Workfront] 傳送的任何未讀通知和公告。清單中的公告均有標籤且可點選，若有需要您可以開啟該公告。
 
-![在通知圖示下的訊息清單中宣告](assets/admin-fund-announcements-1.png)
+![在通知圖示下訊息清單中的公告](assets/admin-fund-announcements-1.png)
 
-系統管理員也可以使用 [!UICONTROL 宣告中心] 以傳送 [!DNL Workfront]-wide訊息傳送給使用者。 您可以傳送提醒，告知需聯絡誰以獲得支援、提供「每日秘訣」等。
+系統管理員還可以使用[!UICONTROL 公告中心]向使用者傳送 [!DNL Workfront] 全系統適用的訊息。您可以傳送提醒說明需要支援時可聯絡的對象、提供「每日技巧」等。
 
-![[!UICONTROL 所有宣告] 連結](assets/admin-fund-announcements-2.png)
+![[!UICONTROL 所有公告]連結](assets/admin-fund-announcements-2.png)
 
-**若要傳送宣告**
+**要傳送公告**
 
-1. 按一下 **通知圖示**.
-1. 按一下 **[!UICONTROL 所有宣告]**.
-1. 按一下 **[!UICONTROL 新宣告]** 按鈕。 根據預設， [!UICONTROL 傳送至] 行填入 [!UICONTROL 每個人] 傳送訊息給所有人 [!DNL Workfront] 使用者。 您可以刪除此專案，然後輸入使用者、工作角色、團隊、群組或公司的名稱。
-1. 輸入主旨列。
-1. 然後視需要使用編輯工具輸入宣告文字。
-1. 按一下「 」，附加要共用的檔案 **[!UICONTROL 新增附件]** 按鈕（如果適用）。
-1. 按一下 **[!UICONTROL 傳送]**.
+1. 按一下「**通知**」圖示。
+1. 按一下「**[!UICONTROL 所有公告]**」。
+1. 按一下「**[!UICONTROL 新公告]**」按鈕。依預設，「[!UICONTROL 傳送至]」行會填寫「[!UICONTROL 所有人]」，把訊息傳送給所有 [!DNL Workfront] 使用者。您可以刪除這個資訊，並輸入使用者、職務角色、團隊、群組或公司的名稱。
+1. 輸入主旨行。
+1. 然後使用編輯工具按需要輸入公告的內文。
+1. 按一下「**[!UICONTROL 新增附件]**」按鈕來附加要共用的檔案，若適用。
+1. 按一下「**[!UICONTROL 傳送]**」。
 
-![撰寫公告於 [!UICONTROL 公告] 頁面](assets/admin-fund-announcements-3.png)
+![在「[!UICONTROL 公告]」頁面上撰寫公告](assets/admin-fund-announcements-3.png)
 
-公告區域看起來像收件匣，已接收的訊息位於左側面板。 按一下訊息即可讀取。
+公告區域看起來像一個收件匣，收到的訊息會顯示在左側面板。按一下訊息來讀取內容。
 
 ![公告頁面](assets/admin-fund-announcements-4.png)
