@@ -1,6 +1,6 @@
 ---
-title: 瞭解處理指示詞的錯誤
-description: 瞭解允許繼續執行的錯誤處理常式指令和停止執行的錯誤處理常式指令，請參閱 [!DNL Adobe Workfront Fusion].
+title: 瞭解錯誤處理指示
+description: 瞭解  [!DNL Adobe Workfront Fusion] 中允許繼續執行以及使執行停止的錯誤處理常式指示。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,67 +11,67 @@ jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 瞭解處理指示詞的錯誤
+# 瞭解錯誤處理指示
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
-* 允許繼續執行的三個錯誤處理常式指令
-* 停止執行的兩個錯誤處理常式指示詞
+* 允許繼續執行的三個錯誤處理常式指示
+* 使執行停止的兩個錯誤處理常式指示
 
 >[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
 
-## 指令 — 案例繼續
+## 指示 — 情境繼續
 
 ### 繼續
 
-* 會指定替代輸出，並提供給發生錯誤的模組。
-* 後續模組會進行處理。
-* 案例執行狀態會標示為「成功」。
+* 指定替代輸出並提供給發生錯誤的模組。
+* 接著處理後續的模組。
+* 情境執行狀態標記為「成功」。
 
-![Resume指示詞的影像](assets/troubleshooting-and-error-handling-2.png)
+![影像顯示「繼續」指示](assets/troubleshooting-and-error-handling-2.png)
 
 ### 中斷
 
-* 情境執行的狀態會儲存在未完成執行的佇列中，而錯誤可以手動解決。 不過，這裡有一些例外情況。
-* 後續模組不會進行處理。
-* 如果有未處理的組合，情境執行會正常繼續。
-* 情境執行狀態會標示為「警告」。
+* 情境執行的狀態儲存在未完成執行作業的佇列中，而錯誤可以手動解決。不過也有一些例外狀況，如此處所述。
+* 後續的模組並未進行處理。
+* 若有未處理的套件，情境執行將按正常情況繼續。
+* 情境執行狀態標記為「警告」。
 
-![Break指示詞的影像](assets/troubleshooting-and-error-handling-3.png)
+![影像顯示「中斷」指示](assets/troubleshooting-and-error-handling-3.png)
 
 ### 忽略
 
-* 會忽略錯誤，且不會處理後續模組。
-* 如果有未處理的組合，情境執行會正常繼續。
-* 案例執行狀態會標示為「成功」。
+* 忽略錯誤，而且不處理後續的模組。
+* 若有未處理的套件，情境執行將按正常情況繼續。
+* 情境執行狀態標記為「成功」。
 
-![Ignore指示詞的影像](assets/troubleshooting-and-error-handling-4.png)
+![影像顯示「忽略」指示](assets/troubleshooting-and-error-handling-4.png)
 
-## 指示 — 案例停止
+## 指示 — 情境停止
 
 ### 復原
 
-* 案例執行會立即停止，並且所有模組上的復原階段會啟動，以嘗試將所有模組回復到其初始狀態。
-* 後續模組不會進行處理。
-* 除了一些錯誤型別，在「案例」設定下指定的「連續錯誤數」後，將停用案例。
-* 案例執行狀態會標示為「錯誤」。
+* 情境執行立即停止，並在所有模組上啟動復原階段，試圖將它們全部恢復到初始狀態。
+* 後續的模組並未進行處理。
+* 除少數錯誤類型外，在到達「情境」設定下指定的「連續錯誤數」之後，該情境將被停用。
+* 情境執行狀態標記為「錯誤」。
 
 >[!NOTE]
 >
->如果沒有將錯誤處理常式路由附加到模組，並且未勾選「案例」設定下的「允許儲存不完整的執行」設定時，此為預設行為。
+>如果模組上並未附加任何錯誤處理常式，而且未勾選「情境」設定之下的「允許儲存未完成的執行作業」設定，這是預設的行為。
 
-![Rollback指令的影像](assets/troubleshooting-and-error-handling-5.png)
+![影像顯示「復原」指示](assets/troubleshooting-and-error-handling-5.png)
 
 ### 認可
 
-* 會忽略錯誤，且不會處理後續模組。
-* 如果有未處理的組合，情境執行會正常繼續。
-* 案例執行狀態會標示為「成功」。
+* 忽略錯誤，而且不處理後續的模組。
+* 若有未處理的套件，情境執行將按正常情況繼續。
+* 情境執行狀態標記為「成功」。
 
-![認可指示詞的影像](assets/troubleshooting-and-error-handling-6.png)
+![影像顯示「認可」指示](assets/troubleshooting-and-error-handling-6.png)
