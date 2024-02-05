@@ -1,6 +1,6 @@
 ---
-title: 未完成的執行逐步解說
-description: 瞭解在評估並修正錯誤後，儲存未完成執行然後重新執行套件組合的值 [!DNL Adobe Workfront Fusion].
+title: 未完成的執行作業操作示範
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中儲存未完成之執行作業，然後在評估和修正錯誤之後重新執行套件的重要價值。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,24 @@ jira: KT-9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 未完成的執行逐步解說
+# 未完成的執行作業操作示範
 
-瞭解儲存不完整執行的實用習慣，並瞭解在評估和更正錯誤後重新執行套件組合時提供的值。
+學習儲存未完成之執行作業的實用習慣，並瞭解在評估和修正錯誤之後重新執行套件時這個習慣所帶來的價值。
 
-![處理錯誤情境的影像](assets/troubleshooting-and-error-handling-8.png)
+![影像顯示具有錯誤處理功能之情境](assets/troubleshooting-and-error-handling-8.png)
 
-## 未完成的執行逐步解說
+## 未完成的執行作業操作示範
 
-Workfront建議您先觀看練習逐步解說影片，然後再嘗試在您自己的環境中重新建立練習。
+Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on)
 
-## 想要瞭解更多？ 我們建議採取下列步驟：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
