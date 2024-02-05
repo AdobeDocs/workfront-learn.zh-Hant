@@ -1,6 +1,6 @@
 ---
-title: 瞭解資料存放區
-description: 瞭解如何將資料存放區用作永久性資料集，以及資料結構如何支援中的資料存放區 [!DNL Adobe Workfront Fusion].
+title: 瞭解資料儲存區
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何使用資料儲存區作為永久性資料集以及資料結構如何支援資料儲存區。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-9054
 exl-id: d85e52cb-08d0-4a3a-8187-59e63492c1d5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 瞭解資料存放區
+# 瞭解資料儲存區
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
-* 如何將資料儲存區作為永續性資料集使用
-* 資料結構如何支援資料存放區
-* 如何使用資料存放區同步系統
+* 如何使用資料儲存區作為永久性資料集
+* 資料結構如何支援資料儲存區
+* 如何使用資料儲存區與系統同步
 
 >[!VIDEO](https://video.tv.adobe.com/v/335295/?quality=12&learn=on)
