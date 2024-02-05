@@ -1,6 +1,6 @@
 ---
-title: 探索回合、循環和組合
-description: 瞭解使用案例的執行歷史記錄來執行、循環和套件組合的行為。
+title: 探索執行、週期和套件
+description: 使用情境的執行歷史記錄來瞭解執行、週期和套件的運作。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,58 +11,58 @@ jira: KT-11050
 thumbnail: KT1101.png
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 探索回合、循環和組合
+# 探索執行、週期和套件
 
-瞭解使用案例的執行歷史記錄來執行、循環和套件組合的行為。
+使用情境的執行歷史記錄來瞭解執行、週期和套件的運作。
 
-## 練習概述
+## 練習概觀
 
-使用不同的案例設定進行練習，以探索使用回合和週期。
+練習不同的情境設定，探索如何使用執行與週期。
 
-![探索執行循環和套件組合影像1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
+![探索執行、週期和套件影像 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
 
-## 要遵循的步驟
+## 執行步驟
 
-1. 複製名為「在路由路徑之間共用變數」的情境。 將新案例命名為「在路由路徑之間共用變數 — 循環測試」。
-1. 移除「傳送電子郵件」模組，因為此測試不需要它。
+1. 原地複製名為「在路由路徑之間共用變數」的情境。把新情境命名為「在路由路徑之間共用變數 - 週期測試」。
+1. 移除「傳送電子郵件」模組，因為這項測試不需要此模組。
 
-   **設定您的情境為每次執行處理3個週期。 在每個週期中處理5個專案。**
+   **設定您的情境處理每次執行 3 個週期。每個週期處理 5 個專案。**
 
-1. 按一下觸發程式模組，並將「最大值」欄位變更為5，因此每個週期僅會處理5個專案。
-1. 在搜尋條件中，移除將搜尋限制在單一專案的第二個篩選器。
+1. 按一下觸發模組，把「最大」欄位變更為「5」，讓每個週期僅處理 5 個專案。
+1. 在「搜尋」條件中，移除限制搜尋一個專案的第二個篩選器。
 1. 按一下「確定」。
 
-1. 在Fusion工具列中，開啟Scenario設定，並將Max number of cycles欄位從1變更為3。
+1. 在 Fusion 工具列中，開啟「情境」設定並將「最大週期數」欄位從「1」改為「3」。
 1. 按一下「確定」。
 
-   ![探索執行循環和套件組合影像1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
+   ![探索執行、週期和套件影像 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
 
 
-   **將案例排程為每分鐘執行。**
+   **安排情境每分鐘執行一次。**
 
-1. 按一下觸發模組旁的時鐘圖示，並將「分鐘」欄位變更為1分鐘。
+1. 按一下觸發模組旁邊的時鐘圖示，並變更「分鐘」欄位為「1 分鐘」。
 
-   ![探索執行循環和套件組合影像2](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
+   ![探索執行、週期和套件影像 2](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
 
-1. 接下來，將「執行一次」按鈕下的「排程」切換開關切換為「開啟」。 儲存您的案例。
+1. 接下來，將「執行一次」之下的「排程」按鈕切換為開啟。儲存您的情境。
 
-   ![探索執行循環和套件組合影像3](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
+   ![探索執行、週期和套件影像 3](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
 
-1. 前往案例的「執行歷史記錄」，並觀看下一分鐘內出現的新歷史記錄。 您可能需要重新整理頁面。
+1. 前往情境的「執行歷史記錄」並看到在下一分鐘出現新的歷史記錄。您可能需要重新整理頁面。
 
-   ![探索執行循環和套件組合影像1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-4.png)
+   ![探索執行、週期和套件影像 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-4.png)
 
-1. 按一下執行的詳細資訊按鈕。 在右側面板中，點進簡單記錄，類似於您在Workfront Fusion訓練的執行歷史記錄部分中所執行的操作。
-1. 已處理作業的記錄會被分割成循環。
+1. 按一下執行的「詳細資料」按鈕。點進右側面板中的「簡易記錄」，與您之前在 Workfront Fusion 培訓的執行歷史記錄部分所做的動作類似。
+1. 已處理操作的記錄被分成多個週期。
 
-   ![探索執行循環和套件組合影像5](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
+   ![探索執行、週期和套件影像 5](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
 
-1. 視窗右上方的下拉式選單可讓您選取您設定為每次執行的任意3個週期。
+1. 您可以透過視窗右上角的下拉式選單，從您設定每次都要執行的 3 個週期中選取任何一個。
 
-   ![探索執行循環和套件組合影像6](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-6.png)
+   ![探索執行、週期和套件影像 6](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-6.png)
