@@ -1,6 +1,6 @@
 ---
-title: 瞭解未完成的執行
-description: 瞭解執行不完整是什麼以及如何處理導致執行不完整的錯誤 [!DNL Adobe Workfront Fusion].
+title: 瞭解未完成的執行作業
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中什麼是未完成的執行作業，以及如何處理造成執行作業未完成的錯誤。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,37 +11,37 @@ jira: KT-9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '270'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 瞭解未完成的執行
+# 瞭解未完成的執行作業
 
-未完成的執行可以儲存在Workfront Fusion中，以便稍後檢視和解決。 瞭解如何善用此令人驚豔的功能。
+未完成的執行作業可以儲存在 Workfront Fusion 中，稍後可以進行檢閱並解決問題。瞭解如何善用這項驚人的功能。
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
-* 未完成的執行是什麼
-* 如何處理導致執行不完整的錯誤
+* 什麼是未完成的執行作業
+* 如何處理造成執行作業未完成的錯誤
 
 >[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on)
 
-## 導致執行不完整的錯誤
+## 導致執行作業未完成的錯誤
 
-有幾種錯誤類別會導致儲存不完整的執行。
+有數種類別的錯誤會造成儲存未完成的執行作業。
 
-收到的不同錯誤型別將取決於您所連線的API。 此錯誤可能是由於不完整或錯誤的資料所導致的驗證錯誤，大部分是因為遺漏了預期的專案，而無法成功處理通過模組的所有資料。 或者，由於暫時或長期的連線失敗（例如，在連線至電子郵件或遠端FTP伺服器期間），最終目的地的可用性可能會發生錯誤。
+根據您所連接的 API，會收到不同類型的錯誤。該錯誤可能是因為資料不完整或錯誤而引起的驗證錯誤，主要是因為缺少一個本該出現的項目，而我們需要該項目才能成功處理經過模組的所有資料。或者，可能是最後目標因為連線暫時性或長時間故障 (例如在連線期間連接電子郵件或遠端 FTP 伺服器) 而無法使用所導致的錯誤。
 
-如果情境中的第一個模組發生錯誤，執行會立即停止，且不會儲存不完整的執行。
+若是情境中第一個模組發生錯誤，會馬上停止執行，不會儲存任何未完成的執行作業。
 
-如果任何其他模組發生錯誤，且沒有附加錯誤處理常式路由，則：
+如果是任何其他模組發生錯誤，而且並未附加任何錯誤處理常式，則：
 
-* 如果錯誤型別為ConnectionError、RateLimitError、OutOfSpaceError或ModuleTimeoutError，則會儲存不完整的執行記錄WITH自動重試。
-* 如果錯誤型別為DataError、InvalidConfigurationError、InvalidAccessTokenError、UnexpectedError、MaxFileSizeExceededError或MaxResultsExceededError，則會儲存不完整的執行記錄（沒有自動重試）。
-* 如果錯誤型別不是上述型別，則執行會失敗。
+* 如果錯誤類型是「ConnectionError」、「RateLimitError」、「OutOfSpaceError」或 「ModuleTimeoutError」，則會儲存包含自動重試的未完成執行記錄。
+* 如果錯誤類型為「DataError」、「InvalidConfigurationError」、「InvalidAccessTokenError」、「UnexpectedError」、「MaxFileSizeExceededError」或「MaxResultsExceededError」，則儲存不包含自動重試的未完成執行記錄。
+* 如果錯誤類型不是上述任何一項，則執行失敗。
 
-## 想要瞭解更多？ 我們建議採取下列步驟：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
