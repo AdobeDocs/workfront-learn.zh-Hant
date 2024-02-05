@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe Workfront外掛程式來整合Creative Cloud
-description: 將Workfront與Creative Cloud整合，以在Workfront中尋找並更新指派給您的工作，無需離開下列Creative Cloud應用程式 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects
+title: 使用 Adobe Workfront 外掛程式與 Creative Cloud 整合
+description: 將 Workfront 與 Creative Cloud 整合，便可以在 Workfront 中尋找及更新指派給您的工作，但不需要離開以下 Creative Cloud 應用程式：Photoshop、XD、InDesign、Illustrator、Premiere Pro 和 After Effects
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -14,15 +14,15 @@ badgeIntegration: label="整合" type="positive"
 feature-set: Workfront
 topic: Integrations
 source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使用Adobe Workfront外掛程式來整合Creative Cloud
+# 使用 Adobe Workfront 外掛程式與 Creative Cloud 整合
 
-將Workfront與Creative Cloud整合，以在Adobe Workfront中尋找並更新指派給您的工作，無需離開下列Adobe Creative Cloud應用程式：
+將 Workfront 與 Creative Cloud 整合，即可在 Adobe Workfront 中尋找及更新指派給您的工作，而不需要離開以下 Adobe Creative Cloud 應用程式：
 
 * Photoshop
 * XD
@@ -31,25 +31,25 @@ ht-degree: 0%
 * Premiere Pro
 * After Effects
 
-您必須為您使用的Adobe Creative Cloud應用程式安裝正確的外掛程式：
+您必須為正在使用的 Adobe Creative Cloud 應用程式安裝正確的外掛程式：
 
-* 如需Photoshop的相關資訊，請參閱 [安裝並開啟適用於Photoshop的Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
-* 若為XD，請參閱 [安裝並開啟適用於XD的Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* 如需InDesign、Illustrator、Premiere Pro和After Effects的相關資訊，請參閱 [安裝並開啟Adobe Workfront的設計和影片](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* 對於 Photoshop，請參閱「[安裝及開啟適用於 Photoshop 的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)」
+* 對於 XD，請參閱「[安裝及開啟適用於 XD 的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)」
+* 對於 InDesign、Illustrator、Premiere Pro 和 After Effects，請參閱「[安裝及開啟設計和影片適用的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)」
 
 >[!NOTE]
 >
->**Premiere Pro** 和 **After Effects** 目前無法透過外掛程式使用Workfront中的視訊上傳、檢閱和核准。
+>目前無法透過外掛程式在 Workfront 中提供 **Premiere Pro** 和 **After Effects** 的影片上傳以及檢閱和核准功能。
 
 
-在本影片中，您將會瞭解如何從Creative Cloud應用程式內進行下列操作：
+觀看這段影片，您將瞭解如何在 Creative Cloud 應用程式中執行以下操作：
 
-* 尋找您的Workfront指派
-* 將檔案上傳至Workfront
-* 新增註解並標籤團隊成員
-* 請求檔案核准
-* 上傳校樣並指派校樣工作流程
+* 尋找您的 Workfront 指派
+* 將檔案上傳到 Workfront
+* 新增註解和標記團隊成員
+* 請求文件核准
+* 上傳校訂及指派校訂工作流程
 * 記錄時間
-* 將您的工作標籤為完成
+* 將您的工作標記為完成
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on)
