@@ -1,17 +1,17 @@
 ---
-title: WorkfrontTutorials
-description: 訓練影片和文章的資料庫，旨在協助您更清楚了解Workfront功能和設定。  其中包含最佳實務、策劃的練習和其他資源，可協助您和您的組織成功使用Workfront。
+title: Workfront 教學課程
+description: 具備培訓影片與文章資料庫，協助您更加瞭解 Workfront 功能和設定。其中包括一系列最佳實務、精心策劃的練習和其他資源，協助您及貴組織擁有成功的 Workfront 使用經驗。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# WorkfrontTutorials {#overview}
+# Workfront 教學課程 {#overview}
 
-訓練影片和文章的資料庫，旨在協助您更清楚了解Workfront功能和設定。  其中包含最佳實務、策劃的練習和其他資源，可協助您和您的組織成功使用Workfront。
+具備培訓影片與文章資料庫，協助您更加瞭解 Workfront 功能和設定。其中包括一系列最佳實務、精心策劃的練習和其他資源，協助您及貴組織擁有成功的 Workfront 使用經驗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on)
 
@@ -24,13 +24,13 @@ See other user landing pages to get ideas.
 
 <div id="whats-new-section">
 
-## 新增功能
+## 最新資訊
 
-探索每個Workfront產品版本的教學課程最新更新。 以下是最新版本的更新內容：
+探索每個 Workfront 產品版本教學課程的最新內容。以下是最新版本的更新內容：
 
-* 在Workfront的頂端導覽中，我的最愛和收件者圖示已分隔。 您可在 <a href="/help/manage-work/projects/find-projects.md">尋找專案</a> 教學課程。
+* Workfront 頂端導覽區域中「我的最愛」和「最近項目」圖示分開。個別功能的簡短摘要請參閱「<a href="/help/manage-work/projects/find-projects.md">尋找專案</a>」教學課程。
 
-* 設定自訂表單以搭配多個物件類型使用。 請參閱 <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">建立和共用自訂表單</a> 教學課程。
+* 設定可處理多個物件類型的自訂表單。參閱「<a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">建立和共用自訂表單</a>」教學課程來瞭解如何操作。
 
 </div>
 
@@ -43,19 +43,19 @@ See other user landing pages to get ideas.
 
 <div id="staff-picks-section">
 
-## 員工精選
+## 員工精選內容
 
 <table style="margin-top: 0 !important">
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
-      <img alt="尋找和建立版面範本" src="./assets/ltemp_01.png"/>
+      <img alt="尋找及建立版面範本" src="./assets/ltemp_01.png"/>
       </a>
       <div>
-         <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>尋找和建立版面範本</strong></a>
+         <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>尋找及建立版面範本</strong></a>
       </div>
       <p>
-         <em>了解如何建立基本版面範本。</em>
+         <em>瞭解如何建立基本版面範本。</em>
       </p>
     </td>
    <td>
@@ -66,18 +66,18 @@ See other user landing pages to get ideas.
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>提出請求</strong></a>
       </div>
       <p>
-         <em>了解如何提出、檢視和編輯請求。</em>
+         <em>瞭解如何提出、檢視和編輯請求。</em>
       </p>
 
 <td>
       <a href="/help/reporting/basic-reporting/create-a-simple-report.md">
-      <img alt="建立簡單報表" src="./assets/sreport_01.png"/>
+      <img alt="建立簡單報告" src="./assets/sreport_01.png"/>
       </a>
       <div>
-         <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>建立簡單報表</strong></a>
+         <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>建立簡單報告</strong></a>
       </div>
       <p>
-         <em>了解如何建立簡單的自訂報表。</em>
+         <em>瞭解如何建立簡單的自訂報告。</em>
       </p>
     </td>
   </tr>
