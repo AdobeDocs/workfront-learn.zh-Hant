@@ -1,6 +1,6 @@
 ---
-title: 搜尋Workfront，透過 [!DNL Slack]
-description: 瞭解如何搜尋 [!DNL Workfront] 透過Slack
+title: 透過  [!DNL Slack] 搜尋 Workfront
+description: 瞭解如何透過 Slack 來搜尋  [!DNL Workfront]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8821
 exl-id: cb0ec783-0e2c-498d-a481-63617eddae8e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '21'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 搜尋 [!DNL Workfront] 到 [!DNL Slack]
+# 透過 [!DNL Slack] 來搜尋 [!DNL Workfront]
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 搜尋 [!DNL Workfront] 到 [!DNL Slack]
+* 透過 [!DNL Slack] 來搜尋 [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on)
