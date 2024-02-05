@@ -1,6 +1,6 @@
 ---
-title: 自訂表單課程簡介
-description: 瞭解自訂表單如何擷取組織特定資訊。
+title: 自訂表單課程介紹
+description: 瞭解自訂表單如何擷取組織的特定資訊。
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8908
 hidefromtoc: true
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 自訂表格課程簡介
+# 自訂表單課程介紹
 
-在本影片中，您將會瞭解什麼是自訂表單，以及如何使用它們來擷取組織特定的資訊。
+觀看這段影片，您將瞭解什麼是自訂表單，以及如何使用這些表單來擷取組織的特定資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on)
