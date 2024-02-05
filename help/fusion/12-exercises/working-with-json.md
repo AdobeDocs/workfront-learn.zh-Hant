@@ -1,6 +1,6 @@
 ---
-title: 使用JSON
-description: 瞭解如何在情境中建立和剖析JSON，以支援您的設計需求。
+title: 使用 JSON
+description: 瞭解如何在情境中建立和剖析 JSON 以支援您的設計需求。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,77 +11,77 @@ jira: KT-11056
 thumbnail: KT11056.png
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '485'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使用JSON
+# 使用 JSON
 
-瞭解如何在情境中建立和剖析JSON，以支援您的設計需求。
+瞭解如何在情境中建立和剖析 JSON 以支援您的設計需求。
 
-## 練習概述
+## 練習概觀
 
-本練習的目的是在概念上展示如何運用JSON格式傳送至案例的資訊，將其剖析為可在整個案例中對應的欄位和專案。 然後，您可以從這些對應陣列中擷取資訊，或將這些資訊彙總到JSON中，然後傳送至預期JSON會作為接收輸入的另一個系統。
+本練習的目的在於用概念性的方式說明如何使用以 JSON 格式傳送到情境中的資訊，將資訊剖析成為多個欄位和項目，以便對應到整個情境中。接著，您便可以從那些對應的陣列中擷取資訊，或是把資訊彙總成為 JSON 檔再傳送到另一個預期接受 JSON 輸入的系統。
 
-![使用json Image 1](../12-exercises/assets/working-with-json-walkthrough-1.png)
+![使用 JSON 影像 1](../12-exercises/assets/working-with-json-walkthrough-1.png)
 
-## 要遵循的步驟
+## 執行步驟
 
-**建立資料結構並剖析JSON。**
+**建立資料結構及剖析 JSON。**
 
-1. 建立新情境並將其命名為「使用JSON環形資料」。
-1. 對於觸發程式模組，請使用設定變數模組。
-1. 變數名稱請輸入「環形資料」。
-1. 針對變數值，複製並貼上在您的測試磁碟機的Fusion Experience Files資料夾中找到的「_Donut Data - Sample JSON.rtf」檔案的內容。
+1. 建立一個新情境並命名為「使用 JSON 甜甜圈資料」。
+1. 觸發模組請使用「Set 變數」模組。
+1. 對「變數名稱」請輸入「甜甜圈資料」。
+1. 至於變數值，請把產品試用過程中的「Fusion Exercise Files」資料夾中「_Donut Data - Sample JSON.rtf」文件的內容複製並貼上。
 
-   ![使用json Image 2](../12-exercises/assets/working-with-json-walkthrough-2.png)
+   ![使用 JSON 影像 2](../12-exercises/assets/working-with-json-walkthrough-2.png)
 
-1. 將此模組重新命名為「來自其他聯結器的JSON」。
-1. 新增剖析JSON模組。
-1. 按一下「資料結構」欄位的新增。
-1. 選取「產生器」並貼上您複製到「範例資料」欄位中的「環形資料 — 範例JSON」資料。
+1. 將這個模組重新命名為「來自另一個連接器的 JSON」。
+1. 新增剖析 JSON 模組。
+1. 在「資料結構」欄位中按一下「新增」。
+1. 選取「產生器」並把您複製的「Donut Data - Sample JSON」資料貼到「範例資料」欄位中。
 
-   ![使用json Image 3](../12-exercises/assets/working-with-json-walkthrough-3.png)
+   ![使用 JSON 影像 3](../12-exercises/assets/working-with-json-walkthrough-3.png)
 
-1. 按一下儲存，將資料結構命名為「環形圖資料」。 然後按一下「儲存」。
-1. 將環圈圖資料從設定變數模組對應至JSON字串欄位。
+1. 按一下「儲存」把資料結構命名為「甜甜圈資料」。然後按一下「儲存」。
+1. 把「Set 變數」模組的「甜甜圈資料」對應到「JSON 字串」欄位中。
 
-   ![使用json Image 4](../12-exercises/assets/working-with-json-walkthrough-4.png)
+   ![使用 JSON 影像 4](../12-exercises/assets/working-with-json-walkthrough-4.png)
 
-1. 儲存情境，然後按一下「執行一次」以檢視輸出。
+1. 儲存您的情境，然後按一下「執行一次」來查看輸出。
 
-   **剖析JSON模組的輸出應如下所示：**
+   **剖析 JSON 模組的輸出應如下所示：**
 
-   ![使用json Image 5](../12-exercises/assets/working-with-json-walkthrough-5.png)
+   ![使用 JSON 影像 5](../12-exercises/assets/working-with-json-walkthrough-5.png)
 
-   **對應至特定陣列變數。**
+   **對應到特定的陣列變數。**
 
-1. 在Parse JSON模組後新增路由器。
-1. 在頂端路徑中，新增Set變數模組。
-1. 在「變數」名稱中，輸入「透過環形圖篩選批次型別」。
-1. 對於「變數」值，請使用map函式，從電池陣列中取得電池型別。
+1. 在剖析 JSON 模組之後新增一個路由器。
+1. 在頂端路徑中，新增「Set 變數」模組。
+1. 對「變數名稱」請輸入「甜甜圈的麵糊類型」。
+1. 對「變數值」，請使用對應函數從「麵糊」陣列取得「麵糊」類型。
 
-   ![使用json Image 6](../12-exercises/assets/working-with-json-walkthrough-6.png)
+   ![使用 JSON 影像 6](../12-exercises/assets/working-with-json-walkthrough-6.png)
 
-1. 按一下「確定」，然後按一下「執行一次」。
-1. 開啟執行檢測器以檢視三個作業中每一個作業的輸出組合，顯示每一個作業的批次型別。
+1. 按一下「確定」再按一下「執行一次」。
+1. 開啟執行檢查程式來查看三項作業個別的輸出套件，顯示各自的「麵糊」類型。
 
-   ![使用json Image 7](../12-exercises/assets/working-with-json-walkthrough-7.png)
+   ![使用 JSON 影像 7](../12-exercises/assets/working-with-json-walkthrough-7.png)
 
-   **將情境資料彙總為JSON。**
+   **將情境資料彙總成 JSON。**
 
-1. 在下層路由路徑中，新增彙總至JSON模組。
-1. 對於「來源模組」，請選擇迭代器 — 「剖析JSON」模組。
-1. 對於資料結構，請建立或選擇任何資料結構。 在此範例中，使用環形圖資料。
-1. 請繼續並直接將欄位對應到下列範例中。
-1. 當您進入擊球手和擊球手時，請注意這些是陣列，因此您需要按一下「新增專案」來對應它們。
+1. 在下方的路由路徑中，新增「彙總成 JSON」模組。
+1. 對於來源模組，請選擇疊代器「剖析 JSON 模組」。
+1. 對於資料結構，請建立或選擇任何資料結構。這個範例請使用「甜甜圈資料」。
+1. 直接對應這個範例中各個欄位，如下所示。
+1. 當您到達「麵糊」和「餡料」區段，請注意這些都是陣列，所以您必須按一下「新增項目」才能對應。
 
-   ![使用json Image 8](../12-exercises/assets/working-with-json-walkthrough-8.png)
+   ![使用 JSON 影像 8](../12-exercises/assets/working-with-json-walkthrough-8.png)
 
-1. 儲存情境並按一下「執行一次」。
+1. 請儲存情境並按一下「執行一次」。
 
-檢視Aggregate to JSON模組的執行檢測器，並注意您如何將三個套件組合彙總為單一JSON字串。 然後，您可以將此字串傳送至預期JSON的其他系統。
+查看「彙總成 JSON」模組的執行檢查程式，注意您是如何把三個套件彙總成為單一 JSON 字串。接著您可以把這個字串傳送到預期接收 JSON 的其他系統。
 
-![使用json Image 9](../12-exercises/assets/working-with-json-walkthrough-9.png)
+![使用 JSON 影像 9](../12-exercises/assets/working-with-json-walkthrough-9.png)
