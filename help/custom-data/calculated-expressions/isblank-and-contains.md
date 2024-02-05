@@ -1,6 +1,6 @@
 ---
-title: 使用ISBLANK和CONTAINS運算式
-description: 瞭解如何在Adobe的計算欄位中使用和建立ISBLANK和CONTAINS運算式 [!DNL Workfront].
+title: 使用 ISBLANK 和 CONTAINS 運算式
+description: 瞭解如何在 Adobe  [!DNL Workfront] 的計算欄位中使用和建立 ISBLANK 和 CONTAINS 運算式。
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -10,58 +10,58 @@ team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '404'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使用ISBLANK和CONTAINS運算式
+# 使用 ISBLANK 和 CONTAINS 運算式
 
-CONTAINS和ISBLANK運算式都用來提供簡單的true或false值。 差別在於ISBLANK運算式會檢查欄位是否保留值，而CONTAINS文字運算式會尋找欄位中的特定字串。
+CONTAINS 和 ISBLANK 運算式都用於提供簡單的 true 或 false 值。兩者的區別在於 ISBLANK 運算式檢查欄位是否含有任何值，而 CONTAINS 文字運算式則是在欄位中搜尋特定字串。
 
-例如，若要檢視專案是否有說明，請使用ISBLANK運算式。 如果說明欄位為空白，運算式會傳回true值。 如果說明欄位非空白，則會傳回false值。
+例如，要查看專案是否有說明，請使用 ISBLANK 運算式。如果說明欄位是空白，則運算式會傳回 true 值。如果說明欄位不是空白，則會傳回 false 值。
 
-![具有使用率報告的工作負載平衡器](assets/isblank01.png)
+![附帶使用情況報告的工作負載平衡器](assets/isblank01.png)
 
-若要在說明中尋找特定值（例如「慈善活動」），請使用CONTAINS文字運算式。 如果在說明中找到「慈善活動」，則計算欄位會顯示「true」。 如果找不到「慈善活動」，則會顯示「false」。
+要在說明中搜尋特定值，例如「charity event」，請使用 CONTAINS 文字運算式。若是在說明中找到「charity event」，則計算欄位表示「true」。若是沒有找到「charity event」，則顯示「false」。
 
-![具有使用率報告的工作負載平衡器](assets/isblank02.png)
+![附帶使用情況報告的工作負載平衡器](assets/isblank02.png)
 
 ## ISBLANK
 
-ISBLANK文字運算式包含運算式名稱和一個資料點。
+ISBLANK 文字運算式包括運算式的名稱及一個資料點。
 
 **ISBLANK({data point})**
 
-![具有使用率報告的工作負載平衡器](assets/isblank03.png)
+![附帶使用情況報告的工作負載平衡器](assets/isblank03.png)
 
-在上述範例中（您想要知道專案是否有說明），運算式會是：
+在上述範例中，您想要知道專案是否有說明，則運算式如下：
 
 ISBLANK({description})
 
-## 包含
+## CONTAINS
 
-CONTAINS文字運算式包含運算式名稱、您要尋找的字詞或片語，以及要尋找的欄位。
+CONTAINS 文字運算式包含運算式的名稱、您要搜尋的字詞或短句，以及要搜尋的欄位。
 
-**CONTAINS(「片語」，{fields})**
+**CONTAINS(&quot;phrase&quot;,{fields})**
 
-請務必在尋找的字詞或片語兩側加上引號，否則運算式將無效。
+在要搜尋的字詞或短句前後必須加上引號，否則便不是有效的運算式。
 
-在上述範例中（在專案說明中尋找「慈善事件」），運算式會是：
+在上述範例 (在專案說明中搜尋「charity event」) 中，運算式如下：
 
-**CONTAINS(&quot;charity event&quot;，{description})**
+**CONTAINS(&quot;charity event&quot;,{description})**
 
-![具有使用率報告的工作負載平衡器](assets/isblank04.png)
+![附帶使用情況報告的工作負載平衡器](assets/isblank04.png)
 
-**注意**： CONTAINS運算式區分大小寫。 例如，如果「慈善事件」在說明欄位中大寫，請在運算式中大寫該片語。
+**備註**：CONTAINS 運算式區分大小寫。例如，如果「Charity Event」在說明欄位中有大寫字母，在運算式中的短句也要使用大寫。
 
-**CONTAINS(「慈善活動」，{description})**
+**CONTAINS(&quot;Charity Event&quot;,{description})**
 
-如果您想要檢視值是否存在，最好同時使用ISBLANK和CONTAINS運算式。 不過，知道該值是什麼、實際檢視它或擁有某種描述項以提供更好的深入分析可能更有用。
+若您想要搜尋是否存在某個值，則 ISBLANK 和 CONTAINS 運算式皆適用。但是，知道該值是什麼意思、看到實際的值或是擁有某些描述項來提供更深入的分析，可能更有用處。
 
-例如，您不想只知道專案已從請求轉換，而是想知道原始請求的名稱。
+例如，您不只是想要知道專案是從請求轉換而來，而是想要知道原始請求的名稱。
 
-在這種情況下，請搭配使用CONTAINS運算式和IF運算式。
+在這種情況下，請使用 CONTAINS 運算式結合 IF 運算式。
 
-ISBLANK和CONTAINS文字運算式經常搭配IF文字運算式使用。
+ISBLANK 和 CONTAINS 文字運算式經常與 IF 文字運算式一起使用。
