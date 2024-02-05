@@ -1,6 +1,6 @@
 ---
 title: 核心概念
-description: 瞭解構成Workfront Fusion的三個核心概念 — 情境、應用程式和模組 [!DNL Adobe Workfront Fusion].
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中構成 Workfront Fusion 的三個核心概念 - 情境、應用程式和模組。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,38 +11,38 @@ jira: KT-9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 核心概念
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
-* 構成Workfront Fusion的三個核心概念：情境、應用程式和模組
+* 構成 Workfront Fusion 的三個核心概念 - 情境、應用程式和模組
 
 >[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on)
 
 ## 核心概念術語
 
-**情境** — 案例包含一系列步驟（模組），可指出應如何在應用程式/服務之間傳輸和轉換資料。
+**情境** — 情境由一系列的步驟 (模組) 組成，指示資料應該如何在應用程式/服務之間進行傳輸和轉換。
 
-**應用程式** — 應用程式最常代表軟體應用程式的聯結器，但也代表操控資料的特殊功能。
+**應用程式** — 應用程式最常代表連接軟體應用程式的連接器，但也可以代表操控資料的特殊函數。
 
-**模組** — 根據關聯應用程式執行某些功能的案例中的單一步驟。
+**模組** — 情境中的單一步驟，根據所關聯的應用程式執行某些函數。
 
-## Workfront Fusion是否有預先建立的聯結器可連線至……？
+## Workfront Fusion 是否有預先建立的連接器來……？
 
-許多Workfront Fusion使用者會思考他們所使用的所有系統，最後都會問：「Workfront Fusion是否有聯結器連線____軟體？」 （為您使用的系統填入空白。）
+許多 Workfront Fusion 使用者在考慮自己使用的全部系統時，最後都會這樣問：「Workfront Fusion 是否提供連接 ____ 軟體的連接器？」(空白處填寫您所使用的系統。)
 
-判斷Workfront Fusion是否有預先建立的聯結器最簡單的方法，是使用新增應用程式功能，並按名稱搜尋應用程式。 您也可以檢查 [應用程式及其模組](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) 有關Experience League的文章，以取得Workfront Fusion可連結的應用程式清單。
+確定 Workfront Fusion 是否具有預先建立的連接器的最簡單方法，就是使用「新增應用程式」功能並依名稱搜尋一個應用程式。您也可以查看 Experience League 上的文章「[應用程式及其模組](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=zh-Hant)」，取得 Workfront Fusion 可以連接的應用程式清單。
 
-聯結器不僅限於本文中的應用程式。 如果您要使用的應用程式沒有預先建立的聯結器，您可以使用這些模組直接連線至Web服務：
+連接器並不限於本文章提及的應用程式。如果您要使用的應用程式沒有預先建立的連接器，您可以使用這些模組直接連接網頁服務：
 
-* http模組
-* soap模組
-* JSON模組
+* HTTP 模組
+* SOAP 模組
+* JSON 模組
 
-不要擔心會過於深入探究這些模組 — 其他Workfront Fusion教學課程中提供培訓。 即使這些模組比預先建立的聯結器涉及更多的編碼，驗證至其他系統的最困難部分也可以透過這些模組輕鬆處理。
+先不要擔心是否需要深入瞭解這些模組，因為其他 Workfront Fusion 教學課程提供相關培訓。儘管比較預先建立的連接器，使用這些模組可能需要多撰寫一些程式碼，但是這些模組也輕鬆處理了最困難的工作，即與其他系統之間進行驗證。
