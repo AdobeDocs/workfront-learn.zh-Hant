@@ -1,6 +1,6 @@
 ---
-title: 簡介 [!DNL Scenario Planner]
-description: 瞭解如何 [!DNL Scenario Planner] 可協助您根據業務成果來調整決策。 瞭解如何導覽 [!DNL Scenario Planner].
+title: ' [!DNL Scenario Planner] 簡介'
+description: 瞭解  [!DNL Scenario Planner]  如何協助您做出能夠產生相符之業務成果的決策。瞭解如何導覽  [!DNL Scenario Planner]。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,17 +11,17 @@ jira: KT-9074
 exl-id: 9a8bec0b-1f48-48d4-883b-2cb9cff251cf
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 產品時刻：簡介 [!DNL Scenario Planner]
+# 產品速寫：[!DNL Scenario Planner] 簡介
 
-在本影片中，您將：
+觀看這段影片，您將：
 
-* 取得導覽概述 [!DNL Scenario Planner]
-* 瞭解如何 [!DNL Scenario Planner] 可協助您根據業務成果來調整決策。
+* [!DNL Scenario Planner] 的導覽式概觀
+* 瞭解 [!DNL Scenario Planner] 如何協助您做出能夠產生相符之業務成果的決策。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on)
