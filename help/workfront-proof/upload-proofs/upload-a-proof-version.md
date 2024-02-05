@@ -1,6 +1,6 @@
 ---
 title: 上傳校訂版本
-description: 瞭解如何上傳新版本的校訂，並將校訂工作流程套用至中的版本 [!DNL  Workfront].
+description: 瞭解在  [!DNL  Workfront] 中如何上傳校訂新版本並對版本套用校訂工作流程。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,34 +12,34 @@ jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 上傳校訂版本
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
 * 上傳新版本的校訂
-* 將校訂工作流程套用至版本
+* 對版本套用校訂工作流程
 
 >[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on)
 
 ## 從校訂檢視器上傳版本
 
-如果您在校訂檢視器中開啟了校訂，可以直接從版本選單開始版本上傳。 按一下 [!UICONTROL 新版本] 要直接路由至「」的連結[!UICONTROL 上傳新版本]」頁面並完成上傳。
+若在校訂檢視器中已開啟校訂，您可以直接從版本選單開始上傳版本。按一下「[!UICONTROL 新增版本]」連結，直接轉往「[!UICONTROL 上傳新版本]」頁面並完成上傳作業。
 
-![左上角展開版本功能表的校訂檢視器影像，且 [!UICONTROL 新版本] 連結反白顯示。](assets/upload-version-from-viewer.png)
+![影像顯示校訂檢視器，其左上角版本選單已展開並突顯標示「[!UICONTROL 新增版本]」連結。](assets/upload-version-from-viewer.png)
 
-## 輪到你了
+## 換您來操作
 
 >[!IMPORTANT]
 >
->別忘了提醒您的同事，作為Workfront培訓的一部分，您向他們傳送了證明。
+>在進行 Workfront 培訓的過程中，請記得提醒您的同事，您會把校訂傳送給他們。
 
-尋找您已上傳至Workfront的證明。 上傳該校訂的新版本、指派新工作流程範本或變更現有工作流程。
+在 Workfront 中尋找您已上傳的校訂。上傳該校訂的新版本，指派新的工作流程範本或變更現有工作流程。
 
 <!--
 ### Learn more 
