@@ -1,6 +1,6 @@
 ---
-title: 使用版面配置範本自訂物件區域
-description: 瞭解如何使用版面範本在左側面板選單中新增、移除和重新排列專案 [!DNL  Workfront].
+title: 使用版面範本自訂物件區域
+description: 瞭解在  [!DNL  Workfront] 中如何使用版面範本在左側面板選單中新增、移除和重新排列項目。
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,18 +12,18 @@ jira: KT-8763
 exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使用版面配置範本自訂物件區域
+# 使用版面範本自訂物件區域
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 從物件頁面的左側面板選單中移除專案
-* 新增專案至左側面板選單
-* 重新排列面板選單中的專案
+* 在物件頁面上移除左側面板選單中的項目
+* 新增項目到左側面板選單
+* 重新排列面板選單中的項目
 
 >[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on)
