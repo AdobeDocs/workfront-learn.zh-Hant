@@ -1,6 +1,6 @@
 ---
-title: 里程碑課程簡介
-description: 瞭解里程碑如何協助您保持 [!DNL  Workfront] 專案進行中。
+title: 里程碑課程介紹
+description: 瞭解里程碑如何協助您不斷推動  [!DNL  Workfront]  專案向前進展。
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-8931
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 里程碑：課程簡介
+# 里程碑：課程介紹
 
-本課程專為專案經理、規劃人員及其他在中管理專案的人所設計 [!DNL Workfront]. 我們建議您完成規劃師基礎課程計畫，或在中建立專案時奠定堅實的基礎 [!DNL Workfront] 開始本課程之前。
+本課程專為 [!DNL Workfront] 的專案經理人、規劃人員和其他專案管理人員而設計。我們建議先完成規劃者基礎課程，或是擁有在 [!DNL Workfront] 中建立專案的堅實基礎能力，再開始參加這個課程。
 
-在本影片中，您將瞭解里程碑如何協助您保持 [!DNL  Workfront] 專案進行中。
+觀看這段影片，您將瞭解里程碑如何協助您不斷推動 [!DNL  Workfront] 專案向前進展。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on)
