@@ -1,6 +1,6 @@
 ---
 title: 課程簡介
-description: 瞭解如何使用專案預算、追蹤成本和收入，以及處理中的費用 [!DNL  Workfront].
+description: 瞭解在  [!DNL  Workfront] 中如何使用專案的預算、追蹤成本和收入以及處理費用。
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,15 +10,15 @@ team: Technical Marketing
 jira: KT-8947
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 課程簡介
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
 * 使用專案的預算
 * 追蹤成本和收入
