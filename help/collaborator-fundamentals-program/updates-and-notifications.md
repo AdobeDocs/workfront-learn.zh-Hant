@@ -1,21 +1,21 @@
 ---
-title: 如何進行更新及尋找通知
-description: 瞭解如何更新核准請求並尋找您的通知。
+title: 如何進行更新與尋找通知
+description: 瞭解如何在核准請求上進行更新以及尋找您的通知。
 activity: use
 type: Tutorial
 team: Technical Marketing
 jira: KT-8809
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 更新與通知
+# 更新和通知
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
 * 自行更新核准請求
 * 尋找通知
