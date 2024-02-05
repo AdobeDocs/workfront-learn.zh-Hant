@@ -1,6 +1,6 @@
 ---
 title: 瞭解預設問題狀態
-description: 瞭解預設問題狀態，以及您為何可能想要自訂它們以符合您組織的工作流程。
+description: 瞭解預設問題狀態以及您可能想要根據組織工作流程自訂狀態的原因。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,15 +10,15 @@ level: Intermediate, Experienced
 jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '186'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 # 瞭解預設問題狀態
 
-由於每種問題型別都在追蹤不同型別的資訊，因此每種型別可能需要唯一的工作流程才能解決問題。 自訂每個問題型別的狀態，以符合該問題型別的工作流程。
+由於每種問題類型追蹤不同類型的資訊，故每一種類型可能需要獨特的工作流程才能解決各個問題。自訂每種問題類型的狀態以符合該問題類型的工作流程。
 
 <!---
 add URL in paragraph below
@@ -26,40 +26,40 @@ add URL in paragraph below
 
 ## 預設狀態
 
-有四種預設問題狀態無法刪除：
+有四種預設問題狀態不能刪除：
 
 * 新增
 * 進行中
 * 已關閉
 * 保留
 
-問題管理的常見其他六種狀態包括 [!DNL Workfront]：
+[!DNL Workfront] 內建的其他六種問題管理常見狀態：
 
-* 重新打開
-* 等待反饋
+* 重新處理
+* 等待意見反應
 * 無法複製
 * 已解決
 * 確認完成
-* 將不解析
+* 不會解決
 
 <!---
 need URL in paragraph below
 --->
 
 
-問題的狀態可在以下位置檢視和變更： [!UICONTROL 問題詳細資訊]. 您也可以在最右邊的問題頁面標題中變更狀態的問題。
+您可以在「[!UICONTROL 問題詳細資料]」中檢視和變更問題的狀態。您還可以在最右側的問題頁面標題中更改問題的狀態。
 
-![[!UICONTROL 狀態] 頁首和中的選項 [!UICONTROL 問題詳細資訊] 頁面](assets/admin-fund-issue-details-status.png)
+![[!UICONTROL 狀態]選項，位於頁面標題與[!UICONTROL 問題詳細資料]頁面](assets/admin-fund-issue-details-status.png)
 
-您可以新增 [!UICONTROL 狀態] 欄轉換為檢視或自訂報表，使其可輕鬆顯示並快速變更。
+您可以在視圖或自訂報告中新增「[!UICONTROL 狀態]」欄，既容易看見又能迅速進行變更。
 
-![[!UICONTROL 狀態] 中的欄 [!UICONTROL 檢視]](assets/admin-fund-issue-status-view.png)
+![[!UICONTROL 狀態]欄，位於[!UICONTROL 視圖]](assets/admin-fund-issue-status-view.png)
 
 <!---
 link the bullets below to the articles
 --->
 
-讓我們來看看問題的狀態基本知識：
+來瞭解問題狀態的基本知識：
 
 * 修改現有狀態
 * 系統預設狀態
