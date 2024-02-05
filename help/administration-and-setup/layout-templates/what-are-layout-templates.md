@@ -1,6 +1,6 @@
 ---
 title: 什麼是版面範本？
-description: 瞭解如何使用版面範本來自訂使用者在介面中看到的內容。
+description: 瞭解如何使用版面範本來自訂使用者在介面看到的內容。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,31 +11,31 @@ thumbnail: 10099.jpeg
 jira: KT-10099
 exl-id: 163c3421-37c1-4160-92be-ec27e353ada4
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 什麼是版面範本？
 
-Workfront有許多好工具可協助您完成工作。 但好事太多可能會讓人不知所措。
+Workfront 提供許多實用工具協助您完成工作。但是好功能太多也可能讓人不知所措。
 
-![首頁和主要功能表](assets/what-are-layout-templates-01.png)
+![首頁和主選單](assets/what-are-layout-templates-01.png)
 
-版面配置範本可讓系統管理員和群組管理員自訂使用者體驗，並讓這些使用者專注於對他們而言重要的事情。
+版面範本讓系統管理員和群組管理員自訂使用者的經驗，並讓使用者能夠專注於處理重要的事情。
 
-![首頁和主要功能表](assets/what-are-layout-templates-02.png)
+![首頁和主選單](assets/what-are-layout-templates-02.png)
 
-例如，您組織的大多數不會記錄時間。 但是，顧問團隊會向客戶收費，因此他們需記錄時間以確保計費準確。 使用版面配置範本，可以為不需要的時間表隱藏時間表，並為需要的時間表顯示出來。
+例如，您組織中大多數人都不記錄時間。但是因為顧問團隊會向客戶計費，所以他們必須記錄時間以確保正確計費。我們可以利用版面範本，對不需要的人隱藏時程表，並對需要的人顯示時程表。
 
-![首頁和主要功能表](assets/what-are-layout-templates-03.png)
+![首頁和主選單](assets/what-are-layout-templates-03.png)
 
-![首頁和主要功能表](assets/what-are-layout-templates-04.png)
+![首頁和主選單](assets/what-are-layout-templates-04.png)
 
 
-## 建置之前
+## 在建置之前
 
-Workfront建議您在建立版面配置範本之前先與使用者溝通。 讓將使用版面配置範本的使用者（例如群組管理員）參與，將讓將正確的資訊和工具放在正確的人面前更加順暢。
+Workfront 建議在建立版面範本之前先與使用者討論。讓那些將會使用版面範本的人員 (例如群組管理員) 參與其中，提供正確的資訊和工具給正確對象之過程會變得更順利。
 
-而且建立範本後也不要害怕進行變更。 繼續取得關於他們所需及想要檢視和存取內容的意見回饋。 請記住，版面範本旨在為使用者創造乾淨而輕鬆的體驗。
+在建立範本之後，請放心進行變更。繼續取得他們的意見回饋，瞭解他們需要什麼、想看到和存取什麼內容。請記住，版面範本的目的是為使用者打造一個乾淨且輕鬆使用的經驗。
