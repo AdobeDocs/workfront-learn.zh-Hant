@@ -1,6 +1,6 @@
 ---
-title: 定義不同的使用案例並找到最佳方法
-description: 瞭解如何針對您的情境識別特定使用案例、決定正確的設計並向利害關係人提供最佳建議 [!DNL Adobe Workfront Fusion].
+title: 定義不同的使用案例及尋找最佳方法
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何確認情境的特定使用案例、決定適當的設計並為利害關係人提供最佳建議。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,27 +11,27 @@ jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 定義不同的使用案例並找到最佳方法
+# 定義不同的使用案例及尋找最佳方法
 
-在建置之前考慮自動化時，您可以部署一些策略，以將所需的重工或您必須經歷的迭代次數降至最低。
+當您在建置自動化之前進行相關考量時，您可以部署若干策略以便盡量減少所需的重做或是必須經歷的疊代次數。
 
-您可以定義由特定事件觸發的明確使用案例，以節省大部分時間。 如果您沒有花時間確保自己朝正確的方向前進，最終將會出現複雜或低效的情況。
+明確定義由特定事件觸發的使用案例，能夠為您節省最多時間。如果您不儘早花時間確認自己朝正確的方向前進，那麼您的情境最終會變得複雜或效率不彰。
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 識別您情境的特定使用案例
-* 選擇正確的觸發程式模組
-* 決定高效能的正確設計
-* 挑戰假設，並為利害關係人提供最佳建議
+* 為您的情境找出特定使用案例
+* 選擇正確的觸發模組
+* 決定適當的設計以達成高效能
+* 質疑假設並為利害關係人提供最佳建議
 
 >[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on)
 
-## 想要瞭解更多？ 我們建議採取下列步驟：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
