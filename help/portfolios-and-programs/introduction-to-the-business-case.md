@@ -1,6 +1,6 @@
 ---
-title: 瞭解 [!UICONTROL 業務案例]
-description: 瞭解如何使用 [!UICONTROL 業務案例] Workfront ，評估請求的專案，並將其與投資組合中的其他專案進行比較。
+title: 瞭解[!UICONTROL 業務案例]
+description: 瞭解如何使用[!UICONTROL 業務案例]在 Workfront 中評估所請求的專案，並將那些專案與專案組合中的其他專案進行比較。
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -12,85 +12,85 @@ role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '779'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 瞭解 [!UICONTROL 業務案例]
+# 瞭解[!UICONTROL 業務案例]
 
-身為經理，您的目標是確保專案以積極的方式對公司的整體目標和計畫作出貢獻。 為了做出明智的決策，您需要來自專案經理的資訊，瞭解他們前進的專案需要什麼。 這可透過以下方式完成 [!UICONTROL 業務案例].
+作為經理人，您的目標是確保專案為公司的總體目標和行動方案做出積極貢獻。為了做出明智的決策，您需要專案經理人提供的資訊，才能瞭解推動專案向前發展需要哪些條件。這件事可以藉由[!UICONTROL 業務案例]來達成。
 
-## 什麼是 [!UICONTROL 業務案例]？
+## 什麼是[!UICONTROL 業務案例]？
 
-想一想 [!UICONTROL 業務案例] 作為需要完成的工作的藍圖或提案。 它擷取高階的初步估計，協助您規劃和管理產品組合。 它是輸入潛在費用、資源和風險的地方，以建置「案例」，說明此專案將有利於公司的原因。
+請想像[!UICONTROL 業務案例]是所需完成之工作的藍圖或建議書。它進行高層次的初步估算，協助您規劃和管理專案組合。我們在這裡輸入可能的費用、資源和風險來建立一個「案例」，說明此專案何以對公司有助益。
 
-## [!UICONTROL 業務案例] 專案優先順序的建議欄位
+## 確定專案優先順序時推薦使用的[!UICONTROL 業務案例]欄位
 
-每個區段 [!UICONTROL 業務案例] 提供有關專案的不重複重要資訊。 讓我們來看看將資訊饋送到的區段 [!UICONTROL Portfolio最佳化工具] 工具，可協助您排定投資組合中專案的優先順序。
+[!UICONTROL 業務案例]的每個區段提供有關該專案的唯一且重要的資訊。讓我們來看看把資訊饋送到[!UICONTROL 專案組合最佳化工具]的多個區段，此工具將協助您確認專案組合中各項專案的優先順序。
 
 ## [!UICONTROL 專案資訊]
 
-大多數的資訊輸入於 [!UICONTROL 專案資訊] 區段涉及一般專案細節，例如專案贊助者和專案所屬的方案。
+在「[!UICONTROL 專案資訊]」區段輸入的大部分資訊包含一般專案詳細資料，例如專案贊助者和專案所屬方案。
 
-不過，有一段資訊可能會影響專案的優先順序 — [!UICONTROL 計畫收益].
+但是其中有一項資訊可能影響專案的優先順序，即「[!UICONTROL 規劃收益]」。
 
-![的影像 [!UICONTROL 計畫收益] 區域 [!UICONTROL 專案資訊] 的區段 [!UICONTROL 業務案例]](assets/05-portfolio-management4.png)
+![影像顯示[!UICONTROL 規劃收益]區域，位於[!UICONTROL 專案資訊] 區段，而此區段位於[!UICONTROL 業務案例]](assets/05-portfolio-management4.png)
 
-此 [!UICONTROL 計畫收益] 代表如果專案完成，貴公司可獲益的估計金額。
+「[!UICONTROL 規劃收益]」代表專案完成後您的公司可能獲得的預計收益金額。
 
-這是其中一個區段，可能是讓您的公司推進此專案的轉折點。 如果您能指出專案對貴公司的盈虧底線有顯著的貢獻，那麼迅速推進該專案的機率就更高。
+這是其中一個區段，有可能成為貴公司推動計劃進展的轉折點。如果您可以展示專案對於公司盈虧將有重大貢獻，則有更大的機會能夠加速推動專案。
 
 ## [!UICONTROL 費用]
 
-[!UICONTROL 費用] 代表專案期限內可能產生的非人力成本。
+「[!UICONTROL 費用]」代表專案生命週期內可能產生的非勞動成本。
 
-![的影像 [!UICONTROL 費用] 中的區段 [!UICONTROL 業務案例]](assets/06-portfolio-management5.png)
+![影像顯示[!UICONTROL 費用]區段，位於[!UICONTROL 業務案例]](assets/06-portfolio-management5.png)
 
-例如，使用者會議的費用可能包括地點的付款、禮品袋的物品，或地點大廳的標誌。
+例如，使用者會議的費用可能包括場地費用、禮盒的品項或是場地大廳的指示牌。
 
 ## [!UICONTROL 資源預算]
 
-此 [!UICONTROL 資源預算] 區段可讓您估計專案前進所需的人力。 資訊提取來源 [!DNL Workfront's] [!UICONTROL 資源規劃工具].
+您可以在「[!UICONTROL 資源預算]」區段估計您認為推動專案進展所需的勞動力。其資訊提取自 [!DNL Workfront's] [!UICONTROL 資源規劃工具]。
 
-![的影像 [!UICONTROL 資源預算] 中的區段 [!UICONTROL 業務案例]](assets/07-portfolio-management6.png)
+![影像顯示[!UICONTROL 資源預算]區段，位於[!UICONTROL 業務案例]](assets/07-portfolio-management6.png)
 
-透過輸入每個職務角色的估計需求，這會建立專案可能需要的預算，並深入分析投資組合的預算有多少可用於專案。
+藉由輸入每個職務角色的預估預求，便能建立一份專案所需的可能預算，並藉此深入瞭解專案可能要使用專案組合多少預算。
 
 >[!NOTE]
 >
->您必須在中設定資源集區 [!DNL Workfront] 若要使用的這個區段 [!UICONTROL 業務案例].
+>您必須在 [!DNL Workfront] 中設定資源集區，才能在[!UICONTROL 業務案例]中使用此區段。
 
 ## [!UICONTROL 風險]
 
-您永遠對專案順利執行抱有最高的期望。 但是請務必識別風險並據此制定計畫。 這就是 [!UICONTROL 風險] 中的區段 [!UICONTROL 業務案例] 會有所幫助。
+您總是抱持最高的希望，認為專案將順利進行。但確認風險並制定相應的計劃非常重要。這是「[!UICONTROL 業務案例]」的「[!UICONTROL 風險]」區段可以提供協助的地方。
 
-![的影像 [!UICONTROL 風險] 中的區段 [!UICONTROL 業務案例]](assets/08-portfolio-management7.png)
+![影像顯示[!UICONTROL 風險]區段，位於[!UICONTROL 業務案例]](assets/08-portfolio-management7.png)
 
-您應該與團隊集思廣益，找出專案的任何風險。 對於發生風險時可以估計成本的風險，以及發生風險的可能性，請確定並輸入這些值。 Workfront會將潛在成本乘以機率，並將結果放入 [!UICONTROL 潛在風險] 將從專案的 [!UICONTROL 計畫收益] 計算時 [!UICONTROL 淨值].
+您的團隊應該集思廣益，並找出專案執行的任何風險。如果有些風險，您可以估計其發生時的成本及發生機率，請務必輸入這些值。Workfront 會將潛在成本乘以機率，並將其納入「[!UICONTROL 潛在風險]」資金中，之後會從專案的「[!UICONTROL 規劃收益」]中扣除以便計算「[!UICONTROL 淨值]」。
 
 ## [!UICONTROL 計分卡]
 
-[!UICONTROL 計分卡] 可協助判斷提議的專案與為產品組合或公司設定的整體目標與行動方案的符合程度。
+「[!UICONTROL 計分卡]」協助確定所提議的專案對於專案組合或公司設定的整體目標和行動方案之符合程度。
 
-每個計分卡都有一個問題與答案清單，內含附加值。 當計分卡填寫完畢時， [!DNL Workfront] 可計算專案與您組織預先決定的目標對齊的方式。
+每個計分卡都有問題與解答的清單，且已附加相關數值。計分卡填寫完成後，[!DNL Workfront] 可以計算專案符合組織預定目標的程度。
 
-![的影像 [!UICONTROL 計分卡] 中的區段 [!UICONTROL 業務案例]](assets/09-portfolio-management8.png)
-
->[!NOTE]
->
->專案經理將無法檢視指派給每個答案的值。 只有建立計分卡的使用者才能看到值。
-
-## [!UICONTROL 業務案例] 非必要
-
-此 [!UICONTROL 業務案例] 有彈性。 您可以只填寫幾個區段或完全不填寫。 不需要任何欄位。 不過，您填寫的資訊越多，就越容易分析爭奪相同預算或資源的專案並排定其優先順序。
-
-一旦 [!UICONTROL 業務案例] 已填寫，請按一下 **[!UICONTROL 提交]** 按鈕時，顯示於視窗右側的摘要面板。 這會將專案狀態變更為 [!UICONTROL 已要求]. 現在您已準備好使用 [!UICONTROL Portfolio最佳化] 排定相同投資組合中專案的優先順序。
+![影像顯示[!UICONTROL 計分卡]區段，位於[!UICONTROL 業務案例]](assets/09-portfolio-management8.png)
 
 >[!NOTE]
 >
->中的對齊分數 [!UICONTROL 業務案例] 當您填寫計分卡時，會產生摘要面板。 一致性分數是用來計算 [!UICONTROL Portfolio最佳化工具] 分數。
+>專案經理人無法看到指派給每個答案的值。唯有建立計分卡的使用者才能看到這些值。
+
+## 不需要[!UICONTROL 業務案例]
+
+[!UICONTROL 業務案例]具有彈性。您可以只填寫幾個區段，或是完全不填寫。所有欄位均不是必填。然而，您填寫的資訊越多，便更容易分析爭用相同預算或資源的專案並確定其優先順序。
+
+只要「[!UICONTROL 業務案例]」填寫完畢後，在視窗右側的摘要面板中按一下「**[!UICONTROL 提交]**」按鈕。這會將專案狀態變更為「[!UICONTROL 已請求]」。現在您可以使用[!UICONTROL 產品組合最佳化]確認相同產品組合中各專案的優先順序。
+
+>[!NOTE]
+>
+>「[!UICONTROL 業務案例]」摘要面板中的目標一致性分數，是在您填寫計分卡時產生的。目標一致性分數是用來計算[!UICONTROL 專案組合最佳化工具]分數的其中一個值。
 
 <!-- 
 Learn more graphic and links to documentation articles
