@@ -1,6 +1,6 @@
 ---
-title: 檢視最近的工作 [!DNL Slack]
-description: 瞭解如何透過Slack檢視最近的工作
+title: 透過  [!DNL Slack] 檢視最近的工作
+description: 瞭解如何透過 Slack 檢視最近的工作
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8820
 exl-id: e2ac4704-27d9-49fe-96a4-fd8fe8b48d94
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '28'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 檢視最近的工作 [!DNL Slack]
+# 透過 [!DNL Slack] 檢視最近的工作
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 檢視最近的工作 [!DNL Slack]
+* 透過 [!DNL Slack] 檢視最近的工作
 
 >[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on)
