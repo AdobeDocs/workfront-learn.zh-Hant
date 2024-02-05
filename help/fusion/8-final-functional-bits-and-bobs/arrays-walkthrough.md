@@ -1,6 +1,6 @@
 ---
-title: 陣列逐步說明
-description: 檢閱先前使用簡單和複雜陣列的逐步解說練習 [!DNL Adobe Workfront Fusion].
+title: 陣列操作示範
+description: 回顧之前在  [!DNL Adobe Workfront Fusion] 中使用簡單和複雜陣列的操作示範練習。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,25 +11,25 @@ jira: KT-9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 陣列逐步說明
+# 陣列操作示範
 
-檢閱先前使用簡單和複雜陣列的逐步解說練習。 我們將檢閱如何找到這些資訊，以及如何在必要時使用陣列功能來利用這些資訊。
+回顧之前使用簡單和複雜陣列的操作示範練習。我們將回顧如何找到這些資料，以及在必要時如何使用陣列函數來運用這些資訊。
 
-![Fusion情境的影像](assets/final-functional-bits-and-bobs-1.png)
+![影像顯示 Fusion 情境](assets/final-functional-bits-and-bobs-1.png)
 
-## 陣列逐步說明
+## 陣列操作示範
 
-Workfront建議您先觀看練習逐步解說影片，然後再嘗試在您自己的環境中重新建立練習。
+Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on)
 
 
-## 想要瞭解更多？ 我們建議採取下列步驟：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
