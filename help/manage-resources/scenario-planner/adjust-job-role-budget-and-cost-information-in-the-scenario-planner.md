@@ -1,6 +1,6 @@
 ---
-title: 更新計畫資訊於 [!DNL Scenario Planner]
-description: 瞭解在中建立計畫或方案後，如何變更或更新工作角色、預算或成本資訊 [!DNL Scenario Planner].
+title: 在  [!DNL Scenario Planner] 中更新計劃資訊
+description: 瞭解在  [!DNL Scenario Planner] 中建立計劃或行動方案之後，如何變更或更新職務角色、預算或成本資訊。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,17 +12,17 @@ jira: KT-9078
 exl-id: da426ef6-5033-4974-a897-e82563a776f6
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 調整工作角色、預算及成本資訊 [!DNL Scenario Planner]
+# 調整 [!DNL Scenario Planner] 中的職務角色、預算和成本資訊
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 新增或移除計畫或方案的工作角色
+* 在計劃或行動方案中新增或移除職務角色
 * 調整預算資訊
 * 調整成本資訊
 
