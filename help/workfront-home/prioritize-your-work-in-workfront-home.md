@@ -1,6 +1,6 @@
 ---
-title: 如何排定工作的優先順序 [!UICONTROL 首頁]
-description: 瞭解如何在中標籤專案 [!UICONTROL 工作清單] 作為首頁上的優先順序指派。 然後篩選清單以檢視您的優先處理工作 [!DNL  Workfront].
+title: 如何在[!UICONTROL 首頁]中確定工作的優先順序
+description: 瞭解如何在首頁上將「[!UICONTROL 工作清單]」中的項目標記為優先指派。接著篩選清單，在  [!DNL  Workfront] 中顯示優先處理的工作。
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,17 +12,17 @@ jira: KT-8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 排定工作優先順序 [!DNL Workfront] [!UICONTROL 首頁]
+# 在[!DNL Workfront] [!UICONTROL 首頁] 確定工作的優先順序
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 將工作標籤為優先順序指派
-* 篩選 [!UICONTROL 工作清單] 只檢視優先順序工作
+* 將工作標記為優先指派
+* 篩選「[!UICONTROL 工作清單]」以便僅顯示優先處理的工作
 
 >[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)
