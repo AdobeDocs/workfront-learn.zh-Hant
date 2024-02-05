@@ -1,6 +1,6 @@
 ---
 title: 什麼是自動化工作流程範本？
-description: 瞭解自動化校訂工作流程範本是什麼，以及校訂使用者如何受益於範本。 開始規劃要建立哪些範本。
+description: 瞭解什麼是自動化校訂工作流程範本，以及校訂使用者如何利用範本帶來的好處。開始計劃要建立哪些範本。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,15 +12,15 @@ jira: KT-8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 什麼是自動化工作流程範本？
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
 * 什麼是自動化工作流程範本
 * 校訂使用者如何受益於工作流程範本
