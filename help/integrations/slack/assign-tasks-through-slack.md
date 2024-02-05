@@ -1,6 +1,6 @@
 ---
-title: 透過以下方式指派任務 [!DNL Slack]
-description: 瞭解如何在中指派任務 [!DNL Workfront] 到 [!DNL Slack]
+title: 透過  [!DNL Slack] 指派任務
+description: 瞭解在  [!DNL Workfront]  中如何透過  [!DNL Slack] 指派任務
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8817
 exl-id: 419b3937-0a7c-4ee9-bc1c-34b03d818b3f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 透過以下方式指派任務 [!DNL Slack]
+# 透過 [!DNL Slack] 指派任務
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 指派任務於 [!DNL Workfront]
+* 在 [!DNL Workfront] 中指派任務
 
 >[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on)
