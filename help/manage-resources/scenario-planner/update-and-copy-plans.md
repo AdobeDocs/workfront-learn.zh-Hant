@@ -1,6 +1,6 @@
 ---
-title: 更新並複製中的計畫 [!DNL Scenario Planner]
-description: 瞭解如何更新計畫或複製計畫於 [!DNL  Workfront] [!DNL Scenario Planner].
+title: 在  [!DNL Scenario Planner] 中更新和複製計劃
+description: 瞭解在  [!DNL  Workfront] [!DNL Scenario Planner] 中如何更新或複製計劃。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,17 +12,17 @@ jira: KT-9079
 exl-id: c3a42469-6b0e-4b46-9713-eb15ecdf3055
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 更新與複製計畫
+# 更新和複製計劃
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 更新中的計畫 [!DNL Scenario Planner]
-* 複製中的計畫 [!DNL Scenario Planner]
+* 在 [!DNL Scenario Planner] 中更新計劃
+* 將計劃複製到 [!DNL Scenario Planner]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on)
