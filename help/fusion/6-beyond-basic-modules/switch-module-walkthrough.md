@@ -1,6 +1,6 @@
 ---
-title: 切換模組逐步說明
-description: 瞭解當您需要在中執行更複雜或動態的資料轉換時，如何使用交換器模組 [!DNL Adobe Workfront Fusion].
+title: 切換模組操作示範
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中必須執行比較複雜或動態的資料轉換時如何使用切換模組。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,29 +11,29 @@ jira: KT-9049
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 切換模組逐步說明
+# 切換模組操作示範
 
-瞭解在您需要執行更複雜或動態的資料轉換時，如何使用交換器模組。
+瞭解在必須執行比較複雜或動態的資料轉換時，如何使用切換模組。
 
-![使用交換器模組的影像](assets/beyond-basic-modules-4.png)
+![影像顯示使用切換模組](assets/beyond-basic-modules-4.png)
 
-## 切換模組逐步說明
+## 切換模組操作示範
 
-Workfront建議您先觀看練習逐步解說影片，然後再嘗試在您自己的環境中重新建立練習。
+Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335290/?quality=12&learn=on)
 
 >[!TIP]
 >
->如需完成逐步解說的說明，請前往 [切換模組逐步說明](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-module.html?lang=en) 練習。
+>關於完成操作示範的逐步指示，請前往[切換模組操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-module.html?lang=zh-Hant)練習。
 
 
-## 想要瞭解更多？ 我們建議採取下列步驟：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
