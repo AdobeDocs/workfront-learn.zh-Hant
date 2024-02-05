@@ -1,6 +1,6 @@
 ---
 title: 設定匯率
-description: 瞭解如何在專案和報告上使用匯率，以反映世界各地不同貨幣的財務資訊。
+description: 瞭解如何在專案和報告中使用匯率，以世界各地的不同貨幣來反映財務資訊。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,36 +11,36 @@ level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 設定匯率
 
-[!DNL Workfront] 支援跨國公司的客戶組織使用不同貨幣。 可在專案和報告上使用匯率，以反映世界各地不同貨幣的財務資訊。
+[!DNL Workfront] 支援屬於跨國公司的客戶組織使用不同貨幣。您可以在專案和報告中使用匯率，以世界各地的不同貨幣來反映財務資訊。
 
-匯率由系統管理員管理。 您可以視需要為貴組織設定其他貨幣。
+匯率由系統管理員管理。您的組織可以根據需求設定其他貨幣。
 
-Workfront的預設基礎貨幣為美元。 這是預設會以計算財務資訊的貨幣。 此預設值可在全域和個別專案上變更。
+Workfront 預設的基礎貨幣是美元。這是計算財務資訊預設使用的貨幣。您可以在全域設定以及個別專案中變更這個預設值。
 
 ## 設定貨幣和匯率
 
-![選取匯率的影像](assets/setting-up-finances-4.png)
+![影像顯示選取匯率](assets/setting-up-finances-4.png)
 
-**選取 [!UICONTROL 設定] 從主功能表。**
+**在主選單中選取「[!UICONTROL 設定]」。**
 
-1. 展開 **[!UICONTROL 專案偏好設定]** 在左側選單面板中。
-1. 按一下 **[!UICONTROL 匯率]**.
-1. 按一下 **[!UICONTROL 新增貨幣]** 按鈕。
-1. 從下拉式清單中選取國家/地區貨幣。
-1. 輸入貨幣所需的匯率。
-1. 如果美元以外的貨幣應該是 [!DNL Workfront] 系統的基本（預設）貨幣，按一下貨幣名稱旁的按鈕。
-1. 按一下 **[!UICONTROL 儲存]** 已新增所有貨幣時。
+1. 展開左側選單面板的「**[!UICONTROL 專案偏好設定]**」。
+1. 按一下「**[!UICONTROL 匯率]**」。
+1. 按一下「**[!UICONTROL 新增貨幣]**」按鈕。
+1. 從下拉式選單選取國家貨幣。
+1. 輸入所需貨幣匯率。
+1. 如果要使用美元以外的其他貨幣作為 [!DNL Workfront] 系統的基礎 (預設) 貨幣，請按一下貨幣名稱旁邊的按鈕。
+1. 新增所有貨幣之後按一下「**[!UICONTROL 儲存]**」。
 
-![將貨幣新增至匯率清單的影像](assets/setting-up-finances-5.png)
+![影像顯示在匯率清單中新增貨幣](assets/setting-up-finances-5.png)
 
 >[!NOTE]
 >
->Workfront不會更新或追蹤匯率的目前市值。 如有需要，必須手動進行更新。
+>Workfront 不會更新或追蹤匯率目前的市場價值。如有必要，必須手動進行更新。
