@@ -1,6 +1,6 @@
 ---
 title: 執行歷史記錄
-description: 檢閱和稽核有關過去執行和情景設定的詳細資訊。
+description: 檢閱和稽核過去的執行記錄和情境設定的詳細資料。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,52 +11,52 @@ jira: KT-11049
 thumbnail: KT11049.png
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '282'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 執行歷史記錄
 
-檢閱和稽核有關過去執行和情景設定的詳細資訊。
+檢閱和稽核過去的執行記錄和情境設定的詳細資料。
 
-## 練習概述
+## 練習概觀
 
-請檢閱「使用強大篩選器」案例的執行歷史記錄，以瞭解執行時發生的情況以及執行時的結構化。
+檢閱「使用功能強大的篩選器」情境的執行歷史記錄，來瞭解執行時發生什麼事以及他們在執行時的結構。
 
-![執行歷程記錄影像1](../12-exercises/assets/execution-history-walkthrough-1.png)
+![執行歷史記錄影像 1](../12-exercises/assets/execution-history-walkthrough-1.png)
 
-## 要遵循的步驟
+## 執行步驟
 
-1. 開啟「使用可能篩選器」情境。
-1. 在概覽頁面中，按一下歷史記錄標籤（在頂端，在案例名稱下）。
+1. 開啟「使用功能強大的篩選器」情境。
+1. 在概觀頁面中，按一下「歷史記錄」標籤 (在最上方，情境名稱之下)。
 
-   ![執行歷程記錄影像2](../12-exercises/assets/execution-history-walkthrough-2.png)
+   ![執行歷史記錄影像 2](../12-exercises/assets/execution-history-walkthrough-2.png)
 
-1. 尋找執行並按一下詳細資訊按鈕，即可開啟一個頁面，其中顯示已在右側面板中執行（或未執行）的特定操作。 在左側面板中，您可以檢查執行時的情境。
+1. 尋找一項執行記錄並按一下詳細資料按鈕來開啟頁面，頁面會在右側面板顯示該特定作業已執行 (或未執行)。在左側面板中，您可以檢查情境當時執行的情況。
 
-   ![執行歷程記錄影像3](../12-exercises/assets/execution-history-walkthrough-3.png)
+   ![執行歷史記錄影像 3](../12-exercises/assets/execution-history-walkthrough-3.png)
 
-1. 當您按一下「案例」面板中的模組時，會出現模組檢測器面板，顯示模組設定的相關資訊。 按一下模組或篩選器旁的執行檢查器，檢視已在哪些資訊組合上執行。
+1. 當您對情境面板中的某個模組按一下左鍵，便會出現一個模組檢查程式面板，顯示模組的設定資訊。按一下模組或篩選器旁邊的執行檢查程式，查看之前使用哪一組資訊執行情境。
 
-   ![執行歷程記錄影像4](../12-exercises/assets/execution-history-walkthrough-4.png)
+   ![執行歷史記錄影像 4](../12-exercises/assets/execution-history-walkthrough-4.png)
 
-   ![執行歷程記錄影像5](../12-exercises/assets/execution-history-walkthrough-5.png)
-
-
-1. 在右側面板中，捲動瀏覽或按一下簡單記錄，以檢視執行「逐一播放」的詳細資訊。
-
-   + 您可以檢視操作在模組中何時完成，以及套件組合透過（或未透過）篩選器時。
-
-   ![執行歷程記錄影像6](../12-exercises/assets/execution-history-walkthrough-6.png)
-
-   + 按一下記錄專案以開啟案例面板中的操作面板。 記錄會依發生時間順序列出。
+   ![執行歷史記錄影像 5](../12-exercises/assets/execution-history-walkthrough-5.png)
 
 
-   ![執行歷程記錄影像7](../12-exercises/assets/execution-history-walkthrough-7.png)
+1. 在右側面板中，捲動瀏覽或點進「簡單」記錄，「逐步」檢視執行的詳細資料。
+
+   + 您可以查看模組中各項操作的完成時間以及某一批資訊何時通過 (或未通過) 篩選器。
+
+   ![執行歷史記錄影像 6](../12-exercises/assets/execution-history-walkthrough-6.png)
+
+   + 按一下記錄項目即可開啟情境面板中的操作面板。記錄依發生時間順序列出。
 
 
-1. 進階記錄會顯示類似資訊。 不過，它提供有關每次執行多少週期的詳細資訊，並可讓您更深入瞭解在每個週期中處理了哪些資訊組合。
+   ![執行歷史記錄影像 7](../12-exercises/assets/execution-history-walkthrough-7.png)
 
-![執行歷程記錄影像8](../12-exercises/assets/execution-history-walkthrough-8.png)
+
+1. 進階記錄顯示相似的資訊。但是其提供更詳細的資訊，包括每個執行回合執行多少個週期，您也可以深入瞭解每個週期處理哪一批資訊。
+
+![執行歷史記錄影像 8](../12-exercises/assets/execution-history-walkthrough-8.png)
