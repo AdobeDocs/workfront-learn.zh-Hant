@@ -1,6 +1,6 @@
 ---
-title: 切換函式逐步說明
-description: 瞭解如何使用Switch函式，在中模組欄位中將一個值轉換為另一個值 [!DNL Adobe Workfront Fusion].
+title: 切換函數操作示範
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何使用切換函數將模組欄位中的一個值轉換成另一個值。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,29 +11,29 @@ jira: KT-9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 切換函式逐步說明
+# 切換函數操作示範
 
-若是簡單的資料變更，請使用Switch函式，在模組欄位中將一個值轉換為另一個值。 在本練習中，將兩字母金鑰變更為透過電子郵件傳送之專案「進度狀態」的實際名稱。
+若是簡單的資料變更，可使用切換函數在模組欄位以內將一個值轉換成另一個值。在這項練習中，為了傳送電子郵件，把專案進度狀態的兩個字母縮寫變更為實際名稱。
 
-![使用switch函式的影像](assets/beyond-basic-modules-3.png)
+![影像顯示使用切換函數](assets/beyond-basic-modules-3.png)
 
-## 切換函式逐步說明
+## 切換函數操作示範
 
-Workfront建議您先觀看練習逐步解說影片，然後再嘗試在您自己的環境中重新建立練習。
+Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on)
 
 >[!TIP]
 >
->如需完成逐步解說的說明，請前往 [切換函式逐步說明](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-function.html?lang=en) 練習。
+>關於完成操作示範的逐步指示，請前往[切換函數操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-function.html?lang=zh-Hant)練習。
 
 
-## 想要瞭解更多？ 我們建議採取下列步驟：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
