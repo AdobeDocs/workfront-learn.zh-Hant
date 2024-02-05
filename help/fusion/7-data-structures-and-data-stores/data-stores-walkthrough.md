@@ -1,6 +1,6 @@
 ---
-title: 資料存放區逐步解說
-description: 瞭解如何使用資料存放區，透過在公司清單與Workfront之間同步公司名稱 [!DNL Adobe Workfront Fusion].
+title: 資料儲存區操作示範
+description: 瞭解在使用  [!DNL Adobe Workfront Fusion] 時如何利用資料儲存區將一份公司清單上的公司名稱與 Workfront 進行同步。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,41 +11,41 @@ jira: KT-9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 資料存放區逐步解說
+# 資料儲存區操作示範
 
-在本練習中，我們將使用資料存放區，在公司清單與Workfront之間同步公司名稱。
+在此練習中，我們使用資料儲存區將一份公司清單上公司名稱與 Workfront 同步。
 
-這是Workfront和其他系統中公司單向同步處理的一部分。 目前，它只會在CSV檔案和Workfront之間同步。 但是它也會在資料存放區中維護一個表格，以追蹤CSV檔案中每個公司的Workfront ID (WFID)和公司ID (CID)。 這將允許我們在未來某個時間點使其成為雙向同步。
+這是 Workfront 和其他一些系統之間所進行的公司資料單向同步。目前只會進行 CSV 檔案與 Workfront 之間的同步。但是這項同步功能也會在資料儲存區中維護一份表格，追蹤每家公司的 Workfront ID (WFID) 與 CSV 檔案中的公司 ID (CID)。我們日後有機會可以利用這份表格進行雙向同步。
 
-![Fusion情境的影像](assets/data-structures-and-data-stores-2.png)
+![影像顯示 Fusion 情境](assets/data-structures-and-data-stores-2.png)
 
-## 資料存放區逐步解說
+## 資料儲存區操作示範
 
-Workfront建議您先觀看練習逐步解說影片，然後再嘗試在您自己的環境中重新建立練習。
+Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on)
 
 >[!TIP]
 >
->如需完成逐步解說的說明，請前往 [資料存放區逐步解說](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-stores.html?lang=en) 練習。
+>如需完成操作示範的逐步指示，請至[資料儲存區操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-stores.html?lang=zh-Hant)練習。
 
 
-## 最終備註
+## 最後提醒
 
-既然您已瞭解完資料結構和資料存放區，您可能會問自己：「您何時應該使用它們？」
+現在您已經瞭解資料結構和資料儲存區，您可能會問自己：「應該在什麼時候使用？」
 
-資料結構最常用於序列化或剖析資料格式，例如JSON、XML、CSV等。 資料結構可讓您控制資料結構，甚至驗證資料。 使用資料結構的最常見原因是建立有效的資料，以傳送至預期JSON或XML的API。 在這些情況下，您需要使用JSON或XML應用程式以及您的資料結構，以確保資料格式正確。
+我們最常使用資料結構來進行資料格式序列化或剖析，例如 JSON、XML、CSV 等格式。您可以利用資料結構來控制資料的結構甚至驗證資料。使用資料結構的最常見原因是為了建立有效的資料並傳送給預期收到 JSON 或 XML 的 API。在這些情況下，您會想要把資料結構搭配 JSON 或 XML 應用程式一起使用，以確保資料格式正確。
 
-資料存放區應僅用於儲存需要由多個情境執行存取的永久性資料。 例如，您可以針對需要精確控制處理的進階使用案例，儲存上次處理記錄的中繼資料。
+資料儲存區僅可用於儲存超過一個情境執行需要存取的永久性資料。例如，您可以儲存關於所處理的最後一筆記錄的中繼資料，以供在處理時要求精準控制的進階使用案例使用。
 
-資料存放區並非設計用作資料倉儲或記錄。 無法在Workfront Fusion外部存取資料存放區，且大多數與資料存放區的互動是透過Workfront Fusion案例進行。 因此，無法將資料存放區連線到資料倉儲和記錄使用案例應有的分析或報告工具。 在像這樣的使用案例中，Workfront Fusion的角色是填入適合組織和儲存資料（例如SQL、MariaDB）的系統。
+資料儲存區的設計並不適用於資料倉儲或記錄。在 Workfront Fusion 以外無法存取資料儲存區，而與資料儲存區的大部 分互動均是透過 Workfront Fusion 情境進行。因此，您無法把資料儲存區連接到資料倉儲與記錄使用案例預期會使用的分析或報告工具。Workfront Fusion 在這類使用案例中的角色，是為適用於整理和儲存資料的系統 (例如 SQL、MariaDB) 填入資料。
 
-## 想要瞭解更多？ 我們建議採取下列步驟：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
