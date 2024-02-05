@@ -1,6 +1,6 @@
 ---
 title: 設定事件通知
-description: 瞭解如何透過管理事件通知來控制使用者會收到哪些電子郵件和應用程式內通知。
+description: 瞭解如何透過管理事件通知來控制使用者接收的電子郵件和應用程式內通知。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,9 +11,9 @@ thumbnail: 10093.jpeg
 jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '621'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
@@ -29,83 +29,83 @@ add URL link in the note at the top of the LP
 
 >[!NOTE]
 >
->由於分階段推出，允許系統和群組管理員管理事件通知的功能暫時不適用於部分使用者 [!DNL Workfront] 客戶。 請詳閱本文，瞭解版本相關更新：解鎖群組事件通知的設定。
+>因為採取分階段推行的方式，有些 [!DNL Workfront] 使用者暫時無法使用允許系統和群組管理員管理事件通知的功能。關於功能發佈的最新消息，請關注本文章：開放使用群組事件通知設定
 
-系統管理員會決定使用者應透過哪些通知接收 [!DNL Workfront].
+系統管理員會決定使用者應該收到 [!DNL Workfront] 的哪些通知。
 
-![[!UICONTROL 電子郵件通知] 中的視窗 [!UICONTROL 設定] 區域](assets/admin-fund-notifications-1.png)
+![[!UICONTROL 電子郵件通知]視窗，位於[!UICONTROL 設定]區域](assets/admin-fund-notifications-1.png)
 
-此 [!UICONTROL 事件通知] 清單會依型別分組。 對於列出的每個事件通知，您將會看到五則資訊：
+「[!UICONTROL 事件通知]」清單依類型分組。所列出的每一個事件通知均有五項資訊：
 
-* **[!UICONTROL 作用中] —** 此 [!UICONTROL 作用中] 欄可讓您在整個系統層級開啟或關閉通知。
-* **[!UICONTROL 名稱] —** 這是中的通知名稱 [!DNL Workfront].
-* **[!UICONTROL 說明] —** 說明會提供觸發通知所發生的動作或接收通知時所需採取的動作的簡短說明。
-* **[!UICONTROL 電子郵件主旨] —** 將電子郵件傳送給使用者時，在主旨行中向使用者顯示的內容。
-* **[!UICONTROL 群組存取] —** 解鎖通知，以便群組管理員能夠管理這些通知。
+* **[!UICONTROL 進行中] —**&#x200B;您可以利用「[!UICONTROL 進行中]」欄來關閉或開啟適用於全系統的通知。
+* **[!UICONTROL 名稱] —**&#x200B;這是 [!DNL Workfront] 內通知的名稱。
+* **[!UICONTROL 描述] —**&#x200B;該描述簡要說明發生哪些動作而觸發了通知，或是收到通知後要採取哪些動作來回應。
+* **[!UICONTROL 電子郵件主旨] —**&#x200B;傳送電子郵件給使用者時，在主旨行顯示的內容。
+* **[!UICONTROL 群組存取] —**&#x200B;開放通知的存取權，讓群組管理員可以管理通知。
 
 ## 開啟通知
 
-若要在全球系統層級管理通知，請確定搜尋列顯示 [!UICONTROL 系統事件通知].
+若要管理全域系統層級的通知，請確認搜尋列顯示「[!UICONTROL 系統事件通知]」。
 
-按一下切換按鈕，即可開啟特定通知，讓所有使用者都能使用，以顯示藍色。 如果藍色為隱藏，則通知為關閉。
+按一下切換按鈕使其顯示藍色，即可開啟特定通知，讓所有使用者均會收到通知。若未顯示藍色，則通知是關閉狀態。
 
-![[!UICONTROL 作用中] 欄於 [!UICONTROL 電子郵件通知] 頁面](assets/admin-fund-notifications-2.png)
+![[!UICONTROL 進行中]欄，位於[!UICONTROL 電子郵件通知]頁面](assets/admin-fund-notifications-2.png)
 
-開啟事件通知後，訊息會在事件發生時立即傳送。
+開啟事件通知後，事件發生時會立即傳送訊息。
 
 ## 允許群組管理員控制
 
-系統管理員可授予群組管理員許可權，讓他們進一步根據群組和子群組的運作方式及其工作流程來自訂通知清單。
+系統管理員可以把權限授予群組管理員，讓後者根據其群組和子群組的功能以及本身的工作流程自訂通知清單。
 
-![[!UICONTROL 群組存取] 欄於 [!UICONTROL 電子郵件通知] 頁面](assets/ganotifications_01.png)
+![[!UICONTROL 群組存取]欄，位於[!UICONTROL 電子郵件通知]頁面](assets/ganotifications_01.png)
 
-若要讓群組管理員能夠管理其群組和子群組的通知，則需要解除鎖定系統層級通知。
+要讓群組管理員擁有管理群組和子群組通知的能力，便必須開放傳送系統層級的通知。
 
-* 切換作業選項至「電子郵件通知」頁面的「事件通知」標籤。
+* 導覽到「電子郵件通知」頁面的「事件通知」標籤。
 
-* 請確定搜尋列顯示為「系統事件通知」。
+* 請確認搜尋列顯示「系統事件通知」。
 
-* 按一下「群組存取」欄中的切換按鈕，讓藍色顯示，以解除鎖定所有群組管理員的單一通知。
+* 按一下「群組存取」欄的切換按鈕使其顯示藍色，對所有群組管理員開放傳送單一通知。
 
-* 勾選每個通知左側的方塊，然後按一下清單上方工具列中的解鎖圖示，即可一次解鎖多個通知。
+* 勾選每個通知左邊的方塊，並按一下清單上方工具列的解鎖圖示，一次性開放傳送多個通知。
 
-![[!UICONTROL 群組存取] 欄於 [!UICONTROL 電子郵件通知] 頁面](assets/ganotifications_02.png)
+![[!UICONTROL 群組存取]欄，位於[!UICONTROL 電子郵件通知]頁面](assets/ganotifications_02.png)
 
-按一下切換即可鎖定解除鎖定的通知，使灰色顯示。 選取核取方塊並按一下工具列中的解鎖圖示，同時鎖定多個通知。
+按一下切換按鈕使其顯示灰色，把開放傳送的通知鎖定。選取多個核取方塊並按一下工具列的解鎖圖示，同時鎖定多個通知。
 
-![[!UICONTROL 群組存取] 欄於 [!UICONTROL 電子郵件通知] 頁面](assets/ganotifications_03.png)
+![[!UICONTROL 群組存取]欄，位於[!UICONTROL 電子郵件通知]頁面](assets/ganotifications_03.png)
 
-頂層群組管理員會顯示解除鎖定的通知，以判斷其群組和子群組是否需要該通知。 子群組會繼承其上層父群組的通知設定。 ﻿
+最高層級的群組管理員會看到開放傳送的通知，並決定其群組和子群組是否也需要收到該通知。子群組繼承最上層父系群組的通知設定。﻿
 
 
 ## 管理群組通知
 
-系統管理員解鎖通知選項後，群組管理員可以按一下左側面板選單中的「事件通知」，從個別群組頁面管理群組的通知。 然後，您就可以啟用或停用通知選項。
+系統管理員開放通知選項之後，群組管理員便可以在個人的「群組」頁面上按一下左側面板選單的「事件通知」，管理群組的各項通知。接著您可以啟用或停用通知選項。
 
-![[!UICONTROL 群組存取] 欄於 [!UICONTROL 電子郵件通知] 頁面](assets/managegroupnotifications_01.png)
+![[!UICONTROL 群組存取]欄，位於[!UICONTROL 電子郵件通知]頁面](assets/managegroupnotifications_01.png)
 
-如有需要，系統管理員可以透過視窗頂端的搜尋列輸入群組名稱，從「通知」頁面管理群組通知。
+如有需要，系統管理員可以利用「通知」頁面並在視窗上方的搜尋列輸入群組名稱，即可管理群組的通知。
 
-![[!UICONTROL 群組存取] 欄於 [!UICONTROL 電子郵件通知] 頁面](assets/managegroupnotifications_02.png)
+![[!UICONTROL 群組存取]欄，位於[!UICONTROL 電子郵件通知]頁面](assets/managegroupnotifications_02.png)
 
-## Pro提示
+## 專業技巧
 
-有一些通知 [!DNL Workfront] 建議讓您的使用者可以使用。
+根據 [!DNL Workfront] 的建議，您應該讓使用者接收某些通知。
 
 對於大多數使用者：
 
 * [!UICONTROL 我的其中一項任務的前置任務已完成]
 * [!UICONTROL 有人將我加入定向更新]
-* [!UICONTROL 有人對我工作專案發表評論]
-* [!UICONTROL 在指派給我的任務上變更了到期日期]
+* [!UICONTROL 有人在我的工作項目留下註解]
+* [!UICONTROL 指派給我的一項任務的到期日發生變更]
 
 
-專案經理專屬：
+專案經理人專用：
 
-* [!UICONTROL 我所在的專案變為使用中]
-* [!UICONTROL 我持有的專案落後]
-* [!UICONTROL 向我持有的專案新增了一個問題]
-* [!UICONTROL 在我持有的專案上完成了里程碑任務]
+* [!UICONTROL 我參與的專案變為使用中]
+* [!UICONTROL 我擁有的一項專案進度落後]
+* [!UICONTROL 我擁有的專案中新增了一個問題]
+* [!UICONTROL 我擁有的專案完成了里程碑任務]
 
 <!---
 learn more URLs
