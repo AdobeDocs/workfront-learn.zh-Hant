@@ -1,6 +1,6 @@
 ---
-title: 以其他使用者身分登入
-description: 瞭解Workfront管理員如何以其他使用者身分登入以測試系統設定、版面配置範本、報告等。
+title: 以另一位使用者身分登入
+description: 瞭解 Workfront 管理員如何以其他使用者身分登入來測試系統設定、版面範本、報告等。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,40 +11,40 @@ thumbnail: 10104.jpeg
 jira: KT-10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 以其他使用者身分登入
+# 以另一位使用者身分登入
 
-Workfront管理員在設定使用者體驗時發現的一項功能是「登入身份」功能。 此函式位於 [!UICONTROL 設定] 區域，可讓您以其他使用者的身分登入，而無需登出您自己的帳戶。
+Workfront 管理員在設定使用者體驗時發現「登入身分」是很實用的功能。位在「[!UICONTROL 設定]」區域的這項功能，允許您用另一位使用者的身分登入，且您自己的帳戶不需要登出。
 
-![[!UICONTROL 登入身份] 第頁於 [!UICONTROL 設定] 區域](assets/admin-fund-log-in-as-1.png)
+![[!UICONTROL 登入身分]頁面，位於[!UICONTROL 設定]區域](assets/admin-fund-log-in-as-1.png)
 
-## 登入身份的優點
+## 「登入身分」的好處
 
-此功能之所以有用，有多種原因：
+出於各種不同的原因，這項功能相當實用：
 
-* 管理員可以預覽指派給使用者的版面配置範本，以確保功能表專案或儀表板正確顯示。
-* 在工作流程測試期間，它有助於確保正確設定使用者的許可權。
-* 管理員甚至可以使用此功能將任務標示為完成，或為無法完成任務的人進行核准。
+* 管理員可以預覽指派給使用者的版面範本，確保選單項目或儀表板均正確顯示。
+* 此功能有助於工作流程測試，確保使用者權限設定正確。
+* 管理員甚至可以使用此功能將任務標記為完成，或是為無法進行核准的人員進行核准。
 
-## 存取登入身份
+## 存取「登入身分」
 
-1. 選取 **[!UICONTROL 設定]** 從 **[!DNL Main Menu]**.
-1. 按一下 **[!UICONTROL 登入身份]** 在左側面板中。
-1. 輸入您需要登入的使用者名稱。
+1. 在&#x200B;**[!DNL Main Menu]**&#x200B;中選取「**[!UICONTROL 設定]**」。
+1. 在左側面板中按一下「**[!UICONTROL 登入身分]**」。
+1. 輸入您需要登入之身分的使用者名稱。
 
-![[!UICONTROL 存取記錄] 定位於 [!UICONTROL 登入身份] 頁面](assets/admin-fund-log-in-as-3.png)
+![[!UICONTROL 存取記錄]標籤，位於[!UICONTROL 登入身分]頁面](assets/admin-fund-log-in-as-3.png)
 
-登入後，畫面頂端的通知會指出您所登入的使用者。
+在您登入後，螢幕上方的通知便會顯示您的登入身分。
 
-![[!UICONTROL 目前登入身份] 訊息在頂端 [!DNL Workfront] 視窗](assets/admin-fund-log-in-as-2.png)
+[!DNL Workfront] 視窗上方顯示「![[!UICONTROL 目前登入身分]」訊息](assets/admin-fund-log-in-as-2.png)
 
-## 更新索引標籤會追蹤活動
+## 更新標籤追蹤活動
 
-當管理員以其他使用者身份登入並代表該使用者進行變更/更新時，會在該特定專案的更新區域中看到變更。 以下範例顯示Joan Harris代表Roy Campbell變更到期日。
+當管理員以另一位使用者的身分登入並代表該使用者進行變更/更新時，該特定項目的「更新」區域便會看到相關變更。以下範例是 Joan Harris 代表 Roy Campbell 變更到期日。
 
-![更新區段](assets/admin-fund-log-in-as-4.png)
+![[!UICONTROL 更新]區段](assets/admin-fund-log-in-as-4.png)
