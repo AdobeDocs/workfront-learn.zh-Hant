@@ -1,6 +1,6 @@
 ---
-title: 檢閱含有校訂的影片
-description: 瞭解如何使用校樣調整檢視器設定並在視訊中新增時間戳記評論 [!DNL  Workfront].
+title: 使用校訂來檢閱影片
+description: 瞭解在  [!DNL  Workfront] 中如何使用校訂來調整檢視器設定及在影片上新增具有時間戳記的註解。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,17 +12,17 @@ jira: KT-8847
 exl-id: 42715056-5edb-4619-8754-d48392677d51
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 檢閱含有校訂的影片
+# 使用校訂來檢閱影片
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 在視訊中新增時間戳記評論
+* 在影片中新增具有時間戳記的註解
 * 調整檢視器設定
 
 >[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on)
