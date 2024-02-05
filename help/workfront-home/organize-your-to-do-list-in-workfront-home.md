@@ -1,6 +1,6 @@
 ---
-title: 組織您的待辦事項清單于 [!DNL Workfront] [!UICONTROL 首頁]
-description: 瞭解如何篩選和排序指派的工作、識別準備開始的工作，以及接受中的工作指派 [!DNL  Workfront].
+title: 在 [!DNL Workfront] [!UICONTROL 首頁]整理您的待辦清單
+description: 瞭解在  [!DNL  Workfront] 中如何篩選和排序已指派的工作、識別做好啟動準備的工作以及接受工作指派。
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,29 +12,29 @@ jira: KT-8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 組織您的待辦事項清單于 [!DNL Workfront] [!UICONTROL 首頁]
+# 在 [!DNL Workfront] [!UICONTROL 首頁]整理您的待辦清單
 
 >[!NOTE]
 >
->此 [!UICONTROL [!DNL Sort by]] 中的選項 [!UICONTROL 工作清單] 已重新命名為 [!UICONTROL 分組依據]，以及任務和問題也可依其分組 [!UICONTROL 計劃開始日期].
+>在「[!UICONTROL 工作清單]」中的「[!UICONTROL [!DNL Sort by]]」選項已經重新命名為「[!UICONTROL 分組方式]」，而任務和問題也可以按照其「[!UICONTROL 規劃開始日期]」分組。
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 排序工作指派
-* 依型別篩選工作指派
-* 識別已準備開始的工作
+* 將工作指派排序
+* 按類型篩選工作指派
+* 識別做好啟動準備的工作
 * 接受工作指派
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
 
 >[!NOTE]
 >
->依預設，最早到期專案會出現在最上方 [!UICONTROL 工作清單]. 如果您希望工作專案以降序顯示，請按一下「分組依據」區域右側的箭頭。
+>依預設，最早到期的項目出現在「[!UICONTROL 工作清單]」頂端。如果您希望工作項目按降序顯示，請按一下「分組方式」區域右邊的箭頭。
 
-![顯示依到期日分組的工作清單的畫面影像。](assets/work-list-arrows.png)
+![畫面影像顯示按到期日分組的工作清單。](assets/work-list-arrows.png)
