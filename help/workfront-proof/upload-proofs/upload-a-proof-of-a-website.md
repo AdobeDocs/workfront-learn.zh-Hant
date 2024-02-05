@@ -1,6 +1,6 @@
 ---
-title: 上傳網站的證明
-description: 瞭解如何在中上傳網站作為靜態校訂和互動式校訂 [!DNL  Workfront].
+title: 上傳網站的校訂
+description: 瞭解在  [!DNL  Workfront] 中如何上傳網站作為靜態校訂和互動式校訂。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,15 +12,15 @@ jira: KT-8835
 exl-id: 7e75e409-f87e-46f6-8ff1-f55bbdd892f6
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 上傳網站的證明
+# 上傳網站的校訂
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
 * 上傳網站作為靜態校訂
 * 上傳網站作為互動式校訂
@@ -30,22 +30,22 @@ ht-degree: 0%
 
 ## 互動式內容考量事項
 
-當您開始校訂網站時，您可能會發現 [!DNL Workfront] 並未支援所有設定或情況。 必須符合某些條件：
+當您開始校訂網站時，您可能會發現 [!DNL Workfront] 並不支援所有設定或情況。必須滿足某些條件：
 
-* 網站必須以安全的通訊協定託管，這表示網站位址以https開頭。
-* 要校樣的網站無法內嵌在iframe中。
-* 檢閱者必須可存取網站。
-* 網站必須可公開存取，這表示它不能位於防火牆之後。
-* 建立靜態網站校樣時，網站無法接受密碼保護。
+* 該網站必須使用安全的通訊協定進行託管，亦即網站位址的開頭是 https。
+* 要校訂的網站不可以嵌入在 iframe 之中。
+* 網站必須可供檢閱者存取。
+* 該網站必須可以公開存取，亦即它並非位在防火牆之後。
+* 在建立靜態網站校訂時，網站無法設定密碼保護。
 
-## 輪到你了
+## 換您來操作
 
 >[!IMPORTANT]
 >
->別忘了提醒您的同事，作為Workfront培訓的一部分，您向他們傳送了證明。
+>在進行 Workfront 培訓的過程中，請記得提醒您的同事，您會把校訂傳送給他們。
 
-1. 開啟您在Workfront中用於實踐的專案、任務或問題。 為您組織的網站製作靜態證明。 如果不符合靜態校樣條件，您可以使用adobe.com。
-1. 接下來，以互動式方式校訂您組織的網站。 如果其他網站無法運作，您可以使用adobe.com 。
+1. 開啟您所使用的專案、任務或問題，在 Workfront 中進行親手操作練習。製作貴組織網站的靜態校訂。如果不符合靜態校訂之條件，您可以使用 adobe.com。
+1. 接下來，製作貴組織網站的互動式校訂。如果其他網站無法使用，您可以使用 adobe.com。
 
 <!-- 
 Learn more about these considerations in the articles Generate a static proof for a website or other web content and Generate an interactive proof for a website or other web content. 
