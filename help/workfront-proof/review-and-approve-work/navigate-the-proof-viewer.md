@@ -1,6 +1,6 @@
 ---
-title: 瀏覽到校訂檢視器
-description: 瞭解如何移動校樣、放大/縮小內容、使用縮圖欄、篩選校樣評論等 [!DNL  Workfront] 校訂檢視器。
+title: 導覽校訂檢視器
+description: 瞭解在  [!DNL  Workfront]  校訂檢視器中如何移動校訂位置、放大/縮小內容顯示比例、使用縮圖欄、篩選校訂註解等。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,18 +12,18 @@ jira: KT-8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 瀏覽到校訂檢視器
+# 導覽校訂檢視器
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 移動校樣並放大/縮小內容
-* 使用縮圖欄來預覽和導覽校樣頁面
+* 移動校訂的位置以及放大/縮小內容顯示比例
+* 使用縮圖欄來預覽和導覽校訂的頁面
 * 篩選註解欄
 * 關閉校訂
 
