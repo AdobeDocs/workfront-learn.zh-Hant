@@ -1,6 +1,6 @@
 ---
-title: 訂閱工作專案
-description: 瞭解如何訂閱專案、任務或問題，以便在專案上提出評論時接收通知。
+title: 訂閱工作項目
+description: 瞭解如何訂閱專案、任務或問題，以便有人對項目留下註解時接收通知。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,55 +10,55 @@ level: Beginner
 jira: KT-10098
 exl-id: afc02878-e72e-4707-9a9b-94f1dc4694aa
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '419'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 訂閱工作專案
+# 訂閱工作項目
 
-事件通知會更新您已受指派的工作。 但是，有時您可能會想要關注未指派給您的工作專案，因為它可能會影響您所做的工作。 訂閱特定專案是最理想的解決方案。
+事件通知會告訴您關於您受指派之工作的最新資訊。但是，有時您可能想要追蹤未指派給您的工作項目，因為其可能會影響您所做的工作。訂閱特定項目是理想的解決方案。
 
-例如，您對初始複製任務的進度感興趣。 您未被指派到此任務，但您有責任編輯該初始副本，並想知道目前的情況。 您可以訂閱任務，並在進行更新時收到電子郵件通知，即時更新該工作的進度。
+例如，您有興趣瞭解「初始副本」任務的進度。您並未獲得指派至這項任務，但您負責編輯該初始副本並想知道其情況。您可以訂閱該任務，並在任務有所更新時收到電子郵件通知，即時瞭解該工作的進展。
 
-![從任務訂閱傳送電子郵件](assets/admin-fund-user-notifications-10.png)
+![來自任務訂閱的電子郵件](assets/admin-fund-user-notifications-10.png)
 
-請務必注意，訂閱電子郵件和應用程式內通知只會在對專案做出評論時傳送。 不會傳送電子郵件和通知給其他動作，例如到期日修改或指派變更。
+請務必注意，唯有項目上有人留下註解時才會發送訂閱電子郵件和應用程式內通知。若是發生其他動作，例日到期日修改或指派變更，並不會傳送電子郵件和通知。
 
-若要訂閱工作專案，您必須至少擁有該專案的「檢視」共用許可權。
+若要訂閱工作項目，您必須至少擁有該項目的「視圖共用」權限。
 
-![[!UICONTROL 任務存取] 視窗](assets/admin-fund-user-notifications-11.png)
+![[!UICONTROL 任務存取]視窗](assets/admin-fund-user-notifications-11.png)
 
-存取工作專案後，請透過以下方式訂閱它：
+您擁有工作項目的存取後即可用以下方式訂閱：
 
-1. 前往專案、任務或問題的登陸頁面。
-1. 按一下 **[!UICONTROL 動作]** 功能表。
-1. 按一下 **[!UICONTROL 訂閱]**.
+1. 前往該專案、任務或問題的登陸頁面。
+1. 按一下「**[!UICONTROL 動作]**」選單。
+1. 按一下「**[!UICONTROL 訂閱]**」。
 
-![[!UICONTROL 訂閱] 工作選單中的選項](assets/admin-fund-user-notifications-12.png)
+![[!UICONTROL 訂閱]選項，位於任務選單](assets/admin-fund-user-notifications-12.png)
 
-您可以將游標停留在「 」旁邊的數目上，以檢視還有誰訂閱了工作專案。 [!UICONTROL 訂閱/取消訂閱] （在功能表中）。
+把游標懸停在選單中「[!UICONTROL 訂閱/取消訂閱]」旁邊的數字上方，即可看見其他訂閱工作項目的使用者。
 
-![顯示已訂閱者的任務功能表](assets/admin-fund-user-notifications-13.png)
+![任務選單顯示訂閱者](assets/admin-fund-user-notifications-13.png)
 
-如果您有 [!UICONTROL 管理] 或 [!UICONTROL 共用] 工作專案的許可權，您可以透過以下方式為其他使用者訂閱專案、任務或問題：
+若您有工作項目的「[!UICONTROL 管理]」或「[!UICONTROL 共用]」權限，您可以用以下方式讓其他使用者訂閱專案、任務或問題：
 
-1. 按一下「 」旁邊的數字 **[!UICONTROL 訂閱]** 選項。
-1. 新增您要訂閱工作專案的人員名稱。
-1. 按一下 **[!UICONTROL 儲存]**.
+1. 按一下「**[!UICONTROL 訂閱]**」選項旁邊的數字。
+1. 新增要訂閱工作項目之人員的名稱。
+1. 按一下「**[!UICONTROL 儲存]**」。
 
-![[!UICONTROL 訂閱] 視窗](assets/admin-fund-user-notifications-15.png)
+![[!UICONTROL 訂閱]視窗](assets/admin-fund-user-notifications-15.png)
 
-您訂閱的人不會收到訂閱的通知。 所有訂閱者皆獲指派專案的「檢視」許可權。 但是，如果訂閱者已經擁有 [!UICONTROL Contribute] 或 [!UICONTROL 管理] 專案的許可權，這些許可權保持不變。
+您所訂閱的人員並不會收到訂閱通知。所有訂閱者均獲得該項目的「檢視」權限。但是，如果訂閱者已經擁有該項目的「[!UICONTROL 貢獻]」或「[!UICONTROL 管理]」權限，那些權限維持不變。
 
-中的專案 [!UICONTROL 更新] 個別專案上的標籤也會指出訂閱者和訂閱時間。 此 [!UICONTROL 更新] 索引標籤也會在使用者訂閱其他人時記錄。
+個別項目的「[!UICONTROL 更新]」標籤上也會有輸入項目指出訂閱的人員及時間。「[!UICONTROL 更新]」標籤也會記錄使用者被他人訂閱的情況。
 
-![[!UICONTROL 更新] 顯示訂閱的工作頁面](assets/admin-fund-user-notifications-16.png)
+![[!UICONTROL 更新]頁面 (在任務內)，顯示訂閱情況](assets/admin-fund-user-notifications-16.png)
 
-若要取消訂閱使用者，請再次按一下泡泡圖以開啟 [!UICONTROL 訂閱者] 視窗。 然後按一下該人員姓名旁的X。 使用者不會收到取消訂閱的通知。
+要將使用者取消訂閱，再按一下泡泡來開啟「[!UICONTROL 訂閱者]」視窗。接著按一下人員名稱旁邊的 X。使用者不會收到已取消訂閱的通知。
 
-![[!UICONTROL 取消訂閱] 專案上的功能表選項](assets/admin-fund-user-notifications-14.png)
+![[!UICONTROL 取消訂閱]選單選項，在專案內](assets/admin-fund-user-notifications-14.png)
 
 <!---
 learn more URL: Subscribe to items in Workfront
