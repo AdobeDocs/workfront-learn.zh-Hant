@@ -1,6 +1,6 @@
 ---
 title: 尋找財務資訊
-description: 瞭解如何尋找專案的財務資訊，並瞭解其來源。
+description: 瞭解如何尋找關於專案的財務資訊並瞭解資訊從何而來。
 activity: use
 feature: Work Management
 thumbnail: 335208.png
@@ -12,16 +12,16 @@ jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 尋找財務資訊
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 尋找有關專案的財務資訊，並瞭解其來源。
+* 尋找與專案有關的財務資訊並瞭解其從何而來。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on)
