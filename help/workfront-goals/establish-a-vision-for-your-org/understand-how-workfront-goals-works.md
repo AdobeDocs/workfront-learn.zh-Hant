@@ -1,6 +1,6 @@
 ---
-title: 瞭解如何 [!DNL Workfront Goals] 工作
-description: 瞭解如何在規劃階段清楚闡述「什麼」和「為什麼」、範例目標和影響範圍。
+title: 瞭解  [!DNL Workfront Goals]  如何運作
+description: 瞭解如何在規劃階段清楚說明「內容」與「原因」、範例目標和影響範圍。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,37 +11,37 @@ jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 瞭解如何 [!DNL Workfront Goals] 工作
+# 瞭解 [!DNL Workfront Goals] 如何運作
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解以下資訊：
 
-* 在規劃階段清楚闡明「什麼」與「為什麼」
-* 目標範例
+* 在規劃階段清楚說明「內容」和「原因」
+* 範例目標
 * 影響範圍
 
 >[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on)
 
-## 指定負責的個人
+## 指定承擔責任的個人
 
-開始設定之前 [!DNL Workfront Goals]，您需確定貴組織中負責領導達成每個目標的個人。
+開始設定 [!DNL Workfront Goals] 之前，您必須先確認貴組織中哪些人要承擔責任並領導實現每個目標。
 
-有幾種方法可以做到這一點。 [!DNL Workfront] 建議草繪圖出組織圖。 目標擁有者可能會有好幾層。 從頂層領導開始，然後確定負責執行所需工作以實現這些期望結果的團隊和團隊成員。 他們需要目標的前後關聯才能產生最佳成果。
+其中有幾種做法。[!DNL Workfront] 建議繪製組織架構圖。可能會有數個層級的目標所有者從高層領導人開始，接著確認負責執行工作以利實現期望結果的團隊和團隊成員。他們必須瞭解自己要朝哪個目標努力，才能產生最佳的工作成果。
 
-接下來，請後退一步，看看您的員工。 決定哪些人需要完全管理/編輯存取權、僅檢視存取權，以及完全沒有存取權。 完全沒有存取權的數量應該相對較小，因為大部分人至少都需要檢視目標以符合策略背景。
+接著，回頭看看您的員工。決定誰需要完整的管理/編輯權限、僅限檢視權限以及完全不予存取。完全不予存取的人數應該是相對少數，因為每個人大多數至少需要基於策略原因檢視目標。
 
 >[!NOTE]
 >
->在識別主要目標擁有者時，請考量您為企業成果設定策略目標，而非個人發展目標。 Workfront建議您只新增直接有助於或推動業務與企業目標的發展目標。
+>在確認主要目標所有者時，請記得考量這是為了設定追求企業成果的策略目標，而不是個人發展目標。Workfront 建議您僅新增對於業務和企業目標有直接貢獻或能夠推動實現目標的發展性目標。
 
-![空白組織圖](assets/01-workfront-goals-blank-org-chart.png)
+![空白組織架構圖](assets/01-workfront-goals-blank-org-chart.png)
 
-我們將向您說明如何在中設定和設定您的設定 [!DNL Workfront Goals]，第2部分：建立和管理您的目標。
+我們將在「[!DNL Workfront Goals] 第 2 部分：建立與管理您的目標」為您說明如何安裝與進行設定。
 
 <!--
 URL for part 2 reference above
