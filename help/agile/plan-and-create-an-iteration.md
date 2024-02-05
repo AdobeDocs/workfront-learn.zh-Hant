@@ -1,6 +1,6 @@
 ---
-title: 計畫和建立反複專案
-description: 瞭解如何建立新版序，以及核取/取消核取版序的內文。
+title: 計劃與建立疊代
+description: 瞭解如何建立新疊代以及勾選/取消勾選疊代的故事。
 feature: Agile
 role: Admin, User
 level: Intermediate
@@ -9,14 +9,14 @@ thumbnail: 346284.jpeg
 exl-id: 338ce8aa-3dec-43d2-92e2-2e48e6e65947
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 計畫和建立反複專案
+# 計劃與建立疊代
 
-在本影片中，您將會瞭解如何建立新版序，以及核取/取消核取版序的內文。
+觀看這段影片，您將瞭解如何建立新疊代以及勾選/取消勾選疊代的故事。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on)
