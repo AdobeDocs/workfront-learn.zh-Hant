@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
+source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
 workflow-type: tm+mt
-source-wordcount: '2382'
+source-wordcount: '2389'
 ht-degree: 97%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 97%
       + [開始管理專案](manage-work/projects/getting-started-manage-a-project.md)
       + [尋找專案](manage-work/projects/find-projects.md)
       + [共用專案](manage-work/projects/share-a-project.md)
+      + [瞭解專案團隊](manage-work/projects/understand-the-project-team.md)
       + [瞭解專案溝通](manage-work/projects/understand-project-communication.md)
       + [檢視專案資訊](manage-work/projects/view-project-information.md)
       + [追蹤專案整體進度](manage-work/projects/track-overall-project-progress.md)
@@ -207,6 +208,7 @@ ht-degree: 97%
       + [建立基本篩選活動](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [建立簡單報告](reporting/basic-reporting/create-a-simple-report.md)
       + [建立任務報告](reporting/basic-reporting/create-a-task-report.md)
+      + [複製報告](reporting/basic-reporting/copy-a-report.md)
       + [建立附有圖表的報告](reporting/basic-reporting/create-reports-with-charts.md)
       + [建立矩陣報告](reporting/basic-reporting/create-a-matrix-report.md)
       + [建立儀表板](reporting/basic-reporting/create-dashboards.md)
@@ -601,7 +603,7 @@ ht-degree: 97%
    + 展示板 {#boards}
       + [尋找及建立一個基本展示板](boards/find-and-create-a-basic-board.md)
       + [管理展示板的欄](boards/manage-board-columns.md)
-      + [新增卡片到展示板](boards/add-cards-to-a-board.md)
+      + [將卡片新增到展示板](boards/add-cards-to-a-board.md)
       + [管理展示板上的卡片](boards/manage-cards-on-a-board.md)
       + [自訂展示板上的卡片](boards/customize-cards-on-a-board.md)
       + [新增和管理展示板的團隊成員](boards/add-and-manage-team-members-for-a-board.md)
@@ -618,7 +620,7 @@ ht-degree: 97%
    + [儀表板](best-practices/dashboards-bp.md)
    + [文件](best-practices/documents-bp.md)
    + [篩選器、視圖和分組](best-practices/filters-views-groupings-bp.md)
-   + [工作角色](best-practices/job-roles-bp.md)
+   + [職務角色](best-practices/job-roles-bp.md)
    + [版面配置範本](best-practices/layout-templates-bp.md)
    + [授權與存取層級](best-practices/licenses-access-levels-bp.md)
    + [入門和接納使用](best-practices/onboarding-adoption-bp.md)
