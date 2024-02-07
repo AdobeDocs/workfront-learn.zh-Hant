@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
+source-git-commit: 0f2a8c6855398759890fad1282ced3c28615f7f5
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 40%
@@ -32,9 +32,9 @@ ht-degree: 40%
 >[!TIP]
 >
 >將鏟子和碗混合起來，準備試試我們的「配方」 [Adobe Workfront客戶報告逐步指南](/help/assets/workfront-customer-reporting-cookbook.pdf). 在裡面，您可以找到10份報告的逐步指示，讓您在今天的環境中快速啟動。
-><br><br>
+><br>
 >我們收集了客戶最喜歡的報告，並將它們放進可點心、容易消化的逐步指南中，供您在自己的Workfront廚房中取回並進行測試。
-><br><br>
+><br>
 >這10個報表來自與您相同的客戶。 我們遍佈各行各業、各部門、各團隊、各職位，感謝各位出色的客戶分享他們最愛的報告。 有些報表相當簡單（但功用絕佳），有些則較複雜，無法將您的報表提升到全新的境界。
 
 
