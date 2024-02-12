@@ -1,6 +1,6 @@
 ---
 title: 將分析新增至版面配置範本
-description: 瞭解系統和群組管理員如何授予Analytics的存取權。
+description: 瞭解系統與群組管理員如何授予「分析」的存取權。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
@@ -9,12 +9,13 @@ role: Admin
 level: Beginner
 team: Technical Marketing
 jira: KT-8726
+recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: c1062c7f19c623a149710a13d2b980f45b117147
+source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
