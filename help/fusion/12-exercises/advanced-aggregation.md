@@ -1,5 +1,5 @@
 ---
-title: 進階彙總
+title: 進階彙總練習
 description: 要求網頁服務回傳有關多個國家的詳細資料，然後確認人口並依子區域分組。
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11048
 thumbnail: KT11048.png
+recommendations: noDisplay,noCatalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '481'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '493'
+ht-degree: 98%
 
 ---
 
-# 進階彙總
+# 進階彙總練習
 
 瞭解彙總時如何使用分組。
 

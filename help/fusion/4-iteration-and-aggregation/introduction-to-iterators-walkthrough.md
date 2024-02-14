@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '168'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on)
 
->[!TIP]
->
->如需完成操作示範的逐步指示，請前往[疊代器簡介操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators-exercise.html?lang=zh-Hant)練習。
 
 
 ## 想要瞭解更多嗎？我們建議參閱以下資訊：

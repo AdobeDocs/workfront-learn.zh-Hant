@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '164'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
@@ -28,10 +29,6 @@ ht-degree: 100%
 Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on)
-
->[!TIP]
->
->如需完成操作示範的逐步指示，請至[開發工具操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=zh-Hant)練習。
 
 
 ## 下載開發工具

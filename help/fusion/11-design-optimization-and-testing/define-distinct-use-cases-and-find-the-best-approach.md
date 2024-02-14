@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 74%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 當您在建置自動化之前進行相關考量時，您可以部署若干策略以便盡量減少所需的重做或是必須經歷的疊代次數。
 
-明確定義由特定事件觸發的使用案例，能夠為您節省最多時間。如果您不儘早花時間確認自己朝正確的方向前進，那麼您的情境最終會變得複雜或效率不彰。
+您可以定義由特定事件觸發的明確使用案例，以節省大部分時間。 如果您沒有及早採取行動來確保自己朝正確的方向前進，最終將會出現複雜或低效的情況。
 
 觀看這段影片，您將瞭解如何：
 

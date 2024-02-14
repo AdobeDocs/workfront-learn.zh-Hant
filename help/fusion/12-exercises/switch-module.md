@@ -1,6 +1,6 @@
 ---
-title: 切換模組
-description: 瞭解在必須執行比較複雜或動態的資料轉換時，如何使用「切換」模組。
+title: 切換模組練習
+description: 瞭解在必須執行比較複雜或動態的資料轉換時，如何使用切換模組。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11052
 thumbnail: KT11052.png
+recommendations: noDisplay,noCatalog
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '319'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '327'
+ht-degree: 98%
 
 ---
 
-# 切換模組
+# 切換模組練習
 
 瞭解在必須執行比較複雜或動態的資料轉換時，如何使用「切換」模組。
 

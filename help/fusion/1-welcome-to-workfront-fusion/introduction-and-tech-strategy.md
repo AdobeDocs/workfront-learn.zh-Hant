@@ -1,6 +1,6 @@
 ---
-title: 簡介和技術策略
-description: 瞭解的強大功能和彈性 [!DNL Adobe Workfront Fusion]以及如何開始使用您自己的Fusion執行個體。
+title: 簡介及技術策略
+description: 瞭解  [!DNL Adobe Workfront Fusion] 的強大功能與彈性，以及如何開始使用您的 Fusion 執行個體。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,43 +10,44 @@ level: Beginner
 last-substantial-update: 2023-06-08T00:00:00Z
 jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 0%
+source-wordcount: '268'
+ht-degree: 100%
 
 ---
 
-# 簡介和技術策略
+# 簡介及技術策略
 
-瞭解的強大功能和彈性 [!DNL Adobe Workfront Fusion]以及如何開始使用您自己的Fusion執行個體。
+瞭解 [!DNL Adobe Workfront Fusion] 的強大功能與彈性，以及如何開始使用您的 Fusion 執行個體。
 
-## 什麼是Adobe Workfront Fusion？
+## 什麼是 Adobe Workfront Fusion?
 
-Workfront Fusion是一個功能強大的整合平台，可讓工作自由地在系統和團隊之間流動。 其角色是自動化您的流程，以便您可以專注於新任務，而不是一而再、再而三地重複相同的任務。 其運作方式是連結應用程式和服務內外的動作，以建立自動傳輸和轉換資料的情境。
+Workfront Fusion 是一個功能強大的整合平台，可以讓多個系統和團隊之間的工作自由流動。它的作用是將您的流程自動化，以便您可以專心處理新任務，而不是一再重複相同的任務。它把應用程式和服務內部及兩者之間的動作連結起來並建立一個情境，可自動轉移和轉換您的資料。
 
-## 如何取得Fusion
+## 如何取得 Fusion
 
-Fusion是某些Workfront套件中包含的附加產品，其他套件則未包含。 如果您的Workfront套件不包含Fusion，請聯絡銷售人員。
+Fusion 是某些 Workfront 套件所包含的附加產品。如果您的 Workfront 套件不包含 Fusion，請聯絡銷售人員。
 
-## 開始使用Fusion
+## Fusion 快速入門
 
-若要在Fusion中執行任何操作，您需要位於組織內的團隊中。 您的Fusion系統管理員將在您的組織中建立團隊，並邀請使用者加入一個或多個團隊。
+若要在 Fusion 執行任何操作，您必須屬於組織中某個團隊。您的 Fusion 系統管理員將在您的組織中建立團隊並邀請使用者加入一個或多個團隊。
 
-您的Fusion系統管理員將向您傳送新的使用者邀請，其中包含兩封電子郵件。 當您收到兩封電子郵件時，請遵循中的指示 [以新使用者身分登入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=en).
+您的 Fusion 系統管理員將對您發送新使用者邀請，其中包含兩封電子郵件。當您收到兩封電子郵件後，請按照「[以新使用者身分登入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=zh-Hant)」的指示操作。
 
-如果您是Fusion系統管理員，您將需要參閱以下教學課程，以瞭解如何建立團隊和新增使用者。
+如果您是 Fusion 系統管理員，您將需要參考以下教學課程，以瞭解如何建立團隊和新增新的使用者。
 
-* [瞭解組織、團隊和使用者](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=en)
-* [管理逐步解說](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=en)
+* [瞭解組織、團隊和使用者](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=zh-Hant)
+* [管理操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=zh-Hant)
 
-## 簡介和技術策略
+## 簡介及技術策略
 
-在本影片中，您將會看到：
+觀看這段影片，您將瞭解：
 
-* Fusion的強大功能與彈性
-* Fusion核心和設計工具功能
-* Fusion範例情境
+* Fusion 的強大功能和彈性
+* Fusion 的核心與設計工具功能
+* Fusion 範例情境
 
 >[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on)

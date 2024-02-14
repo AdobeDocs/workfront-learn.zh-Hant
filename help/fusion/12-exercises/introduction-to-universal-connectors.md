@@ -1,5 +1,5 @@
 ---
-title: 通用連接器簡介
+title: 通用聯結器練習簡介
 description: 讓您更瞭解如何使用 REST 通用連接器和傳回的資料。
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11042
 thumbnail: KT11042.png
+recommendations: noDisplay,noCatalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '585'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '602'
+ht-degree: 98%
 
 ---
 
-# 通用連接器簡介
+# 通用聯結器練習簡介
 
 讓您更瞭解如何使用 REST 通用連接器和傳回的資料。
 

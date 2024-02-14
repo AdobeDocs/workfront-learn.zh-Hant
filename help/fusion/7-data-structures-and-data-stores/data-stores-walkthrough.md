@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '426'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '393'
 ht-degree: 100%
 
 ---
@@ -31,9 +32,6 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on)
 
->[!TIP]
->
->如需完成操作示範的逐步指示，請至[資料儲存區操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-stores.html?lang=zh-Hant)練習。
 
 
 ## 最後提醒

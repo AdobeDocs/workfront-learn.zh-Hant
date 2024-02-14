@@ -1,6 +1,6 @@
 ---
-title: 路由模式逐步說明
-description: 瞭解如何使用設定變數模組透過多個路徑傳送數字，以瞭解篩選和遞補的行為方式 [!DNL Adobe Workfront Fusion].
+title: 路由模式操作示範
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何使用「Set 變數」模組傳送一個數字通過多條路徑，並查看篩選器和後援的運作方式。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,31 +9,28 @@ role: User
 level: Beginner
 jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 0%
+source-wordcount: '88'
+ht-degree: 100%
 
 ---
 
-# 路由模式逐步說明
+# 路由模式操作示範
 
-使用「設定變數」模組透過多個路徑傳送數字，以瞭解篩選和遞補在路由時的行為。
+使用「Set 變數」模組傳送一個數字通過多條路徑，瞭解路由時篩選器和後援機制的運作。
 
-![Fusion藍本的影像](assets/universal-connectors-and-routing-7.png)
+![影像顯示 Fusion 情境](assets/universal-connectors-and-routing-7.png)
 
-## 路由模式逐步說明
+## 路由模式操作示範
 
-Workfront建議您先觀看練習逐步解說影片，然後再嘗試在您自己的環境中重新建立練習。
+Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on)
 
->[!TIP]
->
->如需完成逐步解說的相關指示，請前往 [路由模式逐步說明](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=en) 練習。
 
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-## 想要進一步瞭解嗎？ 我們建議以下事項：
-
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)

@@ -3,10 +3,10 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '2389'
-ht-degree: 97%
+source-wordcount: '2408'
+ht-degree: 94%
 
 ---
 
@@ -384,50 +384,68 @@ ht-degree: 97%
 
    + 瞭解基礎知識 {#understand-the-basics}
       + [初始情境設計操作示範](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
+      + [初始情境設計練習](fusion/12-exercises/initial-scenario-design.md)
       + [對應面板和公式編輯器](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [對應面板重要注意事項](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
       + [超越基本對應操作示範](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
+      + [超越基本對應練習](fusion/12-exercises/beyond-basic-mapping.md)
       + [使用篩選器](fusion/2-understand-the-basics/use-filters.md)
       + [篩選器操作示範](fusion/2-understand-the-basics/filters-walkthrough.md)
+      + [篩選器練習](fusion/12-exercises/filters.md)
       + [存取之前版本操作示範](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+      + [存取先前版本練習](fusion/12-exercises/access-previous-versions.md)
 
    + 通用連接器和路由 {#universal-connectors-and-routing}
       + [通用連接器練習概觀](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [通用連接器操作示範簡介](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
+      + [通用聯結器練習簡介](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [瞭解路由器](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [路由器操作示範](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
+      + [路由器練習](fusion/12-exercises/routers.md)
       + [常見路由模式](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [路由模式操作示範](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
+      + [繞線陣列練習](fusion/12-exercises/routing-patterns.md)
       + [使用 Set 與 Get](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [Get/Set 變數操作示範](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+      + [設定/取得變數練習](fusion/12-exercises/set-get-variables.md)
 
    + 疊代與彙總 {#iteration-and-aggregation}
       + [疊代器簡介](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [疊代器簡介操作示範](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
+      + [疊代器練習簡介](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [彙總簡介](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
       + [彙總操作示範](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+      + [彙總練習](fusion/12-exercises/aggregation.md)
       + [進階彙總操作示範](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+      + [進階彙總練習](fusion/12-exercises/advanced-aggregation.md)
 
    + 執行歷史記錄與排程 {#execution-history-and-scheduling}
       + [執行歷史記錄簡介](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [執行歷史記錄操作示範](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
+      + [執行歷程記錄練習](fusion/12-exercises/execution-history.md)
       + [瞭解情境排程](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [讓執行、週期和套件維持平衡](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [執行、週期和套件操作示範](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+      + [探索執行、循環和組合練習](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
    + 超越基本模組 {#beyond-basic-modules}
       + [熟悉其他應用程式與常用模組](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [切換](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [切換函數操作示範](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
+      + [切換函式練習](fusion/12-exercises/switch-function.md)
       + [切換模組操作示範](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
+      + [切換模組練習](fusion/12-exercises/switch-module.md)
       + [瞭解 Webhook 的世界](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Webhook 操作示範](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+      + [Webhooks練習](fusion/12-exercises/webhooks.md)
 
    + 資料結構和資料儲存區 {#data-structures-and-data-stores}
       + [瞭解資料結構](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [資料結構操作示範](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
+      + [資料結構練習](fusion/12-exercises/data-structures.md)
       + [瞭解資料儲存區](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [資料儲存區操作示範](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+      + [資料儲存練習](fusion/12-exercises/data-stores.md)
 
    + 最後的各種小型功能{#final-functional-bits-and-bobs}
       + [Workfront 應用程式操作示範](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
@@ -435,10 +453,12 @@ ht-degree: 97%
       + [陣列操作示範](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [瞭解情境中的 JSON](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [使用 JSON 操作示範](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+      + [使用JSON練習](fusion/12-exercises/working-with-json.md)
 
    + 疑難排解與錯誤處理 {#troubleshooting-and-error-handling}
       + [使用開發工具進行進階疑難排解](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [開發工具操作示範](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
+      + [開發工具練習](fusion/12-exercises/devtool.md)
       + [什麼是錯誤處理？](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [瞭解錯誤處理指示](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [錯誤處理操作示範](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
@@ -455,27 +475,6 @@ ht-degree: 97%
       + [容易取得而且資訊明確](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
       + [情境護欄](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
       + [測試和啟動](fusion/11-design-optimization-and-testing/testing-considerations.md)
-   + 練習 {#exercises}
-      + [初始情境設計](fusion/12-exercises/initial-scenario-design.md)
-      + [超越基本對應](fusion/12-exercises/beyond-basic-mapping.md)
-      + [篩選器](fusion/12-exercises/filters.md)
-      + [存取之前版本](fusion/12-exercises/access-previous-versions.md)
-      + [通用連接器簡介](fusion/12-exercises/introduction-to-universal-connectors.md)
-      + [路由器](fusion/12-exercises/routers.md)
-      + [路由模式](fusion/12-exercises/routing-patterns.md)
-      + [Set/Get 變數](fusion/12-exercises/set-get-variables.md)
-      + [疊代器簡介](fusion/12-exercises/introduction-to-iterators-exercise.md)
-      + [彙總](fusion/12-exercises/aggregation.md)
-      + [進階彙總](fusion/12-exercises/advanced-aggregation.md)
-      + [執行歷史記錄](fusion/12-exercises/execution-history.md)
-      + [探索執行循環和組合](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
-      + [切換函數](fusion/12-exercises/switch-function.md)
-      + [切換模組](fusion/12-exercises/switch-module.md)
-      + [Webhook](fusion/12-exercises/webhooks.md)
-      + [資料結構](fusion/12-exercises/data-structures.md)
-      + [資料儲存區](fusion/12-exercises/data-stores.md)
-      + [使用 JSON](fusion/12-exercises/working-with-json.md)
-      + [開發工具](fusion/12-exercises/devtool.md)
 
 + Workfront Proof {#workfront-proof}
    + [瞭解校訂的好處](workfront-proof/benefits-of-proofing-in-workfront.md)

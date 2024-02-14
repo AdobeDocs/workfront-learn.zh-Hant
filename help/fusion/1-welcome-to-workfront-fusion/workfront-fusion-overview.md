@@ -8,21 +8,22 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+recommendations: noDisplay,noCatalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '413'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '404'
+ht-degree: 74%
 
 ---
 
 # Workfront Fusion 培訓概觀
 
-每個 Workfront Fusion 區段都包含多個教學課程，每個教學課程都會介紹進入下一個教學課程之前需要瞭解的概念。操作示範練習可幫助您掌握大部分的概念。
+每個Workfront Fusion區段都包含多個教學課程，每個教學課程都會介紹進入下一個教學課程之前需要瞭解的概念。 操作示範練習可幫助您掌握大部分的概念。
 
 相關影片說明如何完成每一個操作示範練習，而練習結果通常是產生新的 Workfront Fusion 情境。接著您可以在自己的 Workfront Fusion 環境中完成練習，為自己新增更多情境。
 
-在某些教學課程中，您將從頭開始建立新的情境。在其他教學課程中，您會從複製之前建立的情境開始。
+在某些教學課程中，您會從頭開始建立新情境。 在其他教學課程中，您會從複製之前建立的情境開始。
 
 >[!IMPORTANT]
 >
@@ -38,7 +39,7 @@ ht-degree: 100%
 
 ### 存取 Workfront Fusion 進行練習
 
-Workfront 不提供 Workfront Fusion 產品試用。在完成教學課程之後若需要練習，可向貴組織的 Workfront Fusion 管理員請求提供 Workfront Fusion 存取權。
+Workfront 不提供 Workfront Fusion 產品試用。若要在完成教學課程時進行練習，請向您組織的Workfront Fusion管理員請求對Workfront Fusion的存取權。
 
 ### 完成操作示範練習的逐步指示
 
@@ -48,11 +49,11 @@ Workfront 不提供 Workfront Fusion 產品試用。在完成教學課程之後�
 
 有些操作示範練習之後會提供實作練習和挑戰。
 
-有數種不同的方法可以找到實作練習的解答。其目的在於挑戰您去嘗試完成一項情境目標，但不提供執行步驟或是「正確答案」，因為這是您在貴公司建立情境時必須做到的事。
+有數種不同的方法可以找到實作練習的解答。其目的是要挑戰您在不必遵循步驟或「正確答案」的情況下嘗試完成案例目標，因為這是您在公司建立案例時需要做的事。
 
 實作練習與操作示範活動相關。
 
-那些挑戰是為了想要針對已學習的其他概念進行某些嘗試的人而設計。
+挑戰在於那些想要嘗試與他們所學到的其他概念相關的東西的人。
 
 ### 如何取得協助
 

@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '878'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '853'
 ht-degree: 100%
 
 ---
@@ -37,9 +38,6 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 若您無法存取自己的超級英雄語彙基元，您可以使用這個共用語彙基元：10110256647253588。關於呼叫超級英雄 API 的次數，請多考慮他人的權益，讓這個共用的語彙基元可以供所有人使用。
 
->[!TIP]
->
->如需完成操作示範的逐步指示，請至[路由器操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=zh-Hant)練習。
 
 
 ## 在對應面板中搜尋項目

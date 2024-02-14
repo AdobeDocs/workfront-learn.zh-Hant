@@ -1,5 +1,5 @@
 ---
-title: 資料結構
+title: 資料結構練習
 description: 將資料從來源檔案轉換成目標檔案。(應該介於 60 到 160 個字元之間，但有 58 個字元)
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11054
 thumbnail: KT11054.png
+recommendations: noDisplay,noCatalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '1048'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '1079'
+ht-degree: 99%
 
 ---
 
-# 資料結構
+# 資料結構練習
 
 將資料從來源檔案轉換成目標檔案。
 

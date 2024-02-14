@@ -1,6 +1,6 @@
 ---
-title: 存取之前版本
-description: 瞭解如何返回前一版本的情境。(應該介於 60 到 160 個字元之間，但有 56 個字元)
+title: 存取先前版本練習
+description: 瞭解如何返回舊版的 [!UICONTROL Fusion] 情境。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11041
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 88%
 
 ---
 
-# 存取之前版本
+# 存取先前版本練習
 
 瞭解如何返回前一版本的情境。
 

@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '296'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '264'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on)
 
->[!TIP]
->
->有關完成操作示範的逐步說明，請前往[超越基本對應操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=zh-Hant)練習。
 
 ## 換您來操作
 

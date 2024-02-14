@@ -1,6 +1,6 @@
 ---
 title: 存取之前版本操作示範
-description: 探索在  [!DNL Adobe Workfront Fusion] 中如何在變更情境設定並儲存之後還原成之前版本。
+description: 探索在您變更情境並將其儲存在中後，如何還原舊版 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '295'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 觀看這段影片，您將：
 
-* 探索在您變更情境設定並儲存數次之後如何還原成之前的版本。
+* 探索在您變更情境並儲存多次後，如何還原舊版。
 
 ## 存取之前版本操作示範
 
@@ -33,9 +34,6 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 >
 >儲存您的情境之後，在三圓點選單下方即提供新版本，方便您未來存取使用。之前儲存的情境版本只能保留 60 天。若您基於稽核目的必須存取超過 60 天的之前版本，Workfront 建議儲存情境的藍圖並封存至議定的位置。
 
->[!TIP]
->
->如需完成操作示範的逐步指示，請前往[存取之前版本操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=zh-Hant)練習。
 
 ## 新增到您的術語
 

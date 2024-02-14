@@ -1,6 +1,6 @@
 ---
-title: 切換一下
-description: 瞭解什麼是交換器功能和交換器模組，以及何時使用交換器功能與交換器模組 [!DNL Adobe Workfront Fusion].
+title: 切換
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 中什麼是切換函數和切換模組，以及何時使用切換函數或切換模組。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,19 +9,20 @@ role: User
 level: Beginner
 jira: KT-9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 切換一下
+# 切換
 
-在本影片中，您將瞭解：
+觀看這段影片，您將會瞭解：
 
-* 什麼是交換器功能與模組，以及它們之間的差異
-* 何時使用交換器功能與交換器模組
+* 什麼是切換函數和切換模組以及其中差異
+* 何時使用切換函數與切換模組
 
 >[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on)

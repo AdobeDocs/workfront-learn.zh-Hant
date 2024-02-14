@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '325'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '316'
+ht-degree: 98%
 
 ---
 
@@ -40,7 +41,7 @@ Workfront Fusion 測試應著重於檢查已連接的軟體平台之間的輸入
 請牢記這些準則，以確保您的測試保持一致並擷取所有基本要素。
 
 * 根據需求確定需要哪些測試資料。通常，根據明確定義和記錄在案的要求進行的測試最有效。
-* 規劃並溝通如何產生測試深度、廣度、複雜性和負載所需的資料。避免只進行「快樂路徑」的測試。考慮使用者可能與自動化功能互動的所有方式，以及將會處理的各式各樣資料。
+* 規劃並溝通如何產生測試深度、廣度、複雜性和負載所需的資料。避免只進行「快樂路徑」測試。 考慮使用者可能與自動化功能互動的所有方式，以及將會處理的各式各樣資料。
 * 考慮連接系統之間所需的輸入和輸出資料。驗證這些系統而不僅是在 Workfront Fusion 中的輸入和輸出。
 
 在實施 Workfront Fusion 的整個生命週期中優先執行測試。設計時，考慮如何測試設計決策是否符合要求。思考非預期的資料可能如何造成錯誤，並在建置時新增相關的錯誤處理方法。計劃在持續測試的過程中不斷反覆執行可操作的雛型。

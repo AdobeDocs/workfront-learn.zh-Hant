@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '169'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 91%
 
 ---
 
 # Workfront Fusion 情境最佳化
 
-什麼是「情境最佳化」以及您可以如何將情境最佳化？
+什麼是「情境最佳化」，以及您可以如何最佳化情境？
 
 情境最佳化是一項需要時間和精力來培養且經過實踐獲得的技能。您第一次嘗試建立一個情境來取得業務成果，不應該成為您的最後一次。情境從第一天開始便要疊代執行，直到您發佈整合功能為止。即使在發佈之後，在情境的整個生命期間也要進行檢閱與更新，才能配合業務與行為的變化。
 

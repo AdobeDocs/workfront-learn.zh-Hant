@@ -1,6 +1,6 @@
 ---
-title: 篩選逐步解說
-description: 瞭解如何在模組中的兩個模組之間新增篩選器 [!DNL Adobe Workfront Fusion].
+title: 篩選器操作示範
+description: 瞭解在  [!DNL Adobe Workfront Fusion] 的模組中，如何在兩個模組之間新增篩選器。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,46 +9,44 @@ role: User
 level: Beginner
 jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
-# 篩選逐步解說
+# 篩選器操作示範
 
-使用您先前建立的「超越基本對應」逐步解說練習，在模組中的兩個模組之間新增篩選器，以僅建立專案清單中具有「紅色」專案顏色的專案。
+使用您之前建立的「超越基本對應」操作示範，在模組中於兩個模組之間新增篩選器，僅建立專案清單中專案顏色為「紅色」的專案。
 
-![Fusion藍本的影像](assets/understand-the-basics-2.png)
+![影像顯示 Fusion 情境](assets/understand-the-basics-2.png)
 
-## 篩選逐步解說
+## 篩選器操作示範
 
-Workfront建議您先觀看練習逐步解說影片，然後再嘗試在您自己的環境中重新建立練習。
+Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 在模組中的兩個模組之間新增篩選器
+* 在模組中兩個模組之間新增篩選器
 
 >[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on)
 
->[!TIP]
->
->如需完成逐步解說的相關指示，請前往 [篩選逐步解說](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) 練習。
 
-## 輪到您
+## 換您來操作
 
 >[!NOTE]
 >
->練習和挑戰是選用性的，不需要完成Fusion訓練。
+>您可以選擇實作練習與挑戰，但這不是完成 Fusion 培訓的必要條件。
 
-此練習練習是以您在逐步解說中所學知識為基礎，但並未提供解決方案。
+本實作練習以您在操作示範中學到的知識為基礎，但未提供解決方案。
 
-修改您在篩選逐步說明期間建立的篩選，以僅允許「黃色」和信賴評等小於100的專案，或在專案名稱中包含「階段」一詞，且計劃開始日期為2021年。 將篩選器命名為「練習篩選器」。
+在篩選器操作示範期間修改您所建立的篩選器，僅允許「黃色」且信賴等級小於 100，或是在專案名稱中有「phase」而且規劃開始日期在 2021 年的專案。將篩選器命名為「Practice Exercise Filter」(練習操作篩選器)。
 
-**挑戰：** 請嘗試建立僅允許具有平均信賴評等的專案通過的篩選器。 需要提示嗎？ 檢視數學公式。
+**挑戰：**&#x200B;建立一個篩選器，僅允許信賴等級為偶數的專案通過。需要提示嗎？研究數學公式。
 
-## 想要進一步瞭解嗎？ 我們建議以下事項：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)

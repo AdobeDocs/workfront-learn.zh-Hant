@@ -1,6 +1,6 @@
 ---
-title: 設定/取得變數逐步解說
-description: 瞭解如何在Workfront中查詢專案的相關資訊，並傳送包含相關資訊的電子郵件 [!DNL Adobe Workfront Fusion].
+title: Set/Get 變數操作示範
+description: 瞭解如何在 Workfront 中尋找有關專案的資訊，並在以下  [!DNL Adobe Workfront Fusion] 中傳送包含相關資訊的電子郵件。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,42 +9,40 @@ role: User
 level: Beginner
 jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 100%
 
 ---
 
-# 設定/取得變數逐步解說
+# Set/Get 變數操作示範
 
-在Workfront中查詢專案的相關資訊，並傳送包含相關資訊的電子郵件。
+在 Workfront 中尋找有關專案的資訊並傳送包含相關資訊的電子郵件。
 
-![Fusion藍本的影像](assets/universal-connectors-and-routing-8.png)
+![影像顯示 Fusion 情境](assets/universal-connectors-and-routing-8.png)
 
-## 取得/設定變數逐步解說
+## Get/Set 變數操作示範
 
-Workfront建議您先觀看練習逐步解說影片，然後再嘗試在您自己的環境中重新建立練習。
+Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on)
 
->[!TIP]
->
->如需完成逐步解說的相關指示，請前往 [設定/取得變數逐步解說](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) 練習。
 
-## 輪到您
+## 換您來操作
 
 >[!NOTE]
 >
->練習和挑戰是選用性的，不需要完成Fusion訓練。
+>您可以選擇實作練習與挑戰，但這不是完成 Fusion 培訓的必要條件。
 
-此練習練習是以您在逐步解說中所學知識為基礎，但並未提供解決方案。
+本實作練習以您在操作示範中學到的知識為基礎，但未提供解決方案。
 
-仿製您在本逐步說明中建立的「在路由路徑之間共用變數」情境。 以電子郵件傳送您撰寫的訊息給專案所有者和專案贊助者。 您也要在訊息中包含專案狀況。 （目前，條件可以顯示為兩個字母的金鑰。）
+原地複製您在此操作示範中建立的「在路由路徑之間共用變數」情境。把您撰寫的訊息用電子郵件發送給專案所有者和專案贊助者。您也想在訊息中說明專案的狀況。(在這個階段，狀況只顯示兩個字母並沒有問題。)
 
-**挑戰：** 將您的情境排程為每週星期一上午8點傳送此「電子郵件」。
+**挑戰：**&#x200B;安排您的情境在每週一上午 8 點發送此「電子郵件」。
 
-## 想要進一步瞭解嗎？ 我們建議以下事項：
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion檔案](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)

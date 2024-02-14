@@ -11,9 +11,9 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 7cd5e383310f48660955b9e953a7baf13530b105
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
@@ -33,9 +33,6 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 * 建立基本情境
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
-
-如需完成操作示範的逐步指示，請前往[初始情境設計操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=zh-Hant)練習。
-
 
 
 ## 想要瞭解更多嗎？我們建議參閱以下資訊：

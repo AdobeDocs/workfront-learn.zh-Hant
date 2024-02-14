@@ -1,5 +1,5 @@
 ---
-title: 使用 JSON
+title: 使用JSON練習
 description: 瞭解如何在情境中建立和剖析 JSON 以支援您的設計需求。
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11056
 thumbnail: KT11056.png
+recommendations: noDisplay,noCatalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '485'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '496'
+ht-degree: 98%
 
 ---
 
-# 使用 JSON
+# 使用JSON練習
 
 瞭解如何在情境中建立和剖析 JSON 以支援您的設計需求。
 
