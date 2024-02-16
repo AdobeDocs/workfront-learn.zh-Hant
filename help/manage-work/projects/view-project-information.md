@@ -1,6 +1,6 @@
 ---
 title: 檢視專案資訊
-description: 瞭解篩選器、檢視和群組如何讓您輕鬆檢視專案資訊，以協助您管理專案。
+description: 瞭解篩選器、視圖和分組如何讓專案資料變得更容易檢視，協助您管理專案。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,32 +11,32 @@ level: Beginner
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '205'
+ht-degree: 100%
 
 ---
 
 # 檢視專案資訊
 
-無論您是檢視主要 [!UICONTROL 專案] 在頁面或個別專案中，微調您的清單以檢視您需要的資訊 [!UICONTROL 篩選器]， [!UICONTROL 檢視]、和 [!UICONTROL 群組].
+無論您是檢視主要的「[!UICONTROL 專案]」頁面或是個別專案，請利用「[!UICONTROL 篩選器]」、「[!UICONTROL 視圖]」和「[!UICONTROL 分組]」來仔細調整您的清單，以便看到所需的資訊。
 
-您可以透過 [!UICONTROL 專案] 頁面。
+在「[!UICONTROL 專案]」頁面可以從高層次的角度瞭解所有專案目前的進展。
 
 ![顯示篩選器的專案頁面](assets/planner-fund-project-page-fvg-copy.png)
 
-使用 [!UICONTROL 篩選器] 以根據特定條件縮小清單。 然後選取 [!UICONTROL 檢視] 以顯示與專案相關的資訊欄。 最後，選取 [!UICONTROL 分組] 以符合您需求的方式組織專案。
+利用「[!UICONTROL 篩選器]」，根據特定條件來縮小清單的範圍。然後選取一種「[!UICONTROL 視圖]」來顯示與專案相關的欄的資訊。最後，選取一種「[!UICONTROL 分組]」，使用您認為合理的方式來整理專案。
 
-當您在 [!UICONTROL 任務] 專案的區段，利用 [!UICONTROL 篩選器]， [!UICONTROL 檢視]、和 [!UICONTROL 群組] 再次協助您監視正在完成的工作。 由於您檢視的是任務而非專案，因此您有一組完全不同的選擇。
+在專案的「[!UICONTROL 任務]」區段時，請再次使用「[!UICONTROL 篩選器]」、「[!UICONTROL 視圖]」和「[!UICONTROL 分組]」來監視工作情況。因為您關注的是任務而不是專案，所以您有完全不同的選項。
 
-![專案任務清單，檢視顯示](assets/planner-fund-task-list-fvg.png)
+![顯示視圖的專案任務清單](assets/planner-fund-task-list-fvg.png)
 
-許多 [!DNL Workfront] 客戶會建立自訂檢視，其中顯示自訂表格資訊以及與正在完成的工作相關的其他欄位。
+許多 [!DNL Workfront] 客戶建立自訂視圖，揭露自訂表單資料以及與工作相關的其他欄位。
 
-## 瞭解如何建立自訂篩選器、檢視和群組
+## 瞭解如何建立自訂篩選器、視圖和分組
 
-[建立基本篩選器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+[建立基本篩選器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=zh-Hant)
 
-[建立基本檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+[建立基本視圖](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hant)
 
-[建立基本分組](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
+[建立基本分組](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=zh-Hant)
