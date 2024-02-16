@@ -1,6 +1,6 @@
 ---
-title: 瞭解 [!UICONTROL 工作量]
-description: 瞭解如何使用 [!UICONTROL 工作量] 以取得您專案時間表中的計畫時數快速估算。
+title: 瞭解[!UICONTROL 工作投入]
+description: 瞭解如何使用「[!UICONTROL 工作投入]」快速估算專案時間表中的規劃時數。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,22 +11,22 @@ level: Beginner
 jira: KT-10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '175'
+ht-degree: 100%
 
 ---
 
-# 瞭解 [!UICONTROL 工作量]
+# 瞭解[!UICONTROL 工作投入]
 
-Workfront瞭解有些組織在建立專案時不會使用計畫時數。 不過，若要充分發揮Workfront資源管理工具的好處，並更清楚瞭解指派給使用者的工作量，專案中的計畫時數是必要的。
+Workfront 知道有些組織在建立專案時並未使用規劃時數。然而，為了讓 Workfront 資源管理工具發揮最大效益，並且更加瞭解使用者被指派多少工作量，規劃時數是專案不可或缺的一部分。
 
-秉持上述兩個概念，Workfront建立 [!UICONTROL 工作量] 選項。
+考慮到這兩個概念，Workfront 建立「[!UICONTROL 工作投入]」選項。
 
-您可以使用「 」，而不是為專案中的每個任務輸入特定時數 [!UICONTROL 工作量] 指示任務是否為小量、中量或大量。 Workfront會根據專案內的設定，自動估計使用這些任務的計畫時數。
+您不需要為專案中每個任務輸入特定時數，反而可以利用「[!UICONTROL 工作投入]」來表示任務是小型、中型或大型的工作。Workfront 根據專案內的設定估算這些任務的規劃時數。
 
-如此一來，如果您打算使用任何Workfront的資源管理工具，便已填入您需要的預估值，使用者需提前知道後續工作的量。
+這樣一來，如果您計劃使用 Workfront 的任何資源管理工具，所需要的估算值均已填入，而使用者能夠注意到即將到來的工作量。
 
-![使用的專案任務清單 [!UICONTROL 工作量] 欄](assets/planner-fund-work-effort.png)
+![具有「[!UICONTROL 工作投入]」欄的專案任務清單](assets/planner-fund-work-effort.png)
 
-如需詳細資訊，請參閱 [!UICONTROL 工作量]，請參閱 [工作投入概觀](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) 文章。
+如需「[!UICONTROL 工作投入]」的更多資訊，請參閱文章「[工作投入概觀](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=zh-Hant)」。
