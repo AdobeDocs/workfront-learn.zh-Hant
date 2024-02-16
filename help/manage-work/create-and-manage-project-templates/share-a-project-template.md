@@ -1,6 +1,6 @@
 ---
 title: 共用專案範本
-description: 瞭解如何共用專案範本和從範本建立的專案。
+description: 瞭解如何共用專案範本和使用範本建立的專案。
 activity: use
 feature: Work Management
 thumbnail: 335211.jpeg
@@ -12,15 +12,15 @@ jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 共用專案範本
 
-您將學習如何：
+您將瞭解如何：
 
 * 與其他使用者共用範本
 * 共用使用範本建立的專案
