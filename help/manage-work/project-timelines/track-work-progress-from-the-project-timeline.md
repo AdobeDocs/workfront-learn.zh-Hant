@@ -1,6 +1,6 @@
 ---
-title: 從專案時間表追蹤進度
-description: 瞭解如何從中的專案時間表追蹤工作進度 [!DNL  Workfront] 使用完成百分比、狀態、指派或限制。
+title: 根據專案時間表追蹤進度
+description: 瞭解如何使用  [!DNL  Workfront]  的專案時間表藉由完成百分比、狀態、指派或限制來追蹤工作進度。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,47 +12,47 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '412'
+ht-degree: 100%
 
 ---
 
-# 從專案時間表追蹤進度
+# 根據專案時間表追蹤進度
 
-請確定任務進度如預期般符合專案截止日期。 當您掃描時 [!UICONTROL 任務] 清單，中有數個功能 [!DNL  Workfront] 協助您監視工作的進度和狀態。
+確保任務保持應有的進度，以便在專案截止期限前完成。當您瀏覽「[!UICONTROL 任務]」清單時，[!DNL  Workfront] 中有若干功能可協助您監視工作的進度和狀態。
 
 ## 完成百分比
 
-每個工作任務的完成百分比有時用於衡量工作的進度。 請務必注意……此欄位必須手動調整，因為這是被指定者對進度預估值。
+有時候會利用每項工作任務的完成百分比來衡量工作進展。請注意...這個欄位必須手動調整，因為它是受指派人自行預估的進度。
 
 >[!TIP]
 >
->雖然需要手動更新工作任務的完成百分比，但Workfront會根據完成百分比以及每個子任務的期間或計畫時數，計算父任務的完成百分比。 這表示如果您將大型任務分成較小的子任務，將獲得更好的完成百分比準確性。
+>儘管工作任務的完成百分比需要手動更新，但父任務的完成百分比是由 Workfront 根據每個子任務的完成百分比以及期間或計劃小時數來計算的。這意味著，如果您將大型任務分解為較小的子任務，您會獲得更準確的完成百分比。
 
 
-![專案任務清單顯示 [!UICONTROL 完成百分比] 欄](assets/planner-fund-task-percent-complete.png)
+![專案任務清單顯示「[!UICONTROL 完成百分比]」欄](assets/planner-fund-task-percent-complete.png)
 
-完成百分比自動變更時有三次：
+完成百分比在三種情況下會自動變更：
 
-* 當任務 [!UICONTROL 狀態] 設為「完成」，完成百分比會變更為100。
-* 如果任務 [!UICONTROL 狀態] 回覆為新值，完成百分比會重設為0。
-* 在父系任務中，當子系任務的完成百分比變更時。
+* 當任務「[!UICONTROL 狀態]」設定為「完成」，完成百分比變更為「100」。
+* 如果任務「[!UICONTROL 狀態]」還原為「新增」，則完成百分比重設為「0」。
+* 在父任務中，當子任務的完成百分比變更時。
 
 ## 狀態
 
-包含 [!UICONTROL 狀態] 欄位 [!UICONTROL 檢視] 以快速檢視哪些工作已開始、正在進行中，以及已完成中。 您甚至可以在「 」中設定條件式格式 [!UICONTROL 檢視] 為每個狀態著色，讓資訊更容易解密。
+在「[!UICONTROL 視圖]」中加入「[!UICONTROL 狀態]」欄，可快速查看哪項任務已開始、哪項進行中以及哪一項已完成。您甚至可以在「[!UICONTROL 視圖]」中使用條件式格式化為每個狀態指定一種顏色，讓資訊更容易解讀。
 
 ## 任務指派
 
-當您稽核專案時，請稽核任務指派。 可能因為沒有指派任何人員處理工作而造成工作落後。 或可能受指派人沒有完成工作的適當技能組。 新增更多人員至任務或重新指派任務以確保完成工作。
+當您檢閱專案時，請檢閱任務分配。可能因為未指派任何人執行任務所以進度落後。或者，受指派的人員可能不具備完成工作所需的適當技能。增加更多人來處理任務，或是重新指派任務以確保完成工作。
 
 ## 任務限制
 
-有時任務限制會變更，而您並未實現。 限制會影響您的時間表行為，因此您應確保已設定好您希望使用的限制。
+有時候任務限制有所變更但您卻未發現。限制會影響時間表的運作，所以您應確定限制的設定是否符合您的要求。
 
-![顯示任務限制欄的專案任務清單](assets/planner-fund-task-constraint.png)
+![專案任務清單顯示任務限制欄](assets/planner-fund-task-constraint.png)
 
-建立自訂檢視，其中包含 [!UICONTROL 任務限制] 欄，以在您的工作清單上檢視此資訊。 如果您從開始日期開始規劃專案，希望任務具有 [!UICONTROL 儘快] ([!UICONTROL ASAP])條件約束。
+建立一個包含「[!UICONTROL 任務限制]」欄的自訂視圖，便能在任務清單中看到這項資訊。若您從開始日期進行專案規劃，則您想要設定「[!UICONTROL 盡可能最早] ([!UICONTROL ASAP])」的任務限制。
 
-如需有關任務限制的詳細資訊，請參閱 [瞭解並管理期間型別和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+有關任務限制的更多資訊，請參閱「[了解和管理期間類型和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)」。
