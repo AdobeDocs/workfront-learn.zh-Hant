@@ -1,7 +1,7 @@
 ---
-title: 如何在中尋找工作指派 [!UICONTROL 首頁]
-description: 瞭解如何在中尋找指派給您的近期和現有工作 [!UICONTROL  ]. 然後檢閱指派資訊。
-feature: Work Management
+title: 如何在[!UICONTROL 首頁]中尋找工作指派
+description: 瞭解如何在 [!UICONTROL  ] 尋找指派給您的即將到來和現有的工作。接著檢閱指派資料。
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 63%
 
 ---
 
-# 尋找您的指派工作 [!DNL Workfront] [!UICONTROL 首頁]
+# 在 [!DNL Workfront] [!UICONTROL 首頁]中尋找指派給您的工作
 
 
 
@@ -26,9 +26,9 @@ ht-degree: 0%
 >Workfront目前提供兩種首頁體驗。 如果您有新的首頁體驗，請檢視 [移除、新增及重新排列首頁中的Widget](/help/workfront-home/remove-add-and-rearrange-widgets.md) 教學課程。
 
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
-* 尋找傳入和現有的工作指派
+* 尋找即將到來和現有的工作指派
 * 檢閱指派資訊
 
 >[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)

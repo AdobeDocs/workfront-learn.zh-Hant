@@ -2,7 +2,7 @@
 title: 更新請求
 description: 瞭解如何搜尋您已提交的請求並在  [!DNL  Workfront] 中更新這些請求。
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -11,8 +11,8 @@ thumbnail: 336091.png
 jira: KT-8807
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
 

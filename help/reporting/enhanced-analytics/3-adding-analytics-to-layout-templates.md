@@ -2,7 +2,7 @@
 title: 將分析新增至版面配置範本
 description: 瞭解系統與群組管理員如何授予「分析」的存取權。
 activity: use
-feature: Reports and Dashboards
+feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
 type: Tutorial
 role: Admin
@@ -12,7 +12,7 @@ jira: KT-8726
 recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 11%

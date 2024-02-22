@@ -2,7 +2,7 @@
 title: 瞭解  [!DNL Workfront Goals]  如何運作
 description: 瞭解如何在規劃階段清楚說明「內容」與「原因」、範例目標和影響範圍。
 activity: use
-feature: Workfront Goals
+feature: Workfront Goals,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ team: Technical Marketing
 jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '244'
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
+source-wordcount: '245'
 ht-degree: 100%
 
 ---

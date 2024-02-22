@@ -1,8 +1,8 @@
 ---
 title: 什麼是 [!UICONTROL Brand Connect]？
-description: 瞭解將涵蓋的內容 [!UICONTROL WORKFRONT DAM] 管理員，第3部分Brand Connect自訂課程。
+description: 取得「 」的簡介 [!UICONTROL Brand Connect].
 activity: use
-feature: Digital Content and Documents
+feature: Digital Content and Documents,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,26 +10,26 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '140'
+ht-degree: 73%
 
 ---
 
 # 什麼是 [!UICONTROL Brand Connect]？
 
-[!UICONTROL Brand Connect] 是的一部分 [!UICONTROL WORKFRONT DAM] 一般使用者可存取以尋找及下載已核准公司資產的許可權。 這類使用者通常是內部使用者，已要求資產或正在尋找公司標誌之類的專案。
+[!UICONTROL Brand Connect] 是 [!UICONTROL Workfront DAM] 的一部分，讓一般使用者可存取並尋找和下載已核准的公司資產。這些使用者通常是內部使用者，已經請求使用資產或正在搜尋例如公司標誌一類東西。
 
-[!UICONTROL Brand Connect] 使用者會獲指派 [!UICONTROL Brand Portal] 角色型別和 [!UICONTROL Brand Portal] 群組。 他們只會看到發佈至的資料夾和資產 [!UICONTROL Brand Connect] 且其群組擁有存取許可權。 瞭解如何在Workfront DAM Administrator：系統設定中設定使用者。
+[!UICONTROL Brand Connect] 使用者被指派為 [!UICONTROL Brand Portal] 角色類型，而且是 [!UICONTROL Brand Portal] 群組的成員。他們只會看到發佈到 [!UICONTROL Brand Connect] 的資料夾和資產，而且他們的群組擁有存取權限。在「Workfront DAM 管理員：系統設定」中瞭解如何設定使用者。
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
 自訂您組織的外觀 [!UICONTROL Brand Portal] 協助使用者快速找到所需專案，並確保輕鬆取得最新資產。
 
-在本影片中，您將：
+觀看這段影片，您將：
 
-* 取得 [!UICONTROL Brand Connect] 課程
+* 取得「 」的簡介 [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 
