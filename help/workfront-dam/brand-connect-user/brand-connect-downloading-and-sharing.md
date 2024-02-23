@@ -1,5 +1,5 @@
 ---
-title: 瞭解如何下載和共用 Lightbox
+title: 以使用者身分了解下載與共用
 description: 瞭解如何在 [!UICONTROL Workfront DAM] 的 Brand Connect 中下載和共用 Lightbox 和資產。
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '53'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
 
-# Brand Connect：如何下載和共用 Lightbox
+# 以使用者身分了解下載與共用
 
 觀看這段影片，您將瞭解如何：
 

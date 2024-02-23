@@ -1,5 +1,5 @@
 ---
-title: 修改 Brand Connect 中的通知設定
+title: 瞭解Brand Connect通知
 description: 瞭解在 [!UICONTROL Workfront DAM] 的 Brand Connect 中如何檢視應用程式內通知、修改通知設定以及建立通訊錄。
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8988
 exl-id: a7f79d27-c9e1-4a27-9757-a3bf6299b794
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '49'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '48'
+ht-degree: 83%
 
 ---
 
-# Brand Connect：通知
+# 瞭解Brand Connect通知
 
 觀看這段影片，您將瞭解如何：
 

@@ -10,10 +10,10 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
-source-wordcount: '440'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '446'
+ht-degree: 91%
 
 ---
 
@@ -39,7 +39,13 @@ ht-degree: 100%
 * 熟悉您要在報告中加入的物件。
 * 熟悉如何使用自訂表單，特別是計算自訂欄位。
 * 「[!UICONTROL 計劃]」授權類型，並有建立報告和啟用篩選器的權限。
-* 您應該已經完成「[[!UICONTROL 基本報告元素]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)」課程、「[[!UICONTROL 建立自訂報告與儀表板]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)」課程和「[[!UICONTROL 建立中繼篩選器]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)」課程。
+* 您應該參加這些課程：
+   * [[!UICONTROL 基本報告元素]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
+   * [[!UICONTROL 建立自訂報告和儀表板]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
+   * [[!UICONTROL 建立中繼篩選器]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+* 您也應該參加這些教學課程：
+   * [[!UICONTROL 瞭解檢視的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)
+   * [[!UICONTROL 瞭解分組的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hant)
 
 ## 目標對象
 

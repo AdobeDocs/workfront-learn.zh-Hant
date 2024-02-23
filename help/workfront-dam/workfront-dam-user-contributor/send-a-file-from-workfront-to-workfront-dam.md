@@ -1,5 +1,5 @@
 ---
-title: 從 Workfront 傳送一個檔案到 [!UICONTROL Workfront DAM]
+title: 以貢獻者身分傳送檔案
 description: 瞭解如何傳送  [!DNL Workfront]  中已完成的檔案到 [!UICONTROL Workfront DAM]。
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '179'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '176'
 ht-degree: 100%
 
 ---
 
-# 從 [!DNL Workfront] 傳送一個檔案到 [!UICONTROL Workfront DAM]
+# 以貢獻者身分傳送檔案
 
 當您在 [!DNL Workfront] 中有一個已完成的檔案時，只需點選數次即可將檔案傳送至 [!UICONTROL Workfront DAM]。
 

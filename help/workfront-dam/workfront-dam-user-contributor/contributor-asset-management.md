@@ -1,5 +1,5 @@
 ---
-title: 瞭解如何在 [!UICONTROL Workfront DAM] 中管理資產
+title: 以貢獻者身分了解資產管理
 description: 瞭解如何在 [!UICONTROL Workfront DAM] 中管理資產以改善工作流程。
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '459'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '460'
+ht-degree: 88%
 
 ---
 
-# 貢獻者：資產管理
+# 以貢獻者身分了解資產管理
 
 觀看這段影片，您將瞭解如何：
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 當與現有檔案同名的檔案上傳到同一資料夾時，系統允許進行自動資產版本控制。請諮詢您的系統管理員確認這項功能是否開啟。
 
-如果已開啟自動版本控制，唯有資產載入到保存原始資產的資料夾時，才會進行版本控制。兩個資源必須具有相同的檔名。若是資產載入到不同的資料夾，便會成為新檔案。如果未開啟版本控制，無論檔案放在哪個資料夾，與現有檔案同名的檔案將視為新檔案上傳。這可能造成同一資料夾中出現兩個同名的資產。
+如果開啟自動版本控制，則只有當資產載入到儲存原始資產的資料夾中時，才會進行版本設定。 兩個資源必須具有相同的檔名。若是資產載入到不同的資料夾，便會成為新檔案。如果未開啟版本控制，則與現有檔案同名的檔案會上傳為新檔案，無論該檔案放在哪個資料夾中。 這可能造成同一資料夾中出現兩個同名的資產。
 
 您也可以手動上傳特定資產的版本。按一下資產上的編輯圖示，然後選取「**[!UICONTROL 上傳新版本]**」。
 
