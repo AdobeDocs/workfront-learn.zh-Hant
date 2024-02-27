@@ -1,6 +1,6 @@
 ---
-title: 瞭解資源產能圖表
-description: 瞭解中的資源容量圖表 [!UICONTROL 增強型分析] 顯示在篩選時段內指派給主團隊的計畫時數與該團隊的總可用時數比較。
+title: 了解資源產能圖表
+description: 了解[!UICONTROL 增強型分析]中的資源產能圖表如何顯示在篩選的時段內指派給主團隊的規劃時數與團隊的總可用時數的比較。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,13 +12,13 @@ jira: KT-10046
 recommendations: noDisplay,noCatalog
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '406'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# 瞭解資源產能圖表
+# 了解資源產能圖表
 
 資源產能圖表顯示在篩選的時段內指派給主團隊的規劃時數與團隊的總可用時數的比較。
 
