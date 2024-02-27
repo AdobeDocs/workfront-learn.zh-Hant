@@ -1,5 +1,5 @@
 ---
-title: 繞線陣列練習
+title: 路由模式練習
 description: 強化路由和後援路徑的概念，但不需要實際處理任何其他 API。
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ thumbnail: KT11044.png
 recommendations: noDisplay,noCatalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '361'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 繞線陣列練習
+# 路由模式練習
 
 強化路由和後援路徑的概念，但不需要實際處理任何其他 API。
 
 ## 練習概觀
 
-使用「Set 變數」模組傳送一個數字通過多條路徑，瞭解路由時篩選器和後援機制的運作。
+使用「Set 變數」模組傳送一個數字通過多條路徑，了解路由時篩選器和後援機制的運作。
 
 ![路由模式影像 1](../12-exercises/assets/routing-patterns-walkthrough-1.png)
 
