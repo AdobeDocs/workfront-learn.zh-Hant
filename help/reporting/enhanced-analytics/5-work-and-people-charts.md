@@ -1,5 +1,5 @@
 ---
-title: 瞭解工作和人員圖表
+title: 了解工作和人員圖表
 description: 在[!UICONTROL 增強型分析]中，「工作」圖表從專案和任務的角度顯示您的活動，而「人員」圖表則從主團隊的角度顯示您的活動。
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# 瞭解工作和人員圖表
+# 了解工作和人員圖表
 
 「工作」圖表從專案和任務的角度顯示您的活動，而「人員」圖表則從主團隊的角度顯示您的活動。
 
@@ -28,7 +28,7 @@ ht-degree: 94%
 
 ![影像顯示尋找[!UICONTROL 分析]功能，其位於 [!DNL Workfront Classic]](assets/section-1-1.png)
 
-當您前往工作圖時，預設會看到：
+當您前往「工作」圖表時，依預設您會看到：
 
 1. KPI 統計
 1. 飛行計畫
