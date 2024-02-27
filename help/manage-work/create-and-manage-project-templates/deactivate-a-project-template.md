@@ -1,6 +1,6 @@
 ---
 title: 停用專案範本
-description: 瞭解如何共用專案範本，並授與啟動和停用專案範本的許可權，以及如何啟動和停用專案範本。
+description: 了解如何共用專案範本來授予啟用和停用範本的權限，以及如何啟用和停用專案範本。
 activity: use
 feature: Work Management
 thumbnail: 3426779.jpeg
@@ -12,21 +12,21 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 source-git-commit: 6800bbaa25945647522f42e774fa6e53b6f7cafd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 # 停用專案範本
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
-* 如何共用專案範本，以授予啟動和停用專案的許可權。
+* 如何共用專案範本來授予啟用和停用範本的權限。
 * 如何啟用和停用專案範本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on)
 
-## 瞭解如何建立自訂檢視，以檢視和編輯專案範本的使用狀態
+## 了解如何建立自訂視圖，以查看和編輯專案範本的進行中狀態
 
-若要建立具有作用中狀態列的專案範本檢視，請參閱 **專案範本作用中狀態檢視** 中的活動 [建立基本檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hant).
+若要建立具有進行中狀態欄的專案範本視圖，請參閱「[建立基本視圖](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hant)」中的「**建立範本進行中狀態視圖**」活動。
