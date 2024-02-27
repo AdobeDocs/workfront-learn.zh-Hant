@@ -1,6 +1,6 @@
 ---
-title: 使用JSON練習
-description: 瞭解如何在情境中建立和剖析 JSON 以支援您的設計需求。
+title: 使用 JSON 練習
+description: 了解如何在情境中建立和剖析 JSON 以支援您的設計需求。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT11056.png
 recommendations: noDisplay,noCatalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 使用JSON練習
+# 使用 JSON 練習
 
-瞭解如何在情境中建立和剖析 JSON 以支援您的設計需求。
+了解如何在情境中建立和剖析 JSON 以支援您的設計需求。
 
 ## 練習概觀
 
