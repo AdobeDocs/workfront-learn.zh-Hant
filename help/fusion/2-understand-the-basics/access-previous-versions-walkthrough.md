@@ -1,6 +1,6 @@
 ---
 title: 存取之前版本操作示範
-description: 探索在您變更情境並將其儲存在中後，如何還原舊版 [!DNL Adobe Workfront Fusion].
+description: 探索在  [!DNL Adobe Workfront Fusion] 中如何在變更情境設定並儲存之後還原成之前版本。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,9 +12,9 @@ exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 86%
 
 觀看這段影片，您將：
 
-* 探索在您變更情境並儲存多次後，如何還原舊版。
+* 探索在您已經變更情境設定並且儲存數次之後，如何還原前一版本的情境。
 
 ## 存取之前版本操作示範
 
@@ -55,6 +55,6 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 **搜尋** — 用於搜尋零個、一個或多個記錄並以套件形式傳回這些結果，接著在後續的模組中個別進行處理，除非已彙總。
 
-## 想要瞭解更多嗎？我們建議參閱以下資訊：
+## 想要了解更多嗎？我們建議參閱以下資訊：
 
 [Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
