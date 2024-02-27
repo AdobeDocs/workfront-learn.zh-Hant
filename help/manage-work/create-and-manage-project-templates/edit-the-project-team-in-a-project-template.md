@@ -1,6 +1,6 @@
 ---
 title: 在專案範本中編輯專案團隊
-description: 瞭解如何編輯範本專案團隊，避免無意中將專案團隊成員包含在範本專案團隊中。
+description: 學習如何編輯範本專案團隊，以避免不小心將專案團隊成員納入範本專案團隊。
 activity: use
 feature: Work Management
 thumbnail: 3426803.jpeg
@@ -12,17 +12,17 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 source-git-commit: 20d9bb3a9bccd3e78335f49cac1aabbc00b2da3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 # 在專案範本中編輯專案團隊
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
-* 如何避免無意中包含 **非** 範本專案團隊中的專案團隊成員。
+* 如何避免不小心將&#x200B;**非**&#x200B;專案團隊成員納入範本專案團隊。
 * 如何編輯範本專案團隊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
