@@ -1,6 +1,6 @@
 ---
-title: 瞭解 KPI
-description: 瞭解如何從有關現在情況以及過去趨勢的 KPI 資料中獲取價值。
+title: 了解 KPI
+description: 了解如何從有關現在情況以及過去趨勢的 KPI 資料中獲取價值。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
 ---
 
-# 瞭解 KPI
+# 了解 KPI
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 如何從 KPI 資料中獲取價值
 
