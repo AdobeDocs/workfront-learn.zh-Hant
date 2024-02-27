@@ -1,6 +1,6 @@
 ---
-title: 通用聯結器練習簡介
-description: 讓您更瞭解如何使用 REST 通用連接器和傳回的資料。
+title: 通用連接器練習簡介
+description: 讓您更了解如何使用 REST 通用連接器和傳回的資料。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT11042.png
 recommendations: noDisplay,noCatalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '602'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 通用聯結器練習簡介
+# 通用連接器練習簡介
 
-讓您更瞭解如何使用 REST 通用連接器和傳回的資料。
+讓您更了解如何使用 REST 通用連接器和傳回的資料。
 
 ## 練習概觀
 
@@ -104,6 +104,6 @@ ht-degree: 98%
 
    >[!NOTE]
    >
-   >在路由器操作示範中，您將瞭解如何藉由建立處理超級英雄的另一條路徑來解決此錯誤。
+   >在路由器操作示範中，您將了解如何藉由建立處理超級英雄的另一條路徑來解決此錯誤。
 
    ![通用連接器簡介影像 8](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-8.png)
