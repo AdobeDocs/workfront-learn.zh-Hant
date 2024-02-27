@@ -1,5 +1,5 @@
 ---
-title: 執行歷程記錄練習
+title: 執行歷史記錄練習
 description: 檢閱和稽核過去的執行記錄和情境設定的詳細資料。
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ thumbnail: KT11049.png
 recommendations: noDisplay,noCatalog
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# 執行歷程記錄練習
+# 執行歷史記錄練習
 
 檢閱和稽核過去的執行記錄和情境設定的詳細資料。
 
 ## 練習概觀
 
-檢閱「使用功能強大的篩選器」情境的執行歷史記錄，來瞭解執行時發生什麼事以及他們在執行時的結構。
+檢閱「使用功能強大的篩選器」情境的執行歷史記錄，來了解執行時發生什麼事以及他們在執行時的結構。
 
 ![執行歷史記錄影像 1](../12-exercises/assets/execution-history-walkthrough-1.png)
 
@@ -58,6 +58,6 @@ ht-degree: 97%
    ![執行歷史記錄影像 7](../12-exercises/assets/execution-history-walkthrough-7.png)
 
 
-1. 進階記錄顯示相似的資訊。但是其提供更詳細的資訊，包括每個執行回合執行多少個週期，您也可以深入瞭解每個週期處理哪一批資訊。
+1. 進階記錄顯示相似的資訊。但是其提供更詳細的資訊，包括每個執行回合執行多少個週期，您也可以深入了解每個週期處理哪一批資訊。
 
 ![執行歷史記錄影像 8](../12-exercises/assets/execution-history-walkthrough-8.png)
