@@ -1,6 +1,6 @@
 ---
-title: 存取先前版本練習
-description: 瞭解如何返回舊版的 [!UICONTROL Fusion] 情境。
+title: 存取之前版本練習
+description: 了解如何返回 [!UICONTROL Fusion] 前一版本的情境。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# 存取先前版本練習
+# 存取之前版本練習
 
-瞭解如何返回前一版本的情境。
+了解如何返回前一版本的情境。
 
 ## 練習概觀
 
