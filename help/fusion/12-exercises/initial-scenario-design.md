@@ -1,6 +1,6 @@
 ---
 title: 初始情境設計練習
-description: 瞭解首次登入 Workfront Fusion 以及建置第一個情境時的基本導覽技巧。
+description: 了解首次登入 Workfront Fusion 以及建置第一個情境時的基本導覽技巧。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT11038.png
 recommendations: noDisplay,noCatalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '983'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 # 初始情境設計練習
 
-瞭解首次登入 Workfront Fusion 以及建置第一個情境時的基本導覽技巧。
+了解首次登入 Workfront Fusion 以及建置第一個情境時的基本導覽技巧。
 
 ## 先決條件
 
