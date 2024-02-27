@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 85%
 
 ## 導覽此頁面
 
-當您捲動瀏覽此頁面時，您會先找到該主題所有最佳實務的高層次清單。這樣您便可以檢視建議而無需深入瞭解詳細的「原因」。
+當您捲動瀏覽此頁面時，您會先找到該主題所有最佳實務的高層次清單。這樣您便可以檢視建議而無需深入了解詳細的「原因」。
 
 「為什麼這些是最佳實務？」區域，位在高層次清單之後，詳細說明一部分的最佳實務，以及為什麼這些實務被認定為您的 Workfront 執行個體應該考慮執行的流程、工具等。
 
@@ -49,9 +49,9 @@ ht-degree: 85%
 
 逐步操作您的工作流程，可以更容易發現需要溝通的地方，並確認已啟用正確的通知。這會根據組織現有的運作方式啟動相關通知，避免垃圾郵件或通訊中斷。
 
-如需如何設定事件通知的指示，請參閱 [設定事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+有關如何設定事件通知的說明，請參閱「[設定事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)」。
 
-如需如何管理事件通知的指示，請參閱 [管理應用程式內和電子郵件事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+有關如何管理事件通知的說明，請參閱「[管理應用程式內和電子郵件事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)」。
 
 </br>
 </br>
@@ -72,5 +72,5 @@ ht-degree: 85%
 * 所有者名稱
 * 輸入日期
 
-如需如何建立附有提示的備註報告的逐步指示，請觀看 [建立任務報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) 然後進行教學課程中的活動。
+有關如何建立附提示的筆記報告逐步說明，請觀看「[建立任務報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html)」教學課程，然後執行後續的活動。
 
