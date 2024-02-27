@@ -12,9 +12,9 @@ thumbnail: KT11057.png
 recommendations: noDisplay,noCatalog
 exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '624'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 99%
 
 ## 練習概觀
 
-安裝 Workfront 開發工具並使用其中不同的區域，深入瞭解所提出請求/回應以及進階的情境設計技巧。
+安裝 Workfront 開發工具並使用其中不同的區域，深入了解所提出請求/回應以及進階的情境設計技巧。
 
 >[!NOTE]
 >
