@@ -1,6 +1,6 @@
 ---
-title: 瞭解基本導覽
-description: 瞭解在 Workfront 中如何導覽至「[!UICONTROL 分析]」區域並查看工作圖表及人員圖表的概觀。
+title: 了解基本導覽
+description: 了解在 Workfront 中如何導覽至「[!UICONTROL 分析]」區域並查看工作圖表及人員圖表的概觀。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -12,19 +12,19 @@ jira: KT-8724
 recommendations: noDisplay,noCatalog
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# 瞭解基本導覽
+# 了解基本導覽
 
-若要導覽至 [!UICONTROL Analytics] 在Workfront中，使用 [!UICONTROL 主要功能表] 按鈕。
+若要導覽至 Workfront 中的「[!UICONTROL 分析]」，請使用[!UICONTROL 主選單]按鈕。
 
 ![影像顯示尋找[!UICONTROL 分析]功能，透過 Workfront [!UICONTROL 主選單]](assets/Navigate-NWE.png)
 
-觀看這段影片，您將瞭解：
+觀看這段影片，您將了解：
 
 * 工作圖表概觀
 * 人員圖表概觀
