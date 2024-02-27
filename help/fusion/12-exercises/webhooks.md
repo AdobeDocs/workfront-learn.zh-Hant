@@ -1,6 +1,6 @@
 ---
-title: Webhooks練習
-description: 瞭解如何建立、觸發和管理 Webhook 啟動的情境。
+title: Webhooks 練習
+description: 了解如何建立、觸發和管理 Webhook 啟動的情境。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT11053.png
 recommendations: noDisplay,noCatalog
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '654'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Webhooks練習
+# Webhooks 練習
 
-瞭解如何建立、觸發和管理 Webhook 啟動的情境。
+了解如何建立、觸發和管理 Webhook 啟動的情境。
 
 ## 練習概觀
 
