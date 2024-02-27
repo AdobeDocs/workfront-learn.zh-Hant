@@ -1,6 +1,6 @@
 ---
 title: 簡介及技術策略
-description: 瞭解  [!DNL Adobe Workfront Fusion] 的強大功能與彈性，以及如何開始使用您的 Fusion 執行個體。
+description: 了解  [!DNL Adobe Workfront Fusion] 的強大功能與彈性，以及如何開始使用您的 Fusion 執行個體。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 # 簡介及技術策略
 
-瞭解 [!DNL Adobe Workfront Fusion] 的強大功能與彈性，以及如何開始使用您的 Fusion 執行個體。
+了解 [!DNL Adobe Workfront Fusion] 的強大功能與彈性，以及如何開始使用您的 Fusion 執行個體。
 
 ## 什麼是 Adobe Workfront Fusion?
 
@@ -37,14 +37,14 @@ Fusion 是某些 Workfront 套件所包含的附加產品。如果您的 Workfro
 
 您的 Fusion 系統管理員將對您發送新使用者邀請，其中包含兩封電子郵件。當您收到兩封電子郵件後，請按照「[以新使用者身分登入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=zh-Hant)」的指示操作。
 
-如果您是 Fusion 系統管理員，您將需要參考以下教學課程，以瞭解如何建立團隊和新增新的使用者。
+如果您是 Fusion 系統管理員，您將需要參考以下教學課程，以了解如何建立團隊和新增新的使用者。
 
-* [瞭解組織、團隊和使用者](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=zh-Hant)
+* [了解組織、團隊和使用者](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=zh-Hant)
 * [管理操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=zh-Hant)
 
 ## 簡介及技術策略
 
-觀看這段影片，您將瞭解：
+觀看這段影片，您將了解：
 
 * Fusion 的強大功能和彈性
 * Fusion 的核心與設計工具功能
