@@ -1,6 +1,6 @@
 ---
-title: 切換函式練習
-description: 瞭解如何透過切換函數來使用切換功能。
+title: 切換函數練習
+description: 了解如何透過切換函數來使用切換功能。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# 切換函式練習
+# 切換函數練習
 
-瞭解如何透過切換函數來使用切換功能。
+了解如何透過切換函數來使用切換功能。
 
 ## 練習概觀
 
