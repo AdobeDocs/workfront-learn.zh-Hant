@@ -1,6 +1,6 @@
 ---
 title: 路由器練習
-description: 瞭解路由器的重要性以及如何使用路由器按照條件處理不同的模組。
+description: 了解路由器的重要性以及如何使用路由器按照條件處理不同的模組。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT11043.png
 recommendations: noDisplay,noCatalog
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '755'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 # 路由器練習
 
-瞭解路由器的重要性以及如何使用路由器按照條件處理不同的模組。
+了解路由器的重要性以及如何使用路由器按照條件處理不同的模組。
 
 ## 練習概觀
 
