@@ -1,5 +1,5 @@
 ---
-title: 瞭解日期範圍和時間範圍
+title: 了解日期範圍和時間範圍
 description: '[!UICONTROL 增強型分析]是使用行事曆 widget 來指定日期範圍。時間範圍則是在圖表內建立。'
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# 瞭解日期範圍和時間範圍
+# 了解日期範圍和時間範圍
 
 在檢視[!DNL Enhanced analytics]圖表時，我們使用行事曆 widget 來指定日期範圍。當您按一下並拖曳來定義特定區域時，便會在圖表中建立時間範圍，因此您可以放大顯示，仔細查看該時間範圍內的資訊。
 
@@ -28,7 +28,7 @@ ht-degree: 94%
 
 ![影像顯示使用行事曆 widget 選取日期範圍](assets/section-1-3.png)
 
-在[!DNL Analytics]中的圖示依預設顯示過去 60 天和未來 15 天的資料。您可以選取新的日期範圍，並在使用時將它套用至所有圖表 [!DNL Analytics].
+在[!DNL Analytics]中的圖示依預設顯示過去 60 天和未來 15 天的資料。您可以選取新的日期範圍並在使用 [!DNL Analytics] 時，套用到全部圖表。
 
 當您重新整理頁面、導覽到其他地方，或登出/登入 Workfront 時，日期範圍將重設為預設值。
 
