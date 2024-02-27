@@ -1,6 +1,6 @@
 ---
-title: 瞭解動作 - 游標懸停、點選並拖曳以及點選進入
-description: 瞭解如何將滑鼠游標停留在圖表上、在圖表上建立時間範圍，並讓其他圖表顯示，所有這些都在 [!UICONTROL 增強型分析].
+title: 了解動作 - 游標懸停、點選並拖曳以及點選進入
+description: 了解在[!UICONTROL 增強型分析]中如何將游標懸停在圖表上以取得更多資訊、在圖表上建立時間範圍以及顯示更多圖表。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '307'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
-# 瞭解動作 - 游標懸停、點選並拖曳以及點選進入
+# 了解動作 - 游標懸停、點選並拖曳以及點選進入
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 如何將游標懸停在圖表上以取得更多資訊
 * 在圖表上建立時間範圍
@@ -53,4 +53,4 @@ ht-degree: 91%
 
 ![影像顯示藍色色調方塊](assets/blue-shaded-boxes.png)
 
-如需更多資訊，請參閱「[瞭解依團隊的活動視覺化圖像](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=zh-Hant)」。
+如需更多資訊，請參閱「[了解依團隊的活動視覺化圖像](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=zh-Hant)」。
