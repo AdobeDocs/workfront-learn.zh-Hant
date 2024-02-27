@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10916
 exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
 source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '388'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 83%
 
 ## 導覽此頁面
 
-當您捲動瀏覽此頁面時，您會先找到該主題所有最佳實務的高層次清單。這樣您便可以檢視建議而無需深入瞭解詳細的「原因」。
+當您捲動瀏覽此頁面時，您會先找到該主題所有最佳實務的高層次清單。這樣您便可以檢視建議而無需深入了解詳細的「原因」。
 
 「為什麼這些是最佳實務？」區域，位在高層次清單之後，詳細說明一部分的最佳實務，以及為什麼這些實務被認定為您的 Workfront 執行個體應該考慮執行的流程、工具等。
 
@@ -47,10 +47,10 @@ ht-degree: 83%
 
 使用專案組合和方案時，您可以更有效率地使用其他 Workfront 工具。例如，在報告中，您可能只想檢視目標相同或爭用相同預算的一組專案。將專案整理成專案組合和/或方案，便能輕鬆依據該專案組合來篩選方案，而不必使用多個其他條件來縮小報告範圍。
 
-此外，您可以使用其他工具，例如使用情況報告，協助您瞭解使用者的工作方式和地點，或者專案組合最佳化工具，讓您輕鬆確認專案的優先順序並使專案與公司的總體目標和策略保持方向一致。
+此外，您可以使用其他工具，例如使用情況報告，協助您了解使用者的工作方式和地點，或者專案組合最佳化工具，讓您輕鬆確認專案的優先順序並使專案與公司的總體目標和策略保持方向一致。
 
-若要瞭解如何依特定投資組合篩選專案清單，請參閱下列「活動1 — 行銷投資組合中的所有專案」： [建立基本篩選活動](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+若要了解如何按特定專案組合篩選項目清單，請參閱「[建立基本篩選活動](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html)中的「活動 1 - 行銷專案組合中所有專案」。
 
-若要瞭解使用情況報表，請參閱文章 [使用「使用率」報告追蹤進度、成本和收入](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+若要了解利用情況報告，請參閱文章「[使用利用情況報告追蹤進度、成本和收入](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=zh-Hant#track-progress-cost-and-revenue-with-the-utilization-report)」。
 
-若要瞭解Portfolio最佳化程式，請參閱 [使用Portfolio最佳化工具來排定優先順序並管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+若要了解專案組合最佳化工具，請參閱「[使用專案組合最佳化工具來確定工作優先順序並進行管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)」。
