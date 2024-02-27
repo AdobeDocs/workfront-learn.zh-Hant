@@ -1,6 +1,6 @@
 ---
-title: 瞭解如何導覽和檢閱專案
-description: 瞭解如何閱讀中的小眾測試版計畫圖 [!UICONTROL 增強型分析].
+title: 了解如何導覽和檢閱專案
+description: 了解如何閱讀[!UICONTROL 增強型分析]中的飛行計劃圖。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# 瞭解如何導覽和檢閱專案
+# 了解如何導覽和檢閱專案
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 如何閱讀飛行計劃圖
 
@@ -60,7 +60,7 @@ ht-degree: 97%
 * **手動**，由具有管理專案權限的使用者，在專案狀況類型設為「手動」時使用。您可以藉此獨立設定專案的狀況，不受關鍵路徑影響。
 * **自動**，由 Workfront 在專案的狀況類型設定為「進度狀態」時使用。
 
-Workfront 建議您將狀況類型設為「進度狀態」，以便根據任務的進度清楚瞭解專案的真實進度。
+Workfront 建議您將狀況類型設為「進度狀態」，以便根據任務的進度清楚了解專案的真實進度。
 
 ![影像顯示可能的進度狀態](assets/section-2-3.png)
 
