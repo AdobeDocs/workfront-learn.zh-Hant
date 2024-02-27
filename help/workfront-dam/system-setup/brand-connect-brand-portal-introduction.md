@@ -1,6 +1,6 @@
 ---
-title: 瞭解Brand Portal
-description: 瞭解如何在中存取Brand Portal [!UICONTROL WORKFRONT DAM]、建立資料夾、設定個別資產的到期日以及編輯資產設定。
+title: 了解 Brand Portal
+description: 了解如何存取 [!UICONTROL Workfront DAM] 中的 Brand Portal、建立資料夾、設定個別資產的到期日期以及編輯資產設定。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,29 +11,29 @@ jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '229'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 瞭解Brand Portal
+# 了解 Brand Portal
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將了解如何：
 
-* 存取Brand Portal
-* 建立資料夾並建立資料夾設定
-* 設定個別資產的到期日
+* 存取 Brand Portal
+* 建立資料夾和資料夾設定
+* 設定個別資產的到期日期
 * 編輯資產設定
 
 >[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on)
 
 ## 資產資料夾
 
-資料夾在中提供多種用途 [!UICONTROL WORKFRONT DAM]. 首先，它們是組織資產的方法。 第二，它們用於授予不同使用者群組對資料夾內資產的存取權。
+[!UICONTROL Workfront DAM] 中的資料夾具有多種用途。首先，資料夾是一種整理資產的方式。其次，我們利用資料夾授予不同群組的使用者存取資料夾內資產的權限。
 
-有些使用者會瀏覽資料夾以尋找他們想要的資產，而非進行搜尋。 邏輯縝密的資料夾結構會將這些使用者導向正確的位置。 部分 [!UICONTROL WORKFRONT DAM] 客戶依部門、檔案型別、資產主旨、產品、事件或工作流程來組織資料夾。 但適用於一個組織的內容可能無法適用於另一個組織。
+有些使用者會瀏覽各個資料夾來尋找他們想要的資產，而不是使用搜尋功能。一個符合邏輯、安排周到的資料夾結構將引導這些使用者到達正確的位置。有些 [!UICONTROL Workfront DAM] 客戶依部門、檔案類型、資產主旨、產品、事件或工作流程來整理資料夾。但是適用於某個組織的方式，另一個組織未必適用。
 
-資料夾也是授予使用者資產存取許可權的方式。 使用者會被組織到群組中，然後群組會獲得存取資料夾的許可權。 檔案夾的許可權可能依群組而異 — 僅供檢視、上傳資產、下載資產、編輯資產等。
+我們也利用資料夾來授予使用者存取資產的權限。我們將使用者整理成各個群組，然後授予各個群組存取資料夾的權限。各個群組的資料夾權限可能不相同，包括可供檢視、上傳資產、下載資產、編輯資產等。
 
-建立資料夾和巢狀資料夾時，請記得需要存取資料夾內資產的群組和使用者。 群組的結構可能會影響您組織資料夾的方式；而資料夾的組織方式可能會影響群組的建立方式。
+在建立資料夾和巢狀套疊的資料夾時，請務必考慮需要存取資料夾中資產的群組和使用者。群組的結構可能影響整理資料夾的方式；而資料夾的整理方式可能影響建立群組的方式。
