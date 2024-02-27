@@ -1,6 +1,6 @@
 ---
-title: 瞭解中繼資料
-description: 瞭解將涵蓋的內容 [!UICONTROL WORKFRONT DAM] 管理員、第二部分中繼資料和關鍵字課程。
+title: 了解中繼資料
+description: 了解「[!UICONTROL Workfront DAM] 管理員第 2 部分 中繼資料與關鍵字」課程所涵蓋的內容。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,22 +11,22 @@ jira: KT-8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
-# 瞭解中繼資料
+# 了解中繼資料
 
-中繼資料是用來說明資產的所有資料。 中繼資料欄位有名稱，使用者可以編輯或變更其中許多欄位中的資訊。 部分中繼資料欄位會由資產來源的應用程式或裝置填入，無法編輯。
+中繼資料是用來描述一項資產的所有資料。中繼資料欄位均有名稱，而使用者可以編輯或變更那些許多欄位當中的資訊。有些中繼資料欄位是由應用程式或提供資產的裝置填入，因此無法編輯。
 
-關鍵字是中繼資料的子集。 關鍵字往往是有關資產內容的一般描述性詞語。 這些資訊會新增至資產，通常在上傳後手動進行。
+關鍵字是中繼資料的子集合。關鍵字通常是說明資產內容的通用的描述性詞語。這些資訊通常是在上傳後手動新增到資產中。
 
-使用一致的中繼資料和關鍵字可增加您在中資產的可搜尋性 [!UICONTROL WORKFRONT DAM].
+使用一致的中繼資料和關鍵字，能夠在 [!UICONTROL Workfront DAM] 中更容易搜尋到您的資產。
 
-在本影片中，您將：
+觀看這段影片，您將：
 
-* 取得 [!UICONTROL WORKFRONT DAM] 課程
+* 觀看 [!UICONTROL Workfront DAM] 課程簡介
 
 >[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12&learn=on)
