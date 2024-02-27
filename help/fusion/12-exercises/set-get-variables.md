@@ -1,6 +1,6 @@
 ---
-title: 設定/取得變數練習
-description: 瞭解如何使用「Set 和 Get 變數」模組，讓一條路徑的可用欄位在不同的路徑上使用。
+title: Set/Get 變數練習
+description: 了解如何使用「Set 和 Get 變數」模組，讓一條路徑的可用欄位在不同的路徑上使用。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT11045.png
 recommendations: noDisplay,noCatalog
 exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '641'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 設定/取得變數練習
+# Set/Get 變數練習
 
-瞭解如何使用「Set 和 Get 變數」模組，讓一條路徑的可用欄位在不同的路徑上使用。
+了解如何使用「Set 和 Get 變數」模組，讓一條路徑的可用欄位在不同的路徑上使用。
 
 ## 練習概觀
 
