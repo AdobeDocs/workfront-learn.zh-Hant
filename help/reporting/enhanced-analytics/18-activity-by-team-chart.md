@@ -1,6 +1,6 @@
 ---
-title: 瞭解「依團隊檢視活動」圖表
-description: 中的依團隊活動圖表 [!UICONTROL 增強型分析] 可讓您瞭解貴組織的主團隊在Workfront中花費時間的情況。
+title: 了解「依團隊檢視活動」圖表
+description: 您可以利用[!UICONTROL 增強型分析]中的「團隊活動」圖表，了解組織的主團隊在 Workfront 中如何使用時間。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,15 +12,15 @@ jira: KT-10045
 recommendations: noDisplay,noCatalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# 瞭解「依團隊檢視活動」圖表
+# 了解「依團隊檢視活動」圖表
 
-您可以利用「團隊活動」圖表瞭解組織的主團隊在 Workfront 中如何使用時間。Workfront 使用者可以屬於多個團隊，但是他們只能參與一個主團隊。「人員」圖表中使用的團隊，僅包含把該團隊指定為主團隊的使用者。
+您可以利用「團隊活動」圖表了解組織的主團隊在 Workfront 中如何使用時間。Workfront 使用者可以屬於多個團隊，但是他們只能參與一個主團隊。「人員」圖表中使用的團隊，僅包含把該團隊指定為主團隊的使用者。
 
 以不同顏色顯示各種活動 (使用者登入、任務狀態變更和任務已完成)，總結篩選時段內發生的這些事件。
 
