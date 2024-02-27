@@ -1,6 +1,6 @@
 ---
 title: Set/Get 變數操作示範
-description: 瞭解如何在 Workfront 中尋找有關專案的資訊，並在以下  [!DNL Adobe Workfront Fusion] 中傳送包含相關資訊的電子郵件。
+description: 了解如何在 Workfront 中尋找有關專案的資訊，並在以下  [!DNL Adobe Workfront Fusion] 中傳送包含相關資訊的電子郵件。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,7 +12,7 @@ exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
 ht-degree: 100%
 
@@ -43,6 +43,6 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 **挑戰：**&#x200B;安排您的情境在每週一上午 8 點發送此「電子郵件」。
 
-## 想要瞭解更多嗎？我們建議參閱以下資訊：
+## 想要了解更多嗎？我們建議參閱以下資訊：
 
 [Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
