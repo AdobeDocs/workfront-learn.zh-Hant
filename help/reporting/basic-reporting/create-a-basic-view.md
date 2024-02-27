@@ -1,6 +1,6 @@
 ---
 title: 建立基本視圖
-description: 瞭解在 Workfront 中什麼是視圖、如何建立視圖，以及如何與其他使用者共用視圖。
+description: 了解在 Workfront 中什麼是視圖、如何建立視圖，以及如何與其他使用者共用視圖。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -13,15 +13,15 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: d39151288d8b749940c5183063392ee471769445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '826'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # 建立基本視圖
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * Workfront 中的視圖是什麼
 * 如何建立和修改視圖
@@ -127,31 +127,31 @@ ht-degree: 86%
 1. 選取「[!UICONTROL 開始日期]」欄，然後按一下「[!UICONTROL 進階選項]」。
 1. 在「[!UICONTROL 欄位格式]」下拉式選單之下，選取「[!UICONTROL 10/17/60 3:00 AM]」。
 1. 選取「[!UICONTROL 到期日]」欄，然後按一下「[!UICONTROL 進階選項]」。
-1. 在「[!UICONTROL 欄位格式]」下拉式選單之下，選取「[!UICONTROL 10/17/60 3:00 AM&quot;]」。
+1. 在「[!UICONTROL 欄位格式]」下拉式選單之下，選取「[!UICONTROL 10/17/60 3:00 AM]」。
 1. 按一下「**[!UICONTROL 儲存]**」。
 
-## 活動4：建立專案範本作用中狀態檢視
+## 活動 4：建立專案範本使用中狀態視圖
 
-任何管理專案範本的人都會樂於在清單中看到每個範本的有效狀態（True或False）。 更好 — 欄位可內嵌編輯！
+任何管理專案範本的人都會喜歡看到清單中每個範本使用中狀態 (True 或 False)。更好的是 - 該欄位是行間可編輯欄位！
 
-建立名為「標準+作用中狀態」的專案範本檢視，其欄位如下：
+建立一個名為「標準+使用中狀態」的專案範本視圖，且包含以下欄：
 
 * [!UICONTROL 名稱]
 * [!UICONTROL 所有者]
 * [!UICONTROL 期間]
-* [!UICONTROL 計畫時數]
-* [!UICONTROL 計畫成本]
-* [!UICONTROL 旗標]
+* [!UICONTROL 規劃時數]
+* [!UICONTROL 規劃成本]
+* [!UICONTROL 標幟]
 * [!UICONTROL 群組名稱]
-* [!UICONTROL 已啟用]
+* [!UICONTROL 使用中]
 
 
 ## 活動 4 答案
 
-![顯示專案範本使用中狀態檢視的畫面影像](assets/view-activity-4.png)
+![顯示專案範本使用中狀態視圖的螢幕影像](assets/view-activity-4.png)
 
-1. 在專案範本清單中，前往 **[!UICONTROL 檢視]** 下拉式功能表並選取 **[!UICONTROL 新檢視]**.
-1. 將檢視命名為「標準+作用中狀態」。
+1. 在專案範本清單中，前往「**[!UICONTROL 視圖]**」下拉式選單並選取「**[!UICONTROL 新增視圖]**」。
+1. 將您的視圖命名為「標準+使用中狀態」。
 1. 按一下「**[!UICONTROL 新增欄]**」。
-1. 在 [!UICONTROL 顯示在此欄中] 欄位，輸入「是」，然後選取 [!UICONTROL 範本] 欄位來源。
-1. 按一下 **[!UICONTROL 儲存檢視]**.
+1. 在「[!UICONTROL 在此欄中顯示]」欄位中，輸入「使用」後選取「使用中」 (在「[!UICONTROL 範本]」欄位來源中)。
+1. 按一下「**[!UICONTROL 儲存視圖]**」。
