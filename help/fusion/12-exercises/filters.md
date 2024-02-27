@@ -1,6 +1,6 @@
 ---
 title: 篩選器練習
-description: 瞭解如何在模組之間使用篩選器來限定特定類型的套件通過。
+description: 了解如何在模組之間使用篩選器來限定特定類型的套件通過。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: d2cec1ea-7ff9-48ae-8bfb-0c767d346079
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '229'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 # 篩選器練習
 
-瞭解如何在模組之間使用篩選器來限定特定類型的套件通過。
+了解如何在模組之間使用篩選器來限定特定類型的套件通過。
 
 ## 練習概觀
 
@@ -46,7 +46,7 @@ ht-degree: 98%
    **測試篩選器並驗證結果。**
 
 1. 按一下「儲存」來儲存情境並按一下「執行一次」。
-1. 按一下篩選器的執行檢查程式，瞭解篩選器如何檢查每個套件，並且無論通過或不通過均要繼續執行「建立 Workfront 專案」模組。
+1. 按一下篩選器的執行檢查程式，了解篩選器如何檢查每個套件，並且無論通過或不通過均要繼續執行「建立 Workfront 專案」模組。
 
    ![篩選器影像 4](../12-exercises/assets/filters-walkthrough-4.png)
 
