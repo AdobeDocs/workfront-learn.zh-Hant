@@ -1,6 +1,6 @@
 ---
-title: 啟用並強制執行關鍵字分類
-description: 瞭解如何在使用者可以輸入自己的關鍵字並設定搜尋面向時，啟用及強制執行關鍵字分類法 [!UICONTROL WORKFRONT DAM].
+title: 啟用並強制執行關鍵字分類法
+description: 了解在 [!UICONTROL Workfront DAM] 中，當使用者可以自行輸入關鍵字或設定搜尋面向時，如何啟用並強制執行關鍵字分類法。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 啟用並強制執行關鍵字分類
+# 啟用並強制執行關鍵字分類法
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將了解如何：
 
-* 授予關鍵字分類法的存取權
+* 允許存取關鍵字分類法
 * 強制使用關鍵字分類法
-* 瞭解何時 [!UICONTROL WORKFRONT DAM] 使用者可以輸入自己的關鍵字
-* 設定搜尋多面向
+* 了解 [!UICONTROL Workfront DAM] 使用者何時可以自行輸入關鍵字
+* 設定搜尋面向
 
 >[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on)
