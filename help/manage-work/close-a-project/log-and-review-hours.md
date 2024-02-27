@@ -1,6 +1,6 @@
 ---
-title: 記錄並檢閱時數
-description: 在關閉專案前記錄未完成時數並檢閱記錄時數 [!DNL  Workfront].
+title: 記錄和檢閱時數
+description: 在  [!DNL  Workfront] 中結束專案之前，記錄未完成的時數並檢閱已記錄的時數。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,21 +11,21 @@ level: Beginner
 jira: KT-10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 記錄並檢閱時數
+# 記錄和檢閱時數
 
-如果記錄實際工作時數是組織工作流程的一部分，您可在以下網址檢視這些時數： [!UICONTROL 小時] 區段（從左側面板選單中選取）。 這會顯示個別任務所記錄的所有時數以及專案本身。 您也可以從此頁面記錄時數。
+若貴組織的工作流程中包含記錄工作的實際時數，您可以在專案的「[!UICONTROL 時數]」區段檢閱這些時數 (從左側面板選單選取)。這裡顯示個別任務和專案本身所記錄的全部時數。您也可以在這個頁面記錄時數。
 
-![顯示小時輸入項的小時頁面](assets/planner-fund-log-and-review-hours.png)
+![顯示小時項目的時數頁面](assets/planner-fund-log-and-review-hours.png)
 
 >[!NOTE]
 >
->您的組織可能會要求您核准小時，透過 [!DNL Workfront] 時間表。 向內部洽詢 [!DNL Workfront] 專案團隊，以瞭解您應使用的程式。
+>貴組織可能會要求您使用 [!DNL Workfront] 時程表來核准時數。與您的內部 [!DNL Workfront] 團隊確認應該使用哪一個流程。
 
 <!---
 learn more url
