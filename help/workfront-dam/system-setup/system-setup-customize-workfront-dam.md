@@ -1,6 +1,6 @@
 ---
-title: 自訂 [!UICONTROL WORKFRONT DAM]
-description: 瞭解如何自訂 [!UICONTROL WORKFRONT DAM] 透過建立浮水印，自訂 [!UICONTROL DAM] 登入視窗、品牌化介面等。
+title: 自訂 [!UICONTROL Workfront DAM]
+description: 了解如何透過建立浮水印、自訂 [!UICONTROL DAM] 登入視窗、讓介面顯示品牌設計等來自訂 [!UICONTROL Workfront DAM]。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,22 +11,22 @@ jira: KT-8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 自訂 [!UICONTROL WORKFRONT DAM]
+# 自訂 [!UICONTROL Workfront DAM]
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將了解如何：
 
 * 建立浮水印
-* 自訂 [!UICONTROL WORKFRONT DAM] 登入視窗
-* 以您的色彩與標誌為介面打造品牌
-* 自訂傳送自的電子郵件 [!UICONTROL WORKFRONT DAM]
+* 自訂 [!UICONTROL Workfront DAM] 登入視窗
+* 使用您的顏色和標誌讓介面顯示品牌特色
+* 自訂由 [!UICONTROL Workfront DAM] 傳送的電子郵件
 * 建立下載資產的規則
 * 控制應用程式內通知
-* 設定和維護的計畫 [!UICONTROL WORKFRONT DAM]
+* 設定與維護 [!UICONTROL Workfront DAM] 的計劃
 
 >[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on)
