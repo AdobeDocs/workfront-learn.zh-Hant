@@ -1,6 +1,6 @@
 ---
 title: 建立任務報告
-description: 了解如何使用複雜的篩選器建立任務報告，並在 Workfront 中找到您所建立的報告。活動 - 建立帶有提示的筆記報告。
+description: 了解如何使用複雜的篩選器建立任務報告，並在 Workfront 中找到您所建立的報告。活動 - 建立附有提示的筆記報告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,15 +12,15 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 5fa3bbf2fb4763e63beeb7ac640cc93ccf54fed5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '922'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
 # 建立任務報告
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 如何使用複雜的篩選器建立任務報告
 * 如何尋找您建立的報告
@@ -31,17 +31,17 @@ ht-degree: 40%
 
 >[!TIP]
 >
->將鏟子和碗混合起來，準備試試我們的「配方」 [Adobe Workfront客戶報告逐步指南](/help/assets/workfront-customer-reporting-cookbook.pdf). 在裡面，您可以找到10份報告的逐步指示，讓您在今天的環境中快速啟動。
->我們收集了客戶最喜歡的報告，並將它們放進可點心、容易消化的逐步指南中，供您在自己的Workfront廚房中取回並進行測試。
->這10個報表來自與您相同的客戶。 我們遍佈各行各業、各部門、各團隊、各職位，感謝各位出色的客戶分享他們最愛的報告。 有些報表相當簡單（但功用絕佳），有些則較複雜，無法將您的報表提升到全新的境界。
+>拿出您的各種器具，準備好使用我們 [ Adobe Workfront 客戶報告逐步指南](/help/assets/workfront-customer-reporting-cookbook.pdf)內的秘方。您將在指南中找到 10 份報告的逐步說明，可供您立即在您的環境中快速應用。
+>我們收集了客戶最喜歡的報告，並將這些內容整理成一套簡單易懂、易消化的秘方，您帶回後可在自己的 Workfront 環境中進行測試。
+>這 10 份報告來自與您類似的客戶。我們的客戶分佈在不同的行業、部門、團隊、職位以及不同的公司，非常感謝這些最棒的客戶分享他們最喜歡的報告。有些報告很簡單 (但非常有用)，有些則比較複雜，但都可讓您的報告提升到另一個全新境界。
 
 
 
-## 活動1：建立具有提示的筆記報告
+## 活動 1：建立附帶提示的備註報告
 
-建立備註報告，方便您根據備註內容、作者、輸入日期、專案名稱或稽核類型來搜尋使用者備註 (即註解或更新) 或系統備註。將報表命名為「附註搜尋」。
+建立備註報告，方便您根據備註內容、作者、輸入日期、專案名稱或稽核類型來搜尋使用者備註 (即註解或更新) 或系統備註。將報告命名為「備註搜尋」。
 
-使用「備註文字」提示時，這份報告將搜尋更新執行緒，以便迅速擷取符合提示中指定條件的任何內容。執行報告時，您不需要填寫每個提示，只需填寫您關心的提示。 系統會自動忽略空白的提示。
+使用「備註文字」提示時，這份報告將搜尋更新執行緒，以便迅速擷取符合提示中指定條件的任何內容。執行報告時不需要填寫每個提示，只需填寫您關心的即可。系統會自動忽略空白的提示。
 
 該視圖應包含以下欄：
 
@@ -88,8 +88,8 @@ ht-degree: 40%
    ![影像顯示建立備註報告分組的畫面](assets/note-report-groupings.png)
 
 1. 讓「[!UICONTROL 篩選器]」留白。
-1. 開啟 **[!UICONTROL 報表設定]** 並將報表命名為「附註搜尋」。
-1. 在 [!UICONTROL 說明] 欄位，輸入類似於「根據所選稽核型別搜尋系統或使用者附註」和其他提示的內容。 系統附註會顯示在「稽核文字」欄中，而使用者附註會顯示在「附註文字」欄中。」
+1. 開啟「**[!UICONTROL 報告設定]**」並將報告命名為「備註搜尋」。
+1. 在「[!UICONTROL 說明]」欄位中，請輸入例如「根據所選稽核類型和其他提示來搜尋系統或使用者備註。系統備註出現在「稽核文字」欄而使用者備註出現在「備註文字」欄」。
 
    ![影像顯示建立備註報告設定的畫面](assets/note-report-report-options.png)
 
@@ -109,83 +109,83 @@ ht-degree: 40%
 1. 勾選「**[!UICONTROL 在儀表板中顯示提示]**」方塊。
 1. 儲存並關閉您的報告。
 
-## 活動2：建立管理員團隊意見反應報表
+## 活動 2：建立管理團隊意見回饋報告
 
-這是問題報告，會顯示為系統管理員建立的意見要求佇列中的所有問題。 您可在以下位置瞭解如何建立此請求佇列： [建立系統管理員回饋要求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) 教學課程。
+這是一份問題報告，主要是顯示為系統管理員所建立意見回饋請求佇列的所有問題。您可以在「[建立系統管理員意見回饋請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html)」教學課程中查看如何建立此請求佇列。
 
-此報表也使用自訂表單。 若要瞭解如何建立自訂表格，請參閱 [建立和共用自訂表格](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 教學課程。
+此報告也使用自訂表單。若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)」教學課程。
 
-此自訂表單的建立方式如下：
+此自訂表單應依下列方法來建立：
 
-名稱：管理員程式意見回饋
+名稱：管理流程意見回饋
 
-1. 程式型別（下拉式欄位）
+1. 流程類型 (下拉式欄位)
    * 存取層級
-   * 核准流程（僅限全域）
+   * 核准流程 (僅限全域)
    * 電子郵件通知
-   * 版面配置範本
+   * 版本配置範本
    * 里程碑路徑
    * 專案範本
    * 提醒通知
    * 請求佇列
-1. 程式名稱（單行文字欄位）
-1. 程式等級（下拉式欄位）
-   * 1 — 完全沒用
-   * 2 — 不太實用
-   * 3 — 良好，但可能更好
-   * 4 — 極佳
-1. 問題或好消息（段落文字欄位）
+1. 流程名稱 (單行文字欄位)
+1. 流程等級 (下拉式欄位)
+   * 1 - 完全沒用
+   * 2 - 不是很有用
+   * 3 - 很好，但還可以更好
+   * 4 - 非常好
+1. 有問題或是好消息 (段落文字欄位)
 
-建立問題報告，並命名為 **管理員團隊意見反應報表**.
+建立名為「**管理團隊意見回饋報告**」的問題報告 。
 
-檢視應具有下列欄：
+此視圖應具有以下列欄：
 
 * 問題：名稱
-* 主要連絡人：姓名
-* 問題：程式型別
-* 問題：程式名稱
-* 問題：處理等級
-* 問題：問題或好消息
+* 主要聯絡人：姓名
+* 問題：流程類型
+* 問題：流程名稱
+* 問題：流程等級
+* 問題：有問題或是好消息
 * 問題：輸入日期
 * 問題：年齡
 * 問題：指派
 * 問題：狀態
 
-處理程式型別的群組。
+按流程類型分組。
 
-篩選意見問題所在的請求佇列專案ID。
+篩選意見回饋問題所在的請求佇列專案 ID。
 
 
-![管理員團隊意見報告的熒幕擷圖](assets/create-a-system-admin-feedback-request-queue.png)
+![管理團隊意見回饋報告的螢幕截圖](assets/create-a-system-admin-feedback-request-queue.png)
 
 
 
 ## 活動 2 答案
 
 1. 在&#x200B;**[!UICONTROL 主選單]**&#x200B;中選取「**[!UICONTROL 報告]**」。
-1. 按一下 **[!UICONTROL 新報告]** 功能表並選取 **[!UICONTROL 問題]**.
+1. 按一下「**[!UICONTROL 新增報告]**」選單並選取「**[!UICONTROL 問題]**」。
 1. 在「**[!UICONTROL 欄 (視圖)]**」設定您的欄，要包含以下項目：
 
-   ![建立問題報告欄的畫面影像](assets/task-report-activity-2-1.png)
+   ![影像顯示建立問題報告欄的畫面](assets/task-report-activity-2-1.png)
 
    * 「[!UICONTROL 問題]」>「[!UICONTROL 名稱]」
-   * [!UICONTROL 主要連絡人] > [!UICONTROL 名稱]
-      * 注意：這會以「擁有者：名稱」作為欄標籤顯示。 您可以按一下「進階選項」，然後在 **自訂欄標籤** 欄位。
-   * [!UICONTROL 問題] > [!UICONTROL 程式型別]
-   * [!UICONTROL 問題] > [!UICONTROL 處理程式名稱]
-   * [!UICONTROL 問題] > [!UICONTROL 程式等級]
-   * [!UICONTROL 問題] > [!UICONTROL 問題或好消息]
+   * [!UICONTROL 主要聯絡人] > [!UICONTROL 姓名]
+      * 注意：這會以「所有者：姓名」的欄標籤來顯示。您可以將此變更為「報告人」，方法是按一下「進階選項」，然後在「**自訂欄標籤**」欄位中輸入「報告人」。
+   * [!UICONTROL 問題] > [!UICONTROL 流程類型]
+   * [!UICONTROL 問題] > [!UICONTROL 流程名稱]
+   * [!UICONTROL 問題] > [!UICONTROL 流程等級]
+   * [!UICONTROL 問題] > [!UICONTROL 有問題或是好消息]
    * [!UICONTROL 問題] > [!UICONTROL 輸入日期]
    * [!UICONTROL 問題] > [!UICONTROL 年齡]
-   * [!UICONTROL 問題] > [!UICONTROL 指定任務]
+   * [!UICONTROL 問題] > [!UICONTROL 指派]
    * [!UICONTROL 問題] > [!UICONTROL 狀態]
 
 1. 選取「**[!UICONTROL 輸入日期]**」欄並變更為「**[!UICONTROL 降序排序]**」。
-1. 在 **[!UICONTROL 群組]** 索引標籤中，設定報告分組依據 **[!UICONTROL 問題] > [!UICONTROL 程式型別]**.
+1. 在「**[!UICONTROL 分組]**」標籤中，設定報告依照「**[!UICONTROL 問題]」>「[!UICONTROL 流程類型]**」分組。
 
    ![建立問題報告分組的畫面影像](assets/task-report-activity-2-2.png)
 
-1. 在 **[!UICONTROL 篩選器]** 索引標籤中，新增篩選器 **[!UICONTROL 問題] > [!UICONTROL 專案ID]** 代表意見問題所在的請求佇列專案。
+1. 在「**[!UICONTROL 篩選器]**」標籤中，為「**[!UICONTROL 問題] > [!UICONTROL 專案 ID]**」新增篩選器，以達到意見回饋問題所在的請求佇列專案。
 
    ![建立問題報告篩選器的畫面影像](assets/task-report-activity-2-3.png)
 
