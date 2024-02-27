@@ -1,6 +1,6 @@
 ---
 title: 檢閱及核准數位工作
-description: 瞭解如何在中尋找及核准專案、任務、問題、檔案和校訂 [!DNL Workfront Home].
+description: 了解如何在  [!DNL Workfront Home]中尋找和核准專案、任務、問題、文件和校訂。
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -12,27 +12,27 @@ jira: KT-8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 檢閱及核准數位工作
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將了解如何：
 
-* 尋找核准 [!DNL Workfront Home]
-* 為專案、任務和問題建立核准
-* 為檔案核准
-* 為校訂進行核准
+* 在 [!DNL Workfront Home]尋找核准資訊
+* 核准專案、任務和問題
+* 核准文件
+* 核准校訂
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 
 
 >[!NOTE]
 >
->除了可在專案和自訂報告中找到需要核准的檔案、校樣和工作專案（專案、任務和問題） [!DNL Workfront Home].
+>除了 [!DNL Workfront Home]以外，需要核准的文件、校訂和工作項目 (專案、任務和問題) 也可以在專案和自訂報告中找到相關資訊。
 
 
 
