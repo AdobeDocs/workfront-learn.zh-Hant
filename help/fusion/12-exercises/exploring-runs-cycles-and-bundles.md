@@ -1,6 +1,6 @@
 ---
-title: 探索執行、循環和組合練習
-description: 使用情境的執行歷史記錄來瞭解執行、週期和套件的運作。
+title: 探索執行、週期和套件練習
+description: 使用情境的執行歷史記錄來了解執行、週期和套件的運作。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# 探索執行、循環和組合練習
+# 探索執行、週期和套件練習
 
-使用情境的執行歷史記錄來瞭解執行、週期和套件的運作。
+使用情境的執行歷史記錄來了解執行、週期和套件的運作。
 
 ## 練習概觀
 
