@@ -1,46 +1,28 @@
 ---
 title: 將問題/請求轉換為任務
-description: 瞭解如何把問題轉換為其他工作項目。
+description: 瞭解如何將問題或請求轉換為任務。
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: convert-issues-to-other-work-items.jpeg
+thumbnail: 3427605.jpg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2024-02-28T00:00:00Z
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
-workflow-type: ht
-source-wordcount: '485'
-ht-degree: 100%
+source-git-commit: b97e182e50aa2ed6e447ad11d0c86449d5b5da7c
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 57%
 
 ---
 
 # 將問題/請求轉換為任務
 
-某個問題可能非常重要，使得專案時間表必須考慮解決該問題所需的時間和精力並配置適當的資源。在這種情況下，該問題可以轉換為任務。
+在本影片中，您將會瞭解如何將問題或請求轉換為任務。
 
-![影像顯示 [!UICONTROL Workfront] 中一個問題的「[!UICONTROL 轉換為任務]」選項。](assets/15-convert-issue-to-task-menu-option.png)
-
-1. 導覽到記錄該問題的專案或任務的「[!UICONTROL 問題]」區段。或在您可以存取的報告中尋找該問題。
-1. 按一下問題名稱來開啟。
-1. 從問題名稱右側的三圓點選單中，選取「**[!UICONTROL 轉換為任務]**」。
-1. 填寫「[!UICONTROL 轉換為任務]」表單。首先要為新任務命名並提供說明。
-1. 如果新任務屬於不同的專案，請變更「[!UICONTROL 目的專案]」名稱。
-1. 在「[!UICONTROL 選項]」區段，請勾選保留初始問題的方塊，允許存取新任務，並讓完成日期維持不變。請按照貴組織的工作流程來選取這些選項。
-1. 如果您想要把問題的自訂表單資料轉移到任務，請附加自訂表單。(在問題表單和任務表單中同時存在的所有欄位都會自動轉移到任務表單。)
-1. 按一下「**[!UICONTROL 轉換為任務]**」來完成作業。
-
-![影像顯示 [!UICONTROL Workfront] 中一個問題的「[!UICONTROL 轉換為任務]」表單。](assets/16-convert-to-task-options.png)
-
-當您轉換任務時，取決於貴組織的 [!DNL Workfront] 系統設定，您可能可以或不可以變更「選項」區段的設定。這些選項會影響初始問題和新任務。
-
-* 「**保留初始問題並將其解決方案連結至任務**」會保留初始問題及相關資訊 (時數、文件等)。選取此選項後，在任務完成時，問題會標記為已解決。如果&#x200B;**並未**&#x200B;選取這個選項，則在建立任務時便會刪除初始問題。這可能會影響貴組織追蹤和報告問題的方式。
-* 「**允許 (使用者名稱) 存取這個任務**」選項能讓建立問題的人擁有這個新任務的存取權。
-* 「**保留問題的規劃完成日期**」選項讓您可以維持該問題原已設定的規劃完成日期。這樣會把任務限制設定為「[!UICONTROL 完成時間不晚於]」。如果未勾選該方塊，所設定的任務日期，將如同在專案內建立新任務一樣。
-
-新任務位在專案的任務清單底部。把任務移動到想要的位置，指派一名使用者或一個團隊負責處理，新增規劃時數和期間等。
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on)
 
 >[!NOTE]
 >
