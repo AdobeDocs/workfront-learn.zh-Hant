@@ -1,6 +1,6 @@
 ---
-title: 以貢獻者身分了解如何尋找資產
-description: 瞭解如何搜尋資產、在資料夾內搜尋、簡化搜尋結果、使用中繼資料和關鍵字作為中的搜尋篩選條件 [!UICONTROL WORKFRONT DAM].
+title: 以貢獻者身分瞭解如何尋找資產
+description: 瞭解在 [!UICONTROL Workfront DAM] 中如何搜尋資產、在資料夾內搜尋、簡化搜尋結果、使用中繼資料和關鍵字作為篩選器。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,13 +11,13 @@ jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# 以貢獻者身分了解如何尋找資產
+# 以貢獻者身分瞭解如何尋找資產
 
 觀看這段影片，您將瞭解如何：
 
@@ -34,7 +34,7 @@ ht-degree: 90%
 
 基本搜尋的尋找範圍包括檔案名稱、中繼資料欄位、關鍵字和資產內容 (根據資產類型而定)。但是不包括資料夾名稱。
 
-大部分搜尋結果均是完全符合的內容。此「完全符合」規則的例外情況是 [!UICONTROL WORKFRONT DAM] 會搜尋檔案名稱欄位。 [!UICONTROL Workfront DAM] 傳回與檔案名稱部分符合而不是完全符合的結果。
+大部分搜尋結果均是完全符合的內容。[!UICONTROL Workfront DAM] 搜尋檔案名稱欄位時是此一「完全符合」規則的例外情況。[!UICONTROL Workfront DAM] 傳回與檔案名稱部分符合而不是完全符合的結果。
 
 ## 使用者的搜尋運算子
 

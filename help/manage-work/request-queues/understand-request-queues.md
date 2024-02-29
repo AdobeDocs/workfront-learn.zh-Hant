@@ -1,6 +1,6 @@
 ---
-title: 瞭解請求佇列
-description: 瞭解  [!DNL  Workfront]  中請求佇列的結構以及如何提交請求。
+title: 了解請求佇列
+description: 了解  [!DNL  Workfront]  中請求佇列的結構以及如何提交請求。
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -12,30 +12,30 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
-# 瞭解請求佇列
+# 了解請求佇列
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
-* 如何透過提交請求 [!DNL  Workfront] 請求佇列
+* 如何透過 [!DNL  Workfront] 請求佇列提交請求
 * 請求佇列的結構
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## 請求草稿自動儲存
 
-當您開始填寫請求表單時，在填寫「[!UICONTROL 主旨]」欄位之後 [!DNL Workfront] 會自動儲存草稿。這表示如果您需要導覽以離開 [!UICONTROL 請求] 區域做其他事情，或者如果您需要在請求中途暫停以收集更多資訊。
+當您開始填寫請求表單時，在填寫「[!UICONTROL 主旨]」欄位之後 [!DNL Workfront] 會自動儲存草稿。這表示您如果要離開「[!UICONTROL 請求]」區域去從事其他活動，或是需要暫停請求以便收集更多資訊時，並不會因此失去資料。
 
-您會在視窗頂端看到草稿已儲存的指示。 [!DNL Workfront] 將會儲存請求的草稿，即使尚未填寫必填欄位亦然。
+您會在視窗頂端看到草稿已儲存的指示。[!DNL Workfront] 會儲存請求的草稿，即使尚未填寫必要欄位。
 
 ![影像顯示建立請求草稿](assets/queue-mgt-make-a-request-draft-1.png)
 
-當您準備好提交請求時，請在 [!UICONTROL 草稿] 標籤。 按一下名稱來開啟並完成表單填寫。然後按一下 [!UICONTROL 提交請求] 完成時。
+當您準備好提交請求時，請在「[!UICONTROL 草稿]」標籤中尋找該請求。按一下名稱來開啟並完成表單填寫。然後在完成時按一下「[!UICONTROL 提交請求]」。
 
 ![影像顯示取回請求草稿](assets/queue-mgt-make-a-request-draft-2.png)
 

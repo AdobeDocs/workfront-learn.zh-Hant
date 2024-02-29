@@ -1,6 +1,6 @@
 ---
 title: 開始使用[!UICONTROL 增強型分析]
-description: 瞭解 Workfront 中必須更新的最重要欄位，增強型分析必須倚賴這個欄位才能呈現您的團隊和專案在 Workfront 中的進度。
+description: 了解 Workfront 中必須更新的最重要欄位，增強型分析必須倚賴這個欄位才能呈現您的團隊和專案在 Workfront 中的進度。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards,Get Started with Workfront
@@ -12,9 +12,9 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 85%
 
 ## 分析先決條件
 
-若要充分利用Workfront的增強型分析，您需要確保您的團隊正在輸入資料並儘可能準確地更新某些欄位。
+若要充分利用 Workfront 的增強型分析，您的團隊必須盡可能準確地輸入資料並更新特定欄位。
 
-在Analytics中使用「團隊」一詞時，我們指的是「主團隊」。 Workfront 使用者可以屬於多個團隊，但是他們只能參與一個主團隊。人員圖表中使用的團隊，僅包含把該團隊指定為主團隊的使用者。
+我們在「分析」中所稱的「團隊」是指「主團隊」。Workfront 使用者可以屬於多個團隊，但是他們只能參與一個主團隊。人員圖表中使用的團隊，僅包含把該團隊指定為主團隊的使用者。
 
 確認任何專案範本已經針對所有任務指派準確的規劃時數和期間，從一開始便要確認一切正確無誤。
 

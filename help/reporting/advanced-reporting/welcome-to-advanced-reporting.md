@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '446'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -43,8 +43,8 @@ ht-degree: 91%
    * [[!UICONTROL 基本報告元素]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
    * [[!UICONTROL 建立自訂報告和儀表板]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
    * [[!UICONTROL 建立中繼篩選器]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
-* 您也應該參加這些教學課程：
-   * [[!UICONTROL 瞭解檢視的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)
+* 您還應該上這些教學課程：
+   * [[!UICONTROL 瞭解視圖的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)
    * [[!UICONTROL 瞭解分組的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hant)
 
 ## 目標對象

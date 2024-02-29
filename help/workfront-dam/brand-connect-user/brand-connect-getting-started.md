@@ -11,13 +11,13 @@ jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '494'
 ht-degree: 100%
 
 ---
 
-# 以使用者身分了解導覽與搜尋
+# 以使用者身分瞭解導覽與搜尋
 
 觀看這段影片，您將會瞭解：
 

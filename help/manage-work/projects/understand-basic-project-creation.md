@@ -1,6 +1,6 @@
 ---
-title: 瞭解建立專案的基本操作
-description: 瞭解讓專案啟動執行的四個步驟、專案定義，以及最常見的三種專案建立方式。
+title: 了解建立專案的基本操作
+description: 了解讓專案啟動執行的四個步驟、專案定義，以及最常見的三種專案建立方式。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -12,15 +12,15 @@ jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# 瞭解建立專案的基本操作
+# 了解建立專案的基本操作
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 四個步驟讓專案完成設定並開始運作
 * [!DNL Workfront] 中對專案的定義
@@ -36,4 +36,4 @@ ht-degree: 83%
 1. 前置任務
 1. 指派
 
-一切設定完成後，變更專案狀態為「目前」，讓專案上線。隨著專案進行，您會想要追蹤完成的工作、發生的問題、需要回答的問題等等。 請記住，您可以在 [!DNL Workfront] 中尋找和管理所有上述資訊！
+一切設定完成後，變更專案狀態為「目前」，讓專案上線。隨著專案進展，您會想要追蹤已完成的工作、發生的問題、需要回答的問題等。請記住，您可以在 [!DNL Workfront] 中尋找和管理所有上述資訊！

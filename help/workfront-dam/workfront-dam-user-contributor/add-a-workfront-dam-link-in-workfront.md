@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 95%
    ![影像顯示「[!UICONTROL 新增]」下拉式選單中的「[!UICONTROL 從 Workfront DAM]」選項](assets/01-contributor-from-workfront-dam.png)
 1. 視窗中出現您在 [!UICONTROL Workfront DAM] 中可以存取的檔案和資料夾清單。
 
-1. 找出您要尋找的資產，並勾選資產旁的方塊。 預設視圖是一份清單，但您可以使用視窗右上角的圖示切換成縮圖視圖。
+1. 尋找您想要的資產並勾選旁邊的方塊。預設視圖是一份清單，但您可以使用視窗右上角的圖示切換成縮圖視圖。
 
    ![影像顯示在快顯視窗中已選取資產](assets/02-contributor-select-files-in-dam.png)
 
