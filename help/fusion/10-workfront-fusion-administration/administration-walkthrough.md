@@ -5,16 +5,16 @@ activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
-role: User
+role: Admin
 level: Beginner
 jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 77%
 
 ---
 
@@ -34,6 +34,11 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
-## 想要瞭解更多嗎？我們建議參閱以下資訊：
+>[!NOTE]
+>
+>如果您的組織已上線Adobe Admin Console，請參閱 [透過Adobe Admin Console將使用者新增到Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html).
+
+
+## 想要了解更多嗎？我們建議參閱以下資訊：
 
 [Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
