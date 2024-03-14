@@ -12,9 +12,9 @@ jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
 source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 82%
 
 ## 從校訂檢視器上傳版本
 
-若在校訂檢視器中已開啟校訂，您可以直接從版本選單開始上傳版本。按一下 [!UICONTROL 新版本] 要直接路由至&#39;&#39;的連結[!UICONTROL 上傳新版本]」頁面並完成上傳。
+若在校訂檢視器中已開啟校訂，您可以直接從版本選單開始上傳版本。按一下「[!UICONTROL 新增版本]」連結，直接轉往「[!UICONTROL 上傳新版本]」頁面並完成上傳作業。
 
 ![影像顯示校訂檢視器，其左上角版本選單已展開並突顯標示「[!UICONTROL 新增版本]」連結。](assets/upload-version-from-viewer.png)
 
@@ -39,7 +39,7 @@ ht-degree: 82%
 >
 >在進行 Workfront 培訓的過程中，請記得提醒您的同事，您會把校訂傳送給他們。
 
-尋找您已上傳至Workfront的證明。 上傳該校訂的新版本，指派新的工作流程範本或變更現有工作流程。
+在 Workfront 中尋找您已上傳的校訂。上傳該校訂的新版本，指派新的工作流程範本或變更現有工作流程。
 
 <!--
 ### Learn more 

@@ -12,9 +12,9 @@ exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 77%
 
 >[!NOTE]
 >
->如果您的組織已上線Adobe Admin Console，請參閱 [透過Adobe Admin Console將使用者新增到Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html).
+>如果您的組織已加入 Adobe Admin Console，請參閱[透過 Adobe Admin Console 將使用者新增至 Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html)。
 
 
 ## 想要了解更多嗎？我們建議參閱以下資訊：
