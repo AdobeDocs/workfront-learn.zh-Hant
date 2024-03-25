@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
+workflow-type: tm+mt
+source-wordcount: '150'
+ht-degree: 71%
 
 ---
 
@@ -22,13 +23,14 @@ ht-degree: 100%
 
 觀看這段影片，您將會了解：
 
-* 四個步驟讓專案完成設定並開始運作
-* [!DNL Workfront] 中對專案的定義
-* 最常見的三種專案建立方式
+* Workfront中專案的定義
+* 啟動和執行專案的基本步驟
+* 關於任務和問題
+* 開始建立專案的最佳實務
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-使用專案範本，讓您的 [!DNL  Workfront] 專案迅速完成設定並開始執行。接著，先著眼於這五個欄位來進行專案規劃：
+使用專案範本，讓您的Workfront專案快速上線運作。 接著，先著眼於這五個欄位來進行專案規劃：
 
 1. 任務
 1. 期間
