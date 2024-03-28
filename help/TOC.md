@@ -4,7 +4,7 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2405'
 ht-degree: 100%
 
@@ -149,7 +149,7 @@ ht-degree: 100%
       + [瞭解流程請求的設定](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [建立請求佇列](manage-work/request-queues/create-a-request-queue.md)
       + [建立請求流程](manage-work/request-queues/create-a-request-flow.md)
-      + [建立系統管理員意見回饋的請求佇列](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
+      + [建立系統管理員意見回饋請求佇列](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [請求佇列常見問題的解答](manage-work/request-queues/request-queue-faq.md)
 
    + 專案組合 {#portfolios}
@@ -432,7 +432,7 @@ ht-degree: 100%
       + [熟悉其他應用程式與常用模組](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [切換](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [切換函數操作示範](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
-      + [切換功能練習](fusion/12-exercises/switch-function.md)
+      + [切換函數練習](fusion/12-exercises/switch-function.md)
       + [切換模組操作示範](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
       + [切換模組練習](fusion/12-exercises/switch-module.md)
       + [瞭解 Webhook 的世界](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
