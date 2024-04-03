@@ -1,6 +1,6 @@
 ---
 title: 使用版面配置範本自訂[!UICONTROL 首頁]
-description: 了瞭解如何使用版面配置範本，藉由新增或移除欄位來自訂[!UICONTROL 首頁]。
+description: 瞭解如何自訂您的使用者 [!UICONTROL 首頁] 快速輕鬆地存取、追蹤、核准和更新工作的區域。
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -11,14 +11,23 @@ thumbnail: 335081.jpeg
 jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: f383784d7859926ab6c4f40f713577eba2154b39
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 42%
 
 ---
 
-# 使用版面配置範本自訂[!UICONTROL 首頁]
+# 自訂 [!UICONTROL 首頁工作區] 使用版面配置範本
+
+瞭解如何自訂您的使用者 [!UICONTROL 首頁] 快速輕鬆地存取、追蹤、核准和更新工作的區域。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on)
+
+<br>
+</br>
+
+## 自訂舊版 [!UICONTROL 首頁] 使用版面配置範本
 
 觀看這段影片，您將瞭解如何：
 
