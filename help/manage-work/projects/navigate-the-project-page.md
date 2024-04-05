@@ -7,14 +7,15 @@ thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '453'
-ht-degree: 100%
+source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+workflow-type: tm+mt
+source-wordcount: '454'
+ht-degree: 91%
 
 ---
 
@@ -45,10 +46,10 @@ ht-degree: 100%
 8. **[!UICONTROL 情況]：**「[!UICONTROL 情況]」是用視覺化方式呈現的專案進展情況。[!DNL Workfront] 可以根據專案中任務的進度狀態自動設定「[!UICONTROL 狀況]」。或者透過專案詳細資料手動設定「[!UICONTROL 狀況]」。
 9. **[!UICONTROL 狀態]：**「[!UICONTROL 狀態]」表示專案目前處於流程中哪個位置：專案是否仍在規劃中、專案是否進行中，或是專案中所有工作是否已完成。
 10. **[!UICONTROL 新增任務]：**&#x200B;按一下在專案中建立新任務。在清單底部產生任務。
-11. **[!UICONTROL 匯出]：**&#x200B;將專案計劃匯出為 PDF、試算表或以定位點分隔的檔案。
+11. **[!UICONTROL 匯出]：** 將工作清單或選取的工作匯出至PDF、試算表或定位字元分隔的檔案。
 12. **左側面板選單：**&#x200B;使用左側面板導覽至關於專案的不同資訊。若您的螢幕需要更多空間，按一下圖示來摺疊面板。拖放圖示，使其位置順序有助於提升工作效率。您看到的選項由您的 [!DNL Workfront] 系統管理員設定。
 13. **任務清單：**&#x200B;任務清單顯示組成專案計劃的所有任務。每個任務可見的資訊由所選的視圖決定。
-14. **摘要面板：**&#x200B;按一下圖示可切換摘要面板開啟或關閉，透過面板可快速了解所選任務的資訊。
+14. **摘要面板：** 摘要面板可讓您快速瞭解所選工作的相關資訊。 按一下圖示以開啟或關閉。
 
 <!---
 learn more:
