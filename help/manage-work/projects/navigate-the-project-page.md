@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
+source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 87%
@@ -51,4 +51,5 @@ ht-degree: 87%
 13. **任務清單：**&#x200B;任務清單顯示組成專案計劃的所有任務。每個任務可見的資訊由所選的視圖決定。
 14. **摘要面板：** 摘要面板可讓您快速瞭解所選工作的相關資訊。 按一下圖示以開啟或關閉。
 15. **新增更多工** 按一下此處，使用內嵌編輯將另一個任務新增到任務清單底部。
+
 
