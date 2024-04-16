@@ -3,10 +3,10 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '2404'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -107,9 +107,9 @@ ht-degree: 99%
 + 管理工作 {#manage-work}
    + 專案 {#projects}
       + [瞭解建立專案的基本操作](manage-work/projects/understand-basic-project-creation.md)
+      + [導覽專案頁面](manage-work/projects/navigate-the-project-page.md)
       + [瞭解建立專案的四種方法](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [填寫專案詳細資料](manage-work/projects/fill-in-the-project-details.md)
-      + [導覽專案頁面](manage-work/projects/navigate-the-project-page.md)
       + [開始規劃專案](manage-work/projects/getting-started-plan-a-project.md)
       + [專案上線](manage-work/projects/take-a-project-live.md)
       + [開始管理專案](manage-work/projects/getting-started-manage-a-project.md)
@@ -153,7 +153,7 @@ ht-degree: 99%
       + [請求佇列常見問題的解答](manage-work/request-queues/request-queue-faq.md)
 
    + 專案組合 {#portfolios}
-      + [瞭解投資組合](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [了解專案組合](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [瞭解[!UICONTROL 業務案例]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [使用[!UICONTROL 專案組合最佳化工具]來確認工作的優先順序並進行管理](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
@@ -242,7 +242,7 @@ ht-degree: 99%
    + 增強型分析 {#enhanced-analytics}
       + [[!UICONTROL 增強型分析]的產品速寫](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [開始使用[!UICONTROL 增強型分析]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [如何存取 [!UICONTROL 增強型分析]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [如何存取[!UICONTROL 增強型分析]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [瞭解基本導覽](reporting/enhanced-analytics/4-basic-navigation.md)
       + [瞭解工作和人員圖表](reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [瞭解篩選器](reporting/enhanced-analytics/6-filters-overview.md)

@@ -12,25 +12,21 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 52%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
 # 了解跨專案前置任務
 
->[!IMPORTANT]
->
->先決條件:
+跨專案前置任務是在不同專案的任務之間建立相依性的簡單方法。例如，建築公司可能有一個名為「**建造通往 Summerhill 住房開發區的道路**」的專案，以及另一個名為「**在 Summerhill 建造樣品屋**」的專案。透過在「**建造樣品屋**」中的第一個任務設定跨專案前置任務，將其與「**建造通路**」中的最後一個任務相連，您可以確保在開始建造樣品屋之前已有通路。由於任務是相互關聯的，如果「**建造通路**」專案出現延誤，「**建造樣品屋**」計畫開始日期會自動相應延期。
+
+>[!PREREQUISITES]
 >
 >* [瞭解任務序列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=zh-Hant)
 >* 或者您已經適應在專案中使用前置任務
-
->[!NOTE]
->
->跨專案前置任務可讓您輕鬆地在不同專案中的任務之間建立相依性。 例如，建築公司可能有一個名為 **建置通往Summerhill房屋開發的通道**，另一個專案稱為 **在Summerhill中建立模型首頁**. 藉由進行中的第一個任務 **建置模型首頁** 擁有中最後一個任務的跨專案前置任務 **建置存取道路**，在開始建立首頁之前，請先確認通道已就位。 因為任務已連結，如果 **建置存取道路** 專案單， **建置模型首頁** 計畫的開始日期將據此自動錯過。
 
 
 觀看這段影片，您將會瞭解：
