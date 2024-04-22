@@ -13,9 +13,9 @@ jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -32,10 +32,10 @@ ht-degree: 70%
 
 ![已匯出專案量度頁面](assets/planner-fund-metrics-export.png)
 
-## 此主題的建議教學課程
+## 有關此主題的推薦教學課程
 
 * [開始管理專案](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [追蹤整體專案進度](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
+* [追蹤專案整體進度](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
 * [使用專案量度追蹤工作進度](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [瞭解 [!UICONTROL 甘特圖] 檢視](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
-* [瞭解 [!UICONTROL 展示板] 檢視](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [瞭解[!UICONTROL 甘特圖]視圖](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [瞭解[!UICONTROL 展示板]視圖](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
