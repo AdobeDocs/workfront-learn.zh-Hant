@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-04-22T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '209'
-ht-degree: 100%
+source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
+workflow-type: tm+mt
+source-wordcount: '211'
+ht-degree: 89%
 
 ---
 
@@ -41,7 +42,7 @@ ht-degree: 100%
 * 與您的利害關係人溝通。
 * 表揚執行過程中的優異表現。
 
-最終，您的主要工作是推動專案順利完成。[!DNL Workfront] 可以協助您透過專案時間表、篩選器、視圖與分組、更新、報告等來監視所執行的工作。
+最終，您的主要工作是推動專案順利完成。Adobe Workfront可協助您透過專案時間表、篩選器、檢視和群組、更新、報告……等專案來監視所完成的工作。
 
 <!---
 learn more urls
