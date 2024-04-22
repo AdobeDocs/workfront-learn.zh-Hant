@@ -1,6 +1,6 @@
 ---
 title: 開始管理專案
-description: 瞭解您作為專案經理人的角色以及在監視專案工作時應該注意哪些部分。
+description: 瞭解如何監控專案進度、深入研究以檢視任務詳細資訊，以及如何與利害關係人溝通。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
+source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 89%
+source-wordcount: '213'
+ht-degree: 72%
 
 ---
 
@@ -24,8 +24,9 @@ ht-degree: 89%
 
 觀看這段影片，您將會瞭解：
 
-* 監視專案工作時要注意哪些部分
-* 您作為專案經理人的角色
+* 如何監視專案進度
+* 如何向下展開以檢視工作詳細資訊
+* 如何與利害關係人溝通
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
