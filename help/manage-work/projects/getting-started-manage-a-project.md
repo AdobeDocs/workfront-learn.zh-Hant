@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 72%
+ht-degree: 83%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 72%
 * 與您的利害關係人溝通。
 * 表揚執行過程中的優異表現。
 
-最終，您的主要工作是推動專案順利完成。Adobe Workfront可協助您透過專案時間表、篩選器、檢視和群組、更新、報告……等專案來監視所完成的工作。
+最終，您的主要工作是推動專案順利完成。Adobe Workfront 可以協助您透過專案時間表、篩選器、視圖與分組、更新、報告等來監視所執行的工作。
 
 <!---
 learn more urls
