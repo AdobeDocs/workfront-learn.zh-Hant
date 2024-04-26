@@ -11,22 +11,22 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
-workflow-type: ht
-source-wordcount: '152'
+exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '151'
 ht-degree: 100%
 
 ---
 
 # 建立系統管理員意見回饋請求佇列
 
->[!IMPORTANT]
->
->先決條件：
+>[!PREREQUISITES]
 >
 >* [建立請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
 >* [建立請求流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* 或者，您已經熟悉建立使用路由規則和自訂表單的請求佇列。
+
 
 觀看這段影片，您將會了解：
 

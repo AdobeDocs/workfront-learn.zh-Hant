@@ -12,21 +12,21 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
-source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
-workflow-type: ht
-source-wordcount: '128'
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
 
 # 進階前置任務
 
->[!IMPORTANT]
->
->先決條件:
+
+>[!PREREQUISITES]
 >
 >* [瞭解任務序列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=zh-Hant)
 >* 或者您已經適應在專案中使用前置任務
+
 
 觀看這段影片，您將會瞭解以下資訊：
 
