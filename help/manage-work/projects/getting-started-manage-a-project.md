@@ -1,6 +1,6 @@
 ---
 title: 開始管理專案
-description: 瞭解如何監控專案進度、深入研究以檢視任務詳細資訊，以及如何與利害關係人溝通。
+description: 了解如何監控專案進度、深入查看任務詳細資料以及如何與利害關係人溝通。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -14,9 +14,9 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '213'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 83%
 
 觀看這段影片，您將會瞭解：
 
-* 如何監視專案進度
-* 如何向下展開以檢視工作詳細資訊
-* 如何與利害關係人溝通
+* 如何監控專案進度
+* 如何深入查看任務詳細資料
+* 如何與您的利害關係人溝通
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
@@ -56,8 +56,8 @@ Project management knowledge areas
 
 ## 有關此主題的推薦教學課程
 
-* [專案上線](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [尋找專案](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [共用專案](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [了解專案團隊](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [瞭解專案溝通](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [專案上線](https://experienceleague.adobe.com/tw/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
+* [尋找專案](https://experienceleague.adobe.com/tw/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [共用專案](https://experienceleague.adobe.com/tw/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [了解專案團隊](https://experienceleague.adobe.com/tw/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
+* [瞭解專案溝通](https://experienceleague.adobe.com/tw/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
