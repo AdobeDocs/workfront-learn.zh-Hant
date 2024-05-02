@@ -8,31 +8,26 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '201'
-ht-degree: 100%
+source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 64%
 
 ---
 
 # 檢視專案資訊
 
-無論您是檢視主要的「[!UICONTROL 專案]」頁面或是個別專案，請利用「[!UICONTROL 篩選器]」、「[!UICONTROL 視圖]」和「[!UICONTROL 分組]」來仔細調整您的清單，以便看到所需的資訊。
+在本影片中，您將瞭解如何使用篩選器、檢視和群組來檢視：
 
-在「[!UICONTROL 專案]」頁面可以從高層次的角度瞭解所有專案目前的進展。
+* 專案層級資訊
+* 任務層級資訊
+* 問題層級資訊
 
-![顯示篩選器的專案頁面](assets/planner-fund-project-page-fvg-copy.png)
-
-利用「[!UICONTROL 篩選器]」，根據特定條件來縮小清單的範圍。然後選取一種「[!UICONTROL 視圖]」來顯示與專案相關的欄的資訊。最後，選取一種「[!UICONTROL 分組]」，使用您認為合理的方式來整理專案。
-
-在專案的「[!UICONTROL 任務]」區段時，請再次使用「[!UICONTROL 篩選器]」、「[!UICONTROL 視圖]」和「[!UICONTROL 分組]」來監視工作情況。因為您關注的是任務而不是專案，所以您有完全不同的選項。
-
-![顯示視圖的專案任務清單](assets/planner-fund-task-list-fvg.png)
-
-許多 [!DNL Workfront] 客戶建立自訂視圖，揭露自訂表單資料以及與工作相關的其他欄位。
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on)
 
 ## 有關此主題的推薦教學課程
 
