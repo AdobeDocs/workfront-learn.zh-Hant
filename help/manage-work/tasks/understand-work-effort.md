@@ -9,11 +9,12 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
+recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '175'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '188'
+ht-degree: 98%
 
 ---
 
@@ -30,3 +31,8 @@ Workfront 知道有些組織在建立專案時並未使用規劃時數。然而�
 ![具有「[!UICONTROL 工作投入]」欄的專案任務清單](assets/planner-fund-work-effort.png)
 
 如需「[!UICONTROL 工作投入]」的更多資訊，請參閱文章「[工作投入概觀](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=zh-Hant)」。
+
+## 有關此主題的推薦教學課程
+
+* [瞭解任務持續時間](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [瞭解規劃時數](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)

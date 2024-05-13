@@ -3,9 +3,9 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '2404'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '2399'
 ht-degree: 100%
 
 ---
@@ -258,7 +258,6 @@ ht-degree: 100%
       + [檢閱飛行圖中的任務](reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [透過更新來採取行動](reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
       + [瞭解「依團隊檢視活動」圖表](reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [瞭解資源產能圖表](reporting/enhanced-analytics/19-resource-capacity-chart.md)
       + [瞭解團隊產能](reporting/enhanced-analytics/20-team-capacity-overview.md)
       + [瞭解 KPI 比較的使用案例](reporting/enhanced-analytics/21-kpi-comparisons.md)
       + [瞭解一般使用者的使用案例](reporting/enhanced-analytics/22-end-user-use.md)

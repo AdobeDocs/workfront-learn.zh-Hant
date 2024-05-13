@@ -1,6 +1,6 @@
 ---
-title: 瞭解團隊產能
-description: 瞭解團隊容量圖表如何在 [!UICONTROL 增強型分析] 顯示主團隊何時過度分配或分配不足。
+title: 了解團隊產能
+description: 了解[!UICONTROL 增強型分析]中的團隊產能圖表如何顯示主團隊何時分配過多或過少。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 95%
+source-wordcount: '385'
+ht-degree: 97%
 
 ---
 
-# 瞭解團隊產能
+# 了解團隊產能
 
 團隊產能圖表顯示主團隊配置工作量過多或過少的情況。該圖表顯示在指定日子指派給主團隊的工作量，當主團隊接近疲勞過度或是工作不具挑戰性時會顯示深藍色。顏色較淺、較透明，表示工作負載比較平衡。
 
@@ -42,7 +42,7 @@ ht-degree: 95%
 
 1. 按一下左側面板上的「[!UICONTROL 人員]」標籤。
 1. 使用「[!UICONTROL 篩選]」選擇一個或更多主團隊進行檢查。
-1. 您會在「[!UICONTROL 資源產能]」圖表下方看到團隊產能圖表。
+1. 您會看到團隊容量圖表出現。
 
 ## 如何使用圖表
 

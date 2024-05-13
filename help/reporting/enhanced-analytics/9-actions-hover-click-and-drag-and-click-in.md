@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '307'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '295'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 100%
 * **專案活動** — 按一下專案名稱來展開圖表並依使用者來查看專案活動。
 * **專案樹狀圖** — 按一下專案方塊可顯示燃盡圖和飛行圖中的任務。
 * **依團隊的活動** — 按一下團隊名稱來展開圖表，讓您可以依使用者查看活動。
-* **資源產能** — 按一下團隊名稱來查看團隊產能圖表。
 
 ## 在團隊活動中，顏色的深淺分別有什麼意義？
 
