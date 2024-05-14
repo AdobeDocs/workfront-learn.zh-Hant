@@ -11,9 +11,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
 source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -28,6 +28,6 @@ ht-degree: 90%
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解父子任務](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [處理任務](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
-* [根據專案計劃指派任務](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [瞭解上層-下層任務](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
+* [處理任務](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
+* [根據專案計劃指派任務](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)

@@ -1,6 +1,6 @@
 ---
 title: 專案上線
-description: 瞭解如何使用專案狀態讓您的Adobe Workfront專案上線。
+description: 瞭解如何使用專案狀態讓您的 Adobe Workfront 專案上線。
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -13,9 +13,9 @@ jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
 source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -29,6 +29,6 @@ ht-degree: 76%
 
 ## 有關此主題的推薦教學課程
 
-* [開始管理專案](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [尋找專案](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [共用專案](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [開始管理專案](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [尋找專案](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [共用專案](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
