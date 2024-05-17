@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 94%
 
 ## 人員圖表篩選器
 
-「人員」圖表以主團隊為基礎。它們會顯示您在篩選器中選取之任意數量團隊的活動。
+「人員」圖表以主團隊為基礎。它會顯示您在篩選器中選取之所有團隊的活動。
 
 ## 其他考量
 

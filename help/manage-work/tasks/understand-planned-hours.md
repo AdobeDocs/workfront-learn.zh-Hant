@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ Planned hours overview
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解如何為任務序列](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [瞭解任務持續時間](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [瞭解工作量](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [瞭解如何為任務序列](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
+* [瞭解任務持續時間](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [瞭解工作投入](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
 

@@ -12,9 +12,9 @@ jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '385'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 97%
 
 1. 按一下左側面板上的「[!UICONTROL 人員]」標籤。
 1. 使用「[!UICONTROL 篩選]」選擇一個或更多主團隊進行檢查。
-1. 您會看到團隊容量圖表出現。
+1. 您將看到團隊產能圖表出現。
 
 ## 如何使用圖表
 
