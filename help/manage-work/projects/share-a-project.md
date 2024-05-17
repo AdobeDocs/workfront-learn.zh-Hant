@@ -12,9 +12,9 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -33,8 +33,8 @@ ht-degree: 100%
 
 ## 有關此主題的推薦教學課程
 
-* [開始管理專案](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [尋找專案](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [了解專案團隊](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [瞭解專案溝通](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [尋找專案](/help/manage-work/projects/find-projects.md)
+* [瞭解專案團隊](/help/manage-work/projects/understand-the-project-team.md)
+* [瞭解專案溝通](/help/manage-work/projects/understand-project-communication.md)
 

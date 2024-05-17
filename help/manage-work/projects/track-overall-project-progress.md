@@ -12,9 +12,9 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 99dfdc38fd2192da6a5ef46663634bd6070ee488
-workflow-type: ht
-source-wordcount: '71'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## 有關此主題的推薦教學課程
 
-* [開始管理專案](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [使用專案量度追蹤工作進度](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [瞭解[!UICONTROL 甘特圖]視圖](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
-* [瞭解[!UICONTROL 展示板]視圖](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [使用專案量度追蹤工作進度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [瞭解[!UICONTROL 甘特圖]視圖](/help/manage-work/projects/understand-the-gantt-view.md)
+* [瞭解[!UICONTROL 展示板]視圖](/help/manage-work/projects/understand-the-board-view.md)

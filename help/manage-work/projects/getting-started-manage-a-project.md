@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: ht
-source-wordcount: '213'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '208'
 ht-degree: 100%
 
 ---
@@ -56,8 +56,8 @@ Project management knowledge areas
 
 ## 有關此主題的推薦教學課程
 
-* [專案上線](https://experienceleague.adobe.com/tw/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [尋找專案](https://experienceleague.adobe.com/tw/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [共用專案](https://experienceleague.adobe.com/tw/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [了解專案團隊](https://experienceleague.adobe.com/tw/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [瞭解專案溝通](https://experienceleague.adobe.com/tw/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [專案上線](/help/manage-work/projects/take-a-project-live.md)
+* [尋找專案](/help/manage-work/projects/find-projects.md)
+* [共用專案](/help/manage-work/projects/share-a-project.md)
+* [瞭解專案團隊](/help/manage-work/projects/understand-the-project-team.md)
+* [瞭解專案溝通](/help/manage-work/projects/understand-project-communication.md)

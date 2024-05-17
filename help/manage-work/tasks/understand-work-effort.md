@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10153
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: ht
-source-wordcount: '188'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '186'
 ht-degree: 100%
 
 ---
@@ -34,5 +34,6 @@ Workfront 知道有些組織在建立專案時並未使用規劃時數。然而�
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解任務持續時間](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [瞭解規劃時數](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
+* [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
+

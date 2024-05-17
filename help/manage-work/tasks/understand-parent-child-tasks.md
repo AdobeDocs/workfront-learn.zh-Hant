@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: ht
-source-wordcount: '51'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '48'
 ht-degree: 100%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 ## 有關此主題的推薦教學課程
 
-* [建立任務](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks)
-* [處理任務](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
-* [根據專案計劃指派任務](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [建立任務](/help/manage-work/tasks/how-to-create-tasks.md)
+* [處理任務](/help/manage-work/tasks/work-with-tasks.md)
+* [指派專案計劃的任務](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 

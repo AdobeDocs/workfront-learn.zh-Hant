@@ -12,9 +12,9 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
-workflow-type: ht
-source-wordcount: '67'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 ## 有關此主題的推薦教學課程
 
-* [建立基本篩選器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=zh-Hant)
-* [建立基本視圖](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hant)
-* [建立基本分組](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=zh-Hant)
+* [建立基本篩選器活動](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
+* [建立基本視圖](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [建立基本分組](/help/reporting/basic-reporting/create-a-basic-grouping.md)
 

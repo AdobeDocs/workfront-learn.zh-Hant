@@ -12,8 +12,8 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: ht
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
@@ -38,7 +38,8 @@ Modify multiple user assignments in a task list
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解任務持續時間](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [瞭解如何為任務序列](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [瞭解規劃時數](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
+* [瞭解如何排定任務順序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
+* [瞭解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
 

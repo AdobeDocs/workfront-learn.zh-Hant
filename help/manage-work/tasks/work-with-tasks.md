@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
@@ -31,6 +31,6 @@ ht-degree: 100%
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解上層-下層任務](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [根據專案計劃指派任務](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
-* [瞭解任務持續時間](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [瞭解上層-下層任務](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [指派專案計劃的任務](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)

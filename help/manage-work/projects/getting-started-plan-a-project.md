@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '109'
+source-git-commit: ab2b4848acc69b0c6f6cd89ec0c9bf4203c2d297
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -32,9 +32,10 @@ ht-degree: 100%
 
 ## 有關此主題的推薦教學課程
 
-* [建立任務](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
-* [處理任務](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
-* [根據專案計劃指派任務](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html)
-* [瞭解任務持續時間](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html)
-* [瞭解如何為任務序列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html)
-* [瞭解規劃時數](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html)
+* [建立任務](/help/manage-work/tasks/how-to-create-tasks.md)
+* [處理任務](/help/manage-work/tasks/work-with-tasks.md)
+* [指派專案計劃的任務](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
+* [瞭解如何排定任務順序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
+* [瞭解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)

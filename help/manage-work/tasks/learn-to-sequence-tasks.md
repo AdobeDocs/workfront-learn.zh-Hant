@@ -12,9 +12,9 @@ jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: 39651f3785d2a539314c32a1aa368a1bae7effee
-workflow-type: ht
-source-wordcount: '83'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,6 @@ Overview of task dependency types
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解任務持續時間](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [瞭解規劃時數](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [瞭解工作投入](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
-
+* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
+* [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
+* [瞭解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)

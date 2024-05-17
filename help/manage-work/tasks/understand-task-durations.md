@@ -12,9 +12,9 @@ jira: KT-8776
 recommendations: noDisplay,noCatalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: ht
-source-wordcount: '82'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解如何為任務序列](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [瞭解規劃時數](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [瞭解工作投入](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [瞭解如何排定任務順序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
+* [瞭解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
 
