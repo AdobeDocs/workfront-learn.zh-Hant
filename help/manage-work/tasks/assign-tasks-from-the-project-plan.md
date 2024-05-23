@@ -13,19 +13,19 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 36%
+source-wordcount: '99'
+ht-degree: 35%
 
 ---
 
 # 指派專案計劃的任務
 
-觀看這段影片，您將會了解：
+觀看這段影片，您將：
 
-* 如何使用內嵌編輯指派任務
-* 如何將多個任務指派給同一個人
+* 瞭解如何使用內嵌編輯指派任務
+* 瞭解如何將多個任務指派給同一個人
 * 瞭解指派任務時工作角色的價值
 * 瞭解指派任務時專案範本的價值
 * 瞭解將任務指派給團隊的價值
