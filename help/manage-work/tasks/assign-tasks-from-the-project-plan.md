@@ -1,6 +1,6 @@
 ---
 title: 指派專案計劃的任務
-description: 瞭解如何使用  [!DNL  Workfront]  專案的行間編輯把任務指派給使用者。
+description: 瞭解如何使用內嵌編輯、大量編輯、工作角色和團隊，在Adobe Workfront專案中指派任務。
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -8,22 +8,27 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '62'
-ht-degree: 100%
+source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+workflow-type: tm+mt
+source-wordcount: '98'
+ht-degree: 36%
 
 ---
 
 # 指派專案計劃的任務
 
-觀看這段影片，您將瞭解如何：
+觀看這段影片，您將會了解：
 
-* 使用行間編輯指派任務給使用者
+* 如何使用內嵌編輯指派任務
+* 如何將多個任務指派給同一個人
+* 瞭解指派任務時工作角色的價值
+* 瞭解指派任務時專案範本的價值
+* 瞭解將任務指派給團隊的價值
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
