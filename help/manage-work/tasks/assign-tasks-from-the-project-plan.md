@@ -1,6 +1,6 @@
 ---
 title: 指派專案計劃的任務
-description: 瞭解如何使用內嵌編輯、大量編輯、工作角色和團隊，在Adobe Workfront專案中指派任務。
+description: 了解如何使用內嵌編輯、大量編輯、工作角色和團隊在 Adob​​e Workfront 專案中指派任務。
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 35%
+ht-degree: 80%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 35%
 
 * 瞭解如何使用內嵌編輯指派任務
 * 瞭解如何將多個任務指派給同一個人
-* 瞭解指派任務時工作角色的價值
-* 瞭解指派任務時專案範本的價值
-* 瞭解將任務指派給團隊的價值
+* 了解工作角色在指派任務時的價值
+* 了解專案範本在指派任務時的價值
+* 了解向團隊指派任務的價值
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
