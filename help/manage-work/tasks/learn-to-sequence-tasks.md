@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 76%
 
 ---
 
@@ -23,10 +24,11 @@ ht-degree: 100%
 
 觀看這段影片，您將會瞭解：
 
-* 在 [!DNL  Workfront] 中什麼是前置任務
-* 前置任務如何排定專案中任務的順序
+* 什麼是Workfront的前置任務
 * 如何使用期間和前置任務來建立時間表
-* 如何變更或輸入前置任務
+* 前置任務如何排定專案中任務的順序
+* 設定任務開始日期將如何影響任務限制
+* 如何輸入前置任務
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
