@@ -12,16 +12,16 @@ last-substantial-update: 2023-05-05T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
 # 瞭解專案溝通
 
-觀看這段影片，您將會瞭解如何利用以下項目與所有專案利害關係人溝通：
+在本影片中，您將瞭解如何使用與所有專案關係人溝通：
 
 * 良好的專案規劃
 * 更新

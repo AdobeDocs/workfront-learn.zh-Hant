@@ -11,8 +11,8 @@ team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: ht
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 問題
 * 休假
 
-觀看這段影片，您將瞭解如何：
+觀看這段影片，您將了解如何：
 
 * 複製行事曆
 * 編輯行事曆分組

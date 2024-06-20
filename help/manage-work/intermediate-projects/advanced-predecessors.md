@@ -12,8 +12,8 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
-workflow-type: ht
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 >* 或者您已經適應在專案中使用前置任務
 
 
-觀看這段影片，您將會瞭解以下資訊：
+觀看這段影片，您將會了解以下資訊：
 
 * 任務相依性
 * 延遲類型

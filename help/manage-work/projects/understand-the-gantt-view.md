@@ -12,16 +12,16 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
 # 瞭解[!UICONTROL 甘特圖]視圖
 
-觀看這段影片，您將瞭解如何使用：
+在本影片中，您將瞭解如何使用：
 
 * 專案甘特圖
 * 任務甘特圖
