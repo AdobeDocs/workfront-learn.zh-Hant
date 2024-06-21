@@ -1,6 +1,6 @@
 ---
-title: 瞭解如何排定任務順序
-description: 瞭解什麼是前置任務以及其在專案中如何排定任務順序。然後瞭解如何使用期間和前置任務來建立時間表。
+title: 了解如何排定任務順序
+description: 了解什麼是前置任務以及其在專案中如何排定任務順序。然後了解如何使用期間和前置任務來建立時間表。
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -16,19 +16,19 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
-# 瞭解如何排定任務順序
+# 了解如何排定任務順序
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
-* 什麼是Workfront的前置任務
-* 如何使用期間和前置任務來建立時間表
+* Workfront 中的前置任務是什麼
+* 如何使用持續期間和前置任務來建立時間表
 * 前置任務如何排定專案中任務的順序
 * 設定任務開始日期將如何影響任務限制
-* 如何輸入前置任務
+* 如何進入前置任務
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
@@ -44,6 +44,6 @@ Overview of task dependency types
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
-* [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
-* [瞭解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
+* [了解任務期間](/help/manage-work/tasks/understand-task-durations.md)
+* [了解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
+* [了解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
