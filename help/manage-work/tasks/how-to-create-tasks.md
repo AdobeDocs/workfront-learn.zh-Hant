@@ -1,6 +1,6 @@
 ---
 title: 建立任務
-description: 瞭解在 Adobe Workfront 的專案中建立任務的幾種方法。
+description: 了解在 Adobe Workfront 的專案中建立任務的幾種方法。
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
@@ -11,7 +11,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
 ht-degree: 100%
 
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解上層-下層任務](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [了解上層-下層任務](/help/manage-work/tasks/understand-parent-child-tasks.md)
 * [處理任務](/help/manage-work/tasks/work-with-tasks.md)
 * [指派專案計劃的任務](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

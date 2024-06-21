@@ -1,6 +1,6 @@
 ---
-title: 瞭解[!UICONTROL 展示板]視圖
-description: 瞭解如何在專案登陸頁面使用[!UICONTROL 展示板]視圖。
+title: 了解[!UICONTROL 展示板]視圖
+description: 了解如何在專案登陸頁面使用[!UICONTROL 展示板]視圖。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,13 +13,13 @@ recommendations: noDisplay,noCatalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 
 ---
 
-# 瞭解[!UICONTROL 展示板]視圖
+# 了解[!UICONTROL 展示板]視圖
 
 觀看這段影片，您將會了解：
 
@@ -34,4 +34,4 @@ ht-degree: 100%
 * [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [追蹤專案整體進度](/help/manage-work/projects/track-overall-project-progress.md)
 * [使用專案量度追蹤工作進度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [瞭解[!UICONTROL 甘特圖]視圖](/help/manage-work/projects/understand-the-gantt-view.md)
+* [了解[!UICONTROL 甘特圖]視圖](/help/manage-work/projects/understand-the-gantt-view.md)

@@ -1,6 +1,6 @@
 ---
 title: 變更專案狀態來完成專案
-description: 瞭解如何變更專案狀態來表示工作已完成。
+description: 了解如何變更專案狀態來表示工作已完成。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-12T00:00:00Z
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
 

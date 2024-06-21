@@ -1,6 +1,6 @@
 ---
 title: 建立自訂行事曆報告
-description: 瞭解如何建立自訂行事曆，顯示個人的工作項目和休假。
+description: 了解如何建立自訂行事曆，顯示個人的工作項目和休假。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,7 +12,7 @@ thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 

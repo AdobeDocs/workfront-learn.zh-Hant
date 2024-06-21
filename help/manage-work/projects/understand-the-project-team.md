@@ -14,7 +14,7 @@ jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 
@@ -33,4 +33,4 @@ ht-degree: 100%
 * [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [尋找專案](/help/manage-work/projects/find-projects.md)
 * [共用專案](/help/manage-work/projects/share-a-project.md)
-* [瞭解專案溝通](/help/manage-work/projects/understand-project-communication.md)
+* [了解專案溝通](/help/manage-work/projects/understand-project-communication.md)

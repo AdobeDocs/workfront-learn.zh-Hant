@@ -1,6 +1,6 @@
 ---
 title: 了解跨專案前置任務
-description: 瞭解如何使用和追蹤兩個以上專案的前置任務。
+description: 了解如何使用和追蹤兩個以上專案的前置任務。
 feature: Work Management
 thumbnail: 3422123.jpg
 type: Tutorial
@@ -13,7 +13,7 @@ jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [瞭解任務序列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=zh-Hant)
+>* [了解任務序列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=zh-Hant)
 >* 或者您已經適應在專案中使用前置任務
 
 
@@ -37,4 +37,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on)
 
-要瞭解如何建立「**跨專案的前置任務和後續任務**」視圖以及影片中使用的「**跨專案的前置任務和後續任務**」報告，請參閱「[瞭解視圖的基本文字模式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)」教學課程，而且若要需要，請務必參加所列出的先修課程。
+要了解如何建立「**跨專案的前置任務和後續任務**」視圖以及影片中使用的「**跨專案的前置任務和後續任務**」報告，請參閱「[了解視圖的基本文字模式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)」教學課程，而且若要需要，請務必參加所列出的先修課程。

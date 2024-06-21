@@ -1,6 +1,6 @@
 ---
 title: 進階前置任務
-description: 瞭解前置任務的相依性類型、延遲類型、強制執行的前置任務、相依性循環錯誤以及一些捷徑和最佳實務。
+description: 了解前置任務的相依性類型、延遲類型、強制執行的前置任務、相依性循環錯誤以及一些捷徑和最佳實務。
 feature: Work Management
 thumbnail: 3424287.jpg
 type: Tutorial
@@ -13,7 +13,7 @@ jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [瞭解任務序列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=zh-Hant)
+>* [了解任務序列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=zh-Hant)
 >* 或者您已經適應在專案中使用前置任務
 
 
