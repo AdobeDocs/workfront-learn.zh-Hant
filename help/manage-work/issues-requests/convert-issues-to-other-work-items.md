@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2024-02-28T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: 7eb3c1265368a349e9483bc3aa00831068300b2e
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 100%
 
 ---
 
@@ -27,4 +28,8 @@ ht-degree: 0%
 >
 >專案時間表上不能新增問題，因為問題代表「未規劃的工作」。專案時間表適用於「已規劃的工作」，即任務。
 
+## 有關此主題的推薦教學課程
+
+* [將問題/請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [處理未規劃的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

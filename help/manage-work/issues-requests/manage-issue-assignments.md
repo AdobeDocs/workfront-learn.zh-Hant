@@ -9,11 +9,12 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-05-26T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '69'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
@@ -30,3 +31,10 @@ ht-degree: 100%
 * 更新問題狀態
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on)
+
+## 有關此主題的推薦教學課程
+
+* [處理未規劃的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [尋找和管理請求](/help/manage-work/issues-requests/find-requests.md)
+* [將問題/請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [將問題/請求轉換為任務](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

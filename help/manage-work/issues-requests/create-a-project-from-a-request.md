@@ -9,11 +9,12 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
-workflow-type: ht
-source-wordcount: '416'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '431'
 ht-degree: 100%
 
 ---
@@ -58,3 +59,9 @@ ht-degree: 100%
 為了提高工作效率並且在步調快速的環境中讓轉換問題變得更簡單，您可以將專案、報告或儀表板中任何問題清單中的問題轉換為任務或專案。只需選取一個問題，然後按一下出現的三圓點選單。
 
 ![影像是顯示問題轉換選項的專案畫面](assets/convert-from-a-list.png)
+
+## 有關此主題的推薦教學課程
+
+* [將問題/請求轉換為任務](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [處理未規劃的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+

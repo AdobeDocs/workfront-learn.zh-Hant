@@ -1,6 +1,6 @@
 ---
-title: 問題報告
-description: 瞭解如何透過建立報告來集中處理問題。
+title: 報告問題
+description: 瞭解如何透過建立報告來集中所有問題。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,42 +8,46 @@ thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 2%
+source-wordcount: '286'
+ht-degree: 100%
 
 ---
 
-# 問題報告
+# 報告問題
 
-瞭解如何透過建立報告來集中處理問題。
+瞭解如何透過建立報告來集中所有問題。
 
-## 建立報告以集中處理問題
+## 透過建立報告來集中問題
 
-許多流量和專案經理都會建立 [!UICONTROL Workfront] 自訂報告，集中處理所有傳入的問題。 這可讓您輕鬆追蹤新增內容並吸引注意力。
+許多流量和專案經理人建立 [!UICONTROL Workfront] 自訂報告，把傳來的所有問題集中處理。這樣可以更容易追蹤最新以及需要留意的內容。
 
-然後，可以將報告新增到儀表板，將您工作所需的一切內容放在一個儀表板中 [!UICONTROL Workfront] 視窗。
+接著可以把報告新增至儀表板中，把工作所需的全部項目放在一個 [!UICONTROL Workfront] 視窗中。
 
-![的影像 [!UICONTROL 解析物件] 問題報告的欄。](assets/18-resolving-object-report.png)
+![影像顯示問題報告的「[!UICONTROL 解決物件]」欄。](assets/18-resolving-object-report.png)
 
-若要顯示問題轉換為的任務或專案名稱，請包含&quot;[!UICONTROL 解析物件]」欄。 A &quot;[!UICONTROL 解析物件]「是您轉換問題時建立的任務或專案。 如果問題尚未轉換 [!UICONTROL 解析物件] 欄位將為空白。 此報表可讓您快速檢視哪些問題已轉換，以免最終產生重複專案。 只需按一下解析物件名稱即可將其開啟，以便您可以追蹤正在完成的工作的進度。
+要顯示由問題轉換而成的任務或專案的名稱，請在視圖中包含「[!UICONTROL 解決物件]」欄。「[!UICONTROL 解決物件]」是您在轉換問題時建立的任務或專案。若是問題尚未轉換，「[!UICONTROL 解決物件]」欄位將是空白。您可以利用這份報告迅速查看哪些問題已經轉換，以避免產生重複的項目。按一下解決物件名稱來開啟物件，讓您可以追蹤所執行工作的進度。
 
 ## 在報告中顯示原始問題資訊
 
-當問題轉換為專案或任務時，許多原始問題詳細資料可以在專案或任務報告中報告。 原始問題將反向連結為&quot;[!UICONTROL 轉換的問題]「。
+當問題轉換為專案或任務時，您可以在專案或任務報告中報告許多原始問題詳細資料。原始問題被稱為「[!UICONTROL 已轉換的問題]」。
 
-專案或任務報告可使用以下工具顯示此資訊： [!UICONTROL 轉換的問題建立者] 物件以及兩個專用欄位。 無需文字模式，即可將下列欄新增至自訂檢視：
+專案或任務報告可以使用「[!UICONTROL 已轉換問題的建立者]」物件搭配兩個專屬欄位來顯示這些資訊。不需要文字模式即可將這些欄位新增到自訂視圖中：
 
 * [!UICONTROL 已轉換問題的輸入日期]
 * [!UICONTROL 已轉換問題的名稱]
-* [!UICONTROL 轉換的問題建立者>名稱]
+* [!UICONTROL 已轉換問題的建立者 > 名稱]
 
-![問題報告資訊的影像。](assets/19-text-mode-reporting-for-issues.png)
+![影像顯示問題報告資訊。](assets/19-text-mode-reporting-for-issues.png)
 
->[!NOTE]
->
->如需如何建立檢視的說明，請參閱 [建立基本檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+
+## 有關此主題的推薦教學課程
+
+* [建立基本視圖](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [建立簡單報告](/help/reporting/basic-reporting/create-a-simple-report.md)
+* [尋找和管理請求](/help/manage-work/issues-requests/find-requests.md)
 

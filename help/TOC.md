@@ -3,8 +3,8 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
-workflow-type: ht
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
 source-wordcount: '2404'
 ht-degree: 100%
 
@@ -141,7 +141,6 @@ ht-degree: 100%
       + [更新請求](manage-work/issues-requests/update-a-request.md)
       + [將問題/請求轉換為專案](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [將問題/請求轉換為任務](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [檢閱及核准數位工作](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [報告問題](manage-work/issues-requests/report-on-issues.md)
 
    + 請求佇列 {#request-queues}
@@ -160,6 +159,7 @@ ht-degree: 100%
    + 核准流程與里程碑路徑 {#approval-processes-and-milestone-paths}
       + [建立單次使用的核准流程](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [附加和編輯現有核准流程](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+      + [檢閱及核准數位工作](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [委派任務、問題與核准](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [套用里程碑](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [檢視里程碑](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
