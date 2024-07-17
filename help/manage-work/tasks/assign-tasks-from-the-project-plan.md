@@ -14,7 +14,7 @@ recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
 source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -43,8 +43,8 @@ Modify multiple user assignments in a task list
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
+* [了解任務期間](/help/manage-work/tasks/understand-task-durations.md)
 * [瞭解如何排定任務順序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
-* [瞭解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
+* [了解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
 

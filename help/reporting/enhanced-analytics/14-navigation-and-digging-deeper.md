@@ -1,6 +1,6 @@
 ---
-title: 深入瞭解導覽
-description: 瞭解如何快速瞭解工作者投入每個專案的時間在 [!UICONTROL 增強型分析].
+title: 深入了解導覽
+description: 了解如何在[!UICONTROL 增強型分析]中快速查看員工對每個專案投注多少時間。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -15,13 +15,13 @@ exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# 深入瞭解導覽
+# 深入了解導覽
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 如何快速查看員工對每個專案投注多少時間
 
@@ -29,7 +29,7 @@ ht-degree: 92%
 
 ## 檢閱在各個專案上花費的時間
 
-您可以利用專案樹狀圖瞭解使用者對一個專案投注多少時間。方塊代表專案。方塊的大小表示相對於其他專案，在此專案上所花費的時間。方塊越大，花費的時間越多。
+您可以利用專案樹狀圖了解使用者對一個專案投注多少時間。方塊代表專案。方塊的大小表示相對於其他專案，在此專案上所花費的時間。方塊越大，花費的時間越多。
 
 查看這些資訊可協助您判斷：
 

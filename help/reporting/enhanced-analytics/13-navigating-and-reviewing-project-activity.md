@@ -1,6 +1,6 @@
 ---
-title: 瞭解如何導覽和檢閱專案活動
-description: 瞭解如何根據登入的使用者、任務狀態變更和完成的任務比較專案 [!UICONTROL 增強型分析].
+title: 了解如何導覽和檢閱專案活動
+description: 了解如何在[!UICONTROL 增強型分析]中根據已登入的使用者、任務狀態變更以及已完成的任務來進行專案比較。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -15,21 +15,21 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
-# 瞭解如何導覽和檢閱專案活動
+# 了解如何導覽和檢閱專案活動
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
-* 瞭解如何根據已登入的使用者、任務狀態變更和已完成的任務來進行專案比較
+* 了解如何根據已登入的使用者、任務狀態變更和已完成的任務來進行專案比較
 
 >[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on)
 
 ## 比較專案工作
 
-您可以利用專案活動表來瞭解各種專案活動，包括已登入的使用者、任務狀態變更以及已完成的任務，並針對 Workfront 中其他專案進行這些活動的比較。專案活動用不同顏色顯示以便總結一段時間內的活動情況。
+您可以利用專案活動表來了解各種專案活動，包括已登入的使用者、任務狀態變更以及已完成的任務，並針對 Workfront 中其他專案進行這些活動的比較。專案活動用不同顏色顯示以便總結一段時間內的活動情況。
 
 查看這些資訊可協助您判斷：
 

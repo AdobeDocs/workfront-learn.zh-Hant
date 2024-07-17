@@ -12,7 +12,7 @@ exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
@@ -39,6 +39,6 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 練習 URL：`https://pokeapi.co/api/v2/pokemon/{Character}`
 
 
-## 想要瞭解更多嗎？我們建議參閱以下資訊：
+## 想要了解更多嗎？我們建議參閱以下資訊：
 
 [Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)

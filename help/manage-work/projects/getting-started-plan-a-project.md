@@ -13,7 +13,7 @@ jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
 source-git-commit: ab2b4848acc69b0c6f6cd89ec0c9bf4203c2d297
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -38,4 +38,4 @@ ht-degree: 100%
 * [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
 * [瞭解如何排定任務順序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
-* [瞭解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
+* [了解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)

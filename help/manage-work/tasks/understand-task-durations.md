@@ -14,7 +14,7 @@ recommendations: noDisplay,noCatalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
 source-git-commit: 8a0c7dd171659460233379fb5f986d7b8341c6d7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
@@ -35,5 +35,5 @@ ht-degree: 100%
 
 * [瞭解如何排定任務順序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
-* [瞭解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
+* [了解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
 

@@ -1,6 +1,6 @@
 ---
-title: 瞭解存取及檢閱待執行工作圖表
-description: 瞭解如何存取待執行工作圖表，並瞭解中剩餘時數、專案狀態與專案速度之間的關係 [!UICONTROL 增強型分析].
+title: 了解存取和檢閱燃盡圖
+description: 了解如何在[!UICONTROL 增強型分析]中存取燃盡圖並理解剩餘時數、專案狀況與專案速度之間的關係。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -15,13 +15,13 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# 瞭解存取和檢閱燃盡圖
+# 了解存取和檢閱燃盡圖
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 如何存取燃盡圖
 * 如何理解專案的剩餘時間、專案狀況和速度之間的關係

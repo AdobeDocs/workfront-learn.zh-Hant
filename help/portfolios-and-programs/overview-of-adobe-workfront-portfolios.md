@@ -1,5 +1,5 @@
 ---
-title: 瞭解投資組合
+title: 了解專案組合
 description: 瞭解 Workfront 中的專案組合以及其如何協助您確認專案的優先順序並進行專案之間的比較。
 activity: use
 team: Technical Marketing
@@ -14,11 +14,11 @@ exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
-# 瞭解投資組合
+# 了解專案組合
 
 管理員通常都要處理一項棘手的工作，即確定哪些專案對於實現公司的長期和短期目標最有幫助。這意味著要根據對目標具有重要性的條件來評估目前或可能的專案。這些條件可能包括所需的資源數量、專案需花費多少成本與專案所帶來的成效相比，以及瞭解相關的風險。藉由這些資訊，經理人可以決定應該完成哪些專案以及何時完成。
 
@@ -52,25 +52,25 @@ ht-degree: 74%
 
 ![影像顯示[!UICONTROL 共用]選項，位於 [!DNL Workfront] 專案組合](assets/04-portfolio-management11.png)
 
-## 建立投資組合
+## 建立專案組合
 
-若要建立投資組合，請按一下 **[!UICONTROL Portfolio]** ，位於主要功能表中。
+若要建立專案組合，按一下主選單中的&#x200B;**[!UICONTROL 專案組合]**。
 
-![主功能表的影像 ](assets/create-portfolio-1.png)
+![主選單的影像](assets/create-portfolio-1.png)
 
-在Portfolio區域中，按一下 **[!UICONTROL 新Portfolio]**.
+在「專案組合」區域中，按一下&#x200B;**[!UICONTROL 新專案組合]**。
 
-![Portfolio區域的影像 ](assets/create-portfolio-2.png)
+![專案組合區域的影像](assets/create-portfolio-2.png)
 
-為投資組合命名，然後按一下 **[!UICONTROL 新增專案]** 將專案新增至投資組合。 您可以透過多種方式建立新專案，就像從 **[!UICONTROL 專案]** 區域。 您從此建立的任何新專案將屬於此投資組合。 您也可以按一下 **[!UICONTROL 現有專案]** 以從清單中選取現有專案。
+為專案組合命名，然後按一下&#x200B;**[!UICONTROL 新專案]**&#x200B;將專案新增至專案組合。您可以透過多種方式建立新專案，就像在&#x200B;**[!UICONTROL 專案]**&#x200B;區域中建立新專案一樣。您從此處建立的任何新專案都將屬於此專案組合。您也可以按一下&#x200B;**[!UICONTROL 現有專案]**&#x200B;從清單中選取現有專案。
 
-![新專案功能表的影像 ](assets/create-portfolio-3.png)
+![新專案選單的影像](assets/create-portfolio-3.png)
 
-## 在投資組合中建立方案
+## 在專案組合中建立方案
 
-選取 **[!UICONTROL 計畫]** 標籤，然後按一下 **[!UICONTROL 新計畫]** 以在此投資組合中建立新的計畫，或按一下 **[!UICONTROL 現有計畫]** 從其他投資組合竊取現有計畫。
+選取&#x200B;**[!UICONTROL 方案]**&#x200B;標籤，然後按一下&#x200B;**[!UICONTROL 新方案]**，在此專案組合中建立新方案，或按一下&#x200B;**[!UICONTROL 現有方案]**，從其他專案組合中取走現有方案。
 
-![新程式選單的影像 ](assets/create-portfolio-4.png)
+![新方案選單的影像](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic

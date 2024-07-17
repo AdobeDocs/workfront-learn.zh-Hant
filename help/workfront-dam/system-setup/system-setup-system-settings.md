@@ -1,6 +1,6 @@
 ---
-title: 瞭解系統設定
-description: 瞭解如何建立全域設定、設定資產選項、建立檔案夾設定、建立下載規則，以及檢視報告和稽核記錄 [!UICONTROL WORKFRONT DAM].
+title: 了解系統設定
+description: 了解如何在 [!UICONTROL Workfront DAM] 中建立全域設定、設定資產選項、建立資料夾設定、訂立下載規則以及檢視報告和稽核記錄。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,18 +13,18 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 瞭解系統設定
+# 了解系統設定
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將了解如何：
 
 * 建立全域設定
 * 設定影響資產的選項
 * 建立影響資料夾的設定
-* 制定有關下載的規則
-* 檢視報告和稽核記錄
+* 訂立下載相關規則
+* 檢視報告與稽核記錄
 
 >[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on)

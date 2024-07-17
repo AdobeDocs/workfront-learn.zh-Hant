@@ -1,6 +1,6 @@
 ---
-title: 如何存取 [!UICONTROL 增強型分析]
-description: 瞭解系統和群組管理員如何授予存取權 [!UICONTROL 增強型分析] 透過版面範本。
+title: 如何存取[!UICONTROL 增強型分析]
+description: 了解系統和群組管理員如何透過版面配置範本授予[!UICONTROL 增強型分析]的存取權。
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -16,18 +16,18 @@ doc-type: video
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
 
-# 如何存取增強型Analytics
+# 如何存取增強型分析
 
-如同Workfront中的大部分其他功能，您可以存取 [!UICONTROL 增強型分析] 從主功能表。 但是 [!UICONTROL Analytics] 預設不在主功能表中。
+與 Workfront 的大多數其他功能一樣，您可以從主選單存取[!UICONTROL 增強型分析]。但[!UICONTROL 分析]預設不在主選單上。
 
-![主功能表的影像 ](assets/analytics-on-main-menu.png)
+![主選單的影像](assets/analytics-on-main-menu.png)
 
-如果您在那裡看不到，您的系統或群組管理員需要為您新增它。 他們會在版面配置範本中執行此操作。 以下影片說明如何進行。
+如果沒有出現在主選單，則您的系統或群組管理員必須為您新增。他們將在版面配置範本中執行此操作。下面的影片說明如何操作。
 
 
 ## 新增分析到版本配置範本

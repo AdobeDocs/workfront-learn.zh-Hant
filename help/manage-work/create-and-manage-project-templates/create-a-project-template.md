@@ -1,6 +1,6 @@
 ---
-title: 建立專案範本並瞭解 [!UICONTROL 藍圖]
-description: 瞭解如何從頭開始並從現有專案建立專案範本，並瞭解如何進行 [!UICONTROL 藍圖] 可讓您存取Workfront專家建立的實用專案範本世界。
+title: 建立專案範本並瞭解[!UICONTROL 藍圖]
+description: 學習從頭開始和從現有專案建立專案範本，並瞭解如何透過[!UICONTROL 藍圖]存取由 Workfront 專家建立的許多實用專案範本。
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -15,41 +15,41 @@ doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 建立專案範本並瞭解 [!UICONTROL 藍圖]
+# 建立專案範本並瞭解[!UICONTROL 藍圖]
 
-瞭解如何從頭開始並從現有專案建立專案範本，並瞭解如何進行 [!UICONTROL 藍圖] 可讓您存取Workfront專家建立的實用專案範本世界。
+學習從頭開始和從現有專案建立專案範本，並瞭解如何透過[!UICONTROL 藍圖]存取由 Workfront 專家建立的許多實用專案範本。
 
 ## 建立專案範本
 
-在本影片中，您將瞭解如何：
+觀看這段影片，您將瞭解如何：
 
 * 從頭開始建立範本
-* 從現有專案建立範本
+* 使用現有專案建立範本
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
-## 使用建立的範本 [!UICONTROL 藍圖]
+## 使用[!UICONTROL 藍圖]建立範本
 
-Workfront使用者可以使用 [!UICONTROL 藍圖] 協助建立專案範本。 此功能位於主要功能表，可讓您存取針對部門和特定成熟度層級的預先建立、現成可用的範本。 這些範本為使用者提供了可重複專案建立的良好開端，並有助於在範圍類似的專案中維持一致性。
+Workfront 使用者可以使用[!UICONTROL 藍圖]來協助建立專案範本。這項功能位在主選單，讓您可以存取預先建立、隨時可用的範本，是專為特定部門和特定成熟度等級提供的範本。這些範本讓使用者在重複建立專案時起步更快，並保持範圍以內各個專案之間的一致性。
 
-![主功能表中的Blueprint](assets/pt-blueprints-01.png)
+![主選單中的藍圖](assets/pt-blueprints-01.png)
 
-任何授權使用者都可以瀏覽Workfront中可用的Blueprint清單。 建立新專案時（例如將任務或請求轉換為專案），您無法直接套用Blueprint。 Blueprint和專案範本的主要差異在於，Blueprint是用來建立範本，而範本是用來建立專案。 **Blueprint需要由系統管理員安裝，才能建立對應的範本。**
+任何已授權的使用者都可以瀏覽 Workfront 中可用的藍圖清單。建立新專案時 (例如將任務或請求轉換為專案)，您無法直接套用藍圖。藍圖和專案範本之間有一項重要差異，我們使用藍圖來建立範本，而使用專案範本來建立專案。**系統管理員必須安裝藍圖才能建立對應的範本。**
 
-如果您找到看起來有趣的Blueprint，您可以按一下 **[!UICONTROL 詳細資料]** 以進一步瞭解。
+如果您發現看起來有趣的藍圖，可以按一下「**[!UICONTROL 詳細資訊]**」瞭解更多。
 
 ![藍圖清單](assets/pt-blueprints-02.png)
 
-此 [!UICONTROL 詳細資料] 畫面會說明Blueprint的詳細資訊，包括已安裝Blueprint時的安裝歷史記錄。
+「[!UICONTROL 詳細資訊]」畫面說明有關藍圖的更多資訊，包括安裝歷史記錄 (若已安裝藍圖)。
 
-![有關使用Blueprint的詳細資訊](assets/pt-blueprints-03.png)
+![關於使用藍圖的詳細資訊](assets/pt-blueprints-03.png)
 
-如果已安裝Blueprint，您可以按一下 **[!UICONTROL 檢視詳細資料]** 以取得所建立範本的連結，以及所建立以支援範本的任何其他物件。
+如果藍圖已安裝，您可以按一下「**[!UICONTROL 查看詳細資訊]**」取得所建立範本以及為支援該範本而建立的任何其他物件之連結。
 
-![有關Blueprint安裝的詳細資料](assets/pt-blueprints-04.png)
+![關於安裝藍圖的詳細資訊](assets/pt-blueprints-04.png)
 
-如果尚未安裝Blueprint，您可以向系統管理員要求它。
+如果尚未安裝藍圖，您可以向系統管理員要求安裝。

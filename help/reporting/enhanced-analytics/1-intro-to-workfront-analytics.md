@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL 增強型分析]的產品速寫'
-description: 與  [!DNL Enhanced analytics] 產品經理 Joel Pettigrew 一起瞭解分析資料如何產生以及所帶來的令人期待的功能。
+description: 與  [!DNL Enhanced analytics] 產品經理 Joel Pettigrew 一起了解分析資料如何產生以及所帶來的令人期待的功能。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 # [!UICONTROL 增強型分析]的產品速寫
 
-與 Workfront 的 [!DNL Enhanced analytics] 產品經理 Joel Pettigrew 一起觀看這段影片，瞭解分析資料如何產生以及所帶來的令人期待的功能。
+與 Workfront 的 [!DNL Enhanced analytics] 產品經理 Joel Pettigrew 一起觀看這段影片，了解分析資料如何產生以及所帶來的令人期待的功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)

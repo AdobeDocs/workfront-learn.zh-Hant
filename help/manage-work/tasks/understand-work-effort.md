@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 source-git-commit: 8a0c7dd171659460233379fb5f986d7b8341c6d7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
-* [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
+* [了解任務期間](/help/manage-work/tasks/understand-task-durations.md)
+* [了解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
 * [建立基本視圖](/help/reporting/basic-reporting/create-a-basic-view.md)
