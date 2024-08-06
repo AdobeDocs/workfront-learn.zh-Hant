@@ -1,6 +1,6 @@
 ---
 title: 建立請求佇列
-description: 瞭解在  [!DNL  Workfront] 中如何設定請求佇列及建立佇列詳細資料。請按照以下步驟幫助您的組織管理工作量。
+description: 瞭解如何設定請求佇列及建立佇列詳細資訊。 請按照以下步驟幫助您的組織管理工作量。
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -8,13 +8,15 @@ role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335221.jpeg
+recommendations: noDisplay,noCatalog
 jira: KT-8958
+last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
+source-git-commit: e43f7f6a9c95f02b69104ef62337efa6bbc10b14
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 84%
 
 ---
 
@@ -28,16 +30,9 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
-## 換您來操作
+## 有關此主題的推薦教學課程
 
-讓我們花一點時間回顧剛才提供給您的資訊。
-
-**問題：**&#x200B;若要讓請求佇列上線必須具備以下哪項？(選取所有適用者)
-
-1. 專案狀態 = 目前
-1. 已選取該請求類型的「問題」
-1. 已選取「發佈為說明請求佇列」
-1. 專案狀態 = 目前或規劃
-
-**回答：** 1) 專案狀態 = 目前以及 3) 已選取「發佈為說明請求佇列」
+* [瞭解請求佇列](/help/manage-work/request-queues/understand-request-queues.md)
+* [了解流程請求的設定](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
 
