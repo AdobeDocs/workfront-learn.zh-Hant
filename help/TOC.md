@@ -3,10 +3,10 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f08765083adcc636f4f0241a5856b15fb9e92cf
-workflow-type: ht
-source-wordcount: '2404'
-ht-degree: 100%
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
+workflow-type: tm+mt
+source-wordcount: '2407'
+ht-degree: 99%
 
 ---
 
@@ -146,7 +146,7 @@ ht-degree: 100%
    + 請求佇列 {#request-queues}
       + [瞭解請求佇列](manage-work/request-queues/understand-request-queues.md)
       + [建立請求佇列](manage-work/request-queues/create-a-request-queue.md)
-      + [瞭解流程請求的設定](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [了解流程請求的設定](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [建立請求流程](manage-work/request-queues/create-a-request-flow.md)
       + [建立系統管理員意見回饋請求佇列](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [請求佇列常見問題的解答](manage-work/request-queues/request-queue-faq.md)
@@ -642,7 +642,8 @@ ht-degree: 100%
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [工作負載平衡器](best-practices/workload-balancer-bp.md)
 
-
++ 適用於高階主管的Workfront {#workfront-for-executives}
+   + [高階管理層適用的 Workfront](workfront-for-executives/workfront-for-executives.md)
 
 
 
@@ -650,7 +651,6 @@ ht-degree: 100%
 + [什麼是 Scrum 方法以及其如何運作？](agile/what-is-the-scrum-methodology.md)
 + [介紹 Kanban 方法及其運作方式](agile/what-is-the-kanban-methodology.md)
 + [轉用敏捷方法](agile/transitioning-to-agile.md)
-+ [高階管理層適用的 Workfront](workfront-for-executives/workfront-for-executives.md)
 + [管理請求](manage-work/issues-requests/manage-incoming-requests.md)
 + [瞭解資源產能圖表](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 

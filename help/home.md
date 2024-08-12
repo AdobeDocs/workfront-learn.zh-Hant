@@ -2,9 +2,9 @@
 title: Workfront 教學課程
 description: 具備培訓影片與文章資料庫，協助您更加瞭解 Workfront 功能和設定。其中包括一系列最佳實務、精心策劃的練習和其他資源，協助您及貴組織擁有成功的 Workfront 使用經驗。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
@@ -22,17 +22,6 @@ See other user landing pages to get ideas.
 
 -->
 
-<div id="whats-new-section">
-
-## 最新資訊
-
-探索每個 Workfront 產品版本教學課程的最新內容。以下是最新版本的更新內容：
-
-* Workfront 頂端導覽區域中「我的最愛」和「最近項目」圖示分開。個別功能的簡短摘要請參閱「<a href="/help/manage-work/projects/find-projects.md">尋找專案</a>」教學課程。
-
-* 設定可處理多個物件類型的自訂表單。參閱「<a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">建立和共用自訂表單</a>」教學課程來瞭解如何操作。
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
