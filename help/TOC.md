@@ -3,7 +3,7 @@ user-guide-description: Workfront 教學課程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
+source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '2407'
 ht-degree: 99%
@@ -146,7 +146,7 @@ ht-degree: 99%
    + 請求佇列 {#request-queues}
       + [瞭解請求佇列](manage-work/request-queues/understand-request-queues.md)
       + [建立請求佇列](manage-work/request-queues/create-a-request-queue.md)
-      + [了解流程請求的設定](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [瞭解請求流程的設定](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [建立請求流程](manage-work/request-queues/create-a-request-flow.md)
       + [建立系統管理員意見回饋請求佇列](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [請求佇列常見問題的解答](manage-work/request-queues/request-queue-faq.md)

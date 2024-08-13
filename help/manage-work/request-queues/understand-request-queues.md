@@ -13,10 +13,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: 79365fbcd031ca3d65100574c8bef27929c8ffe6
-workflow-type: ht
+source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
+workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -34,6 +34,6 @@ ht-degree: 100%
 ## 有關此主題的推薦教學課程
 
 * [建立請求佇列](/help/manage-work/request-queues/create-a-request-queue.md)
-* [了解流程請求的設定](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [瞭解請求流程的設定](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
 
