@@ -1,6 +1,6 @@
 ---
 title: 建立請求佇列
-description: 瞭解如何設定請求佇列及建立佇列詳細資訊。 請按照以下步驟幫助您的組織管理工作量。
+description: 瞭解如何設定請求佇列及建立佇列詳細資料。請按照以下步驟幫助您的組織管理工作量。
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 76%
+ht-degree: 92%
 
 ---
 
