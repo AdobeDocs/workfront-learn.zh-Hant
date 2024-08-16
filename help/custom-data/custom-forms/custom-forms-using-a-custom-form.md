@@ -11,18 +11,15 @@ thumbnail: 335173.png
 jira: KT-8910
 exl-id: 0d4ebd19-f4e8-4e3b-9580-e22e47442836
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 8deb28bbeeb814cfe03506c0b8d045a742950ab9
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '47'
+ht-degree: 65%
 
 ---
 
 # 在物件上附加自訂表單
 
-觀看這段影片，您將瞭解如何：
-
-* 在物件上附加自訂表單
-* 在報告中新增自訂欄位
+在本影片中，您將會瞭解如何將自訂從附加至Workfront中的物件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on)
