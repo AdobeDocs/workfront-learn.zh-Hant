@@ -1,6 +1,6 @@
 ---
-title: 瞭解請求流程的設定
-description: 瞭解請求流程，以及如何使用路由規則、主題群組和佇列主題來建立請求流程。
+title: 了解請求流程設定
+description: 了解請求流程，以及如何使用路由規則、主題群組和佇列主題建立請求流程。
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -14,13 +14,13 @@ last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
-# 瞭解請求流程的設定
+# 了解請求流程設定
 
 觀看這段影片，您將會瞭解：
 

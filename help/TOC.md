@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2407'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -146,7 +146,7 @@ ht-degree: 99%
    + 請求佇列 {#request-queues}
       + [瞭解請求佇列](manage-work/request-queues/understand-request-queues.md)
       + [建立請求佇列](manage-work/request-queues/create-a-request-queue.md)
-      + [瞭解請求流程的設定](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [了解請求流程設定](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [建立請求流程](manage-work/request-queues/create-a-request-flow.md)
       + [建立系統管理員意見回饋請求佇列](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [請求佇列常見問題的解答](manage-work/request-queues/request-queue-faq.md)
@@ -642,7 +642,7 @@ ht-degree: 99%
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [工作負載平衡器](best-practices/workload-balancer-bp.md)
 
-+ 適用於高階主管的Workfront {#workfront-for-executives}
++ 高階管理層適用的 Workfront {#workfront-for-executives}
    + [高階管理層適用的 Workfront](workfront-for-executives/workfront-for-executives.md)
 
 

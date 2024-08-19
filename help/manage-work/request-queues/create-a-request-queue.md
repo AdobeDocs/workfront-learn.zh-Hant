@@ -14,9 +14,9 @@ last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -33,6 +33,6 @@ ht-degree: 92%
 ## 有關此主題的推薦教學課程
 
 * [瞭解請求佇列](/help/manage-work/request-queues/understand-request-queues.md)
-* [瞭解請求流程的設定](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [了解請求流程設定](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
 
