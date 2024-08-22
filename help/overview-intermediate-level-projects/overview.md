@@ -7,28 +7,34 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-20T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ca218d2e86f45417b2165330f66057d50fd3d989
+source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 18%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
 
-# 中級專案概觀
+# 中級專案概觀 {#overview}
 
 以下教學課程將讓您深入瞭解Workfront中的各種專案管理工具，以及一些專業秘訣和最佳實務。
 
 >[!PREREQUISITES]
 >
+>* 充分瞭解如何使用Workfront
+>* 已啟用建立專案許可權的標準授權型別
 >* [開始使用專案管理員適用的Workfront概述](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
 >* [管理和關閉專案概述](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners)
 >* [進一步瞭解以專案經理身分管理工作](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners)
+
+## 目標客群
+
+將建立或管理專案的標準授權使用者。
 
 ## 教學課程
 
