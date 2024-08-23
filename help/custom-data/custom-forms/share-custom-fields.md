@@ -11,16 +11,16 @@ thumbnail: share-custom-field.png
 jira: KT-10090
 exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
 source-git-commit: 8deb28bbeeb814cfe03506c0b8d045a742950ab9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
 # 共用自訂欄位
 
 
-在本影片中，您將瞭解如何決定誰可以檢視和/或編輯自訂欄位。
+在本影片中，您將了解如何確定誰可以檢視和/或編輯自訂欄位。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on)
 
