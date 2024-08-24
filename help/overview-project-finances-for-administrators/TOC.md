@@ -5,10 +5,10 @@ breadcrumb-title: Portfolio概觀
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 32%
 
 ---
 
@@ -17,10 +17,11 @@ ht-degree: 0%
 # 管理員專案財務概觀 {#project-finances-for-administrators}
 
 + [管理員專案財務概觀](overview.md)
-+ [瞭解績效量度](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)
-+ [設定任務收入和成本預設值](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults)
-+ [設定匯率](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates)
-+ [設定費用型別](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types)
-+ [瞭解財務存取權](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access)
++ 管理員{#project-finances-for-administrators}的專案財務
+   + [瞭解績效量度](understand-performance-metrics.md)
+   + [設定任務的預設收入與成本](set-up-task-revenue-and-cost-defaults.md)
+   + [設定匯率](set-up-exchange-rates.md)
+   + [設定費用類型](set-up-expense-types.md)
+   + [瞭解財務資訊存取](understand-financial-access.md)
 
 

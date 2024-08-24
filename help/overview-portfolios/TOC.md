@@ -5,10 +5,10 @@ breadcrumb-title: Portfolio概觀
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 33%
 
 ---
 
@@ -17,7 +17,8 @@ ht-degree: 0%
 # Portfolio概觀 {#portfolios}
 
 + [Portfolio概觀](overview.md)
-+ [瞭解投資組合](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios)
-+ [瞭解[!UICONTROL 業務案例]](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case)
-+ [使用[!UICONTROL Portfolio最佳化工具]來排定工作優先順序並管理工作](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios)
++ Portfolio概觀{#portfolios}
+   + [了解專案組合](overview-of-adobe-workfront-portfolios.md)
+   + [瞭解[!UICONTROL 業務案例]](introduction-to-the-business-case.md)
+   + [使用[!UICONTROL 專案組合最佳化工具]來確認工作的優先順序並進行管理](prioritize-and-manage-work-with-portfolios.md)
 
