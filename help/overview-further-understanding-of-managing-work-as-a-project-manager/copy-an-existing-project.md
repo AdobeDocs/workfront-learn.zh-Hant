@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10155
-exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
+hide: true
 source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -28,5 +28,6 @@ ht-degree: 94%
 您可以使用「複製專案」視窗來變更標題和狀態，以及清除與專案相關的各種資料，包括如指派、文件和自訂資料等選項。
 
 ![複製專案選項](assets/copy-existing-02.png)
+
 
 選取「清除指派」和/或將狀態設定為「規劃」，避免所複製的專案在複製之後馬上傳送任務指派通知。
