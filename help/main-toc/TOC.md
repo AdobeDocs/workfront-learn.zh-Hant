@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: 2fba61a64bbf18a485a4cda08102cdb9da9a5d1b
+source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
 workflow-type: tm+mt
-source-wordcount: '2407'
-ht-degree: 100%
+source-wordcount: '2412'
+ht-degree: 99%
 
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 100%
       + [建立和管理問題的嚴重程度](/help/administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [自訂問題類型和術語](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [設定全域預設問題偏好設定](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [建立和管理商業規則](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
    + 版面配置範本 {#layout-templates}
       + [什麼是版本配置範本？](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
