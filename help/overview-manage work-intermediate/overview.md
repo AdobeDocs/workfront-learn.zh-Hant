@@ -12,10 +12,10 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 1%
+source-wordcount: '796'
+ht-degree: 0%
 
 ---
 
@@ -73,6 +73,7 @@ Workfront中的里程碑為專案規劃、監控和報告提供了一些真正�
 * [套用里程碑](apply-milestones.md) — 瞭解如何將里程碑路徑套用至專案，並將關鍵任務建立為專案中里程碑步驟的關聯。
 * [檢視里程碑](view-milestones.md) — 瞭解如何在Adobe Workfront專案中檢視里程碑，以及使用專案區域中的里程碑檢視。
 
+
 ## 如何處理問題
 
 瞭解如何處理有關問題的計畫外工作、將問題轉換為其他工作專案、管理問題指派及報告問題。
@@ -86,13 +87,6 @@ Workfront中的里程碑為專案規劃、監控和報告提供了一些真正�
 * [將問題/請求轉換為任務](convert-issues-to-other-work-items.md) — 瞭解如何將問題轉換為任務。
 * [問題報告](report-on-issues.md) — 瞭解如何建立顯示解析物件的問題報告，以及顯示轉換的問題資訊的專案報告。
 
-## 專案時間表 
-
-瞭解如何排程專案並追蹤其進度。
-
-* [瞭解專案時間表](understand-project-timelines.md) — 瞭解如何從開始或完成日期開始排程專案。 然後瞭解期間、前置任務和任務限制對專案計劃有何影響。
-* [瞭解日期型別和進度狀態](understand-task-dates-and-progress-status.md) — 瞭解如何選取檢視以比較Workfront的不同日期型別，以及如何使用進度狀態列位。
-* [從專案時間表追蹤進度](track-work-progress-from-the-project-timeline.md) — 瞭解如何使用完成百分比、狀態、指派及任務限制，從專案時間表追蹤工作進度。
 
 ## 深入挖掘
 
