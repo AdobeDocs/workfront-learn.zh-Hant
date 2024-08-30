@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 94%
 
 導覽到您要複製的專案並按一下專案名稱旁邊的三圓點選單。然後選取「複製」。
 
-![複製專案功能表選項](assets/copy-existing-01.png)
+![複製專案選單選項](assets/copy-existing-01.png)
 
-您可以使用「複製專案」視窗來變更標題和狀態，以及清除與專案相關的各種資料，包括如指派、文件和自訂資料等選項。
+您可以使用「複製專案」視窗來變更標題和狀態，以及清除與專案相關的各種資料，例如指派、文件和自訂資料等選項。
 
 ![複製專案選項](assets/copy-existing-02.png)
 
-選取「清除指派」和/或將狀態設定為「規劃」，避免所複製的專案在複製之後馬上傳送任務指派通知。
+選取「清除指派」或將狀態設定為「規劃」，避免所複製的專案在複製之後馬上傳送任務指派通知。
