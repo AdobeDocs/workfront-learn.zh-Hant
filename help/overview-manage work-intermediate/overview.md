@@ -12,7 +12,7 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -52,7 +52,6 @@ Workfront中的里程碑為專案規劃、監控和報告提供了一些真正�
 * [停用專案範本](deactivate-a-project-template.md) — 瞭解如何啟用和停用專案範本。
 * [在專案範本中編輯專案團隊](edit-the-project-team-in-a-project-template.md) — 瞭解如何避免在範本專案團隊中無意地加入&#x200B;**非**&#x200B;專案團隊成員，以及如何編輯範本專案團隊。
 
-
 ## 如何建立及使用核准流程
 
 瞭解如何建立核准流程、將其附加到工作流程、稽核數位工作和委派核准。
@@ -64,7 +63,6 @@ Workfront中的里程碑為專案規劃、監控和報告提供了一些真正�
 * [瞭解更新與通知](understand-updates-and-notifications.md) — 瞭解如何更新核准要求並尋找您的通知。
 * [委派任務、問題和核准](delegate-approvals.md) — 瞭解如何將專案、任務、問題和時間表的核准委派給其他Adobe Workfront使用者。
 
-
 ## 如何建立和使用里程碑
 
 瞭解如何建立里程碑路徑、將里程碑套用至任務，以及檢視里程碑報告。
@@ -72,7 +70,6 @@ Workfront中的里程碑為專案規劃、監控和報告提供了一些真正�
 * [建立里程碑](creating-milestones.md) — 瞭解什麼是里程碑路徑、如何建立里程碑路徑，以及如何將里程碑步驟新增至專案。
 * [套用里程碑](apply-milestones.md) — 瞭解如何將里程碑路徑套用至專案，並將關鍵任務建立為專案中里程碑步驟的關聯。
 * [檢視里程碑](view-milestones.md) — 瞭解如何在Adobe Workfront專案中檢視里程碑，以及使用專案區域中的里程碑檢視。
-
 
 ## 如何處理問題
 
@@ -86,7 +83,6 @@ Workfront中的里程碑為專案規劃、監控和報告提供了一些真正�
 * [將問題/請求轉換為專案](create-a-project-from-a-request.md) — 瞭解如何啟動從請求到專案的轉換，並選取適當的專案範本。
 * [將問題/請求轉換為任務](convert-issues-to-other-work-items.md) — 瞭解如何將問題轉換為任務。
 * [問題報告](report-on-issues.md) — 瞭解如何建立顯示解析物件的問題報告，以及顯示轉換的問題資訊的專案報告。
-
 
 ## 深入挖掘
 

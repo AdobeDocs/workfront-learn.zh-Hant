@@ -12,7 +12,7 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 4%
@@ -42,7 +42,6 @@ ht-degree: 4%
 * [瞭解建立專案的四種方式](understand-other-ways-to-create-projects.md) — 瞭解如何從範本建立專案、從頭開始建立專案、複製現有專案或匯入[!DNL Microsoft Project]檔案。
 * [填寫專案詳細資料](fill-in-the-project-details.md) — 瞭解Adobe Workfront建議您在建立專案時填寫的專案詳細資料欄位。
 * [瀏覽專案頁面](navigate-the-project-page.md) — 瞭解如何檢視專案的詳細資料、工作清單中顯示的資訊、上傳檔案的位置，以及如何檢視更新歷史記錄。
-
 
 ## 計畫專案
 
@@ -76,7 +75,6 @@ ht-degree: 4%
 * [從專案時間表追蹤進度](track-work-progress-from-the-project-timeline.md) — 瞭解如何使用完成百分比、狀態、指派及任務限制，從專案時間表追蹤工作進度。
 * [瞭解[!UICONTROL 甘特圖]檢視](understand-the-gantt-view.md) — 瞭解如何使用專案[!UICONTROL 甘特圖]和任務[!UICONTROL 甘特圖]圖表。
 * [瞭解[!UICONTROL 展示板]檢視](understand-the-board-view.md) — 瞭解在哪裡可以找到展示板檢視以及如何使用它。
-
 
 ## 結束專案
 

@@ -1,23 +1,24 @@
 ---
-user-guide-title: 管理工作 — 中繼
+user-guide-title: 以專案經理身分進一步瞭解管理工作概觀
 user-guide-description: 您已瞭解建立、規劃和管理專案的基礎知識後，還有一些事情您應知道，以充分利用您的Workfront。
 feature: Work Management
-breadcrumb-title: 管理工作 — 中繼
+breadcrumb-title: 以專案經理身分進一步瞭解管理工作概觀
 solution: Workfront
 sub-product: Work Management
 index: y
 source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '216'
+ht-degree: 55%
 
 ---
 
 
-# 管理工作 — 中繼 {#manage-work-intermediate}
 
-+ [管理工作 — 中繼](overview.md)
-+ 管理工作 — 中繼{#manage-work-intermediate}
+# 以專案經理身分進一步瞭解管理工作概觀 {#further-understanding-of-managing-work-as-a-project-manager}
+
++ [以專案經理身分進一步瞭解管理工作概觀](overview.md)
++ 進一步瞭解以專案經理身分管理工作{#further-understanding-of-managing-work-as-a-project-manager}
    + 專案範本{#project-templates}
       + [建立專案範本並瞭解藍圖](create-a-project-template.md)
       + [直接使用範本建立專案](create-a-project-directly-from-a-template.md)
@@ -49,7 +50,9 @@ ht-degree: 64%
       + [將問題/請求轉換為任務](convert-issues-to-other-work-items.md)
       + [報告問題](report-on-issues.md)
 
-   + 正在深入挖掘{#digging-deeper}
-      + [瞭解和管理期限類型和任務限制](understand-and-manage-duration-types-and-task-constraints.md)
-      + [瞭解跨專案前置任務](understand-cross-project-predecessors.md)
-      + [進階前置任務](advanced-predecessors.md)
+   + 專案時間表 {#project-timelines}
+      + [瞭解專案時間表](understand-project-timelines.md)
+      + [瞭解日期類型和進度狀態](understand-task-dates-and-progress-status.md)
+      + [根據專案時間表追蹤進度](track-work-progress-from-the-project-timeline.md)
+
+
