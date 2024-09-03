@@ -1,28 +1,28 @@
 ---
-title: 管理員專案財務概觀
-description: 瞭解如何建立財務設定，以確保在您的Workfront執行個體或群組間計費和報告的一致性。
+title: 適用於管理員的專案財務
+description: 瞭解如何建立全系統的財務設定，以確保組織間計費和報告的一致性。
 feature: Work Management
 type: Tutorial
 role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 23%
+source-wordcount: '167'
+ht-degree: 4%
 
 ---
 
 
-# 管理員專案財務概觀
+# 適用於管理員的專案財務
 
-瞭解如何建立財務設定，以確保在您的Workfront執行個體或群組間計費和報告的一致性。
+瞭解如何建立全系統的財務設定，以確保組織間計費和報告的一致性。
 
 
 >[!PREREQUISITES]
@@ -30,15 +30,8 @@ ht-degree: 23%
 >* 對使用Workfront的基本瞭解
 >* 設定為系統或群組管理員的標準授權型別
 
-## 目標客群
-
-想要在Workfront中設定財務的系統或群組管理員。
-
-
-## 教學課程
-
-* [瞭解績效量度](understand-performance-metrics.md)
-* [設定任務的預設收入與成本](set-up-task-revenue-and-cost-defaults.md)
-* [設定匯率](set-up-exchange-rates.md)
-* [設定費用類型](set-up-expense-types.md)
-* [瞭解財務資訊存取](understand-financial-access.md)
+* [瞭解績效量度](understand-performance-metrics.md) — 瞭解兩個績效量度：績效指數方法(PIM)和預估完成成本(EAC)。
+* [設定任務收入和成本預設值](set-up-task-revenue-and-cost-defaults.md) — 瞭解如何使用收入型別和成本型別來計算任務的計畫和實際財務資訊。
+* [設定匯率](set-up-exchange-rates.md) — 瞭解如何在專案和報告上使用匯率，以反映全球不同貨幣的財務資訊。
+* [設定費用型別](set-up-expense-types.md) — 瞭解如何使用預先建立的費用型別並建立新的費用型別。
+* [瞭解財務存取權](understand-financial-access.md) — 瞭解財務存取權如何讓管理員控制誰可以檢視和編輯Workfront中追蹤的財務資訊。

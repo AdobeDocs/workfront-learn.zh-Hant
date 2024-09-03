@@ -1,22 +1,22 @@
 ---
-user-guide-title: 管理員專案財務概觀
-user-guide-description: 瞭解如何根據成本、價值、風險以及與組織目標的一致性，排定目前和建議專案的優先順序。
-breadcrumb-title: 管理員專案財務概觀
+user-guide-title: 適用於管理員的專案財務
+user-guide-description: 瞭解如何建立全系統的財務設定，以確保組織間計費和報告的一致性。
+breadcrumb-title: 適用於管理員的專案財務
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 31%
+source-wordcount: '57'
+ht-degree: 63%
 
 ---
 
 
 
-# 管理員專案財務概觀 {#project-finances-for-administrators}
+# 適用於管理員的專案財務 {#project-finances-for-administrators}
 
-+ [管理員專案財務概觀](overview.md)
++ [適用於管理員的專案財務](overview.md)
 + 管理員{#project-finances-for-administrators}的專案財務
    + [瞭解績效量度](understand-performance-metrics.md)
    + [設定任務的預設收入與成本](set-up-task-revenue-and-cost-defaults.md)
