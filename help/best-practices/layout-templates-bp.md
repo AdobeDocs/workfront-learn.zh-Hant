@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 1275ca2f30453df06cfcf9944798a1c89111a6de
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 100%
@@ -111,3 +111,4 @@ ht-degree: 100%
 **原因說明**
 
 在製作版面範本時，請設法讓範本盡可能滿足大部分人員之需求，包括團隊中、群組中、被指派相同職務角色等的人員。版面範本越少，表示系統和群組管理員需執行的維護工作越少。
+
