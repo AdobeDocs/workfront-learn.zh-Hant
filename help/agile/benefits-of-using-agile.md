@@ -9,9 +9,9 @@ thumbnail: benefits-of-agile.png
 hide: true
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
 source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 89%
 
 ![敏捷工作流](assets/agile-work-stream.png)
 
-## 團隊工作的透明度
+## 清楚掌握團隊工作情況
 
-敏捷團隊會利用名為「站立」的每日會議，以確保團隊聚焦於要開發的優先功能或產品清單。 他們對於團隊中其他人的工作不再一無所知，因此不會感覺混亂。他們定期監視團隊在前一天完成的工作、需要解決的任何問題/障礙，以及他們當天計劃要開展的工作。
+敏捷團隊透過稱為「站立會議」的每日會議，確保團隊專注於需要優先開發的功能或產品。他們對於團隊中其他人的工作不再一無所知，因此不會感覺混亂。他們定期監視團隊在前一天完成的工作、需要解決的任何問題/障礙，以及他們當天計劃要開展的工作。
 
 
 
