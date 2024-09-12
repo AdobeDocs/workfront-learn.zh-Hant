@@ -9,12 +9,13 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: bb8afb53feb6dadcb5c561df5dbcbdd113669165
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '163'
 ht-degree: 100%
 
 ---
@@ -39,3 +40,7 @@ ht-degree: 100%
 若要了解如何建立影片中使用的&#x200B;**管理團隊意見回饋報告** ，請參閱「[建立任務報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=zh-Hant)」教學課程，並在觀看影片後尋找&#x200B;**建立管理團隊意見回饋報告**&#x200B;的活動。
 
 若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)」教學課程。
+
+## 有關此主題的推薦教學課程
+
+* [請求佇列常見問題的解答](/help/manage-work/request-queues/request-queue-faq.md)
