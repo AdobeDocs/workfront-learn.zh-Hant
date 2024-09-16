@@ -1,6 +1,6 @@
 ---
 title: 建立請求流程
-description: 瞭解如何設定佇列主題、主題群組和路由規則，以協助管理請求和工作輸入。
+description: 瞭解如何設定佇列主題、主題群組和路由規則來協助管理請求與所接收的工作。
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
 source-git-commit: ae55edf4d206e4eaa0874f2ba8504020cf8a85d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 66%
 >[!PREREQUISITES]
 >
 >* [建立請求佇列](/help/manage-work/request-queues/create-a-request-queue.md)
->* [瞭解要求流程的設定](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [瞭解請求流程設定](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 >[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
 
