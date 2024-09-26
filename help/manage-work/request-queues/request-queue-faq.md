@@ -10,9 +10,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '709'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -50,9 +50,9 @@ ht-degree: 96%
 
 是。在您建立自訂表單時，請同時選取「[!UICONTROL 專案]」和「[!UICONTROL 問題]」作為物件類型。您也可以編輯專案自訂表單以納入問題物件類型，反之亦然。
 
-![顯示建立自訂表單時如何選取2個物件型別的影像](assets/faq-image-1.png)
+![此影像顯示在建立自訂表單時如何選取 2 個物件類型](assets/faq-image-1.png)
 
-![此影像顯示編輯自訂表單時如何選取2個物件型別](assets/faq-image-2.png)
+![此影像顯示在編輯自訂表單時如何選取 2 個物件類型](assets/faq-image-2.png)
 
 將自訂表單附加到請求上。當您將請求轉換成專案時，自訂表單會自動附加到新的專案上，而任何欄位所包含的值將會同時出現在請求和專案自訂表單上。
 
