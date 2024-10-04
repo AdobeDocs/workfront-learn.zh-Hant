@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '2420'
+source-wordcount: '2414'
 ht-degree: 99%
 
 ---
@@ -155,8 +155,7 @@ ht-degree: 99%
       + [使用[!UICONTROL 專案組合最佳化工具]來確認工作的優先順序並進行管理](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 核准流程與里程碑路徑 {#approval-processes-and-milestone-paths}
-      + [建立全域和單一使用核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [附加和編輯現有核准流程](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+      + [建立全域和單次使用的核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [檢閱及核准數位工作](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [委派任務、問題與核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [套用里程碑](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)

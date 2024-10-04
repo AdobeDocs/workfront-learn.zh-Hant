@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 95%
 
 ---
 
@@ -46,6 +47,11 @@ ht-degree: 100%
 ## 任務 - 將我已標記為「已完成我的部分」的工作篩除
 
 以下文字模式將會排除使用者已標記為「已完成我的部分」的任務。您只需要建立一個任務篩選器，新增任何想要的篩選規則，然後切換到文字模式，並把下列程式碼貼到您在篩選器中看到的任何文字模式之後。
+
+
+>[!WARNING]
+>
+> 這不適用於「行事曆」篩選器。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## 任務 - 顯示我指派給其他人的任務
 
 使用任何您想要的篩選器來建立任務報告，然後前往「篩選器」標籤並按一下「切換到文字模式」。把這段程式碼新增到任何原有內容之中：
+
+>[!WARNING]
+> 
+> 這不適用於「行事曆」篩選器。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
