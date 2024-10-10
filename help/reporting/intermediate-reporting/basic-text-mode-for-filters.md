@@ -13,9 +13,9 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -23,15 +23,15 @@ ht-degree: 95%
 
 >[!PREREQUISITES]
 >
->* [瞭解報告元素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=zh-Hant)
->* [瞭解報告元件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=zh-Hant)
->* [建立基本篩選器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=zh-Hant)
+>* [瞭解報告元素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=zh-hant)
+>* [瞭解報告元件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=zh-hant)
+>* [建立基本篩選器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=zh-hant)
 
 
 >[!TIP]
 >
->* 為了深入瞭解文字模式，我們建議觀看錄影版網路研討會活動「[詢問專家 - 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-Hant)」，影片長度為 1 小時。
->* 若要更加深入瞭解文字模式，我們建議觀看「[進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-Hant)」教學課程，全部課程總長 5 個半小時。
+>* 為了深入瞭解文字模式，我們建議觀看錄影版網路研討會活動「[詢問專家 - 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-hant)」，影片長度為 1 小時。
+>* 若要更加深入瞭解文字模式，我們建議觀看「[進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-hant)」教學課程，全部課程總長 5 個半小時。
 >* 按一下此處以存取 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 
@@ -51,7 +51,7 @@ ht-degree: 95%
 
 >[!WARNING]
 >
-> 這不適用於「行事曆」篩選器。
+> 這不適用於行事曆篩選器。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -94,7 +94,7 @@ predecessorsMM:projectID_Mod=ne
 
 >[!WARNING]
 > 
-> 這不適用於「行事曆」篩選器。
+> 這不適用於行事曆篩選器。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN

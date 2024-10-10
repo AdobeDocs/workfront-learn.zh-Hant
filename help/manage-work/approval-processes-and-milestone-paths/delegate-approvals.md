@@ -1,6 +1,6 @@
 ---
 title: 委派任務、問題與核准
-description: 瞭解如何將任務和問題指派，以及專案、任務和問題的核准委派給其他Workfront使用者。
+description: 了解如何將任務和問題指派，以及專案、任務和問題的核准工作，委派給另一位 Workfront 使用者。
 activity: use
 feature: Approvals
 type: Tutorial
@@ -14,22 +14,22 @@ jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
 source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
 # 委派任務、問題與核准
 
-瞭解如何將任務和問題指派，以及專案、任務和問題的核准委派給其他Workfront使用者。
+了解如何將任務和問題指派，以及專案、任務和問題的核准工作，委派給另一位 Workfront 使用者。
 
-休假
+觀看這段影片，您將了解如何：
 
 * 在設定中啟用委派
 * 委派任務和問題指派
-* 委派專案、任務和問題的核准
-* 識別受委派的核准
+* 委派專案、任務、問題的核准工作
+* 識別委派的核准工作
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
@@ -37,5 +37,5 @@ ht-degree: 46%
 
 * [設定事件通知](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
 * [建立全域和單次使用的核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [瞭解特定群組的核准流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+* [瞭解群組特定的核准流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 
