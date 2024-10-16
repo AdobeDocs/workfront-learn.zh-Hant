@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
+source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
 workflow-type: tm+mt
-source-wordcount: '2414'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -301,7 +301,6 @@ ht-degree: 99%
 
 + Workfront 目標 {#workfront-goals}
    + 制定組織願景 {#establish-a-vision-and-strategy}
-      + [瞭解 Workfront Goals 的願景](/help/workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
       + [瞭解 Workfront Goals 如何運作](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
       + [瞭解 Workfront Goals 如何配合您的工作週期](/help/workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [制定組織的願景與策略](/help/workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
