@@ -14,7 +14,7 @@ jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
 source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 ## 了解如何建立自訂視圖，以查看和編輯專案範本的進行中狀態
 
-若要建立具有進行中狀態欄的專案範本視圖，請參閱「[建立基本視圖](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hant)」中的「**建立範本進行中狀態視圖**」活動。
+若要建立具有進行中狀態欄的專案範本視圖，請參閱「[建立基本視圖](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-hant)」中的「**建立範本進行中狀態視圖**」活動。
 
 ## 有關此主題的推薦教學課程
 
