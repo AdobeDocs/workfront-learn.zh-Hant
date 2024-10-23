@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2408'
+ht-degree: 99%
 
 ---
 
@@ -236,8 +236,8 @@ ht-degree: 0%
       + [瞭解其他行事曆報告選項](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [輪到您建立行事曆報告](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + 增強型分析 {#enhanced-analytics}
-      + [[!UICONTROL 增強型分析]的產品速寫](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+   + 增強型分析{#enhanced-analytics}
+      + [與產品討論[!UICONTROL 增強型分析]的時刻](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [開始使用[!UICONTROL 增強型分析]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [如何存取[!UICONTROL 增強型分析]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [瞭解基本導覽](/help/reporting/enhanced-analytics/4-basic-navigation.md)

@@ -1,6 +1,6 @@
 ---
 title: 了解工作和人員圖表
-description: 在[!UICONTROL 增強型分析]中，「工作」圖表從專案和任務的角度顯示您的活動，而「人員」圖表則從主團隊的角度顯示您的活動。
+description: 在[!UICONTROL 增強型分析]中，工作圖表從專案和任務的角度顯示活動，而人員圖表從主團隊的角度顯示活動。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 

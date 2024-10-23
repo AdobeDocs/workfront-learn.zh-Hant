@@ -1,6 +1,6 @@
 ---
-title: 了解篩選器
-description: 了解在[!UICONTROL 增強型分析]中如何根據常見的專案欄位來新增篩選器，以及如何使用自訂表單新增篩選器。
+title: 瞭解篩選器
+description: 瞭解如何根據通用專案欄位新增篩選器，以及如何使用自訂表單新增篩選器，全都在[!UICONTROL 增強型分析]中。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -12,10 +12,10 @@ jira: KT-8721
 recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '264'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 使用時間範圍和其他圖表深入了解
-description: 了解如何深入研究計劃飛行圖表中的某個專案，以便在[!UICONTROL 增強型分析]中顯示燃盡圖以及飛行圖中的任務。
+description: 瞭解如何深入分析小眾測試版計畫圖中的專案，使待執行工作圖表和任務小眾測試版圖表顯示在[!UICONTROL 增強型分析]中。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -12,10 +12,10 @@ jira: KT-8730
 recommendations: noDisplay,noCatalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 100%
+ht-degree: 67%
 
 ---
 
