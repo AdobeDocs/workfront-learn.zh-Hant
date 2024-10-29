@@ -1,6 +1,6 @@
 ---
 title: 透過更新來採取行動
-description: 瞭解如何在[!UICONTROL 增強型分析]的「小眾測試版中的任務」圖表中進行更新。
+description: 了解如何在[!UICONTROL 增強型分析]中從飛行圖中的任務內進行更新。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

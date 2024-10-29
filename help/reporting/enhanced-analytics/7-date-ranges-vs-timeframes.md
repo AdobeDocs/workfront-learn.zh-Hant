@@ -1,6 +1,6 @@
 ---
-title: 瞭解日期範圍和時間範圍
-description: 在[!UICONTROL 增強型分析]中，使用行事曆Widget指定日期範圍。 時間範圍則是在圖表內建立。
+title: 了解日期範圍和時間範圍
+description: '[!UICONTROL 增強型分析]是使用行事曆 widget 來指定日期範圍。時間範圍則是在圖表內建立。'
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '315'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 

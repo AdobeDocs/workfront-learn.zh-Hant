@@ -1,6 +1,6 @@
 ---
-title: 瞭解團隊產能
-description: 瞭解[!UICONTROL 增強型分析]中的團隊容量圖表如何顯示主團隊過度分配或分配不足的時間。
+title: 了解團隊產能
+description: 了解[!UICONTROL 增強型分析]中的團隊產能圖表如何顯示主團隊何時分配過多或過少。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '385'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 

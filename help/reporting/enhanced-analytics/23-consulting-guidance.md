@@ -1,6 +1,6 @@
 ---
-title: 瞭解諮詢指南
-description: 瞭解如何在Workfront中使用[!UICONTROL 增強型分析]，提出建議以協助您的組織更有效率地運作。
+title: 了解諮詢指南
+description: 了解如何使用 Workfront 中的[!UICONTROL 增強型分析]來提出建議，協助您的組織提高營運效率。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
