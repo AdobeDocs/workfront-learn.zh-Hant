@@ -8,13 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-11-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c874b2d05b0d95194ce15266592d473e6f18ce79
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 87%
 
 ---
 
@@ -23,11 +25,18 @@ ht-degree: 100%
 觀看這段影片，您將會瞭解以下資訊：
 
 * 基本專案時間表管理
-* 從開始或完成日期開始進行專案排程
-* 任務限制
+* 如何瞭解排程模式
+* 如何建立任務限制檢視
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >
->有關期間類型和任務限制的完整說明，請參閱「[了解和管理期間類型和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=zh-Hant)」。
+>有關期間類型和任務限制的完整說明，請參閱「[了解和管理期間類型和任務限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)」。
+
+## 有關此主題的推薦教學課程
+
+* [根據專案時間表追蹤進度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [瞭解日期類型和進度狀態](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+* [瞭解和管理期限類型和任務限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
