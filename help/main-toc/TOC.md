@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
+source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
 workflow-type: tm+mt
-source-wordcount: '2408'
+source-wordcount: '2407'
 ht-degree: 99%
 
 ---
@@ -629,7 +629,7 @@ ht-degree: 99%
    + [預覽沙箱](/help/best-practices/preview-sandbox-bp.md)
    + [專案、任務與問題偏好設定](/help/best-practices/project-task-issue-preferences-bp.md)
    + [專案範本](/help/best-practices/project-templates-bp.md)
-   + [Workfront Proof](/help/best-practices/proofing-bp.md)
+   + [校訂](/help/best-practices/proofing-bp.md)
    + [請求佇列](/help/best-practices/request-queues-bp.md)
    + [資源規劃工具](/help/best-practices/resource-planner-bp.md)
    + [資源集區](/help/best-practices/resource-pools-bp.md)
