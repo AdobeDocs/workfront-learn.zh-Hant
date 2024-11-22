@@ -1,6 +1,6 @@
 ---
-title: 根據專案時間軸追蹤進度
-description: 瞭解如何使用完成百分比和進度狀態，從專案時間表追蹤工作進度。
+title: 根據專案時間表追蹤進度
+description: 瞭解如何透過完成百分比和進度狀態，根據專案時間表來追蹤工作進度。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,17 +14,17 @@ jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
 source-git-commit: 7bfb6ee5c710159f57fd5e338cd11d6d79f803ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
-# 根據專案時間軸追蹤進度
+# 根據專案時間表追蹤進度
 
-請確定任務進度如預期般符合專案截止日期。
+確保任務依照應有的進度，在專案截止期限前完成。
 
-觀看這段影片，您將會了解以下資訊：
+在這段影片中，您將了解以下內容：
 
 * 完成百分比
 * 進度狀態
