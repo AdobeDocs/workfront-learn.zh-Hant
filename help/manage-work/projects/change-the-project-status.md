@@ -14,7 +14,7 @@ jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 doc-type: video
 source-git-commit: 0b067f9dddd57a7f29ba4241d2d9bf59a9748e3e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
 
-## 有關這個主題的推薦教學課程
+## 有關此主題的推薦教學課程
 
 * [完成核准](/help/manage-work/close-a-project/complete-approvals.md)
 * [上傳資產](/help/manage-work/close-a-project/upload-assets.md)
