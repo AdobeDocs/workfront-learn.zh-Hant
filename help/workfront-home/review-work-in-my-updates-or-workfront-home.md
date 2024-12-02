@@ -1,6 +1,6 @@
 ---
 title: 在  [!DNL My Updates] 或  [!DNL Home] 中檢閱工作
-description: '[!DNL  Workfront] 為您提供兩個地方，可存取指派給您的工作以進行檢視和核准 -  [!DNL My Updates]  和  [!DNL Home] '
+description: '[!DNL  Workfront]提供兩個位置來存取指派給您以供檢閱和核准的工作 —  [!DNL My Updates] 和 [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
@@ -13,7 +13,7 @@ exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
