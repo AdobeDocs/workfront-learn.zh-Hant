@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-03-25T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8768
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 2c7792da-8742-4952-afa6-4b1a15989a56
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
@@ -36,4 +37,3 @@ ht-degree: 100%
 * [導覽專案頁面](/help/manage-work/projects/navigate-the-project-page.md)
 * [瞭解建立專案的四種方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [填寫專案詳細資料](/help/manage-work/projects/fill-in-the-project-details.md)
-

@@ -1,6 +1,6 @@
 ---
 title: 了解日期範圍和時間範圍
-description: '[!UICONTROL 增強型分析]是使用行事曆 widget 來指定日期範圍。時間範圍則是在圖表內建立。'
+description: '[!UICONTROL 增強型分析]是使用行事曆小工具來指定日期範圍。時間範圍則是在圖表內建立。'
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -9,10 +9,10 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10043
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 100%
 
@@ -20,13 +20,13 @@ ht-degree: 100%
 
 # 了解日期範圍和時間範圍
 
-在檢視[!DNL Enhanced analytics]圖表時，我們使用行事曆 widget 來指定日期範圍。當您按一下並拖曳來定義特定區域時，便會在圖表中建立時間範圍，因此您可以放大顯示，仔細查看該時間範圍內的資訊。
+在檢視[!DNL Enhanced analytics]圖表時，我們使用行事曆小工具來指定日期範圍。當您按一下並拖曳來定義特定區域時，便會在圖表中建立時間範圍，因此您可以放大顯示，仔細查看該時間範圍內的資訊。
 
 ## 日期範圍
 
 按一下行事曆中任何日期，表示您的範圍內的一個日期，再按一下任何日期，表示範圍的另一端。如果您的開始日期和結束日期不在同一個月份，請使用行事曆上方的箭頭導覽到不同的月份。
 
-![影像顯示使用行事曆 widget 選取日期範圍](assets/section-1-3.png)
+![影像顯示使用行事曆小工具選取日期範圍](assets/section-1-3.png)
 
 在[!DNL Analytics]中的圖示依預設顯示過去 60 天和未來 15 天的資料。您可以選取新的日期範圍並在使用 [!DNL Analytics] 時，套用到全部圖表。
 
