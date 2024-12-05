@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '2407'
+source-wordcount: '2404'
 ht-degree: 99%
 
 ---
@@ -255,7 +255,6 @@ ht-degree: 99%
       + [檢閱飛行圖中的任務](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [透過更新來採取行動](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
       + [瞭解「依團隊檢視活動」圖表](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [瞭解團隊產能](/help/reporting/enhanced-analytics/20-team-capacity-overview.md)
       + [瞭解 KPI 比較的使用案例](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
       + [瞭解一般使用者的使用案例](/help/reporting/enhanced-analytics/22-end-user-use.md)
       + [瞭解諮詢指南](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
@@ -568,7 +567,7 @@ ht-degree: 99%
       + [以使用者身分使用資產](/help/workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + 首頁 {#home}
-   + [刪除、新增和重新排列首頁中的 widget](/help/workfront-home/remove-add-and-rearrange-widgets.md)
+   + [刪除、新增和重新排列首頁中的小工具](/help/workfront-home/remove-add-and-rearrange-widgets.md)
    + [尋找您的工作](/help/workfront-home/find-your-work-in-workfront-home.md)
    + [整理您的待辦事項清單](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [確定工作的優先順序](/help/workfront-home/prioritize-your-work-in-workfront-home.md)
