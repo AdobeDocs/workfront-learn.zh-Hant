@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: a15b9b2cdd16f661d855806d801ab1f90a0276b4
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 85%
+source-wordcount: '291'
+ht-degree: 89%
 
 ---
 
@@ -40,8 +40,15 @@ ht-degree: 85%
 * 按一下飛行計劃視圖中的某個專案，接著便會在下方顯示該專案的燃盡圖視圖。
 * 按一下樹狀圖視圖中的某個專案，接著在下方便會顯示燃盡圖和飛行圖中的任務。
 
-## 人員圖表
+## 人員圖表 — 依團隊的活動
 
-![影像顯示尋找[!UICONTROL 分析]功能，其位於 [!DNL Workfront Classic]](assets/section-1-2.png)
+![影像顯示團隊活動圖表，使用數字標示下列項目符號所述的區域。](assets/section-3-1.png)
 
+在圖表上，您可以看到：
+
+1. 主團隊名稱位於左側。
+1. 底部的日期取自所選日期範圍。
+1. 紫色方塊顯示指派至專案的使用者在那一天曾登入，而顏色較深則表示登入的使用者人數較多。
+1. 粉紅方塊表示使用者在那一天變更專案任務的狀態，而顏色較深表示任務狀態變更的次數較多。
+1. 藍色方塊表示使用者已完成專案的一項任務，而顏色較深表示已完成的任務數量較多。
 
