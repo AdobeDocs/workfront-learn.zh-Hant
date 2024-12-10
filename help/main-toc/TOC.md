@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '2404'
+source-wordcount: '2396'
 ht-degree: 99%
 
 ---
@@ -176,12 +176,10 @@ ht-degree: 99%
 
    + 結束專案 {#close-a-project}
       + [變更專案狀態來完成專案](/help/manage-work/projects/change-the-project-status.md)
-      + [結束任務和問題](/help/manage-work/close-a-project/close-tasks-and-issues.md)
       + [完成核准](/help/manage-work/close-a-project/complete-approvals.md)
       + [上傳資產](/help/manage-work/close-a-project/upload-assets.md)
       + [記錄學習到的經驗](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [記錄和檢閱時數](/help/manage-work/close-a-project/log-and-review-hours.md)
-      + [結束專案活動](/help/manage-work/close-a-project/close-a-project-activity.md)
 
    + 適用於使用者的專案財務資訊 {#project-finances-users}
       + [更新和檢閱財務資料](/help/manage-work/project-finances/update-and-review-finances.md)
