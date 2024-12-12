@@ -1,6 +1,6 @@
 ---
 title: 記錄學習到的經驗
-description: 了解如何加入一個「經驗傳承」任務來指出進展順利的地方以及下次可以改善的地方。
+description: 瞭解如何在關閉專案時從「經驗教訓」中受益。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,26 +8,32 @@ thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 36%
 
 ---
 
 # 記錄學習到的經驗
 
-在結束專案時，有些 Workfront 客戶會加入一個「經驗傳承」任務。您可使用不同方式讓這個任務發揮作用。
+在本影片中，您將會看到下列好處：
 
-* 使用「經驗傳承」任務來代表會議。在任務更新中擷取會議記錄。
-* 或把自訂表單附加到任務或專案中，以便擷取所需的「經驗傳承」資訊。
+* 建立「經驗教訓」任務
+* 將「學到的課程」自訂表單附加到專案
+* 建立「經驗教訓」自訂報表
+* 建立「經驗教訓」專案
 
-自訂表單有一個優點，其所有欄位均可製作成報告，所以您可以建立自訂的 [!DNL Workfront] 報告來檢閱和管理這些資訊，確認在多個專案類型或專案集之間學習到的經驗。
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-若貴組織的專案後流程比較複雜，即本身的步驟數量已足以自成一個專案者，在 [!DNL Workfront] 中建立另一個專案可能是最適合的做法。
+## 有關此主題的推薦教學課程
 
-藉由這個方法，您可以結束用於實際可交付成果的專案，讓已完成專案的報告更加準確。接著使用另一個專案後專案來追蹤之後的任何步驟。
-
-與內部的 [!DNL Workfront] 團隊討論，深入了解貴組織的專案後流程。
+* [變更專案狀態來完成專案](/help/manage-work/projects/change-the-project-status.md)
+* [完成核准](/help/manage-work/close-a-project/complete-approvals.md)
+* [上傳資產](/help/manage-work/close-a-project/upload-assets.md)
+* [記錄和檢閱時數](/help/manage-work/close-a-project/log-and-review-hours.md)

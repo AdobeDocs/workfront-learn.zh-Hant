@@ -1,6 +1,6 @@
 ---
 title: 上傳資產
-description: 請先上傳檔案和校樣到專案，再關閉專案，確保所有相關資料都與專案相關聯。
+description: 在結束專案之前將文件和校訂上傳至專案，以確保所有相關資料都與專案相關聯。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,10 +12,11 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 52%
+ht-degree: 78%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 記錄和檢閱時數
-description: 在  [!DNL  Workfront] 中結束專案之前，記錄未完成的時數並檢閱已記錄的時數。
+description: 在關閉專案之前，記錄未完成的時數並審查記錄的時數。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 60%
 
 ---
 
 # 記錄和檢閱時數
 
-若貴組織的工作流程中包含記錄工作的實際時數，您可以在專案的「[!UICONTROL 時數]」區段檢閱這些時數 (從左側面板選單選取)。這裡顯示個別任務和專案本身所記錄的全部時數。您也可以在這個頁面記錄時數。
+觀看這段影片，您將了解如何：
 
-![顯示小時項目的時數頁面](assets/planner-fund-log-and-review-hours.png)
+* 稽核記錄至專案的工時
+* 核准專案小時（如果需要）
 
->[!NOTE]
->
->貴組織可能會要求您使用 [!DNL Workfront] 時程表來核准時數。與您的內部 [!DNL Workfront] 團隊確認應該使用哪一個流程。
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## 有關此主題的推薦教學課程
+
+* [變更專案狀態來完成專案](/help/manage-work/projects/change-the-project-status.md)
+* [完成核准](/help/manage-work/close-a-project/complete-approvals.md)
+* [上傳資產](/help/manage-work/close-a-project/upload-assets.md)
+* [記錄學習到的經驗](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
