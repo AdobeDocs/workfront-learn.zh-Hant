@@ -6,10 +6,10 @@ breadcrumb-title: 管理工作 — 中繼
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '173'
+ht-degree: 63%
 
 ---
 
@@ -27,11 +27,9 @@ ht-degree: 64%
       + [在專案範本中編輯專案團隊](edit-the-project-team-in-a-project-template.md)
 
    + 如何建立及使用核准流程{#how-to-create-and-use-approval-processes}
-      + [建立單次使用的核准流程](create-a-single-use-approval-process.md)
-      + [瞭解特定群組的核准流程](group-specific-approval-processes.md)
-      + [附加和編輯現有核准流程](attach-and-edit-existing-approval-processes.md)
+      + [建立全域和單次使用的核准流程](create-a-single-use-approval-process.md)
+      + [瞭解群組特定的核准流程](group-specific-approval-processes.md)
       + [檢閱及核准數位工作](review-and-approve-digital-work.md)
-      + [瞭解更新和通知](understand-updates-and-notifications.md)
       + [委派任務、問題與核准](delegate-approvals.md)
 
    + 如何建立和使用里程碑{#how-to-create-and-use-milestones}

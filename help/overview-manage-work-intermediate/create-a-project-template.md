@@ -10,9 +10,11 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 8b373be7-df75-4929-9027-d95947c42f94
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -53,3 +55,11 @@ Workfront 使用者可以使用[!UICONTROL 藍圖]來協助建立專案範本。
 ![關於安裝藍圖的詳細資訊](assets/pt-blueprints-04.png)
 
 如果尚未安裝藍圖，您可以向系統管理員要求安裝。
+
+## 有關此主題的推薦教學課程
+
+* [直接使用範本建立專案](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [共用專案範本](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [停用專案範本](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [在專案範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

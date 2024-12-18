@@ -10,12 +10,13 @@ role: User
 level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
 recommendations: noDisplay,catalog
+doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,9 +32,8 @@ ht-degree: 100%
 * 在自訂儀表板中
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
 
-若您想要瞭解如何建立自訂報告並把報告放入儀表板中，請參閱「[報告建立基礎課程](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)」。
 
 ## 有關此主題的推薦教學課程
 

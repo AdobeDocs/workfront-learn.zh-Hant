@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '943'
 ht-degree: 4%
 
 ---
@@ -81,10 +81,8 @@ ht-degree: 4%
 瞭解如何關閉任務和問題、完成核准、記錄所學的課程以及關閉專案。
 
 * [將專案狀態變更為完成](change-the-project-status.md) — 瞭解如何將專案狀態變更為完成、為何要變更它，以及如果無法將它變更為完成該怎麼做。
-* [關閉任務和問題](close-tasks-and-issues.md) — 瞭解如何在關閉專案之前確認任務和問題已關閉。
 * [完成核准](complete-approvals.md) — 瞭解如何識別未完成的核准並加以解決，以便您能夠關閉專案。
 * [上傳資產](upload-assets.md) — 請先上傳檔案、校樣和其他資產到專案，再關閉專案，以確保所有相關資料都與專案相關聯。
 * [記錄所學課程](lessons-learned-from-closing-a-project.md) — 瞭解如何加入「所學課程」任務，以識別哪些課程進展順利，以及下次可以改進哪些課程。
 * [記錄並檢閱時數](log-and-review-hours.md) — 在關閉專案前記錄未完成時數並檢閱記錄時數。
 * [更新與複查財務](update-and-review-finances.md) — 如果您的組織使用Workfront來追蹤與專案相關的財務資訊，則複查費用與建立帳單記錄可能是關閉專案的程式的一部分。
-* [關閉專案活動](close-a-project-activity.md) — 練習如何關閉專案。

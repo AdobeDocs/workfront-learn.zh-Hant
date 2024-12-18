@@ -1,6 +1,6 @@
 ---
 title: 委派任務、問題與核准
-description: 瞭解如何委派專案、任務、問題和工時記錄卡的核准工作給另一位 Workfront 使用者。同時瞭解如何委派任務和問題的指派工作。
+description: 了解如何將任務和問題指派，以及專案、任務和問題的核准工作，委派給另一位 Workfront 使用者。
 activity: use
 feature: Approvals
 type: Tutorial
@@ -11,7 +11,9 @@ thumbnail: 336094.png
 jira: KT-8810
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+recommendations: noDisplay,catalog
+exl-id: 2eb8c7e2-d980-409c-b06a-d44f5817648d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -20,51 +22,20 @@ ht-degree: 0%
 
 # 委派任務、問題與核准
 
-瞭解如何委派專案、任務、問題和工時記錄卡的核准工作給另一位 Workfront 使用者。同時瞭解如何委派任務和問題的指派工作。
+了解如何將任務和問題指派，以及專案、任務和問題的核准工作，委派給另一位 Workfront 使用者。
 
-## 委派核准作業
+觀看這段影片，您將了解如何：
 
-瞭解如何委派專案、任務、問題和工時記錄卡的核准工作給另一位使用者。
-
-觀看這段影片，您將瞭解如何：
-
-* 將核准工作指派給其他人
-* 結束委託期
-* 尋找已委派的核准工作
+* 在設定中啟用委派
+* 委派任務和問題指派
+* 委派專案、任務、問題的核准工作
+* 識別委派的核准工作
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
-<!---
-learn more URLS
-Delegate approval request
---->
+## 有關此主題的推薦教學課程
 
-## 委派任務和問題指派
+* [設定事件通知](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
+* [建立全域和單次使用的核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [瞭解群組特定的核准流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 
-當您計劃外出時，您可以把指派給您的任務和問題委派給其他使用者。
-
-### 如何啟用任務和問題指派之委派功能
-
-任務和問題的委派功能必須先由群組或系統管理員啟用，然後才能使用。前往「[!UICONTROL 設定 > 專案偏好設定 > 任務和問題 > 委派]」即可完成啟用。啟用此功能之後，具有「檢閱」以上授權的所有使用者皆可把受指派的任務和問題委派給他人。
-
-![螢幕擷圖顯示委派的「[!UICONTROL 設定]」偏好設定](assets/delegation-1.png)
-
-### 如何委派任務和問題指派
-
-導覽至[!UICONTROL 首頁]並按一下「[!UICONTROL 委派]」，然後指定要把受指派任務委派給哪一位使用者以及日期範圍。具有「檢閱」以上授權者可指定任何使用者。
-
-![螢幕擷圖顯示委派標籤，位於[!UICONTROL 首頁]](assets/delegation-2.png)
-
-### 如何判斷任務或問題是否已委派
-
-您可以在[!UICONTROL 首頁]，或在任務或問題視圖中，查看任務或問題的委派時間。
-
-![螢幕擷圖顯示已委派任務指派，位於[!UICONTROL 首頁]](assets/delegation-4.png)
-![螢幕擷圖顯示在任務視圖的已委派任務指派](assets/delegation-3.png)
-
-### 套用至已委派工作的電子郵件通知
-
-您的群組或系統管理員可以啟用電子郵件通知，在您把任務和問題委派給他人，以及他人把任務和問題指派給您時，您都會收到通知。
-
-![螢幕擷圖顯示「[!UICONTROL 設定]」中委派適用的電子郵件通知選項](assets/delegation-5.png)
-![螢幕擷圖顯示工作委派電子郵件](assets/delegation-6.png)

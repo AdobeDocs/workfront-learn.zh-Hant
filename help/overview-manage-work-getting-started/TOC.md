@@ -6,10 +6,10 @@ breadcrumb-title: 管理工作 — 入門
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 69%
+source-wordcount: '196'
+ht-degree: 68%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 69%
       + [瞭解任務期間](understand-task-durations.md)
       + [瞭解如何排定任務順序](learn-to-sequence-tasks.md)
       + [瞭解規劃時數](understand-planned-hours.md)
-      + [瞭解專案時間表](understand-project-timelines.md)
+      + [瞭解專案時間軸](understand-project-timelines.md)
       + [瞭解日期型別和進度狀態](understand-task-dates-and-progress-status.md)
       + [了解[!UICONTROL 工作投入]](understand-work-effort.md)
       + [專案上線](take-a-project-live.md)
@@ -54,11 +54,9 @@ ht-degree: 69%
 
    + 結束專案 {#close-a-project}
       + [變更專案狀態來完成專案](change-the-project-status.md)
-      + [結束任務和問題](close-tasks-and-issues.md)
       + [完成核准](complete-approvals.md)
       + [上傳資產](upload-assets.md)
       + [記錄學習到的經驗](lessons-learned-from-closing-a-project.md)
       + [記錄和檢閱時數](log-and-review-hours.md)
       + [更新和檢閱財務資料](update-and-review-finances.md)
-      + [結束專案活動](close-a-project-activity.md)
 

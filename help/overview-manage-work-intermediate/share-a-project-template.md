@@ -11,7 +11,9 @@ team: Technical Marketing
 jira: KT-8951
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+recommendations: noDisplay,catalog
+exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -26,3 +28,11 @@ ht-degree: 0%
 * 共用使用範本建立的專案
 
 >[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
+
+## 有關此主題的推薦教學課程
+
+* [建立專案範本並瞭解藍圖](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [直接使用範本建立專案](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [停用專案範本](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [在專案範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

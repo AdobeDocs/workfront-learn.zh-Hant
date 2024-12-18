@@ -9,11 +9,13 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10156
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 93%
 
 ---
 
@@ -37,3 +39,12 @@ ht-degree: 0%
 
 
 ![新增專案最愛範本](assets/direct-template-03.png)
+
+## 有關此主題的推薦教學課程
+
+* [建立專案範本並瞭解藍圖](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [共用專案範本](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [停用專案範本](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [在專案範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

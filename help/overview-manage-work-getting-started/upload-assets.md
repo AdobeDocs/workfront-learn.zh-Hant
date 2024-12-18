@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 # 上傳資產
 
-在您結束 [!DNL Workfront] 專案之前，確保所有相關文件都附加在[!UICONTROL 文件]區段。上傳這些文件作為文件或校訂，根據您組織的準則認定。
+觀看這段影片，您將了解如何：
 
-您可能需要上傳文件或校訂作為現有檔案的某個版本。
+* 檢查校訂的核准情況
+* 檢查文件的核准情況
+* 上傳文件
+* 尋找上傳校訂的培訓
 
-如果您的組織使用校訂核准，請快速瀏覽一下進度圖示，確保所有這些都已完成。
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![文件頁面顯示校訂進度圖示](assets/planner-fund-proof-progress-icons.png)
+## 有關此主題的推薦教學課程
 
-如果您的組織使用文件核准，請選取清單中的每個項目並檢查文件詳細資料，確認是否已完成核准。
+* [使用基本工作流程上傳校訂](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [變更專案狀態來完成專案](/help/manage-work/projects/change-the-project-status.md)
+* [完成核准](/help/manage-work/close-a-project/complete-approvals.md)
+* [記錄學習到的經驗](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [記錄和檢閱時數](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![顯示文件核准的「文件」頁面上的側邊摘要](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->
