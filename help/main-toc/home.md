@@ -2,7 +2,7 @@
 title: Workfront 教學課程
 description: 具備培訓影片與文章資料庫，協助您更加瞭解 Workfront 功能和設定。其中包括一系列最佳實務、精心策劃的練習和其他資源，協助您及貴組織擁有成功的 Workfront 使用經驗。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: e0301522a6e3b10fe56cb601f143c80d9c6381b8
+source-git-commit: 2d9e6ca1aa49d223d99d71d78b295614160281e4
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 具備培訓影片與文章資料庫，協助您更加瞭解 Workfront 功能和設定。其中包括一系列最佳實務、精心策劃的練習和其他資源，協助您及貴組織擁有成功的 Workfront 使用經驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops)
 
 <!-- 
 
