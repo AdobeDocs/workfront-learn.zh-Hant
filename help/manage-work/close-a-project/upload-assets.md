@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 78%
 
 觀看這段影片，您將了解如何：
 
-* 檢查校訂上的核准
-* 檢查檔案核准
-* 上傳檔案
-* 尋找有關上傳校樣的培訓
+* 檢查校訂的核准情況
+* 檢查文件的核准情況
+* 上傳文件
+* 尋找上傳校訂的培訓
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
