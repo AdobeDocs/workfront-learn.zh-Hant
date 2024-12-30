@@ -1,6 +1,6 @@
 ---
-title: 記錄學習到的經驗
-description: 瞭解如何在關閉專案時從「經驗教訓」中受益。
+title: 記錄經驗傳承。
+description: 了解在結束專案時如何運用「經驗傳承」。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,20 +14,20 @@ jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
-# 記錄學習到的經驗
+# 記錄經驗傳承
 
-在本影片中，您將會看到下列好處：
+在本影片中，您會了解以下操作的好處：
 
-* 建立「經驗教訓」任務
-* 將「學到的課程」自訂表單附加到專案
-* 建立「經驗教訓」自訂報表
-* 建立「經驗教訓」專案
+* 建立「經驗傳承」任務
+* 將「經驗傳承」自訂表單附加到您的專案中
+* 建立「經驗傳承」自訂報告
+* 建立「經驗傳承」專案
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
