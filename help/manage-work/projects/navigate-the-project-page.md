@@ -14,9 +14,9 @@ jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
 source-git-commit: 0e5d5b5aea9d6242134c3640805231773c8b5159
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '504'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 98%
 
 ## 專案頁面的主要部分
 
-[按一下這裡](/help/assets/key-parts-of-the-project-page.pdf)下載此頁面的PDF。
+[按一下這裡](/help/assets/key-parts-of-the-project-page.pdf)以下載此頁面的 PDF 版本。
 
 專案頁面提供協助您管理工作的許多功能。如果您需要的選項並未出現在您的 [!DNL Workfront] 執行個體上，請與您的系統管理員合作解決。以下是值得注意的數個專案頁面主要功能。
 
