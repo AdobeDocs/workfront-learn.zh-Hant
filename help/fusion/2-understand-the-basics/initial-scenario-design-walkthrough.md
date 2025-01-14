@@ -1,6 +1,7 @@
 ---
 title: 初始情境設計操作示範
 description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何建立資料夾和新情境、使用情境設計工具以及建立基本情境。
+short-description: 在這裡，您可以觀看有關建立情境的練習逐步解說影片。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 89%
 
 ---
 

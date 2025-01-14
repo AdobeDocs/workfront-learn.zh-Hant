@@ -1,6 +1,7 @@
 ---
 title: 超越基本對應操作示範
 description: 使用  [!DNL Adobe Workfront Fusion] 的對應面板公式，變更您之前建立的情境中的一些專案欄位。
+short-description: 在此影片逐步解說中，您可以使用對應面板公式，從第一次逐步解說中建立的「初始案例設計」變更專案名稱、計劃開始日期和優先順序。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '264'
-ht-degree: 100%
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+workflow-type: tm+mt
+source-wordcount: '295'
+ht-degree: 89%
 
 ---
 
