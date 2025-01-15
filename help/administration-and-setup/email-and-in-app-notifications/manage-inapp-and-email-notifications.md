@@ -1,6 +1,6 @@
 ---
 title: 管理應用程式內和電子郵件事件通知
-description: 瞭解使用者如何控制他們要收到哪些應用程式內和電子郵件通知，以便收到與其工作相關、實用的電子郵件。
+description: 了解使用者如何控制他們要收到哪些應用程式內和電子郵件通知，以便收到與其工作相關、實用的電子郵件。
 short-description: 了解使用者如何控制他們收到的應用程式內通知和電子郵件通知。
 feature: System Setup and Administration
 activity: deploy
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 # 管理應用程式內和電子郵件事件通知
 
-瞭解使用者如何控制他們要收到哪些應用程式內和電子郵件通知，以便收到與其工作相關、實用的電子郵件。
+了解使用者如何控制他們要收到哪些應用程式內和電子郵件通知，以便收到與其工作相關、實用的電子郵件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops)
 
