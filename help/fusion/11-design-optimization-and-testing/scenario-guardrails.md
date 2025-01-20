@@ -1,7 +1,7 @@
 ---
 title: 情境護欄
 description: 了解  [!DNL Adobe Workfront Fusion] 的情境護欄、模組護欄、檔案護欄和 Webhook 護欄。
-short-description: 由於長期執行情境可能會減慢工作的速度，Workfront Fusion在設計上提供保全效能的護欄，可限制執行時間、資料大小和其他情境引數
+short-description: 由於長時間執行的情境可能會拖累您的工作速度，因此 Workfront Fusion 設計了效能保留護欄，可限制執行時間、資料大小和其他情境參數
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,9 +13,9 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -34,6 +34,6 @@ ht-degree: 79%
 
 ## 想要了解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-hant)
 
 [Adobe Workfront Fusion 效能護欄](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)

@@ -1,7 +1,7 @@
 ---
 title: 超越基本對應操作示範
 description: 使用  [!DNL Adobe Workfront Fusion] 的對應面板公式，變更您之前建立的情境中的一些專案欄位。
-short-description: 在此影片逐步解說中，您可以使用對應面板公式，從第一次逐步解說中建立的「初始案例設計」變更專案名稱、計劃開始日期和優先順序。
+short-description: 在此影片操作示範中，您可以使用對應面板公式，變更在第一次操作示範中建立的「初始情境設計」中的專案名稱、規劃開始日期以及優先順序。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,9 +13,9 @@ exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -52,6 +52,6 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 **挑戰：**&#x200B;如果專案顏色為紅色，則將任務指派給 Rick Kuvec。如果專案顏色為黃色，則將任務指派給 Mary Smith。如果專案顏色為綠色，則將任務指派給 Ida Blankenship。
 
-## 想要瞭解更多嗎？我們建議參閱以下資訊：
+## 想要了解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-hant)

@@ -1,7 +1,7 @@
 ---
 title: 對應面板和公式編輯器
-description: 瞭解在  [!DNL Adobe Workfront Fusion] 中使用對應面板、公式編輯器和常見公式範例的更多資訊。
-short-description: 在本影片中，您將瞭解有關使用對應面板以及如何使用公式編輯器的更多詳細資訊。
+description: 了解在  [!DNL Adobe Workfront Fusion] 中使用對應面板、公式編輯器和常見公式範例的更多資訊。
+short-description: 在本影片中，您將了解有關使用對應面板以及如何使用公式編輯器的更多詳細資料。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,15 +13,15 @@ exl-id: 48ebc6ee-6853-42a3-b68b-34c5854ff69c
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
 # 對應面板和公式編輯器
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 有關使用對應面板的更多詳細資料
 * 如何使用公式編輯器

@@ -1,6 +1,6 @@
 ---
-title: 瞭解[!UICONTROL 業務案例]
-description: 瞭解如何使用[!UICONTROL 業務案例]在 Workfront 中評估所請求的專案，並將那些專案與專案組合中的其他專案進行比較。
+title: 了解[!UICONTROL 業務案例]
+description: 了解如何使用[!UICONTROL 業務案例]在 Workfront 中評估所請求的專案，並將那些專案與專案組合中的其他專案進行比較。
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,17 +13,17 @@ role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 source-git-commit: 8ba1b014f981b2a438e7c8754ad8c681f710d4e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
-# 瞭解[!UICONTROL 業務案例]
+# 了解[!UICONTROL 業務案例]
 
 觀看這段影片，您將會了解：
 
-* 為何要填寫業務案例
+* 為什麼要填寫業務案例
 * 如何填寫業務案例
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on)
