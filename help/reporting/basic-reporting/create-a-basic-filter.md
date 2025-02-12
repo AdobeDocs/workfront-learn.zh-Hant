@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: kt-8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 77%
+source-wordcount: '66'
+ht-degree: 68%
 
 ---
 
@@ -29,13 +29,3 @@ ht-degree: 77%
 * 如何與其他 Workfront 使用者共用篩選器
 
 >[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
-
-## 了解新的篩選器體驗
-
-觀看這段影片，您將了解如何：
-
-* 啟用和停用新的篩選器體驗
-* 建立和編輯篩選器
-* 堆疊篩選器
-
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
