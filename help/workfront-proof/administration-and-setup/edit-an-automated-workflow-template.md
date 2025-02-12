@@ -12,8 +12,8 @@ last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: 55edb8b797583f93f405c9c6b69422b818c90cdc
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 100%
 
@@ -44,7 +44,7 @@ ht-degree: 100%
 
 這段影片會展示您在「[!UICONTROL 工作流程]」區域可做的一些變更。參閱本影片下方的項目符號清單來檢視這些設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops)
 
 回顧以下這些在「[!UICONTROL 工作流程]」區段可以進行的校訂範本變更：
 

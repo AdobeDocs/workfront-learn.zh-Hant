@@ -13,8 +13,8 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 完成百分比
 * 進度狀態
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops)
 
 
 ## 有關這個主題的推薦教學課程

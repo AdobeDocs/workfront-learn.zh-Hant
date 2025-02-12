@@ -1,6 +1,6 @@
 ---
-title: 建立基本分組
-description: 瞭解在 Workfront 中什麼是分組、如何建立分組，以及與其他使用者共用分組。
+title: 建立基本分組活動
+description: 使用逐步指示練習建立基本群組。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '185'
+ht-degree: 60%
 
 ---
 
-# 建立基本分組
 
-觀看這段影片，您將會瞭解：
-
-* 在 Workfront 中什麼是分組
-* 如何建立分組
-* 以及如何與其他 Workfront 使用者共用分組
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## 活動：建立基本分組
+# 活動：建立基本分組
 
 建立將在報告中使用的問題分組，以追蹤透過請求佇列傳入的請求。透過這樣的分組，可以更輕鬆看到類型相似的問題/請求依其優先順序分組。將群組命名為「請求佇列、佇列主題、優先順序」。
 

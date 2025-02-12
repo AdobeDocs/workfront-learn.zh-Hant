@@ -11,8 +11,8 @@ jira: KT-9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 * 在情境中建立和剖析 JSON 以支援您的設計需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops)
 
 
 

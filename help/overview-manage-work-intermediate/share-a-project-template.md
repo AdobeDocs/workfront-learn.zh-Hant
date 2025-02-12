@@ -13,10 +13,10 @@ hide: true
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 * 與其他使用者共用範本
 * 共用使用範本建立的專案
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops)
 
 ## 有關此主題的推薦教學課程
 

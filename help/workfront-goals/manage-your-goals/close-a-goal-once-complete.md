@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 結束目標來表示該目標已完成，或是您不再執行該目標或者在不久的將來亦無打算執行
 
->[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on&enablevpops)

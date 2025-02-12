@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-9074
 exl-id: 9a8bec0b-1f48-48d4-883b-2cb9cff251cf
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
@@ -24,4 +24,4 @@ ht-degree: 100%
 * [!DNL Scenario Planner] 的導覽式概觀
 * 瞭解 [!DNL Scenario Planner] 如何協助您做出能夠產生相符之業務成果的決策。
 
->[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on&enablevpops)

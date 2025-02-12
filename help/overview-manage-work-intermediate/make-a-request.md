@@ -14,7 +14,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 651312d5-c5ec-4c0b-83aa-f6723da110fd
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
@@ -34,7 +34,7 @@ ht-degree: 100%
 * 尋找請求的草稿
 * 查看最後三個請求路徑
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
 
 ## 有關此主題的推薦教學課程
 

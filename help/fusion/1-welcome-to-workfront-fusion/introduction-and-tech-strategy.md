@@ -12,8 +12,8 @@ jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
 
@@ -50,4 +50,4 @@ Fusion 是某些 Workfront 套件所包含的附加產品。如果您的 Workfro
 * Fusion 的核心與設計工具功能
 * Fusion 範例情境
 
->[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops)

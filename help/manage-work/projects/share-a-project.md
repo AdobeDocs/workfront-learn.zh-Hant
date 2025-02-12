@@ -12,8 +12,8 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 如何把專案放入專案組合以利共用
 * 共用專案的最佳實務
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
 
 ## 有關此主題的推薦教學課程
 

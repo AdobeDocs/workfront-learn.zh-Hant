@@ -13,10 +13,10 @@ last-substantial-update: 2023-05-12T00:00:00Z
 jira: KT-10127
 hide: true
 exl-id: 22920ca3-8185-4347-abaa-561cc41e7406
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 * 為何將專案狀態變更為「[!UICONTROL 完成]」
 * 如果無法將專案狀態變更為「[!UICONTROL 完成]」該怎麼辦
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
 
 ## 有關此主題的推薦教學課程
 

@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 瞭解一些有用的問題報告元素
 * 瞭解如何建立您自己的問題篩選器
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops)
 
 ## 活動：建立問題報告
 

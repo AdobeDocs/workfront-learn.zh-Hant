@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8982
 exl-id: 717952e8-e633-4d65-b76a-9afb29159f5a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
@@ -24,4 +24,4 @@ ht-degree: 100%
 * 品牌準則是什麼
 * 如何在 [!UICONTROL Brand Connect] 中建立品牌準則頁面
 
->[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on&enablevpops)

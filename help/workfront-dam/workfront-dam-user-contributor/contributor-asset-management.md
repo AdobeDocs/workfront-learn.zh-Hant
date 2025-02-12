@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 觀看這段影片，您將瞭解如何：
 
 * 使用資產的「編輯」選單
-* 設定到期日
+* 設定過期日
 * 檢視通知
 * 建立個人通知設定
 * 上傳資產版本
@@ -30,7 +30,7 @@ ht-degree: 100%
 * 套用中繼資料範本至資料夾
 * 建立資料夾權限
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
 
 ## 資產版本如何運作
 
@@ -44,7 +44,7 @@ ht-degree: 100%
 
 如果您將含有多個版本的資產發佈到 Brand Connect，則 Brand Connect 使用者只會看到該資產的最新版本。
 
-## 資料夾和資產狀態與到期時間
+## 資料夾和資產狀態與期限
 
 狀態是管理 [!UICONTROL Workfront DAM] 資料夾與資產之存取權的另一種方式。您可以使用狀態來隱藏某些資產或資料夾，避免 [!UICONTROL Brand Connect] 使用者看見，或是讓一個資產或資料夾過期，使得唯有系統管理員才能存取。
 

@@ -13,10 +13,10 @@ hide: true
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: 2eb8c7e2-d980-409c-b06a-d44f5817648d
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 委派專案、任務、問題的核准工作
 * 識別委派的核准工作
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
 
 ## 有關此主題的推薦教學課程
 

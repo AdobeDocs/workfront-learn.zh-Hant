@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 100%
@@ -24,7 +24,7 @@ ht-degree: 100%
 * 自訂導覽列和頁尾
 * 自訂首頁和登入頁面
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops)
 
 ## 其他「[!UICONTROL 外觀]」設定
 
@@ -32,13 +32,13 @@ ht-degree: 100%
 
 ![[!UICONTROL 外觀]選單之下的[!UICONTROL 字體]選項將控制此項目的樣式：[!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
 
-## 首頁 widget
+## 首頁小工具
 
-自訂 [!UICONTROL Brand Connect] 首頁的外觀使符合組織需求。您可以使用 widget 來新增例如資料夾和影像投影片一類元素。若您的組織有多個 [!UICONTROL Brand Connects]，其個別擁有自己的首頁，您可以賦予截然不同的外觀。
+自訂 [!UICONTROL Brand Connect] 首頁的外觀使符合組織需求。您可以使用小工具來新增例如資料夾和影像投影片一類元素。若您的組織有多個 [!UICONTROL Brand Connects]，其個別擁有自己的首頁，您可以賦予截然不同的外觀。
 
-![螢幕擷圖顯示 [!UICONTROL Brand Connect] 首頁的可用 widget](assets/03-brand-connect-home-page-widgets.png)
+![螢幕擷圖顯示 [!UICONTROL Brand Connect] 首頁的可用小工具](assets/03-brand-connect-home-page-widgets.png)
 
-可使用的 widget 包括：
+可使用的小工具包括：
 
 **A. 輪播** — 在影像投影片中顯示多個資產。每個資產皆可新增說明。按一下「新增」圖示來選取要輪播的影像。
 
@@ -58,6 +58,6 @@ ht-degree: 100%
 
 若您為組織的 [!UICONTROL Brand Connect] 設計一個自訂首頁，使用者必須點選進入「[!UICONTROL 資產]」區域才能進行搜尋。
 
-但系統管理員可以使用 HTML Widget 和以下 HTML 標籤建立搜尋列：
+但系統管理員可以使用 HTML 小工具和以下 HTML 標籤建立搜尋列：
 
 &lt;webdambp.headersearch>&lt;/webdambp.headersearch>

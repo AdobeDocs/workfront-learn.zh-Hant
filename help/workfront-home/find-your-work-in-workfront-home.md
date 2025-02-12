@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Workfront 目前提供兩種首頁體驗。如果您有新的首頁體驗，請查看「[刪除、新增和重新排列首頁中 Widget](/help/workfront-home/remove-add-and-rearrange-widgets.md)」的教學課程
+>Workfront 目前提供兩種首頁體驗。如果您有新的首頁體驗，請查看「[刪除、新增和重新排列首頁中小工具](/help/workfront-home/remove-add-and-rearrange-widgets.md)」的教學課程
 
 
 觀看這段影片，您將了解如何：
@@ -31,4 +31,4 @@ ht-degree: 100%
 * 尋找即將到來和現有的工作指派
 * 檢閱指派資訊
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops)

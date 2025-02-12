@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 從頭開始建立範本
 * 使用現有專案建立範本
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
 
 ## 使用[!UICONTROL 藍圖]建立範本
 

@@ -12,8 +12,8 @@ recommendations: noDisplay,catalog
 jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 與其他使用者共用範本
 * 共用使用範本建立的專案
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops)
 
 ## 有關此主題的推薦教學課程
 

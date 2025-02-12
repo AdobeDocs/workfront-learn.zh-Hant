@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## 準備發佈資產
 
-將資產或資料夾發佈到 [!UICONTROL Brand Connect]，讓更多對象可以存取已核准的資產。您的組織中可能有許多人員無法存取 [!UICONTROL Workfront DAM] 但是可以存取 [!UICONTROL Brand Connect]。
+將資產或資料夾發佈到 [!UICONTROL Brand Connect]，讓更多受眾可以存取已核准的資產。您的組織中可能有許多人員無法存取 [!UICONTROL Workfront DAM] 但是可以存取 [!UICONTROL Brand Connect]。
 
 資產在最終確定之前不應發佈。例如，您不想把手冊的粗略草稿發佈到 [!UICONTROL Brand Connect]，否則可能在最終確定之前便已分發出去。
 
@@ -41,4 +41,4 @@ ht-degree: 100%
 * 將資產發佈到 [!UICONTROL Brand Connect]
 * 將資料夾發佈到 [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on&enablevpops)

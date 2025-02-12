@@ -1,6 +1,6 @@
 ---
 title: 建立全域和單次使用的核准流程
-description: 瞭解如何針對專案、任務或問題建立全域和單一使用核准流程。
+description: 了解如何針對專案、任務或問題建立全域和單次使用的核准流程。
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -12,10 +12,10 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '442'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 在這部影片中，您將了解如何針對專案、任務或問題建立全域核准流程和單次核准流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >

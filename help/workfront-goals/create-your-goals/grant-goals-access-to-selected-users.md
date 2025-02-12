@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * 授予指定使用者存取目標的權限
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on&enablevpops)
 
 系統管理員可以透過 Workfront 的「**[!UICONTROL 設定]**」區域追蹤已使用多少 [!DNL Workfront Goals] 授權。
 

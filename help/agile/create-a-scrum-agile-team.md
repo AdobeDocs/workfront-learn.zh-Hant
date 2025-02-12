@@ -8,7 +8,7 @@ jira: KT-10871
 thumbnail: 346281.jpeg
 exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 100%
@@ -40,7 +40,7 @@ Workfront 中的敏捷團隊負責完成疊代頁面的工作[1]。位在頁面�
 - 選取 Scrum 方法
 - 確定 Scrum 團隊設定
 
->[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops)
 
 您想把 Workfront 中現有的團隊轉換為敏捷團隊？沒問題！前往「團隊設定」並勾選「這是一個敏捷團隊」方塊。
 

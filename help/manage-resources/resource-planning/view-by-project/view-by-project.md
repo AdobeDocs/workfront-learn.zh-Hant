@@ -11,7 +11,7 @@ thumbnail: 335170.jpeg
 jira: KT-8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 查看「[!UICONTROL 依專案檢視]」視圖
 * 瞭解資源資訊在此視圖中如何顯示
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops)
 
 「依專案檢視」選項是預設顯示「已編預算」欄，它會從業務案例提取專案所需資源的預估數量，若已填入這項資訊的話。這也表示「淨值」欄依預設使用「已編預算」欄的數字，讓您知道尚有多少剩餘資源。
 

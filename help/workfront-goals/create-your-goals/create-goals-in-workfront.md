@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 100%
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 * 導覽「[!UICONTROL 目標清單]」區段來新增新的目標
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops)
 
 ## 複製現有目標
 
@@ -93,5 +93,5 @@ ht-degree: 100%
 
 * 新增一項活動並轉換成一致的目標
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops)
 

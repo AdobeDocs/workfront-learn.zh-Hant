@@ -11,7 +11,8 @@ team: Technical Marketing
 jira: KT-8782
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -25,7 +26,7 @@ ht-degree: 100%
 * 選取一種視圖來比較 [!DNL Workfront's] 不同的日期類型
 * 使用進度狀態協助您追蹤工作進度
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

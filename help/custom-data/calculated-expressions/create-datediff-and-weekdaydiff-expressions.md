@@ -11,7 +11,7 @@ thumbnail: 335176.png
 jira: KT-8913
 exl-id: 7ef77612-d490-4dc5-82e1-5c36acad761e
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
@@ -25,6 +25,6 @@ ht-degree: 100%
 * 瞭解 DATEDIFF 和 WEEKDAYDIFF 運算式計算的內容。
 * 如何在計算欄位中建立 WEEKDAYDIFF 資料運算式
 
->[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on&enablevpops)
 
 **備註**：WEEKDAYDIFF 資料運算式不考慮貴組織指定的假期。

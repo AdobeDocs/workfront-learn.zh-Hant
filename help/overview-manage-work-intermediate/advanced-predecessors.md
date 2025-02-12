@@ -12,10 +12,11 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 8ef57b1c-39fb-4c4e-852e-994ea718e91a
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 100%
 
 ---
 
@@ -36,7 +37,7 @@ ht-degree: 0%
 * 相依性循環錯誤
 * 捷徑與最佳實務
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops)
 
 有關使用前置任務的更多資訊，請參閱「[使用任務前置任務](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html)」。
 

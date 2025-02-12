@@ -1,6 +1,6 @@
 ---
 title: 設定中繼資料
-description: 了解如何在 [!UICONTROL Workfront DAM] 中建立中繼資料方案、了解不同類型的中繼資料、使用現有的中繼資料欄位等。
+description: 了解如何在 [!UICONTROL Workfront DAM] 中建立後設資料結構、了解不同類型的後設資料、使用現有的後設資料欄位等。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 使用現有的中繼資料欄位
 * 建立自訂中繼資料欄位
 
->[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops)
 
 ## 中繼資料最佳實務
 

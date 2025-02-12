@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 如何了解排程模式
 * 如何建立任務限制視圖
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
 >[!IMPORTANT]
 >

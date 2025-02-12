@@ -11,8 +11,8 @@ jira: KT-9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
->[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on&enablevpops)
 
 
 

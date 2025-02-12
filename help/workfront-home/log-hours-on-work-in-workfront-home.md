@@ -11,7 +11,7 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 記錄時間的重要性
 * 如何記錄所指派工作的時間
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops)
 
 ## 在 [!DNL Home] 中記錄工作時數的技巧
 

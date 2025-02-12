@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8953
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '71'
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 * 從開始或完成日期開始進行專案排程
 * 任務限制
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
 >[!IMPORTANT]
 >
