@@ -1,6 +1,6 @@
 ---
-title: 建立矩陣報告
-description: 瞭解矩陣報告的適用時機以及在 Workfront 中如何建立矩陣報告。
+title: 建立矩陣報告活動
+description: 透過逐步指示，練習建立矩陣報告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 79%
+source-wordcount: '236'
+ht-degree: 66%
 
 ---
 
-# 建立矩陣報告
+# 建立矩陣報告活動
 
-觀看這段影片，您將會瞭解：
-
-* 矩陣報告的適用時機
-* 以及如何建立矩陣報告
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+透過逐步指示，練習建立矩陣報告。
 
 ## 活動1：建立矩陣報表
 

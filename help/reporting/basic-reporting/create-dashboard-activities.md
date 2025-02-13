@@ -1,6 +1,6 @@
 ---
-title: 建立儀表板
-description: 瞭解如何將各種清單報告、圖表、行事曆和外部網頁結合在 Workfront 的儀表板中。
+title: 建立儀表板活動
+description: 透過逐步指示，練習建立控制面板。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 58%
+source-wordcount: '425'
+ht-degree: 49%
 
 ---
 
-# 建立儀表板
+# 建立儀表板活動
 
-觀看這段影片，您將會瞭解：
-
-* Workfront 中的儀表板是什麼
-* 如何建立儀表板
-* 如何尋找和使用儀表板
-* 如何與其他 Workfront 使用者共用儀表板
-* 如何列印儀表板
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+透過逐步指示，練習建立控制面板。
 
 ## 活動1：建立控制面板
 

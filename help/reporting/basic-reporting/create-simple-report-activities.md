@@ -1,6 +1,6 @@
 ---
-title: 建立簡單報告
-description: 瞭解如何使用 Workfront 中現有的篩選器、視圖和分組來建立簡單的報告。
+title: 建立簡單報表活動
+description: 透過逐步指示，練習建立簡單報表。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,22 +9,17 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8858
 thumbnail: 335153.png
-exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 79%
+source-wordcount: '225'
+ht-degree: 66%
 
 ---
 
-# 建立簡單報告
+# 建立簡單報表活動
 
-觀看這段影片，您將瞭解如何：
-
-* 使用現有的篩選器、視圖和分組建立簡單報告
-
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+透過逐步指示，練習建立簡單報表。
 
 ## 活動1：建立簡單任務報告
 

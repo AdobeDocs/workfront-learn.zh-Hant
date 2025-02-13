@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 60%
+source-wordcount: '201'
+ht-degree: 52%
 
 ---
 
-# 活動：建立基本分組
+# 建立基本分組活動
+
+使用逐步指示練習建立基本群組。
+
+## 活動1：建立請求佇列分組
 
 建立將在報告中使用的問題分組，以追蹤透過請求佇列傳入的請求。透過這樣的分組，可以更輕鬆看到類型相似的問題/請求依其優先順序分組。將群組命名為「請求佇列、佇列主題、優先順序」。
 
@@ -28,7 +32,7 @@ ht-degree: 60%
 1. 佇列主題
 1. 請求的優先順序
 
-## 解答
+## 答案1
 
 ![影像顯示建立新分組的畫面](assets/grouping-exercise.png)
 

@@ -1,6 +1,6 @@
 ---
-title: 對視圖新增基本條件式格式設定
-description: 瞭解在報告或視圖中，如何根據您制定的條件使用欄規則來變更文字顏色、格式和背景顏色。
+title: 新增基本條件式格式至檢視活動
+description: 練習使用逐步指示，將基本條件式格式新增至檢視。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,25 +9,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '411'
+ht-degree: 87%
 
 ---
 
-# 對視圖新增基本條件式格式設定
+# 新增基本條件式格式至檢視活動
 
-建立欄規則便可以進行條件式格式設定。欄規則允許您根據自己設定的條件，用特定方式將欄格式化。
-
-觀看這段影片，您將會瞭解：
-
-* 視圖中有哪些條件式格式設定
-* 如何建立和修改條件式格式設定
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+練習使用逐步指示，將基本條件式格式新增至檢視。
 
 ## 摘要
 

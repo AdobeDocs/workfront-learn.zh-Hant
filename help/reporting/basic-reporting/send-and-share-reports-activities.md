@@ -1,6 +1,6 @@
 ---
-title: 傳送和共用報告
-description: 瞭解如何向使用者、團隊或任何電子郵件地址傳送報告，以及如何與 Workfront 中任何人共用報告。
+title: 傳送和共用報表活動
+description: 透過逐步指示，練習傳送和共用報表。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,24 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '179'
+ht-degree: 79%
 
 ---
 
-# 傳送和共用報告
+# 傳送和共用報表活動
 
-觀看這段影片，您將會瞭解：
-
-* 如何向使用者、團隊或任何電子郵件地址傳送報告
-* 如何與任何人共用報告
-* 收件者可以透過 Workfront 報告看到什麼資訊及執行哪些動作
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+透過逐步指示，練習傳送和共用報表。
 
 ## 活動1：傳送報表
 

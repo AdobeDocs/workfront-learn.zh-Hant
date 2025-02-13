@@ -1,6 +1,6 @@
 ---
-title: 建立任務報告
-description: 了解如何使用複雜的篩選器建立任務報告，並在 Workfront 中找到您所建立的報告。活動 - 建立附有提示的筆記報告。
+title: 建立任務報告活動
+description: 透過逐步指示練習建立任務報告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,25 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '920'
-ht-degree: 99%
+source-wordcount: '889'
+ht-degree: 96%
 
 ---
 
-# 建立任務報告
+# 建立任務報告活動
 
-觀看這段影片，您將會了解：
-
-* 如何使用複雜的篩選器建立任務報告
-* 如何尋找您建立的報告
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+透過逐步指示練習建立任務報告。
 
 >[!TIP]
 >

@@ -1,6 +1,6 @@
 ---
-title: 建立附有圖表的報告
-description: 瞭解圖表如何改善資料視覺化以及如何使用 Workfront 的圖表工具。
+title: 使用圖表活動建立報表
+description: 練習使用圖表建立報告，並附有逐步指示。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '314'
+ht-degree: 81%
 
 ---
 
-# 建立附有圖表的報告
+# 使用圖表活動建立報表
 
-觀看這段影片，您將會瞭解：
-
-* 圖表如何改善資料視覺化
-* 如何使用 Workfront 的圖表工具
-
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+練習使用圖表建立報告，並附有逐步指示。
 
 ## 活動1：新增圖表至報表
 

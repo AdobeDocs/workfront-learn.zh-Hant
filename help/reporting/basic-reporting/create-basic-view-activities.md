@@ -1,6 +1,6 @@
 ---
-title: 建立基本視圖
-description: 了解在 Workfront 中什麼是視圖、如何建立視圖，以及如何與其他使用者共用視圖。
+title: 建立基本檢視活動
+description: 使用逐步指示練習建立基本檢視。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '795'
+ht-degree: 96%
 
 ---
 
-# 建立基本視圖
+# 建立基本檢視活動
 
-觀看這段影片，您將會了解：
-
-* Workfront 中的視圖是什麼
-* 如何建立和修改視圖
-* 如何與其他 Workfront 使用者共用視圖
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+使用逐步指示練習建立基本檢視。
 
 ## 活動 1：建立任務狀態視圖
 
@@ -43,7 +36,7 @@ ht-degree: 99%
 * [!UICONTROL 進度狀態]
 * [!UICONTROL 狀態圖示]
 
-## 答案1
+## 活動 1 答案
 
 ![影像顯示建立任務狀態視圖的畫面](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ ht-degree: 99%
 * [!UICONTROL 完成百分比]
 
 
-## 答案2
+## 活動 2 答案
 
 ![影像顯示建立里程碑視圖的畫面](assets/view-milestone-exercise-1.png)
 
@@ -108,7 +101,7 @@ ht-degree: 99%
 
 變更「[!UICONTROL 開始日期]」和「[!UICONTROL 到期日]」欄的「[!UICONTROL 欄位格式]」以便同時顯示日期和時間。
 
-## 答案3
+## 活動 3 答案
 
 ![影像顯示畫面中顯示時間類型和任務限制視圖](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ ht-degree: 99%
 * [!UICONTROL 使用中]
 
 
-## 答案4
+## 活動 4 答案
 
 ![顯示專案範本使用中狀態視圖的螢幕影像](assets/view-activity-4.png)
 
