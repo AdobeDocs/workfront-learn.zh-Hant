@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3310ca62542d2cb596c6fd50a740bae2bb6345f2
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 96%
 * Workfront 報告的主要元件
 * 如何在報告元素中使用這些元件
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
 ## 報告元件
 
@@ -35,7 +35,7 @@ ht-degree: 96%
 
 **A- 欄位來源**
 
-欄位來源選項取決於選取的物件型別。 通常，欄位來源是 Workfront 中某項資訊 (即欄位名稱) 所屬的項目。有時候欄位來源與物件類型相同。
+欄位來源選項取決於選取的物件類型。通常，欄位來源是 Workfront 中某項資訊 (即欄位名稱) 所屬的項目。有時候欄位來源與物件類型相同。
 欄位來源決定可以使用的欄位名稱。
 
 例如：「[!UICONTROL  專案]」、「[!UICONTROL 任務]」、「[!UICONTROL 問題]」、「[!UICONTROL 指派至]」
