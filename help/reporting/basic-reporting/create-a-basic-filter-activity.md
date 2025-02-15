@@ -11,14 +11,16 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '429'
 ht-degree: 100%
 
 ---
 
 # 建立基本篩選器活動
+
+[按一下這裡](/help/assets/create-basic-filter-activities.pdf)以下載此頁面的 PDF 版本。
 
 ## 活動 1 - 行銷專案組合中所有專案
 
@@ -26,7 +28,7 @@ ht-degree: 100%
 
 以下包含逐步操作指示。
 
-### 活動 1 答案
+## 活動 1 答案
 
 ![影像顯示建立新篩選器的畫面](assets/basic-filter-activity-1.png)
 
@@ -49,7 +51,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
 
-### 活動 2 答案
+## 活動 2 答案
 
 ![影像顯示建立新篩選器的畫面](assets/basic-filter-activity-updated-6-15-21.png)
 

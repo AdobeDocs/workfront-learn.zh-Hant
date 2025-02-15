@@ -11,9 +11,9 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '268'
 ht-degree: 79%
 
 ---
@@ -27,13 +27,17 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## 活動1：建立矩陣報表
+## 建立矩陣報告活動
+
+[按一下這裡](/help/assets/create-matrix-report-activities.pdf)以下載此頁面的 PDF 版本。
+
+### 活動1：建立矩陣報表
 
 建立一份矩陣報告，顯示每個狀態下有多少請求，並按照請求佇列排序。這可以讓您快速瞭解需要完成的工作量，以及您跟進工作的程度。
 
 您想要讓請求佇列依列分組顯示。而狀態依欄分組顯示。將報表命名為「按狀態要求與要求佇列」。
 
-## 答案1
+### 答案1
 
 1. 在&#x200B;**[!UICONTROL 主選單]**&#x200B;中選取「**[!UICONTROL 報告]**」。
 1. 按一下「**[!UICONTROL 新增報告]**」選項並選取「**[!UICONTROL 問題]**」。

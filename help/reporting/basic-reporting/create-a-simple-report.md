@@ -11,9 +11,9 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '255'
 ht-degree: 79%
 
 ---
@@ -26,7 +26,11 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## 活動1：建立簡單任務報告
+## 建立簡單報表活動
+
+[按一下這裡](/help/assets/create-simple-report-activities.pdf)以下載此頁面的 PDF 版本。
+
+### 活動1：建立簡單任務報告
 
 您想要在一份報告中追蹤所有進行中的任務。使用下列專案建立名為「我的目前工作」的工作報告：
 
@@ -35,7 +39,7 @@ ht-degree: 79%
 * 篩選器 = 我目前的任務
 * 說明 = 我是任務所有者的目前專案上的未完成任務，依專案分組。
 
-## 答案1
+### 答案1
 
 1. 前往&#x200B;**[!UICONTROL 主選單]**&#x200B;並選取「**[!UICONTROL 報告]**」。
 1. 按一下「**[!UICONTROL 新增報告]**」下拉式選單並選取「**[!UICONTROL 任務報告]**」。

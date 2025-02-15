@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '933'
 ht-degree: 99%
 
 ---
@@ -27,7 +27,9 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
+## 建立任務報告活動
 
+[按一下這裡](/help/assets/create-task-report-activities.pdf)以下載此頁面的 PDF 版本。
 
 >[!TIP]
 >

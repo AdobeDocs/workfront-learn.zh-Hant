@@ -11,10 +11,10 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '343'
+ht-degree: 90%
 
 ---
 
@@ -27,11 +27,15 @@ ht-degree: 91%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## 活動1：新增圖表至報表
+## 使用圖表活動建立報表
+
+[按一下這裡](/help/assets/create-reports-with-charts-activities.pdf)以下載此頁面的 PDF 版本。
+
+### 活動1：新增圖表至報表
 
 臨近季末，您想瞭解最近完成的專案是否控制在預算範圍內。建立一份報告，比較專案的規劃成本與實際成本。您只想查看上一季度完成的專案。使用自訂顏色新增組合欄圖表。
 
-## 答案1
+### 答案1
 
 1. 在&#x200B;**[!UICONTROL 主選單]**&#x200B;中選取「**[!UICONTROL 報告]**」。
 1. 按一下「**[!UICONTROL 新增報告]**」選單並選取「**[!UICONTROL 專案]**」。

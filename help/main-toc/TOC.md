@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '2435'
-ht-degree: 97%
+source-wordcount: '2394'
+ht-degree: 99%
 
 ---
 
@@ -645,19 +645,4 @@ ht-degree: 97%
 + 高階管理層適用的 Workfront {#workfront-for-executives}
    + [高階管理層適用的 Workfront](/help/workfront-for-executives/workfront-for-executives.md)
 
-
-
-<!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
---->
-
-+ [建立基本分組活動](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
-+ [建立基本檢視活動](/help/reporting/basic-reporting/create-basic-view-activities.md)
-+ [新增基本條件式格式至檢視活動](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
-+ [建立簡單報表活動](/help/reporting/basic-reporting/create-simple-report-activities.md)
-+ [建立任務報告活動](/help/reporting/basic-reporting/create-task-report-activities.md)
-+ [使用圖表活動建立報表](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
-+ [建立矩陣報告活動](/help/reporting/basic-reporting/create-matrix-report-activities.md)
-+ [建立儀表板活動](/help/reporting/basic-reporting/create-dashboard-activities.md)
-+ [傳送和共用報表活動](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 

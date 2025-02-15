@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '835'
+ht-degree: 98%
 
 ---
 
@@ -29,7 +29,11 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## 活動 1：建立任務狀態視圖
+## 建立基本檢視活動
+
+[按一下這裡](/help/assets/create-basic-view-activities.pdf)以下載此頁面的 PDF 版本。
+
+### 活動 1：建立任務狀態視圖
 
 作為專案經理人、團隊領導者或資源管理員，您想要追蹤任務工作的進展。透過這個視圖，您可以看到任務的數個狀態指標以清單或報告的形式全部排列顯示。
 
@@ -43,7 +47,7 @@ ht-degree: 99%
 * [!UICONTROL 進度狀態]
 * [!UICONTROL 狀態圖示]
 
-## 答案1
+### 答案1
 
 ![影像顯示建立任務狀態視圖的畫面](assets/view-exercise.png)
 
@@ -60,7 +64,7 @@ ht-degree: 99%
 
 將游標懸停在「[!UICONTROL 狀態圖示]」欄的每個圖示上來看看他們代表的狀態。如果圖示呈現灰色，則表示該任務沒有備註、文件、核准流程等。如果圖示顯示顏色，則至少有一個項目與該任務關聯。您可以按一下備註或文件圖示前往該項目。
 
-## 活動 2：建立里程碑視圖
+### 活動 2：建立里程碑視圖
 
 如果您使用里程碑，此視圖是依名稱查看里程碑並使用行間編輯來新增或編輯里程碑的最簡單方法。
 
@@ -76,7 +80,7 @@ ht-degree: 99%
 * [!UICONTROL 完成百分比]
 
 
-## 答案2
+### 答案2
 
 ![影像顯示建立里程碑視圖的畫面](assets/view-milestone-exercise-1.png)
 
@@ -88,7 +92,7 @@ ht-degree: 99%
 
 ![影像顯示使用里程碑視圖的任務清單](assets/view-milestone-exercise-2.png)
 
-## 活動 3：建立期間類型和任務限制視圖
+### 活動 3：建立期間類型和任務限制視圖
 
 您可以利用此視圖檢查和編輯專案中所有期間類型和任務限制。
 
@@ -108,7 +112,7 @@ ht-degree: 99%
 
 變更「[!UICONTROL 開始日期]」和「[!UICONTROL 到期日]」欄的「[!UICONTROL 欄位格式]」以便同時顯示日期和時間。
 
-## 答案3
+### 答案3
 
 ![影像顯示畫面中顯示時間類型和任務限制視圖](assets/view-activity-3.png)
 
@@ -130,7 +134,7 @@ ht-degree: 99%
 1. 在「[!UICONTROL 欄位格式]」下拉式選單之下，選取「[!UICONTROL 10/17/60 3:00 AM]」。
 1. 按一下「**[!UICONTROL 儲存]**」。
 
-## 活動 4：建立專案範本使用中狀態視圖
+### 活動 4：建立專案範本使用中狀態視圖
 
 任何管理專案範本的人都會喜歡看到清單中每個範本使用中狀態 (True 或 False)。更好的是 - 該欄位是行間可編輯欄位！
 
@@ -146,7 +150,7 @@ ht-degree: 99%
 * [!UICONTROL 使用中]
 
 
-## 答案4
+### 答案4
 
 ![顯示專案範本使用中狀態視圖的螢幕影像](assets/view-activity-4.png)
 
