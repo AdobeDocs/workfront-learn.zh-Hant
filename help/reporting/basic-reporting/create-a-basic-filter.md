@@ -1,6 +1,6 @@
 ---
 title: 建立基本篩選器
-description: 瞭解什麼是篩選器、如何建立篩選器，以及如何在Workfront中與其他使用者共用篩選器。
+description: 了解在 Workfront 中什麼是篩選器、如何建立篩選器，以及與其他使用者共用篩選器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
