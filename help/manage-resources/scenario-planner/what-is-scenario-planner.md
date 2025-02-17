@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Scenario Planner]說明'
+title: '[!DNL Scenario Planner] 已說明'
 description: 瞭解  [!DNL Scenario Planner]  如何與其他資源規劃工具配合使用。接著瞭解如何設定  [!DNL Scenario Planner]。
 feature: Resource Management
 type: Tutorial
@@ -12,9 +12,9 @@ jira: KT-9075
 exl-id: 8df4cf3b-c6fc-4515-b475-efb8442b5962
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

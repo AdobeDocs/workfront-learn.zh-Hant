@@ -11,9 +11,9 @@ jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 95%
 
 當您設定 [!UICONTROL Workfront DAM] 系統時，一定要用宏觀角度考慮使用者和群組所扮演的角色。
 
-群組控制對於 [!UICONTROL Workfront DAM] 資產資料夾的存取權。群組設定也可控制使用者對擁有存取許可權的資產進行哪些操作（檢視、下載、編輯等）。
+群組控制對於 [!UICONTROL Workfront DAM] 資產資料夾的存取權。群組設定也控制使用者可以使用資產執行哪些操作 (檢視、下載、編輯等) 他們有權限可進行存取。
 
 建立群組時，一定要記得該群組的成員需要存取 [!UICONTROL Workfront DAM] 哪些資產資料夾。
 
