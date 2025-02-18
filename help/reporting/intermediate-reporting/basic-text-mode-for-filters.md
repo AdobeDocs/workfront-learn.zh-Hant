@@ -12,10 +12,10 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '426'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '442'
+ht-degree: 98%
 
 ---
 
@@ -41,8 +41,11 @@ ht-degree: 100%
 * 什麼是駝峰式大小寫
 * 可以在報告篩選器中使用的一些基本「隨插即用」文字模式
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
+## 瞭解篩選器活動的基本文字模式
+
+[按一下這裡](/help/assets/understand-basic-text-mode-for-filters-activities.pdf)以下載此頁面的 PDF 版本。
 
 ## 任務 - 將我已標記為「已完成我的部分」的工作篩除
 

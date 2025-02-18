@@ -1,6 +1,6 @@
 ---
 title: 瞭解內建的任務篩選器
-description: 瞭解如何檢閱內建的任務篩選器來看看其建置方式，並在 Workfront 中建立自己的任務篩選器。
+description: 瞭解如何檢閱內建任務篩選器以檢視其建置方式，並在Workfront中建立您自己的任務篩選器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336818.png
@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '194'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '208'
+ht-degree: 67%
 
 ---
 
@@ -22,23 +22,27 @@ ht-degree: 100%
 
 觀看這段影片，您將：
 
-* 檢閱內建的任務篩選器來瞭解其建置方式
+* 檢閱內建任務篩選器以瞭解其建置方式
 * 瞭解一些實用的任務報告元素
 * 瞭解如何建立您的任務篩選器
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
-## 活動：建立任務報告
+## 瞭解內建任務篩選器活動
 
-您想要確保自己能夠發現指派給您其中一個團隊但是尚未有任何人同意執行的任務。建立一份任務報告，名為「我的任何團隊的未指派任務」。
+[按一下這裡](/help/assets/understand-built-in-task-filters-activities.pdf)以下載此頁面的 PDF 版本。
 
-## 解答
+### 活動：建立任務報告
+
+您想要確保自己能夠發現指派給您其中一個團隊但是尚未有任何人同意執行的任務。建立名為「我的任何團隊上的未指派任務」的任務報告。
+
+### 解答
 
 篩選器應如下所示：
 
 ![影像顯示建立任務篩選器的畫面](assets/opening-built-in-task-filters-1.png)
 
-設定欄視圖，以便包含您感興趣的或是希望能夠進行行間編輯的欄位。例如，您可以包含「指派」欄，讓您可以直接從報告把任務指派給團隊成員。
+設定欄檢視，加入您感興趣或想要的內嵌編輯欄位。 例如，您可以包含「指派」欄，讓您可以直接從報告把任務指派給團隊成員。
 
 您可能希望根據指派給各個任務的團隊名稱來將清單分組。
 

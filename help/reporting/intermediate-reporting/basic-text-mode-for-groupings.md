@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '285'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '301'
+ht-degree: 97%
 
 ---
 
@@ -39,7 +39,11 @@ ht-degree: 100%
 * 什麼是駝峰式大小寫
 * 可以在分組中使用的一些基本「隨插即用」文字模式
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+
+## 瞭解分組活動的基本文字模式
+
+[按一下這裡](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf)以下載此頁面的 PDF 版本。
 
 ## 任務 - 4 個父系分組
 

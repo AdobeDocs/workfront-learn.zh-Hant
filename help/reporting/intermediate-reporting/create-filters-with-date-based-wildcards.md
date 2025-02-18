@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '232'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '247'
+ht-degree: 71%
 
 ---
 
@@ -23,14 +23,19 @@ ht-degree: 100%
 觀看這段影片，您將瞭解如何：
 
 * 知道何時要使用日期型萬用字元
-* 瞭解 Workfront 兩種日期型萬用字元之間的差異
+* 瞭解Workfront兩種日期型萬用字元的差異
 * 新增日期型萬用字元到篩選器中
 * 使用萬用字元、屬性、運算子和修飾元來建立自訂日期
 * 使用萬用字元建立自訂日期範圍
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
-## 活動問題
+
+## 使用日期型萬用字元活動建立篩選器
+
+[按一下這裡](/help/assets/create-filters-with-date-based-wildcards-activities.pdf)以下載此頁面的 PDF 版本。
+
+### 活動問題
 
 1. 如果您要把問題的截止日期設為昨天或今天，您該如何建置篩選規則？
 1. 您要如何建置篩選規則來尋找上週到期的專案？
@@ -38,8 +43,8 @@ ht-degree: 100%
 
 ![影像顯示使用日期型萬用字元建立任務篩選器的畫面](assets/date-wildcard-answer-1.png)
 
-## 解答
+### 解答
 
 1. 篩選介於 [!UICONTROL $$TODAY-1d] 和 [!UICONTROL $$TODAY] 之間的問題規劃完成日期。
 1. 篩選介於 [!UICONTROL $$TODAYb-1w] 和 [!UICONTROL $$TODAYe-1w] 之間的專案規劃完成日期。
-1. 這份報告會尋找指派給您但是尚未完成 (就是完成百分比少於 100) 而且逾期或今天到期的任務。任務的規劃完成日期篩選規則指明要尋找到期日等於今天的日期或是今天之前的日期的任務。
+1. 此報表會尋找指派給您的尚未完成（換言之，完成百分比小於100）以及今天已過期或到期的任務。 任務的計畫完成日期的篩選規則表示，檢視到期日等於或早於今天日期的任務。
