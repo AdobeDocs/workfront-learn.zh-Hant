@@ -12,7 +12,7 @@ jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '429'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # 建立基本篩選器活動
 
-[按一下這裡](/help/assets/create-basic-filter-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/create-basic-filter-activities.pdf)下載此頁面的 PDF 版本。
 
 ## 活動 1 - 行銷專案組合中所有專案
 

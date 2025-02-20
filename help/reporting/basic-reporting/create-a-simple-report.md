@@ -12,9 +12,9 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -26,20 +26,20 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## 建立簡單報表活動
+## 建立簡易報告活動
 
-[按一下這裡](/help/assets/create-simple-report-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/create-simple-report-activities.pdf)下載此頁面的 PDF 版本。
 
-### 活動1：建立簡單任務報告
+### 活動 1：建立簡易任務報告
 
-您想要在一份報告中追蹤所有進行中的任務。使用下列專案建立名為「我的目前工作」的工作報告：
+您想要在單一報告中追蹤所有進行中的任務。使用下列設定建立名為「我目前的任務」的任務報告：
 
 * 欄 (視圖) = 標準
 * 分組 = 專案
 * 篩選器 = 我目前的任務
 * 說明 = 我是任務所有者的目前專案上的未完成任務，依專案分組。
 
-### 答案1
+### 解答 1
 
 1. 前往&#x200B;**[!UICONTROL 主選單]**&#x200B;並選取「**[!UICONTROL 報告]**」。
 1. 按一下「**[!UICONTROL 新增報告]**」下拉式選單並選取「**[!UICONTROL 任務報告]**」。
@@ -55,10 +55,9 @@ ht-degree: 79%
 
    ![影像顯示在任務報告中建立篩選器的畫面](assets/simple-task-report-filters.png)
 
-1. 開啟&#x200B;**[!UICONTROL 報告設定]**&#x200B;並將報告命名為「我的目前任務」。
-1. 在「描述」欄位中，輸入「未完成」
-我擔任任務的目前專案上的任務
-所有者，依專案分組。」
+1. 開啟「**[!UICONTROL 報告設定]**」，並將報告命名為「我目前的任務」。
+1. 在「說明」欄位中，請輸入「我是任務負責人的
+目前專案的未完成任務，依專案分組」。
 
    ![影像顯示任務報告中報告設定的畫面](assets/simple-task-report-report-settings.png)
 

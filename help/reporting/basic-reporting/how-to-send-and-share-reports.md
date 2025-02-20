@@ -12,9 +12,9 @@ jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '225'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,15 +28,15 @@ ht-degree: 94%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## 傳送和共用報表活動
+## 傳送和共用報告活動
 
-[按一下這裡](/help/assets/send-and-share-reports-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/send-and-share-reports-activities.pdf)下載此頁面的 PDF 版本。
 
-### 活動1：傳送報表
+### 活動 1：傳送報告
 
 每週一早上 5 點以 Excel 試算表格式發送一份報告給自己。這是自動收集每週報告的好方法，稍後您可以使用該報告來查看趨勢。
 
-### 答案1
+### 解答 1
 
 ![影像顯示設定重複傳遞報告的畫面](assets/send-a-report.png)
 

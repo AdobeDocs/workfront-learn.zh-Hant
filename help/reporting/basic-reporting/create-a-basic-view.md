@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '835'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## 建立基本檢視活動
+## 建立基本視圖活動
 
-[按一下這裡](/help/assets/create-basic-view-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/create-basic-view-activities.pdf)下載此頁面的 PDF 版本。
 
 ### 活動 1：建立任務狀態視圖
 
@@ -47,7 +47,7 @@ ht-degree: 98%
 * [!UICONTROL 進度狀態]
 * [!UICONTROL 狀態圖示]
 
-### 答案1
+### 解答 1
 
 ![影像顯示建立任務狀態視圖的畫面](assets/view-exercise.png)
 
@@ -80,7 +80,7 @@ ht-degree: 98%
 * [!UICONTROL 完成百分比]
 
 
-### 答案2
+### 解答 2
 
 ![影像顯示建立里程碑視圖的畫面](assets/view-milestone-exercise-1.png)
 
@@ -112,7 +112,7 @@ ht-degree: 98%
 
 變更「[!UICONTROL 開始日期]」和「[!UICONTROL 到期日]」欄的「[!UICONTROL 欄位格式]」以便同時顯示日期和時間。
 
-### 答案3
+### 解答 3
 
 ![影像顯示畫面中顯示時間類型和任務限制視圖](assets/view-activity-3.png)
 
@@ -150,7 +150,7 @@ ht-degree: 98%
 * [!UICONTROL 使用中]
 
 
-### 答案4
+### 解答 4
 
 ![顯示專案範本使用中狀態視圖的螢幕影像](assets/view-activity-4.png)
 

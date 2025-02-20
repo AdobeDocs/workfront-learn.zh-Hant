@@ -12,9 +12,9 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 99%
 
 ## 建立任務報告活動
 
-[按一下這裡](/help/assets/create-task-report-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/create-task-report-activities.pdf)下載此頁面的 PDF 版本。
 
 >[!TIP]
 >
@@ -68,7 +68,7 @@ ht-degree: 99%
 * 專案名稱
 * 稽核類型
 
-## 答案1
+## 解答 1
 
 1. 在&#x200B;**[!UICONTROL 主選單]**&#x200B;中選取「**[!UICONTROL 報告]**」。
 1. 按一下「**[!UICONTROL 新增報告]**」選單並選取「**[!UICONTROL 備註]**」。
@@ -162,7 +162,7 @@ ht-degree: 99%
 
 
 
-## 答案2
+## 解答 2
 
 1. 在&#x200B;**[!UICONTROL 主選單]**&#x200B;中選取「**[!UICONTROL 報告]**」。
 1. 按一下「**[!UICONTROL 新增報告]**」選單並選取「**[!UICONTROL 問題]**」。

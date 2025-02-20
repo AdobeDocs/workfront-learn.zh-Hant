@@ -12,9 +12,9 @@ jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ ht-degree: 90%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## 使用圖表活動建立報表
+## 建立附圖表活動的報告
 
-[按一下這裡](/help/assets/create-reports-with-charts-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/create-reports-with-charts-activities.pdf)下載此頁面的 PDF 版本。
 
-### 活動1：新增圖表至報表
+### 活動 1：將圖表新增至報告中
 
 臨近季末，您想瞭解最近完成的專案是否控制在預算範圍內。建立一份報告，比較專案的規劃成本與實際成本。您只想查看上一季度完成的專案。使用自訂顏色新增組合欄圖表。
 
-### 答案1
+### 解答 1
 
 1. 在&#x200B;**[!UICONTROL 主選單]**&#x200B;中選取「**[!UICONTROL 報告]**」。
 1. 按一下「**[!UICONTROL 新增報告]**」選單並選取「**[!UICONTROL 專案]**」。
@@ -62,6 +62,6 @@ ht-degree: 90%
 1. 對「[!UICONTROL 底部 (X) 軸]」，選擇「[!UICONTROL 專案]」>「[!UICONTROL 名稱]」。
 1. 按一下「**[!UICONTROL 組合圖表]**」按鈕並在「**[!UICONTROL 價值]**」欄位中選取「[!UICONTROL 專案]」>「[!UICONTROL 實際成本]」。
 1. 按一下顏色方塊旁邊的箭頭來變更「[!UICONTROL 實際成本]」的顏色。選取其中一個出現的顏色，或是按一下右下角的方塊來開啟調色盤。
-1. 按一下「**[!UICONTROL 儲存並關閉]**」。當系統提示您輸入報表名稱時，請將其稱為「按上季度完成的專案列出的計畫與實際成本」。
+1. 按一下「**[!UICONTROL 儲存並關閉]**」。系統提示輸入報告名稱時，請命名為「上一季已完成的專案之規劃成本與實際成本比較」。
 
-   ![影像顯示在報告中新增圖表的畫面](assets/chart-report-chart.png)
+   ![影像顯示將圖表新增至報告中的畫面](assets/chart-report-chart.png)

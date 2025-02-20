@@ -12,9 +12,9 @@ jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '243'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 95%
 
 ## 建立基本分組活動
 
-[按一下這裡](/help/assets/create-basic-grouping-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/create-basic-grouping-activities.pdf)下載此頁面的 PDF 版本。
 
-### 活動1：建立基本分組
+### 活動 1：建立基本分組
 
 建立將在報告中使用的問題分組，以追蹤透過請求佇列傳入的請求。透過這樣的分組，可以更輕鬆看到類型相似的問題/請求依其優先順序分組。將分組命名為「要求佇列、佇列主題、優先順序」。
 
@@ -42,7 +42,7 @@ ht-degree: 95%
 1. 佇列主題
 1. 請求的優先順序
 
-### 答案1
+### 解答 1
 
 ![影像顯示建立新分組的畫面](assets/grouping-exercise.png)
 
