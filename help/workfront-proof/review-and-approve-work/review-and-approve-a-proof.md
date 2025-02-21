@@ -11,10 +11,10 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '768'
-ht-degree: 100%
+source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
+workflow-type: tm+mt
+source-wordcount: '727'
+ht-degree: 91%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 100%
 
 ### 從[!UICONTROL 首頁]開啟校訂
 
-若您正使用 [!DNL Workfront] 並收到核准校訂的要求，您會在 [!DNL Workfront] [!UICONTROL 首頁]的「[!UICONTROL 工作清單]」中看到指派。只要在「[!UICONTROL 篩選器]」中選取「[!UICONTROL 核准]」，即可專心處理該類型的工作。
+如果您在[!DNL Workfront]中工作且被要求核准校訂，您將會在[!DNL Workfront] [!UICONTROL 首頁]的[!UICONTROL 我的核准] Widget中找到指派。
 
-![影像顯示 [!DNL Workfront] [!UICONTROL 首頁]，其中已啟動「[!UICONTROL 核准]」篩選器並已在清單中選取一份校訂。](assets/open-proof-from-home.png)
+![在[!DNL Workfront] [!UICONTROL 首頁].](assets/open-proof-from-home.png)中[!UICONTROL 我的核准]介面工具集的影像
 
-值得注意的是，唯有在您被指派負責核准時，校訂才會出現在 [!DNL Workfront] [!UICONTROL 首頁]。若您被要求僅需檢閱校訂，在 [!DNL Workfront] [!UICONTROL 首頁]中，當您從篩選器清單選取「[!UICONTROL 核准]」時，並不會顯示校訂。
+值得注意的是，唯有在您被指派負責核准時，校訂才會出現在 [!DNL Workfront] [!UICONTROL 首頁]。如果您剛才要求您僅檢閱校訂，則它不會在[!DNL Workfront] [!UICONTROL 首頁]中顯示。
 
-選取「[!UICONTROL 工作清單]」中的校訂核准，然後按一下「[!UICONTROL 前往校訂]」連結，在校訂檢視器中開啟校訂。
+按一下[!UICONTROL 前往校訂]連結，將其開啟到校訂檢視器中。
 
 根據貴組織的校訂和專案工作流程，您可能會在 [!DNL Workfront] [!UICONTROL 首頁]看到任務指派而不是校訂核准請求。在這種情況下，您會在任務本身的「[!UICONTROL 文件]」區段開啟校訂 (請參閱下方指示)。
 
