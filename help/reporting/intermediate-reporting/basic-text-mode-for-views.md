@@ -1,6 +1,6 @@
 ---
-title: 瞭解視圖的基本文字模式
-description: 瞭解什麼是文字模式、什麼是駝峰式大小寫，以及可以在 Workfront 的視圖中使用的一些基本的「隨插即用」文字模式。
+title: 了解檢視的基本文字模式
+description: 了解什麼是文字模式、什麼是駝峰式大小寫，以及可以在 Workfront 的檢視中使用的一些基本的「隨插即用」文字模式。
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,41 +12,41 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '665'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 瞭解視圖的基本文字模式
+# 了解檢視的基本文字模式
 
 
 >[!PREREQUISITES]
 >
->* [瞭解報告元素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=zh-hant)
->* [瞭解報告元件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=zh-Hant)
->* [建立基本視圖](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hant)
+>* [了解報告元素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=zh-hant)
+>* [了解報告元件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=zh-hant)
+>* [建立基本檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-hant)
 
 
 >[!TIP]
 >
->* 為了深入瞭解文字模式，我們建議觀看錄影版網路研討會活動「[詢問專家 - 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-Hant)」，影片長度為 1 小時。
->* 若要更加深入瞭解文字模式，我們建議觀看「[進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-hant)」教學課程，全部課程總長 5 個半小時。
+>* 為了深入了解文字模式，我們建議觀看錄影版網路研討會活動「[詢問專家 - 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-hant)」，影片長度為 1 小時。
+>* 若要更加深入了解文字模式，我們建議觀看「[進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-hant)」教學課程，全部課程總長 5 個半小時。
 >* 按一下此處以存取 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 什麼是文字模式
 * 什麼是駝峰式大小寫
-* 可以在視圖中使用的一些基本「隨插即用」文字模式
+* 可以在檢視中使用的一些基本「隨插即用」文字模式
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## 瞭解檢視活動的基本文字模式
+## 了解視圖的基本文字模式活動
 
-[按一下這裡](/help/assets/understand-basic-text-mode-for-views-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/understand-basic-text-mode-for-views-activities.pdf)下載此頁面的 PDF 版本。
 
-## 任務 - 4 層父系視圖
+## 任務 - 4 層父系檢視
 
 先建立「任務名稱」欄及「父系名稱」欄，然後使用以下文字模式建立其他三欄。
 
@@ -92,9 +92,9 @@ valuefield=parent:parent:parent:parent:name
 valueformat=HTML
 ```
 
-![螢幕影像顯示 4 層父系視圖](assets/4-parents-view.png)
+![螢幕影像顯示 4 層父系檢視](assets/4-parents-view.png)
 
-## 使用者 - 在使用者視圖中顯示清單的疊代
+## 使用者 - 在使用者檢視中顯示清單的疊代
 
 ### 使用者 - 所有職務角色
 
@@ -188,7 +188,7 @@ valueformat=HTML
 width=150
 ```
 
-![螢幕影像顯示使用者清單視圖](assets/user-lists-view-large.png)
+![螢幕影像顯示使用者清單檢視](assets/user-lists-view-large.png)
 
 ## 任務 - 如何顯示任務指派與處理狀態
 
@@ -204,7 +204,7 @@ valueformat=HTML
 width=150
 ```
 
-![螢幕影像顯示指派和狀態視圖](assets/assignments-and-status-view.png)
+![螢幕影像顯示指派和狀態檢視](assets/assignments-and-status-view.png)
 
 
 ## 任務 - 如何顯示多個任務指派的角色和配置
@@ -233,7 +233,7 @@ textmode=true
 type=iterate
 ```
 
-![螢幕影像顯示指派和角色視圖](assets/assignments-roles-and-percent-view.png)
+![螢幕影像顯示指派和角色檢視](assets/assignments-roles-and-percent-view.png)
 
 ## 任務 - 跨專案的前置任務和後續任務
 
@@ -326,7 +326,7 @@ valueformat=HTML
 width=150
 ```
 
-![畫面影像顯示跨專案的前置任務和後續任務視圖](assets/cross-project-predecessors-and-successors.png)
+![畫面影像顯示跨專案的前置任務和後續任務檢視](assets/cross-project-predecessors-and-successors.png)
 
 
 ## 任務 - 疊代顯示被指派的所有人員以及誰指派每一位人員
@@ -358,7 +358,7 @@ valueformat=HTML
 ![畫面影像顯示專案上所有自訂表單](assets/all-custom-forms-on-a-project.png)
 
 
-## 專案 - 疊代顯示專案視圖中可解決問題的所有主要聯絡人
+## 專案 - 疊代顯示專案檢視中可解決問題的所有主要聯絡人
 
 ```
 displayname=Requestor
@@ -515,7 +515,7 @@ shortview=false
 section=0
 ```
 
-![畫面影像顯示文件核准日期視圖](assets/document-approval-dates.png)
+![畫面影像顯示文件核准日期檢視](assets/document-approval-dates.png)
 
 ## 校訂核准
 

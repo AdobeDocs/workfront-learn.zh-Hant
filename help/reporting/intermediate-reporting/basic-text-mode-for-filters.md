@@ -1,6 +1,6 @@
 ---
-title: 瞭解篩選器的基本文字模式
-description: 瞭解什麼是文字模式、什麼是駝峰式大小寫，以及在 Workfront 的報告篩選器中可以使用的一些基本的「隨插即用」文字模式。
+title: 了解篩選器的基本文字模式
+description: 了解什麼是文字模式、什麼是駝峰式大小寫，以及在 Workfront 的報告篩選器中可以使用的一些基本的「隨插即用」文字模式。
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -13,29 +13,29 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '442'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 瞭解篩選器的基本文字模式
+# 了解篩選器的基本文字模式
 
 >[!PREREQUISITES]
 >
->* [瞭解報告元素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=zh-hant)
->* [瞭解報告元件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=zh-hant)
+>* [了解報告元素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=zh-hant)
+>* [了解報告元件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=zh-hant)
 >* [建立基本篩選器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=zh-hant)
 
 
 >[!TIP]
 >
->* 為了深入瞭解文字模式，我們建議觀看錄影版網路研討會活動「[詢問專家 - 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-hant)」，影片長度為 1 小時。
->* 若要更加深入瞭解文字模式，我們建議觀看「[進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-hant)」教學課程，全部課程總長 5 個半小時。
+>* 為了深入了解文字模式，我們建議觀看錄影版網路研討會活動「[詢問專家 - 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-hant)」，影片長度為 1 小時。
+>* 若要更加深入了解文字模式，我們建議觀看「[進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-hant)」教學課程，全部課程總長 5 個半小時。
 >* 按一下此處以存取 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 什麼是文字模式
 * 什麼是駝峰式大小寫
@@ -43,9 +43,9 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## 瞭解篩選器活動的基本文字模式
+## 了解篩選器的基本文字模式活動
 
-[按一下這裡](/help/assets/understand-basic-text-mode-for-filters-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/understand-basic-text-mode-for-filters-activities.pdf)下載此頁面的 PDF 版本。
 
 ## 任務 - 將我已標記為「已完成我的部分」的工作篩除
 

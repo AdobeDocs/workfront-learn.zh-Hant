@@ -12,9 +12,9 @@ jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 85%
 
 要完成 Workfront Fusion 學習路徑中的練習，您必須進行 Workfront 產品試用。若您已經參加過產品試用，我們在此一培訓中推薦新的試用方式。
 
-填寫[此表單](https://forms.office.com/r/f1J8HRGrNY)以要求測試磁碟機。 若您無法存取表單，請把您的姓名、電子郵件地址和公司名稱發送至 wfttstdr@adobe.com。
+填寫[此表單](https://forms.office.com/r/f1J8HRGrNY)要求提供產品試用。若您無法存取表單，請把您的姓名、電子郵件地址和公司名稱發送至 wfttstdr@adobe.com。
 
 ### 存取 Workfront Fusion 進行練習
 
@@ -44,13 +44,13 @@ Workfront 不提供 Workfront Fusion 產品試用。在完成教學課程之後�
 
 ### 完成操作示範練習的逐步指示
 
-提供完成大部分逐步解說練習的逐步指示。 逐步解說教學課程結束後，您可以在左側導覽列中立即找到這些內容。
+大部分的操作示範練習都會提供逐步指示。您可以在操作示範教學課程之後，立即在左側導覽列中找到這些內容。
 
-### 選擇性練習練習
+### 選用實作練習
 
-在部分逐步解說練習後，將提供練習和挑戰。
+有些操作示範練習之後會提供實作練習和挑戰。
 
-解決練習的方法有很多種。 其目的在於挑戰您去嘗試完成一項情境目標，但不提供執行步驟或是「正確答案」，因為這是您在貴公司建立情境時必須做到的事。
+實作練習的成功解法不只一種。其目的在於挑戰您去嘗試完成一項情境目標，但不提供執行步驟或是「正確答案」，因為這是您在貴公司建立情境時必須做到的事。
 
 實作練習與操作示範活動相關。
 

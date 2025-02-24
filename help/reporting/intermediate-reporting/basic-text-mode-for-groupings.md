@@ -1,6 +1,6 @@
 ---
-title: 瞭解分組的基本文字模式
-description: 瞭解什麼是文字模式、什麼是駝峰式大小寫，以及您可以在 Workfront 的分組中使用的一些「隨插即用」基本文字模式。
+title: 了解分組的基本文字模式
+description: 了解什麼是文字模式、什麼是駝峰式大小寫，以及您可以在 Workfront 的分組中使用的一些「隨插即用」基本文字模式。
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,28 +12,28 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '301'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# 瞭解分組的基本文字模式
+# 了解分組的基本文字模式
 
 >[!PREREQUISITES]
 >
->* [瞭解報告元素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=zh-hant)
->* [瞭解報告元件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=zh-hant)
->* [建立基本分組](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=zh-Hant)
+>* [了解報告元素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=zh-hant)
+>* [了解報告元件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=zh-hant)
+>* [建立基本分組](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=zh-hant)
 
 
 >[!TIP]
 >
->* 為了深入瞭解文字模式，我們建議觀看錄影版網路研討會活動「[詢問專家 - 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-hant)」，影片長度為 1 小時。
->* 若要更加深入瞭解文字模式，我們建議觀看「[進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-hant)」教學課程，全部課程總長 5 個半小時。
+>* 為了深入了解文字模式，我們建議觀看錄影版網路研討會活動「[詢問專家 - 文字模式報告簡介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-hant)」，影片長度為 1 小時。
+>* 若要更加深入了解文字模式，我們建議觀看「[進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-hant)」教學課程，全部課程總長 5 個半小時。
 >* 按一下此處以存取 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 什麼是文字模式
 * 什麼是駝峰式大小寫
@@ -41,9 +41,9 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## 瞭解分組活動的基本文字模式
+## 了解分組的基本文字模式活動
 
-[按一下這裡](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf)下載此頁面的 PDF 版本。
 
 ## 任務 - 4 個父系分組
 

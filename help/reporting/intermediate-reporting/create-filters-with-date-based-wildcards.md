@@ -1,6 +1,6 @@
 ---
 title: 建立含有日期型萬用字元的篩選器
-description: 瞭解使用日期型萬用字元的方法和時機，以及如何根據目前日期建置篩選器。
+description: 了解使用日期型萬用字元的方法和時機，以及如何根據目前日期建置篩選器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336812.png
@@ -12,18 +12,18 @@ jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
 source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '247'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # 建立含有日期型萬用字元的篩選器
 
-觀看這段影片，您將瞭解如何：
+觀看這段影片，您將了解如何：
 
 * 知道何時要使用日期型萬用字元
-* 瞭解Workfront兩種日期型萬用字元的差異
+* 了解兩種 Workfront 日期型萬用字元之間的差異
 * 新增日期型萬用字元到篩選器中
 * 使用萬用字元、屬性、運算子和修飾元來建立自訂日期
 * 使用萬用字元建立自訂日期範圍
@@ -31,9 +31,9 @@ ht-degree: 71%
 >[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 
-## 使用日期型萬用字元活動建立篩選器
+## 建立含有日期型萬用字元的篩選器活動
 
-[按一下這裡](/help/assets/create-filters-with-date-based-wildcards-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/create-filters-with-date-based-wildcards-activities.pdf)下載此頁面的 PDF 版本。
 
 ### 活動問題
 
@@ -47,4 +47,4 @@ ht-degree: 71%
 
 1. 篩選介於 [!UICONTROL $$TODAY-1d] 和 [!UICONTROL $$TODAY] 之間的問題規劃完成日期。
 1. 篩選介於 [!UICONTROL $$TODAYb-1w] 和 [!UICONTROL $$TODAYe-1w] 之間的專案規劃完成日期。
-1. 此報表會尋找指派給您的尚未完成（換言之，完成百分比小於100）以及今天已過期或到期的任務。 任務的計畫完成日期的篩選規則表示，檢視到期日等於或早於今天日期的任務。
+1. 這份報告會尋找已經指派給您，但尚未完成 (即完成百分比少於 100) 而且已逾期或今天到期的任務。任務的規劃完成日期篩選規則指明尋找到期日期等於或早於今天的任務。

@@ -1,6 +1,6 @@
 ---
 title: 建立自訂提示
-description: 瞭解什麼是自訂提示、如何使用文字模式建立自訂是示，以及可供 Workfront 之報告功能使用的範例。
+description: 了解什麼是自訂提示、如何使用文字模式建立自訂是示，以及可供 Workfront 之報告功能使用的範例。
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336822.png
@@ -12,15 +12,15 @@ jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
 source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 # 建立自訂提示
 
-觀看這段影片，您將會瞭解：
+觀看這段影片，您將會了解：
 
 * 什麼是自訂提示
 * 如何使用文字模式來建立自訂提示
@@ -30,7 +30,7 @@ ht-degree: 98%
 
 ## 建立自訂提示活動
 
-[按一下這裡](/help/assets/create-custom-prompts-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/create-custom-prompts-activities.pdf)下載此頁面的 PDF 版本。
 
 ## 活動：建立自訂提示
 

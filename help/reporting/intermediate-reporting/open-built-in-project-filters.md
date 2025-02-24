@@ -1,6 +1,6 @@
 ---
-title: 瞭解內建的專案篩選器
-description: 瞭解如何檢閱內建的專案篩選器以便瞭解其建置方式，並在 Workfront 中建立自己的專案篩選器。
+title: 了解內建的專案篩選器
+description: 了解如何檢閱內建的專案篩選器以便了解其建置方式，並在 Workfront 中建立自己的專案篩選器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336817.png
@@ -13,24 +13,24 @@ jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
 source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# 瞭解內建的專案篩選器
+# 了解內建的專案篩選器
 
-觀看這段影片，您將瞭解如何：
+觀看這段影片，您將了解如何：
 
-* 檢閱內建的專案篩選器來瞭解其建置方式
+* 檢閱內建的專案篩選器來了解其建置方式
 * 使用您所學到的知識建立自己的專案篩選器
 
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
-## 瞭解內建的專案篩選器活動
+## 了解內建的專案篩選器活動
 
-[按一下這裡](/help/assets/understand-built-in-project-filters-activities.pdf)以下載此頁面的 PDF 版本。
+[按一下這裡](/help/assets/understand-built-in-project-filters-activities.pdf)下載此頁面的 PDF 版本。
 
 ### 活動：建立專案篩選器
 
