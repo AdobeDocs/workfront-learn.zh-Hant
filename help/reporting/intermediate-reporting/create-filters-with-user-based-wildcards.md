@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,9 +40,7 @@ ht-degree: 100%
 >使用基於使用者的萬用字元時，您一定要使用「等於」篩選限定詞。
 
 
-## 使用基於使用者的萬用字元建立篩選器活動
-
-[按一下這裡](/help/assets/create-filters-with-user-based-wildcards-activities.pdf)下載此頁面的 PDF 版本。
+## 使用使用者型萬用字元活動建立篩選器
 
 ### 活動 1
 

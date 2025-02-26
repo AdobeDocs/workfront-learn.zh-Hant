@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 3310ca62542d2cb596c6fd50a740bae2bb6345f2
-workflow-type: ht
-source-wordcount: '288'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,9 +27,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
-## 報告元件
-
-[按一下這裡](/help/assets/reporting-components.pdf)以下載此頁面的 PDF 版本。
+## 報表元件快速參考
 
 ![影像顯示建立篩選器的畫面](assets/reporting-components-1.png)
 

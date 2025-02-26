@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '207'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,11 +28,10 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## 建立自訂提示活動
+## 「建立自訂提示」活動
 
-[按一下這裡](/help/assets/create-custom-prompts-activities.pdf)下載此頁面的 PDF 版本。
 
-## 活動：建立自訂提示
+### 活動：建立自訂提示
 
 1. 建立自訂提示並在提示下拉式選單中顯示下列專案狀態：
    * 計畫
@@ -41,7 +40,7 @@ ht-degree: 100%
    * 廢棄
 1. 修改提示以顯示本月到期的目前項目。
 
-## 解答
+### 解答
 
 1. 您的自訂提示應與下圖相似，且具有以下文字模式：
 

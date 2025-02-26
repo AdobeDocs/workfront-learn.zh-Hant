@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '243'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,9 +28,8 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## 建立基本分組活動
+## 「建立基本分組」活動
 
-[按一下這裡](/help/assets/create-basic-grouping-activities.pdf)下載此頁面的 PDF 版本。
 
 ### 活動 1：建立基本分組
 

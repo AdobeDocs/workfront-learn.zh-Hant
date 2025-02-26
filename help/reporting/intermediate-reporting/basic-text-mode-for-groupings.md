@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '301'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,11 +41,9 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## 了解分組的基本文字模式活動
+## 瞭解群組的基本文字模式
 
-[按一下這裡](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf)下載此頁面的 PDF 版本。
-
-## 任務 - 4 個父系分組
+### 任務 - 4 個父系分組
 
 以下文字模式將根據最多四個層級的父系把任務分組，並把不存在的父系留白。
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![畫面影像顯示專案任務依 4 個父系分組](assets/4-parents-grouping.png)
 
 
-## 任務 - 完成百分比分組
+### 任務 - 完成百分比分組
 
 以下文字模式將根據任務的完成百分比進行分組。分組時，任務將屬於以下其中一個類別：
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![畫面影像顯示專案任務依完成百分比分組](assets/percent-complete-grouping.png)
 
-## 任務 - 先根據 statusEquatesWith 再根據 status
+### 任務 - 先根據 statusEquatesWith 再根據 status
 
 以下文字模式會先根據 statusEquatesWith，再根據 status 把任務分組。
 
@@ -108,7 +106,7 @@ textmode=true
 ![畫面影像顯示專案任務依 statusEquatesWith 分組](assets/status-equates-with.png)
 
 
-## 校訂核准 - 按專案名稱分組
+### 校訂核准 - 按專案名稱分組
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![畫面影像顯示校訂核准依專案名稱分組](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## 校訂核准 - 依文件名稱分組
+### 校訂核准 - 依文件名稱分組
 
 ```
 group.0.displayname=Document Name

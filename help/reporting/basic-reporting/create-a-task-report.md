@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,9 +27,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## 建立任務報告活動
-
-[按一下這裡](/help/assets/create-task-report-activities.pdf)下載此頁面的 PDF 版本。
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ ht-degree: 100%
 >我們收集了客戶最喜歡的報告，並將這些內容整理成一套簡單易懂、易消化的秘方，您帶回後可在自己的 Workfront 環境中進行測試。
 >這 10 份報告來自與您類似的客戶。我們的客戶分佈在不同的行業、部門、團隊、職位以及不同的公司，非常感謝這些最棒的客戶分享他們最喜歡的報告。有些報告很簡單 (但非常有用)，有些則比較複雜，但都可讓您的報告提升到另一個全新境界。
 
+## 「建立任務報告」活動
 
 
-## 活動 1：建立附帶提示的備註報告
+### 活動 1：建立附帶提示的備註報告
 
 建立備註報告，方便您根據備註內容、作者、輸入日期、專案名稱或稽核類型來搜尋使用者備註 (即註解或更新) 或系統備註。將報告命名為「備註搜尋」。
 
@@ -68,7 +66,7 @@ ht-degree: 100%
 * 專案名稱
 * 稽核類型
 
-## 解答 1
+### 解答 1
 
 1. 在&#x200B;**[!UICONTROL 主選單]**&#x200B;中選取「**[!UICONTROL 報告]**」。
 1. 按一下「**[!UICONTROL 新增報告]**」選單並選取「**[!UICONTROL 備註]**」。
@@ -111,7 +109,7 @@ ht-degree: 100%
 1. 勾選「**[!UICONTROL 在儀表板中顯示提示]**」方塊。
 1. 儲存並關閉您的報告。
 
-## 活動 2：建立管理團隊意見回饋報告
+### 活動 2：建立管理團隊意見回饋報告
 
 這是一份問題報告，主要是顯示為系統管理員所建立意見回饋請求佇列的所有問題。您可以在「[建立系統管理員意見回饋請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html)」教學課程中查看如何建立此請求佇列。
 
@@ -162,7 +160,7 @@ ht-degree: 100%
 
 
 
-## 解答 2
+### 解答 2
 
 1. 在&#x200B;**[!UICONTROL 主選單]**&#x200B;中選取「**[!UICONTROL 報告]**」。
 1. 按一下「**[!UICONTROL 新增報告]**」選單並選取「**[!UICONTROL 問題]**」。

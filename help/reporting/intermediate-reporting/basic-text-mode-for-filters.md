@@ -12,10 +12,10 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '442'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -43,11 +43,10 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## 了解篩選器的基本文字模式活動
+## 瞭解篩選器的基本文字模式
 
-[按一下這裡](/help/assets/understand-basic-text-mode-for-filters-activities.pdf)下載此頁面的 PDF 版本。
 
-## 任務 - 將我已標記為「已完成我的部分」的工作篩除
+### 任務 - 將我已標記為「已完成我的部分」的工作篩除
 
 以下文字模式將會排除使用者已標記為「已完成我的部分」的任務。您只需要建立一個任務篩選器，新增任何想要的篩選規則，然後切換到文字模式，並把下列程式碼貼到您在篩選器中看到的任何文字模式之後。
 
@@ -64,7 +63,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## 任務 - 顯示所有等待我核准的任務
+### 任務 - 顯示所有等待我核准的任務
 
 ```
 approvalProcessID_Mod=notblank
@@ -73,7 +72,7 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## 任務 - 顯示所有我已核准的任務
+### 任務 - 顯示所有我已核准的任務
 
 使用任何您想要的篩選器來建立任務報告，然後前往「篩選器」標籤並按一下「切換到文字模式」。把這段程式碼新增到任何原有內容之中：
 
@@ -83,7 +82,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## 任務 - 顯示至少擁有一項跨專案前置任務的所有任務
+### 任務 - 顯示至少擁有一項跨專案前置任務的所有任務
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -91,7 +90,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## 任務 - 顯示我指派給其他人的任務
+### 任務 - 顯示我指派給其他人的任務
 
 使用任何您想要的篩選器來建立任務報告，然後前往「篩選器」標籤並按一下「切換到文字模式」。把這段程式碼新增到任何原有內容之中：
 
@@ -107,7 +106,7 @@ EXISTS:1:assignedByID=$$USER.ID
 
 這樣將會顯示已登入使用者至少指派其中一位目前受指派者的所有任務。如果受指派者由多名人員指派，只有進行指派的第一個人的名稱會在任務登陸頁面中顯示為「請求者」。
 
-## 任務 - 顯示所有已完成 - 待核准的任務
+### 任務 - 顯示所有已完成 - 待核准的任務
 
 ```
 status=CPL:A
@@ -115,7 +114,7 @@ status_Mod=in
 ```
 
 
-## 問題 - 顯示所有已完成 - 待核准的問題
+### 問題 - 顯示所有已完成 - 待核准的問題
 
 ```
 status=CPL:A
@@ -123,7 +122,7 @@ status_Mod=in
 ```
 
 
-## 專案 - 顯示所有已完成 - 待核准的專案
+### 專案 - 顯示所有已完成 - 待核准的專案
 
 ```
 status=CPL:A
@@ -131,7 +130,7 @@ status_Mod=in
 ```
 
 
-## 注意 - 顯示我被標記的所有註解
+### 注意 - 顯示我被標記的所有註解
 
 ```
 tags:userID=$$USER.ID
@@ -139,7 +138,7 @@ tags:userID_Mod=in
 ```
 
 
-## 參數/自訂欄位報告 - 顯示未附加到自訂表單的自訂欄位 (在清除工作中十分實用)
+### 參數/自訂欄位報告 - 顯示未附加到自訂表單的自訂欄位 (在清除工作中十分實用)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS
