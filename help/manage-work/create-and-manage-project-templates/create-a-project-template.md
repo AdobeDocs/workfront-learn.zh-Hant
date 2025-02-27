@@ -1,6 +1,6 @@
 ---
 title: 建立專案範本並瞭解[!UICONTROL 藍圖]
-description: 學習從頭開始和從現有專案建立專案範本，並瞭解如何透過[!UICONTROL 藍圖]存取由 Workfront 專家建立的許多實用專案範本。
+description: 有關在Workfront中建立範本的影片示範如何建立新專案範本、將其用於新專案、將現有專案另存為範本、利用預先建立的Blueprint以及將任務指派給工作角色，以實現有效的資源管理。
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,25 +13,34 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '377'
-ht-degree: 100%
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+workflow-type: tm+mt
+source-wordcount: '640'
+ht-degree: 50%
 
 ---
 
 # 建立專案範本並瞭解[!UICONTROL 藍圖]
 
+
 學習從頭開始和從現有專案建立專案範本，並瞭解如何透過[!UICONTROL 藍圖]存取由 Workfront 專家建立的許多實用專案範本。
 
 ## 建立專案範本
 
-觀看這段影片，您將瞭解如何：
+* 影片提供建立和使用行銷影片製作範本的逐步指南。 首先說明如何從頭開始建立新範本、命名並儲存。&#x200B;URL 此程式包含三個主要步驟：建立任務、使用持續時間和前置任務設定時間表，以及指派給工作角色而非個別使用者。&#x200B;URL 影片強調使用父子關係來組織工作，以獲得更好的摘要和效率。&#x200B;URL
+* 建立範本後，即可用於產生新專案。 影片示範如何從範本建立新專案、進行必要調整，以及視需要新增任務或修改持續時間。&#x200B;URL 它也會顯示如何使用資源排程與計畫功能，將工作角色指派給作業。&#x200B;URL
+* 影片說明如何將現有專案儲存為新範本，以允許在工作流程中進行更新和改進。&#x200B;URL 它強調管理範本以避免混淆並確保簡化專案執行的重要性。&#x200B;URL
 
-* 從頭開始建立範本
-* 使用現有專案建立範本
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+## 重要技巧
+
+**建立範本：**瞭解如何從頭開始建立新範本，方法為命名範本、設定工作、時間表及指派工作角色。&#x200B;URL
+**任務組織：**使用父子任務關係來有效地組織任務，為專案提供清晰的摘要和結構。&#x200B;URL
+**時間表設定：**使用持續時間和前置任務來設定任務時間表，以準確估計時間範圍和任務順序。&#x200B;URL
+**以角色為基礎的指派：**將任務指派給工作角色，而不是個別使用者，以有效利用資源排程和規劃功能。&#x200B;URL
+**範本管理：**&#x200B;將現有的專案儲存為新範本，以納入改善和管理範本，以避免混淆並確保有效的專案執行。&#x200B;URL
+
 
 ## 使用[!UICONTROL 藍圖]建立範本
 

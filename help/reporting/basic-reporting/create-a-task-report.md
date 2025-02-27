@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '925'
+ht-degree: 99%
 
 ---
 
@@ -27,14 +27,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
+## 「建立任務報告」活動
 
 >[!TIP]
 >
 >拿出您的各種器具，準備好使用我們 [ Adobe Workfront 客戶報告逐步指南](/help/assets/workfront-customer-reporting-cookbook.pdf)內的秘方。您將在指南中找到 10 份報告的逐步說明，可供您立即在您的環境中快速應用。
 >我們收集了客戶最喜歡的報告，並將這些內容整理成一套簡單易懂、易消化的秘方，您帶回後可在自己的 Workfront 環境中進行測試。
 >這 10 份報告來自與您類似的客戶。我們的客戶分佈在不同的行業、部門、團隊、職位以及不同的公司，非常感謝這些最棒的客戶分享他們最喜歡的報告。有些報告很簡單 (但非常有用)，有些則比較複雜，但都可讓您的報告提升到另一個全新境界。
-
-## 「建立任務報告」活動
 
 
 ### 活動 1：建立附帶提示的備註報告
