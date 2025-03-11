@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: c2680030e24dd48264be96695d468cd5e751c42b
+source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
 workflow-type: tm+mt
-source-wordcount: '2415'
+source-wordcount: '2410'
 ht-degree: 98%
 
 ---
@@ -152,7 +152,7 @@ ht-degree: 98%
    + 專案組合 {#portfolios}
       + [了解專案組合](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [瞭解[!UICONTROL 業務案例]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [使用[!UICONTROL 專案組合最佳化工具]來確認工作的優先順序並進行管理](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [瞭解[!UICONTROL Portfolio Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 核准流程與里程碑路徑 {#approval-processes-and-milestone-paths}
       + [建立全域和單次使用的核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
