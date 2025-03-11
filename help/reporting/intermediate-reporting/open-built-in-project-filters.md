@@ -13,9 +13,9 @@ jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '158'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
-## 「瞭解內建專案篩選器」活動
+## 「了解內建的專案篩選器」活動
 
 
 ### 活動：建立專案篩選器

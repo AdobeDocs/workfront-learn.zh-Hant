@@ -12,9 +12,9 @@ jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '260'
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## 「建立矩陣報表」活動
+## 「建立矩陣報告」活動
 
 ### 活動 1：建立矩陣報告
 

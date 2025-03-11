@@ -12,9 +12,9 @@ jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '273'
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 
-## 「瞭解內建問題篩選器」活動
+## 「了解內建的問題篩選器」活動
 
 
 ### 活動：建立問題報告

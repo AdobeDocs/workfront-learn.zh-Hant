@@ -12,9 +12,9 @@ jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '199'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
-## 瞭解內建任務篩選器
+## 「了解內建的任務篩選器」活動
 
 
 ### 活動：建立任務報告

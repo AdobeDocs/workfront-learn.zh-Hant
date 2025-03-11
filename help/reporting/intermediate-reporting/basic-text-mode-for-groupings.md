@@ -12,9 +12,9 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '292'
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## 瞭解群組的基本文字模式
+## 「了解分組的基本文字模式」活動
 
 ### 任務 - 4 個父系分組
 

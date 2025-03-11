@@ -12,9 +12,9 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '464'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 97%
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 
-## 條件式格式摘要
+## 條件式格式概要
 
 若要建立條件式格式設定：
 
@@ -43,7 +43,7 @@ ht-degree: 97%
    * 替代文字
    * 顯示圖示
 
-## 「新增基本條件式格式至檢視」活動
+## 「對視圖新增基本條件式格式設定」活動
 
 ### 活動 1：對視圖新增條件式格式設定
 

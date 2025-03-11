@@ -12,9 +12,9 @@ jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '238'
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 
-## 使用日期型萬用字元活動建立篩選器
+## 「建立含有日期型萬用字元的篩選器」活動
 
 
 ### 活動問題

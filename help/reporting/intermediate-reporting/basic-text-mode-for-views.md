@@ -12,9 +12,9 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '656'
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## 「瞭解檢視的基本文字模式」活動
+## 「了解視圖的基本文字模式」活動
 
 ### 任務 - 4 層父系檢視
 
