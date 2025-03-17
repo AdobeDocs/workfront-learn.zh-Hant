@@ -13,18 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 21%
+ht-degree: 12%
 
 ---
 
 # 了解專案團隊
 
-觀看這段影片，您將會了解：
-
-* 專案團隊的用途以及如何維護
+在本影片中，您將瞭解專案團隊可用於什麼以及如何維護它。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
 

@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 12%
+source-wordcount: '273'
+ht-degree: 15%
 
 ---
 
 # 開始規劃專案
 
-* 影片提供如何在Workfront中有效規劃專案的指引。&#x200B;URL 它強調奠定堅實基礎的重要性，以確保專案按時完成並取得成功。&#x200B;URL 關鍵步驟包括瞭解五個關鍵欄位：任務、指派、持續時間、計畫時數及前置任務。&#x200B;URL 這些欄位可讓您快速且準確地調整專案計畫。&#x200B;URL
-* 在進行變更之前，請確保專案狀態已設為「計畫」，以防止向團隊發出不必要的通知。&#x200B;URL 使用標準檢視或自訂檢視來專注於重要資訊。&#x200B;URL 準確地設定專案開始日期，確保日期切合實際並符合團隊可用性。
-* 影片強調真實的時間表、團隊可用性和準確規劃的重要性，為專案成功奠定堅實的基礎。&#x200B;URL
+影片提供如何在Workfront中有效規劃專案的指引。&#x200B;URL 它強調奠定堅實基礎的重要性，以確保專案按時完成並取得成功。&#x200B;URL 關鍵步驟包括瞭解五個關鍵欄位：任務、指派、持續時間、計畫時數及前置任務。&#x200B;URL 這些欄位可讓您快速且準確地調整專案計畫。&#x200B;URL
+
+影片強調真實的時間表、團隊可用性和準確規劃的重要性，為專案成功奠定堅實的基礎。&#x200B;URL
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 
