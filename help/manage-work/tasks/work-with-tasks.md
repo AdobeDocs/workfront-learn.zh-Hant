@@ -1,6 +1,6 @@
 ---
 title: 處理任務
-description: 瞭解如何在 Workfront 中編輯現有任務、新增和刪除任務以及變更專案上任務順序。
+description: 透過內嵌編輯、已刪除任務的資源回收筒備份、父子結構新增、任務複製和直覺式重組工具(如Workfront中的拖放)來增強任務管理。
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -12,22 +12,26 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '207'
+ht-degree: 12%
 
 ---
 
 # 處理任務
 
-觀看這段影片，您將會瞭解：
-
-* 如何編輯專案中的現有任務
-* 新增和刪除任務的方式
-* 如何變更任務順序
+本影片提供在Workfront中管理任務的詳細指南。 它強調有效的任務管理，包括編輯、刪除、新增、複製和重新組織專案計畫中的任務。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+
+## 關鍵重點
+
+* **線上編輯快速變更：**&#x200B;按兩下欄位以直接編輯任務資訊，並使用Tab鍵在欄位之間導覽，以加快更新速度。&#x200B;URL
+* **使用資源回收筒備份刪除任務：**&#x200B;已刪除的任務會移至資源回收筒達30天，只有系統管理員可以存取，以確保需要時可復原。&#x200B;URL
+* **新增具有父子結構的工作：**&#x200B;使用[插入在上]或[插入在下]在特定位置新增工作，繼承所選工作的父子結構。&#x200B;URL
+* **重複工作以提高效率：**&#x200B;重複工作或工作集以節省時間，並複製所有工作詳細資料以方便修改和重新定位。&#x200B;URL
+* **使用縮排、凸排和拖放功能重新組織任務：**&#x200B;使用縮排、凸排和拖放功能等直覺式工具，調整任務階層或在專案中移動任務。&#x200B;URL
 
 ## 有關此主題的推薦教學課程
 

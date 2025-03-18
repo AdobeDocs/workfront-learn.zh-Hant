@@ -1,6 +1,6 @@
 ---
 title: 了解如何排定任務順序
-description: 了解什麼是前置任務以及其在專案中如何排定任務順序。然後了解如何使用期間和前置任務來建立時間表。
+description: 透過定義具有前置任務的工作順序、透過持續時間設定時間表、使用範本簡化順序、避免手動限制以及根據實踐調整技能來簡化專案管理。
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -13,34 +13,29 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '220'
+ht-degree: 10%
 
 ---
 
 # 了解如何排定任務順序
 
-觀看這段影片，您將會了解：
+此影片說明如何使用前置任務和持續時間在Workfront中排序任務，以有效管理專案時間表。
+影片會示範如何為新任務設定前置任務，以確保順序和準確的開始日期。
+&#x200B;URL它強調與前置任務練習的重要性，以瞭解其對專案時間表的影響，並建議使用持續時間和前置任務以實現有效的專案規劃。
 
-* Workfront 中的前置任務是什麼
-* 如何使用持續期間和前置任務來建立時間表
-* 前置任務如何排定專案中任務的順序
-* 設定任務開始日期將如何影響任務限制
-* 如何進入前置任務
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
-<!---
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
---->
+## 關鍵重點
+
+* **前置任務定義任務順序：**&#x200B;前置任務會建立任務順序，確保某些任務在其他任務開始之前完成，這對專案成功至關重要。&#x200B;URL
+* **持續時間影響時間表：**&#x200B;任務持續時間會設定工作的時間範圍，並調整開始和完成日期，對相依任務產生階層式影響。&#x200B;URL
+* **範本簡化設定：**&#x200B;可在專案範本中預先設定前置任務和限制，簡化管理工作順序的程式。&#x200B;URL
+* **手動調整影響限制：**&#x200B;手動設定特定日期會覆寫由持續時間或前置任務變更所導致的階層式更新。&#x200B;URL
+* **練習改善技能：**&#x200B;練習前置任務與工期，有助於改善專案管理技能，並確保更好地控制時間表。
 
 ## 有關此主題的推薦教學課程
 
