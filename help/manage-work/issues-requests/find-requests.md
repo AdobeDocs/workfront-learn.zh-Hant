@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 91%
+source-wordcount: '227'
+ht-degree: 83%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 91%
 
 此影片說明如何在 Workfront 中尋找和管理請求。影片涵蓋四個主要區域：
 
-* **Workfront 首頁：**&#x200B;像製作美術 Mary Smith 這樣的使用者可以看到指派給他們的請求。而經常提出請求的 Joan Harris 則可以在此找到等待她核准的已完成請求。
-* **請求區域：**&#x200B;使用者可以篩選請求，以便查看自己建立的請求。請求區域中的「我的」一詞，指的是我 (登入使用者) 建立的問題。
-* **團隊頁面：**&#x200B;使用者可以檢視尚未指派的團隊要求，並指派給自己或其他人。他們還可以利用工作負載平衡器，根據當前的工作負載狀況來管理團隊指派。
-* **自訂報告和儀表板：**&#x200B;使用者可以建立自訂報告來追蹤請求，並控制命名、篩選器、視圖和分組。如此即可根據優先順序、建立者、主要聯絡人、指派者和狀態，清楚追蹤所有請求。
+* Workfront 首頁
+* 請求區域
+* 團隊頁面&#x200B;
+* 自訂報告和儀表板
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
