@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
+source-git-commit: 6611bdf35ab0863ac6f3e78ef93fc4f9cc34aed1
 workflow-type: tm+mt
-source-wordcount: '2410'
+source-wordcount: '2418'
 ht-degree: 98%
 
 ---
@@ -335,6 +335,7 @@ ht-degree: 98%
    + [建立工作區](/help/workfront-planning/create-a-workspace.md)
    + [建立和管理記錄型別](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [建立和管理表格檢視](/help/workfront-planning/create-and-manage-table-views.md)
+   + [適用於UX設計團隊的Workfront規劃的優點](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + 整合 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
