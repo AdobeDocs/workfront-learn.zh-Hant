@@ -1,6 +1,6 @@
 ---
-title: 瞭解[!UICONTROL Portfolio Optimizer]
-description: 瞭解如何使用[!UICONTROL 專案組合最佳化工具]針對專案組合中的專案進行比較並制定優先排序。
+title: 了解[!UICONTROL 專案組合最佳化工具]
+description: 了解如何使用[!UICONTROL 專案組合最佳化工具]來比較專案組合中的專案並決定優先排序。
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,13 +13,13 @@ role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
-# 瞭解[!UICONTROL Portfolio Optimizer]
+# 了解[!UICONTROL 專案組合最佳化工具]
 
 觀看這段影片，您將瞭解如何：
 
