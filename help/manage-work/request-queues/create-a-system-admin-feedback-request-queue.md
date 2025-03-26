@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 * 如何建立系統管理員意見回饋請求佇列
 * 管理團隊意見回饋報告如何幫助您改善流程
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 若要了解如何建立影片中使用的&#x200B;**管理團隊意見回饋報告** ，請參閱「[建立任務報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=zh-Hant)」教學課程，並在觀看影片後尋找&#x200B;**建立管理團隊意見回饋報告**&#x200B;的活動。
 

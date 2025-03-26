@@ -1,6 +1,6 @@
 ---
 title: 建立全域和單次使用的核准流程
-description: 了解如何針對專案、任務或問題建立全域和單次使用的核准流程。
+description: 運用任務、專案或問題的全域和單次使用核准流程，實作多層級的多階段核准，並透過專案範本中的可重複使用性提升效率，藉此增強核准工作流程。
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,26 +9,33 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
-last-substantial-update: 2024-09-24T00:00:00Z
+last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '442'
-ht-degree: 100%
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 25%
 
 ---
 
 # 建立全域和單次使用的核准流程
 
-專案、任務和問題的核准流程使專案經理人能夠在繼續下一步之前，獲得專家確認工作已完成。專案經理人可以針對每種情況建立一個核准流程 (稱為單次核准流程)，或從先前為滿足常見需求而建立、數量可能較多的核准流程清單中選擇 (這些稱為全域或現有核准流程)。
-
-在任一情況下，當物件狀態變更為核准流程中指定的狀態時，核准者都會以各種方式收到通知，以便檢閱工作並予以核准或拒絕。由於整個專案可能會因為等待核准而暫停，核准者應提前意識到可能輪到他們負責核准。如果核准者因任何原因不在辦公室，他們可以將核准工作委派給符合資格的替補人員。如需詳細資訊請參閱「[委派任務、問題和核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)」。
-
-在這部影片中，您將了解如何針對專案、任務或問題建立全域核准流程和單次核准流程。
+影片說明如何建立和管理專案、任務或問題的核准流程，以區分全域和單次使用的核准流程。
+此影片示範如何建立核准程式、設定核准者、設定狀態，以及使用階段進行多級核准。
+&#x200B;URL它強調全域和單一使用流程的彈性，以有效管理任務核准。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+
+## 關鍵重點
+
+* **核准流程型別：**&#x200B;有兩種型別 — 全域核准流程（在任務、專案或問題之間共用）和單一使用核准流程（專用於單一任務、專案或問題）。
+* **全域核准程式：**&#x200B;這些程式會在「設定>程式>核准」區段中建立，並可由特定狀態觸發。&#x200B;URL 它們可能涉及多個核准者或階段核准。
+* **單一使用核准程式：**&#x200B;這些是物件特定的，無法共用。&#x200B;URL 您可以從頭開始建立，或編輯全域核准流程並將其轉換後即可建立。
+* **多重層級核准：**&#x200B;核准程式可同時或分階段包含多個核准者，在通知下一個核准者之前確保循序核准。
+* **可重複使用：**&#x200B;單一使用核准程式可與任務、專案或問題一起複製，或包含在專案範本中，以便輕鬆跨專案複製。
+
 
 >[!TIP]
 >
@@ -38,17 +45,6 @@ ht-degree: 100%
 >
 >您可以按照影片中針對任務所述的相同方式設定專案和問題的單次核准流程。
 
-## 如何在請求佇列中套用自動問題核准
-
-如果您想要在請求佇列中設定問題自動核准，則只能使用全域問題核准流程並套用於「[!UICONTROL 佇列主題]」來完成操作。
-
-建立或編輯「[!UICONTROL 佇列主題]」時，請在「**[!UICONTROL 預設核准]**」欄位中選取全域核准流程。
-
-![影像顯示如何在佇列主題中選取預設核准流程](assets/automatic-issue-approval-1.png)
-
-您可能需要編輯問題核准流程，以確保「**[!UICONTROL 前一個狀態]**」不是核准遭拒絕時問題所設定的狀態。這是因為前一個狀態是「**[!UICONTROL 新]**」，而且這也是觸發核准流程的狀態，所以這是審核通過時系統將設定的狀態。為了避免問題核准遭拒絕時出現混亂，建議您將狀態設為「**[!UICONTROL 不會解決]**」等狀態，或針對此目的建立的自訂狀態。
-
-![影像顯示問題遭拒絕時變更要使用的狀態](assets/automatic-issue-approval-2.png)
 
 
 ## 有關此主題的推薦教學課程
@@ -56,4 +52,5 @@ ht-degree: 100%
 * [委派任務、問題與核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [瞭解特定群組的核准流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
+* [在請求佇列中套用問題核准流程](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 
