@@ -1,5 +1,5 @@
 ---
-title: 尋找及管理請求
+title: 尋找和管理請求
 description: 瞭解如何使用篩選器、管理團隊指派、建立自訂報告和儀表板，以及釐清「我的」在不同內容中的含義，以實現有效的請求管理。
 activity: use
 team: Technical Marketing
@@ -16,7 +16,7 @@ exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 83%
+ht-degree: 85%
 
 ---
 
