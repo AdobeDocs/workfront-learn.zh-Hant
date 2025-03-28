@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 21%
@@ -28,11 +28,11 @@ ht-degree: 21%
 
 ## 關鍵重點
 
-**範本存取：**您需要開啟範本的許可權，才能從中建立專案。&#x200B;URL
-**捷徑選項：**使用範本與從頭開始專案相比，可能是方便的捷徑。&#x200B;URL
-**Three-Dot功能表：**開啟範本，然後從Three-Dot功能表選取[建立專案]。&#x200B;URL
-**編輯專案詳細資料：**選取「建立專案」後，您可在完成之前編輯專案詳細資料。&#x200B;URL
-**完成建立：**&#x200B;當您準備好完成程式時，請按一下[建立專案]。&#x200B;URL
+* **範本存取：**&#x200B;您需要開啟範本的許可權，才能從中建立專案。&#x200B;URL
+* **捷徑選項：**&#x200B;使用範本與從頭開始專案相比，可能是方便的捷徑。&#x200B;URL
+* **Three-Dot功能表：**&#x200B;開啟範本，然後從Three-Dot功能表選取[建立專案]。&#x200B;URL
+* **編輯專案詳細資料：**&#x200B;選取「建立專案」後，您可在完成之前編輯專案詳細資料。&#x200B;URL
+* **完成建立：**&#x200B;當您準備好完成程式時，請按一下[建立專案]。&#x200B;URL
 
 
 ## 有關此主題的推薦教學課程
