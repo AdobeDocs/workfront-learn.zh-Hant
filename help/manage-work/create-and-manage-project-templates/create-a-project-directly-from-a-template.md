@@ -1,6 +1,6 @@
 ---
 title: 直接使用範本建立專案
-description: 了解如何從已建立的範本開始建立專案。
+description: 透過以下方式直接從範本建立專案：確儲存取權、使用三個點的選單來選取「建立專案」、視需要編輯專案詳細資訊，以及最終確定有效率的設定替代流程。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,36 +8,32 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+doc-type: video
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+workflow-type: tm+mt
+source-wordcount: '228'
+ht-degree: 21%
 
 ---
 
 # 直接使用範本建立專案
 
-若您正好在使用範本並需要使用該範本建立專案，按一下範本名稱旁邊的三圓點選單。然後選取「建立專案」。
+影片說明如何從範本建立專案。&#x200B;URL 如果您有開啟範本的許可權，可以將其用作建立專案的捷徑。&#x200B;URL 若要這麼做，請開啟範本、存取三點式選單，然後選取「建立專案」&#x200B;。 這會將您帶到可以編輯專案詳細資料的畫面。&#x200B;URL 準備就緒後，按一下「建立專案」以完成。&#x200B;URL
 
-![選單中的建立專案選項](assets/direct-template-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
 
-您可以使用詳細資料視窗來變更新專案的設定。
+## 關鍵重點
 
-![專案建立頁面](assets/direct-template-02.png)
+**範本存取：**您需要開啟範本的許可權，才能從中建立專案。&#x200B;URL
+**捷徑選項：**使用範本與從頭開始專案相比，可能是方便的捷徑。&#x200B;URL
+**Three-Dot功能表：**開啟範本，然後從Three-Dot功能表選取[建立專案]。&#x200B;URL
+**編輯專案詳細資料：**選取「建立專案」後，您可在完成之前編輯專案詳細資料。&#x200B;URL
+**完成建立：**&#x200B;當您準備好完成程式時，請按一下[建立專案]。&#x200B;URL
 
->[!NOTE]
->
->若要使用此方法建立專案，您必須能夠存取 Workfront 的「範本」區域。若您無法存取範本，您在「專案」區域中或是轉換問題/任務時，仍然可以使用範本來建立專案。
-
->[!TIP]
->
->若有經常使用的範本，請設定為最愛範本！您會看到「新增專案」選單中列出的範本，而範本也同時出現在導覽列的「我的最愛」選單之下。
-
-
-![新增專案最愛範本](assets/direct-template-03.png)
 
 ## 有關此主題的推薦教學課程
 
