@@ -1,6 +1,6 @@
 ---
 title: 建立儀表板
-description: 使用Workfront儀表板來組織和顯示專案資料，您可以自訂、輕鬆存取、共用和列印，以實現順暢的專案管理和共同作業。
+description: 使用 Workfront 儀表板組織和顯示專案資料，可自訂、輕鬆存取、共用及列印，順暢進行專案管理和共同作業。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '635'
-ht-degree: 62%
+ht-degree: 66%
 
 ---
 

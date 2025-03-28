@@ -1,6 +1,6 @@
 ---
 title: 瞭解建立專案的基本操作
-description: 瞭解如何有效率地建立、管理和完成專案、處理未預期的問題，以及探索適合新手的秘訣，以掌握基本的專案管理功能。​URL
+description: 了解如何有效率地建立、管理及完成專案、處理非預期的問題，並探索適合初學者的秘訣以掌握基本的專案管理功能。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 12%
+ht-degree: 22%
 
 ---
 
