@@ -10,10 +10,10 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
+source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 100%
+source-wordcount: '453'
+ht-degree: 92%
 
 ---
 
@@ -30,12 +30,13 @@ ht-degree: 100%
 若要合併校訂：
 
 1. 開啟應附加該校訂的專案、任務或問題的「[!UICONTROL 文件]」區段。
-2. 將檔案拖放到上傳區域或是進行瀏覽。[!DNL Workfront] 支援合併最多 50 個檔案。
-3. 將「[!UICONTROL 將所有相容檔案合併成單一校訂]」選項切換為開啟。
-4. 輸入合併校訂的名稱。這是必填項目。
-5. 如有需要，您可以在上傳清單上使用拖放方式變更要合併的檔案之順序。
-6. 新增校訂收件者、設定截止期限等。
-7. 按一下「[!UICONTROL 建立校訂]」來完成上傳。
+1. 按一下&#x200B;**新增>校訂**。
+1. 將檔案拖放到上傳區域或是進行瀏覽。[!DNL Workfront] 支援合併最多 50 個檔案。
+1. 在&#x200B;**單一校訂**&#x200B;底下，切換將所有相容檔案合併為單一校訂的選項。
+1. 輸入合併校訂的名稱。這是必填項目。
+1. 如有需要，您可以在上傳清單上使用拖放方式變更要合併的檔案之順序。
+1. 新增校訂收件者、設定截止期限等。
+1. 按一下「[!UICONTROL 建立校訂]」來完成上傳。
 
 ![影像顯示「[!UICONTROL 新增校訂]」視窗，其中突顯標示已上傳的檔案清單與「[!UICONTROL 單一校訂]」區段。](assets/combine-proofs.png)
 
@@ -59,7 +60,7 @@ ht-degree: 100%
 >在進行 Workfront 培訓的過程中，請記得提醒您的同事，您會把校訂傳送給他們。
 
 
-尋找三個或四個檔案 (PDF、文字檔案等)，就在您的電腦上。
+在您的電腦上尋找三或四個檔案(PDF、文字檔等)。
 
 1. 開啟您所使用的專案、任務或問題，在 Workfront 中進行親手操作練習。
 1. 上傳檔案並把它們合併成單一校訂。
