@@ -13,10 +13,10 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
-workflow-type: ht
-source-wordcount: '125'
-ht-degree: 100%
+source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
+workflow-type: tm+mt
+source-wordcount: '164'
+ht-degree: 76%
 
 ---
 
@@ -28,6 +28,12 @@ ht-degree: 100%
 * 如何啟用和停用專案範本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+
+>[!NOTE]
+>
+>如果您決定刪除範本，則使用該範本創建的任何專案都不會受到影響。 已刪除的範本將移動到回收站30天，並且只能由系統管理員恢復。
+
+
 
 ## 了解如何建立自訂視圖，以查看和編輯專案範本的進行中狀態
 
