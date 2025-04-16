@@ -1,6 +1,6 @@
 ---
-title: 更新和檢閱財務資料
-description: 瞭解如何檢閱與  [!DNL  Workfront] 中專案相關聯的財務資訊。
+title: 更新財務
+description: 藉由定義費率、為任務指定成本與收入型別、管理費用以及建立帳單記錄，簡化成本追蹤與開立帳單。 Workfront不負責實際計費。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,45 +10,58 @@ role: User
 level: Intermediate
 jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-16T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 100%
+source-wordcount: '361'
+ht-degree: 3%
 
 ---
 
-# 更新和檢閱財務資料
 
-如果您的組織使用 [!DNL Workfront] 來追蹤專案相關的財務資訊，則專案結案的流程中可能包括檢閱費用開支及建立計費記錄。
+# 更新財務
 
->[!NOTE]
->
->許多 [!DNL Workfront] 客戶使用協力廠商系統而非 [!DNL Workfront] 來處理他們的費用和專案財務。所以在專案結案之前，您要更新和檢閱財務資訊時，可能要面對不同的流程或準則。
+此影片提供追蹤時間、費用和建立使用者端專案計費記錄的詳細指南。&#x200B;URL 要點包括：
+
+**追蹤時間和費用：**
+追蹤處理專案所花的時間，以及向客戶帳單的專案費用。&#x200B;URL
+確保使用者在其設定檔或工作角色中設定了成本和計費率。&#x200B;URL
+
+**工作設定：**
+將適當的成本與收入型態指派給作業。&#x200B;URL
+成本型別包括固定小時、使用者小時（根據使用者設定檔）和角色小時（根據任務擁有者的工作角色）。
+
+**費用管理：**
+透過「費用」索引標籤建立專案層級的費用。&#x200B;URL
+將費用指派給專案或任務，將其標籤為可記帳或可償還。&#x200B;URL
+
+**付費記錄：**
+在專案層級建立付費記錄，以追蹤可付費專案（時數、費用、收入）。&#x200B;URL
+將可記帳時數和費用新增到記帳記錄。
+向客戶開立商業發票後，更新帳單記錄狀態和帳單日期。&#x200B;URL
+
+**最終備註：**
+Workfront會追蹤可記帳專案，但不處理實際帳單；使用者必須使用自己的帳單系統。&#x200B;URL
+
+此影片強調正確設定和追蹤以簡化使用者端計費流程的重要性。&#x200B;URL
+
+>[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops)
+
+## 關鍵重點
 
 
-## 費用
+* **設定成本和計費率：**&#x200B;確保使用者或工作角色在其設定檔中定義成本和計費率，以準確追蹤專案費用。&#x200B;URL
+* **將成本和收入型別指派給任務：**&#x200B;任務應具有適當的成本和收入型別（例如，固定小時、使用者小時、角色小時），以正確計算可記帳金額。&#x200B;URL
+* **管理專案費用：**&#x200B;使用[費用]索引標籤來建立費用並將費用分類為可記帳或可償還，以確保追蹤準確。&#x200B;URL
+* **建立並更新付費記錄：**&#x200B;付費記錄有助於追蹤可付費時數、費用及收入。&#x200B;URL 新增專案至記錄、更新狀態，並在開立商業發票後記錄帳單日期。&#x200B;URL
+* **使用外部帳單系統：** Workfront會追蹤可開立帳單的專案，但不會處理實際帳單；使用者必須依賴自己的帳單系統，才能向客戶開立發票。&#x200B;URL
 
-您可以記錄個別任務或專案本身的費用。無論所記錄的費用屬於哪個項目，您可以在專案本身的「[!UICONTROL 費用]」區段檢視所有費用。
 
-![[!UICONTROL 費用]區段 (屬於專案)](assets/expense-section.png)
+## 有關此主題的推薦教學課程
 
-## 計費記錄
+* [尋找財務資訊](/help/manage-work/project-finances/find-financial-information.md)
+&lt;！—* [更新財務](/help/manage-work/project-finances/update-and-review-finances.md)—>
+* [瞭解多種計費費率](/help/manage-work/project-finances/multiple-billing-rates.md)
 
-[!DNL Workfront] 使用計費記錄來收集可計費時數、可計費費用、可計費收入和其他可計費金額並整理成單一記錄和金額。通常會把這些金額從 [!DNL Workfront] 匯出至協力廠商的發票或會計系統。
-
-您必須擁有存取 [!DNL Workfront] 中財務資料的權限，才能建立和檢視計費記錄。
-
-## 財務詳細資料
-
-在「[!UICONTROL 專案詳細資料]」中快速瀏覽「[!UICONTROL 財務]」資訊，可以看到利益、收入和成本的實際數字。
-
-![專案的「[!UICONTROL 專案詳細資料]」視窗的「財務」區段](assets/finance-section-project-details.png)
-
-「[!UICONTROL 專案詳細資料]」中大部份財務資訊都是在建立專案時設定，而您在這裡看到的數字以那些資訊為基礎。所以當您的專案要結案時，不需要對財務詳細資料進行更新或增補。
-
-<!---
-learn more urls
-Create billing records
-Manage project expenses
-Project finances
---->

@@ -1,6 +1,6 @@
 ---
 title: 尋找財務資訊
-description: 瞭解如何尋找關於專案的財務資訊並瞭解資訊從何而來。
+description: 瞭解如何有效存取、分析和管理專案與任務的財務資料，涵蓋專案與任務兩級的預算、收入、成本及績效量度。
 activity: use
 feature: Work Management
 thumbnail: 335208.png
@@ -10,18 +10,34 @@ level: Intermediate
 team: Technical Marketing
 jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
+last-substantial-update: 2025-04-16T00:00:00Z
+recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '41'
-ht-degree: 100%
+source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
+workflow-type: tm+mt
+source-wordcount: '208'
+ht-degree: 8%
 
 ---
 
 # 尋找財務資訊
 
-觀看這段影片，您將瞭解如何：
-
-* 尋找與專案有關的財務資訊並瞭解其從何而來。
+影片說明如何存取和管理專案與工作的財務資訊。&#x200B;URL它提供在專案與作業層次瀏覽及瞭解財務資料的完整概觀。&#x200B;URL
 
 >[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops)
+
+## 關鍵重點
+
+* **存取財務資訊：**&#x200B;專案的財務詳細資料位於財務頁面，可透過「專案詳細資訊」存取，而作業層級的財務資料位於「作業詳細資訊」下。
+* **可編輯欄位：**&#x200B;具有適當許可權的使用者可以編輯欄位，例如預算、計畫收益、實際收益、固定收入和固定成本。
+* **系統計算：**&#x200B;計畫和實際收入及成本會根據個別工作所記錄的資料自動計算。
+* **績效量度：**&#x200B;會顯示成本和排程索引，使用者可以按一下資訊圖示來檢視計算方法。&#x200B;URL 選擇的績效指數方法會決定預估完成時間是以時數還是金額顯示。
+* **費用追蹤：**&#x200B;費用是成本的一部分，您可以在任務和專案層級檢視，提供財務資料的完整檢視。
+
+
+## 有關此主題的推薦教學課程
+
+&lt;！—* [尋找財務資訊](/help/manage-work/project-finances/find-financial-information.md)—>
+* [更新財務](/help/manage-work/project-finances/update-and-review-finances.md)
+* [瞭解多種計費費率](/help/manage-work/project-finances/multiple-billing-rates.md)
+
