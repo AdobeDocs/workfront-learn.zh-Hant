@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 100%
@@ -41,9 +41,9 @@ ht-degree: 100%
 
 [!DNL Workfront] 提供快速啟動範本，協助將資料匯入系統。此範本也可以用來匯入使用者。在使用快速啟動之前，[!DNL Workfront] 建議您與 [!DNL Workfront] 顧問合作，因為有一些必須注意的考量事項。
 
-<!---
+<!--
 paragraph below needs URL to article
---->
+-->
 
 請參閱「透過快速啟動將資料匯入 Workfront」來瞭解詳細資訊。
 

@@ -10,18 +10,18 @@ team: Technical Marketing
 thumbnail: editcustomform.png
 jira: KT-10057
 exl-id: 7ce0c3c6-9a17-49fe-87a8-8ff1e628ea62
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 編輯自訂表單
 
-<!---
+<!--
 21.4 updates have been made here
---->
+-->
 
 在自訂表單附加到物件上之後，您可以編輯表單上的資訊。
 

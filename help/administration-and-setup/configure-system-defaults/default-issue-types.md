@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 由於每種問題類型追蹤不同類型的資訊，故每一種類型可能需要獨特的工作流程才能解決各個問題。自訂每種問題類型的狀態以符合該問題類型的工作流程。
 
-<!---
+<!--
 add URL in paragraph below
---->
+-->
 
 ## 預設狀態
 
@@ -42,9 +42,9 @@ add URL in paragraph below
 * 確認完成
 * 不會解決
 
-<!---
+<!--
 need URL in paragraph below
---->
+-->
 
 
 您可以在「[!UICONTROL 問題詳細資料]」中檢視和變更問題的狀態。您還可以在最右側的問題頁面標題中更改問題的狀態。
@@ -55,9 +55,9 @@ need URL in paragraph below
 
 ![[!UICONTROL 狀態]欄，位於[!UICONTROL 視圖]](assets/admin-fund-issue-status-view.png)
 
-<!---
+<!--
 link the bullets below to the articles
---->
+-->
 
 來瞭解問題狀態的基本知識：
 

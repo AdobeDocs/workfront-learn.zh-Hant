@@ -12,7 +12,7 @@ jira: KT-8782
 hide: true
 doc-type: video
 exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -33,8 +33,8 @@ ht-degree: 100%
 >如影片所述，當人員想要開始任務時，必須把狀態從「**[!UICONTROL 新增]**」變為「**[!UICONTROL 進行中]**」，這樣一來「[!UICONTROL 實際開始日期]」才會正確。但是，如果他們在開始任務時忘記執行此操作，隨時可以返回並編輯「[!UICONTROL 實際開始日期]」。
 
 
-<!---
+<!--
 Task progress status overview
 Definitions for the project, task, and issue dates within Workfront
 Project timelines
---->
+-->

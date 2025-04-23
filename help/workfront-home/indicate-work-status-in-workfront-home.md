@@ -11,8 +11,8 @@ thumbnail: 335101.png
 jira: KT-8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
 
@@ -39,6 +39,6 @@ ht-degree: 100%
 
 按鈕的名稱和功能由您的系統或群組管理員按照貴組織的工作流程和程序決定。
 
-<!---
+<!--
 learn more URLs
---->
+-->

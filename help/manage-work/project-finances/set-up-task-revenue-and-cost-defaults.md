@@ -1,6 +1,6 @@
 ---
 title: 設定任務的預設收入與成本
-description: 瞭解如何使用收入類型和成本類型來計算任務的規劃財務資訊和實際財務資訊。
+description: 瞭解在何處使用收入型態與成本型態，以及如何設定系統預設值。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,43 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 16%
 
 ---
 
+
 # 設定任務的預設收入與成本
 
-使用收入類型和成本類型來計算任務的規劃財務資訊和實際財務資訊。每一項預設資訊皆可設為全系統適用，以便套用到每一個新建立的任務。您可以在個別專案上變更相關資訊，或是把資訊設定在專案範本上。
+瞭解在何處使用收入型態與成本型態，以及如何設定系統預設值。
 
-**有五種可用的預設收入類型：**
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
 
-* 不可計費
-* 使用者每小時
-* 角色每小時
-* 固定每小時
-* 固定收入
+## 關鍵重點
 
-**有四種可用的預設成本類型：**
+* **檢視成本與收入資料：**&#x200B;您可以透過開啟工作、選取工作詳細資料並捲動至財務區段來存取工作的成本與收入詳細資料。&#x200B;URL
+* **設定任務的預設值：**&#x200B;系統管理員可以瀏覽至「設定>專案偏好設定>任務與問題」來設定專案經理的預設成本與收入型別&#x200B;。
+* **一般收入型別預設值：**「每小時角色」是收入型別的典型預設值，如果使用者擁有具有收入率的工作角色，則可將記錄時間記錄為可能可記帳。&#x200B;URL
+* **收入設定的影響：**&#x200B;如果收入型別設為「不可記帳」，將不會為任務記錄任何收入。&#x200B;URL
+* **一般成本型別預設：**「使用者每小時」通常用作預設成本型別，直接從使用者的設定檔提取成本資料以進行有效追蹤。&#x200B;URL
 
-* 無成本
-* 固定每小時
-* 使用者每小時
-* 角色每小時
 
->[!NOTE]
->
->當收入或成本類型設為「不可計費」或「無成本」時，任務不會產生收入和成本的估算值。因此，該任務的工作對於專案層級的收入或成本沒有貢獻。
+## 有關此主題的推薦教學課程
 
-## 設定收入和成本預設值
-
-在主選單中選取「**[!UICONTROL 設定]**」。
-
-1. 按一下左側面板選單的「**[!UICONTROL 專案偏好設定]**」。
-1. 然後按一下「**[!UICONTROL 任務和問題]**」。
-1. 在「[!UICONTROL 新增任務預設值]」區段，選取所需的「[!UICONTROL 收入類型]」和「[!UICONTROL 成本類型]」。
-1. 完成時，按一下「儲存」。
-
-![影像顯示正在設定收入和成本的預設值](assets/setting-up-finances-3.png)
+* [瞭解績效量度](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [設定匯率](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [設定費用類型](/help/manage-work/project-finances/set-up-expense-types.md)
+* [瞭解財務資訊存取](/help/manage-work/project-finances/understand-financial-access.md)

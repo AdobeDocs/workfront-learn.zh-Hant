@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: 10100.jpeg
 jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 100%
@@ -45,8 +45,8 @@ Workfront 會把被刪除的物件放在資源回收筒中最多 30 天。系統
 
 群組管理員可以還原與所管理的群組相關聯的專案，連同與該專案關聯的任何任務、問題或文件。
 
-<!---
+<!--
 learn more URL
 Restoring deleted items
 Viewing items that have been recently restored
---->
+-->

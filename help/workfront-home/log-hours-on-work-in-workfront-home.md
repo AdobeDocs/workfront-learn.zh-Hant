@@ -11,8 +11,8 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 
@@ -34,6 +34,6 @@ ht-degree: 100%
 * 您可能可以或不可以記錄未來的時間。
 * 您可能必須從下拉式選單選取一種時數類型，指定更加具體的時間使用方式。此一時數類型亦可能表示您的時間是可計費或不可計費。在按一下「[!UICONTROL 記錄時間]」按鈕並輸入您的時間之前，請務必選取時數類型。
 
-<!---
+<!--
 learn more URLs
---->
+-->

@@ -11,8 +11,8 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
 
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 # 設定全域預設專案設定
 
-<!---
+<!--
 21.4 updates have been made
---->
+-->
 
 觀看這段影片，您將瞭解如何：
 
@@ -79,7 +79,7 @@ ht-degree: 100%
 
 如果您的組織沒有使用群組管理員，則系統管理員可以管理不同群組的偏好設定。
 
-<!---
+<!--
 learn more URLs and guides
 Create or edit a group status 
 Group administrators 
@@ -87,4 +87,4 @@ Configure system-wide project preferences
 Configure project preferences for a group 
 Configure task and issue preferences for a group 
 Create and modify a group’s schedule 
---->
+-->

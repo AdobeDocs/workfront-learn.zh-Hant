@@ -9,10 +9,10 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '885'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
 
@@ -22,13 +22,13 @@ ht-degree: 100%
 
 最佳實務是保留原本的全域預設值，並允許專案經理人在專案層級或在專案範本中進行所需的調整。
 
-全域問題偏好設定可以調整，但建議您和您的 [!DNL Workfront] 顧問討論貴組織的工作流程、程序和報告需求需要哪些設定。您的顧問也可以協助您瞭解若是變更某些設定會發生什麼事。
+您可以調整全域問題偏好設定，但建議您與您的[!DNL Workfront]顧問討論組織的工作流程、流程和報告需求所需設定。 您的顧問也可以協助您瞭解若是變更某些設定會發生什麼事。
 
-系統管理員可以利用問題偏好設定來控制將問題轉換為任務或專案時的選項、實際日期的計算方式，以及指派問題時誰會獲得專案存取權。我們來看看這些設定位在 [!DNL Workfront] 的哪些地方。
+系統管理員可以利用問題偏好設定來控制將問題轉換為任務或專案時的選項、實際日期的計算方式，以及指派問題時誰會獲得專案存取權。讓我們看看這些設定在[!DNL Workfront]中的位置。
 
 ## 轉換的問題偏好設定
 
-這些設定控制在 [!DNL Workfront] 中把一個問題轉換成任務或專案時會發生什麼事。
+這些設定可控制問題在[!DNL Workfront]中轉換為任務或專案時發生的情況。
 
 ![[!UICONTROL 任務與問題]偏好設定視窗，其[!UICONTROL 問題]區段突顯標示](assets/admin-fund-issue-prefs-converting.png)
 
@@ -37,9 +37,9 @@ ht-degree: 100%
 1. 選取「**[!UICONTROL 任務與問題]**」。
 1. 捲動到「**[!UICONTROL 問題]**」區段。
 1. 按一下所需的選項.
-1. 完成後請儲存。
+1. 完成時儲存。
 
-我們來瞭解這個區段的選項，讓您可以為組織選擇適當的選項。
+讓我們看看本節中的選項，讓您可以為您的組織選擇適當的選項。
 
 * **[!UICONTROL 當解決物件的狀態變更時，自動更新可解決問題狀態]**
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
   若停用，解決物件狀態會自動設為預設狀態而不是自訂狀態。
 
-  要讓這項設定生效，必須選取「[!UICONTROL 保留初始問題並將其解決方案連結至任務]」選項。
+  為了讓此設定生效，必須選取&quot;[!UICONTROL 保留原始問題並將其解決方案連結至任務]&quot;選項。
 
 * **[!UICONTROL 保留初始問題並將其解決方案連結至任務/專案]**
 
@@ -65,22 +65,22 @@ ht-degree: 100%
 
 * **[!UICONTROL 允許在轉換過程中變更這些設定]**
 
-  若選取此選項，即表示轉換問題的使用者可以變更「[!UICONTROL 保留初始問題]」和「[!UICONTROL 允許主要聯絡人]」的預設設定。如果您希望預設值維持不變，請取消選取這個選項。
+  選取此選項時，表示轉換問題的使用者可以變更「[!UICONTROL 保留原始問題]」和「[!UICONTROL 允許主要連絡人]」的預設設定。 如果您希望預設值維持不變，請取消選取這個選項。
 
-<!---
+<!--
 learn more URLs
 Configure system-wide task and issue preferences
 Issue statuses
 Create and customize system-wide statuses
---->
+-->
 
 ## 實際日期偏好設定
 
-整個 [!DNL Workfront] 中使用多種類型的日期。實際日期是 [!DNL Workfront] 在發生某些狀態變更時產生「時間戳記」。
+整個 [!DNL Workfront] 中使用多種類型的日期。實際日期是[!DNL Workfront]在某些狀態變更時產生的「時間戳記」。
 
 當問題狀態從「新」變更為另一種狀態時，便會建立「[!UICONTROL 實際開始日期]」時間戳記。問題狀態變更為表示已結案的狀態時，便會產生「[!UICONTROL 實際完成日期]」時間戳記。
 
-請注意，這項偏好設定控制任務與問題的實際日期設定。
+請務必注意，此偏好設定會控制任務和問題的實際日期設定。
 
 ![[!UICONTROL 任務與問題]偏好設定視窗，其[!UICONTROL 實際日期]區段突顯標示](assets/admin-fund-issue-prefs-actual-dates.png)
 
@@ -90,18 +90,18 @@ Create and customize system-wide statuses
 1. 捲動到「**[!UICONTROL 實際日期]**」區段。
 1. 選取所需的「**[!UICONTROL 實際開始日期]**」選項 —「[!UICONTROL 現在]」(目前日期和時間) 或「[!UICONTROL 規劃開始日期]」(「[!UICONTROL 實際開始日期]」與問題詳細資料中設定的開始日期相符)。
 1. 現在選取「**[!UICONTROL 實際完成日期]**」的選項 —「[!UICONTROL 現在]」(目前日期和時間) 或「[!UICONTROL 規劃完成日期]」(「[!UICONTROL 實際開始日期]」與問題詳細資料中設定的開始日期相符)。
-1. 完成後請儲存。
+1. 完成時儲存。
 
 
-<!---
+<!--
 learn more URLs
 Definitions for the project, task, and issue dates within Workfront
 Configure system-wide task and issue preferences
---->
+-->
 
 ## 問題存取權
 
-使用者在 Workfront 中被指派一個問題時，問題的「[!UICONTROL 存取]」設定會控制授予使用者的存取權。這些設定控制其對問題本身的存取權，以及與問題相關聯的專案之存取權。
+問題的[!UICONTROL 存取權]設定可控制當使用者在Workfront中被指派問題時，他們被授予哪些存取權。 這些設定控制其對問題本身的存取權，以及與問題相關聯的專案之存取權。
 
 在變更這些設定之前，請與您的 [!DNL Workfront] 顧問以及內部治理團隊討論任何工作流程或程序需求。
 
@@ -110,16 +110,16 @@ Configure system-wide task and issue preferences
 1. 在&#x200B;**[!UICONTROL 主選單]**&#x200B;中按一下「**[!UICONTROL 設定]**」。
 1. 展開左側選單面板中的「**[!UICONTROL 專案偏好設定]**」區段。
 1. 選取「**[!UICONTROL 任務與問題]**」。
-1. 捲動到「**[!UICONTROL 存取]**」區段並尋找「[!UICONTROL 有人被指派負責一個問題時]」選項。
+1. 捲動至&#x200B;**[!UICONTROL 存取]**&#x200B;區段，並尋找&quot;[!UICONTROL 將某人指派給問題]&quot;選項。
 1. 設定問題本身的共用存取權 —「[!UICONTROL 檢視]」、「[!UICONTROL 貢獻]」或「[!UICONTROL 管理]」。[!DNL Workfront] 建議維持原本的進階選項。
 1. 如果問題受指派者也應該具有專案的存取權，請勾選方塊
-1. 接著選取專案的共用存取權 —「[!UICONTROL 檢視]」、「[!UICONTROL 貢獻]」或「[!UICONTROL 管理]」。設定「[!UICONTROL 進階選項]」時，請記得貴組織的工作流程與存取需求。
-1. 完成後請儲存。
+1. 接著選取專案的共用存取權 —「[!UICONTROL 檢視]」、「[!UICONTROL 貢獻]」或「[!UICONTROL 管理]」。設定[!UICONTROL 進階選項]時，請牢記組織的工作流程與存取需求。
+1. 完成時儲存。
 
 ![[!UICONTROL 存取]視窗顯示[!UICONTROL 貢獻]選項](assets/admin-fund-issue-prefs-access-2.png)
 
-<!---
+<!--
 learn more URLs
 Configure system-wide task and issue preferences
 Grant access to issues
---->
+-->

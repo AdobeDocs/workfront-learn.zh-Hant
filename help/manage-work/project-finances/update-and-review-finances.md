@@ -13,10 +13,10 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 3%
+source-wordcount: '359'
+ht-degree: 2%
 
 ---
 
@@ -62,6 +62,6 @@ Workfront會追蹤可記帳專案，但不處理實際帳單；使用者必須�
 ## 有關此主題的推薦教學課程
 
 * [尋找財務資訊](/help/manage-work/project-finances/find-financial-information.md)
-&lt;！—* [更新財務](/help/manage-work/project-finances/update-and-review-finances.md)—>
-* [瞭解多種計費費率](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [瞭解多重收費率](/help/manage-work/project-finances/multiple-billing-rates.md)
+  <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

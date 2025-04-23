@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 100%
@@ -48,10 +48,10 @@ ht-degree: 100%
 >
 >您無法建立更多問題類型或刪除某個問題類型。
 
-<!---
+<!--
 learn more URLs
 Customize default issue types
---->
+-->
 
 ## 在 Workfront 中變更「問題」這個用語
 
@@ -59,13 +59,13 @@ Customize default issue types
 
 ![[!UICONTROL 術語]視窗，其中突顯標示[!UICONTROL 問題]](assets/admin-fund-issue-custom-terminology.png)
 
-<!---
+<!--
 paragraph below needs a hyperlink
---->
+-->
 
 在全新 [!DNL Workfront] 體驗「第 3 部分控制和介面體驗」中，瞭解系統和群組管理員如何可以在學習路徑「管理員基礎知識」中建立版面範本。
 
-<!---
+<!--
 learn more URLs
 Create and manage layout templates
---->
+-->

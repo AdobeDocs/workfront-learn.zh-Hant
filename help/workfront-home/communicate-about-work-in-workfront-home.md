@@ -11,8 +11,8 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
@@ -34,14 +34,14 @@ ht-degree: 100%
 * 使用 @名稱來「標記」其他 [!UICONTROL Workfront] 使用者，確保他們收到關於更新的通知。這是確保特定人員看到最新資訊的最佳方式。您可以在更新中「標記」個人使用者或團隊。
 * 請記住，與臭名遠播的電子郵件「回覆所有人」相同的狀況，就是您標記一個團隊或群組，並繼續在對話串內回應。請注意這一點，以免引起他人不愉快。您可以在物件的上下文以內於上方或下方標記。
 
-<!---
+<!--
 paragraph below needs a hyperlink to an article
---->
+-->
 
 * 若您未接受任務指派但是想要接收通知，請訂閱該任務。請參閱新的 [!UICONTROL Workfront] 體驗中的文件「訂閱 [!UICONTROL Workfront] 中的項目」來瞭解更多。
 * 在一周中的特定一天發佈更新，以便每個人都知道何時尋找最新資訊。
 * 使用 RTF 工具來設定更新的格式。使用粗體讓資訊更搶眼，或是使用項目符號建立容易閱讀的摘要。
 
-<!---
+<!--
 learn more URLs
---->
+-->
