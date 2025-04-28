@@ -1,6 +1,6 @@
 ---
 title: 瞭解報告元件
-description: 瞭解 Workfront 中組成報告的主要元件以及如何在報告元素中使用這些元件。
+description: Workfront的報表元件會使用物件式篩選器、動態檢視、結構化分組和萬用字元功能來調整資料視覺效果，以提供量身打造的深入分析。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -11,21 +11,32 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: 83382bc990fb6e3e39a8f858d3710cce14179a95
+workflow-type: tm+mt
+source-wordcount: '533'
+ht-degree: 45%
 
 ---
 
 # 瞭解報告元件
 
-觀看這段影片，您將會瞭解：
+影片說明Workfront中報表元件的概念，這些元件對於建立篩選器、檢視和分組至關重要。 主要元件包括：
 
-* Workfront 報告的主要元件
-* 如何在報告元素中使用這些元件
+* **物件型別：**&#x200B;指定正在處理的Workfront物件，例如專案、任務或小時專案。&#x200B;URL 濾鏡、檢視和群組是物件型別專屬的。&#x200B;URL
+* **欄位Source和欄位名稱：**&#x200B;欄位來源是Workfront中附加資訊的專案，而欄位名稱是特定資訊（例如，專案的「說明」）。&#x200B;URL
+* **值欄位：**&#x200B;代表優先順序欄位的欄位內容，例如「低」、「正常」、「高」或「緊急」。&#x200B;URL
+* **篩選限定詞：**&#x200B;定義要在報告中包含或排除的值，例如顯示優先順序為「高」的工作&#x200B;。
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+
+## 關鍵重點
+
+* **報表元件：** Workfront的報表元件包括物件型別、欄位來源、欄位名稱、篩選限定詞和值欄位，這些對於建立篩選器、檢視和群組至關重要。&#x200B;URL
+* **物件型別特殊性：**&#x200B;篩選器、檢視和群組繫結至特定物件型別，例如專案、任務或小時專案，確保報表符合相關資料。&#x200B;URL
+* **篩選器規則：**&#x200B;篩選器使用欄位來源、欄位名稱、限定詞和值來定義條件。&#x200B;URL 例如，「我的專案」篩選器只會顯示目前有登入使用者屬於專案團隊的專案。&#x200B;URL
+* **檢視和群組：**&#x200B;檢視會在欄中顯示欄位來源和欄位名稱組合（例如「擁有者名稱」），而群組會根據特定條件（例如「公司名稱」）來組織資料&#x200B;。
+* **萬用字元使用方式：**&#x200B;篩選器中的萬用字元允許動態比對，例如識別專案團隊中的登入使用者，加強報告中的個人化。&#x200B;URL
 
 ## 報告元件快速參考
 
