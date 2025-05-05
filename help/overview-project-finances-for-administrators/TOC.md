@@ -17,7 +17,7 @@ ht-degree: 63%
 # 適用於管理員的專案財務 {#project-finances-for-administrators}
 
 + [適用於管理員的專案財務](overview.md)
-+ 管理員{#project-finances-for-administrators}的專案財務
++ 管理員的專案財務{#project-finances-for-administrators}
    + [瞭解績效量度](understand-performance-metrics.md)
    + [設定任務的預設收入與成本](set-up-task-revenue-and-cost-defaults.md)
    + [設定匯率](set-up-exchange-rates.md)

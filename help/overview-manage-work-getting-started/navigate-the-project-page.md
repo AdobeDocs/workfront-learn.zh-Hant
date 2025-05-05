@@ -1,6 +1,6 @@
 ---
 title: 導覽專案頁面
-description: 了解在  [!DNL  Workfront] 中如何檢視專案的詳細資料、任務清單中顯示哪些資訊、把文件上傳到什麼地方，以及如何檢視更新歷史記錄。
+description: 了解在  [!DNL &#x200B; Workfront] 中如何檢視專案的詳細資料、任務清單中顯示哪些資訊、把文件上傳到什麼地方，以及如何檢視更新歷史記錄。
 activity: use
 feature: Work Management
 thumbnail: 335085.jpeg

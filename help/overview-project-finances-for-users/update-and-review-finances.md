@@ -1,6 +1,6 @@
 ---
 title: 更新和檢閱財務資料
-description: 瞭解如何檢閱與  [!DNL  Workfront] 中專案相關聯的財務資訊。
+description: 瞭解如何檢閱與  [!DNL &#x200B; Workfront] 中專案相關聯的財務資訊。
 activity: use
 team: Technical Marketing
 feature: Work Management

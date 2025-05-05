@@ -1,6 +1,6 @@
 ---
 title: 結束專案
-description: 瞭解在  [!DNL  Workfront] 中要結束專案之前需檢閱哪些資訊，以及持續更新資料的重要性。
+description: 瞭解在  [!DNL &#x200B; Workfront] 中要結束專案之前需檢閱哪些資訊，以及持續更新資料的重要性。
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg

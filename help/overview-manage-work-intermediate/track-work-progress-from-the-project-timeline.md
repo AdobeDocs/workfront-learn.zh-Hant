@@ -1,6 +1,6 @@
 ---
 title: 根據專案時間表追蹤進度
-description: 瞭解如何使用  [!DNL  Workfront]  的專案時間表藉由完成百分比、狀態、指派或限制來追蹤工作進度。
+description: 瞭解如何使用  [!DNL &#x200B; Workfront]  的專案時間表藉由完成百分比、狀態、指派或限制來追蹤工作進度。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 根據專案時間表追蹤進度
 
-確保任務保持應有的進度，以便在專案截止期限前完成。當您瀏覽「[!UICONTROL 任務]」清單時，[!DNL  Workfront] 中有若干功能可協助您監視工作的進度和狀態。
+確保任務保持應有的進度，以便在專案截止期限前完成。當您瀏覽「[!UICONTROL 任務]」清單時，[!DNL &#x200B; Workfront] 中有若干功能可協助您監視工作的進度和狀態。
 
 ## 完成百分比
 
