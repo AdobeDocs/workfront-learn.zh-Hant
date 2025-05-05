@@ -23,8 +23,8 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->* [建立請求流程](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [建立全域和單次使用的核准程式](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [建立請求流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [建立全域和單次使用的核准程式](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 此影片說明建立請求佇列時，套用預設核准程式的程式。&#x200B;URL 建立請求時，其狀態會從「新增 — 未決核准」開始，並傳送核准通知給指定的核准者。&#x200B;URL 如果核准，狀態會變更為「新增」，允許指派的個人開始工作。&#x200B;URL 如果遭拒絕，由於核准流程設定中的常見錯誤，狀態可能會錯誤地恢復為「新」。&#x200B;URL
@@ -46,4 +46,4 @@ ht-degree: 6%
 * [委派任務、問題與核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [瞭解特定群組的核准流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
-* [建立全域和單次使用的核准程式](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [建立全域和單次使用的核准程式](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

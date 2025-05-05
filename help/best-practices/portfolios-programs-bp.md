@@ -49,8 +49,8 @@ ht-degree: 100%
 
 此外，您可以使用其他工具，例如使用情況報告，協助您了解使用者的工作方式和地點，或者專案組合最佳化工具，讓您輕鬆確認專案的優先順序並使專案與公司的總體目標和策略保持方向一致。
 
-若要了解如何按特定專案組合篩選項目清單，請參閱「[建立基本篩選活動](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html)中的「活動 1 - 行銷專案組合中所有專案」。
+若要了解如何按特定專案組合篩選項目清單，請參閱「[建立基本篩選活動](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html?lang=zh-Hant)中的「活動 1 - 行銷專案組合中所有專案」。
 
 若要了解利用情況報告，請參閱文章「[使用利用情況報告追蹤進度、成本和收入](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=zh-Hant#track-progress-cost-and-revenue-with-the-utilization-report)」。
 
-若要了解專案組合最佳化工具，請參閱「[使用專案組合最佳化工具來確定工作優先順序並進行管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)」。
+若要了解專案組合最佳化工具，請參閱「[使用專案組合最佳化工具來確定工作優先順序並進行管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=zh-Hant)」。

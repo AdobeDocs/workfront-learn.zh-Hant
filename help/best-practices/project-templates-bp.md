@@ -108,7 +108,7 @@ ht-degree: 100%
 
 透過專案本身授予特定專案的存取權。若是同一組人員總是需要存取使用特定範本建立的專案，在範本的「專案共用」選項之下新增這些使用者。您不但可以在建立專案之後馬上控制專案的存取，日後若需要變更權限時，也可以簡化擴充性相關工作。
 
-有關如何共用使用範本建立的專案之說明，請參閱「[共用專案範本](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html)」中標示為「如何共用使用範本建立的專案」的章節。
+有關如何共用使用範本建立的專案之說明，請參閱「[共用專案範本](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html?lang=zh-Hant)」中標示為「如何共用使用範本建立的專案」的章節。
 
 **備註**：範本共用授予範本本身的存取權限。使用者必須至少具有「檢視」權限，才能使用範本建立專案。
 
@@ -177,7 +177,7 @@ ht-degree: 100%
 
 使用範本將請求轉換成專案時，附加與請求自訂表單相符的專案自訂表單，以便提取已提交的資訊。
 
-有關如何將自訂表單附加到專案範本等物件的說明，請參閱「[將自訂表單附加到物件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html)」。
+有關如何將自訂表單附加到專案範本等物件的說明，請參閱「[將自訂表單附加到物件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html?lang=zh-Hant)」。
 
 </br>
 </br>
@@ -190,7 +190,7 @@ ht-degree: 100%
 
 專案範本也應該隨著流程與團隊變更進行更新。建立定期檢查的頻率，例如每季，來確認哪些範本未曾有人積極使用。您可以停用那些範本，讓他們保留在 Workfront 之中，但是不會出現在範本選取清單上。
 
-有關如何停用專案範本的說明，請參閱「[停用專案範本](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html)」。
+有關如何停用專案範本的說明，請參閱「[停用專案範本](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html?lang=zh-Hant)」。
 
 </br>
 </br>
@@ -232,7 +232,7 @@ ht-degree: 100%
 
 在專案中混合不同的任務限制，在計算規劃日期時可能造成意外和混亂的狀況。例如，當您為「排程模式」選項選取「開始日期」時，依預設，會為該專案中建立的任何任務指派的「盡可能最快」的任務限制。若您稍後把「排程模式」選項切換為「完成日期」，則依預設，所建立的任何任務都有「盡可能最晚」的任務限制。無意中將擁有這些帶有限制的任務混合在一起，可能使專案時間表中的規劃日期變得混亂。
 
-若要更了解任務限制以及如何使用這些限制，請參閱「[了解和管理期限類型和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)」。
+若要更了解任務限制以及如何使用這些限制，請參閱「[了解和管理期限類型和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=zh-Hant)」。
 
 </br>
 </br>
@@ -247,4 +247,4 @@ ht-degree: 100%
 
 所有這些使用者都會列入專案團隊中，列示在專案的「人員與排程」區段。於是，這些使用者都會傳播到使用該範本建立的所有專案。這個情況可能讓使用者覺得混亂，因為作為專案團隊的一份子，他們會收到有關專案活動的通知、在「我參與的專案」清單上看到該專案，並且獲得存取該專案及其任務、問題和文件的權限。
 
-有關如何在專案範本中編輯專案團隊說明，請參閱「[在專案範本中編輯專案團隊](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html)」。
+有關如何在專案範本中編輯專案團隊說明，請參閱「[在專案範本中編輯專案團隊](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html?lang=zh-Hant)」。

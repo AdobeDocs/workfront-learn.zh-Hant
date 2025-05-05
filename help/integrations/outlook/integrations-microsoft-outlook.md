@@ -27,7 +27,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->若您按照影片中所述卻無法找到 Workfront 附加程式，您的 IT 部門可能要先進行設定。詳細說明請參閱「[設定 Outlook 適用的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html)」。
+>若您按照影片中所述卻無法找到 Workfront 附加程式，您的 IT 部門可能要先進行設定。詳細說明請參閱「[設定 Outlook 適用的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=zh-Hant)」。
 
 ## 將 Microsoft Outlook 行事曆與 [!DNL Workfront] 首頁行事曆整合
 

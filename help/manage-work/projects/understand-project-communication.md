@@ -36,9 +36,9 @@ ht-degree: 16%
 
 >[!TIP]
 >
->若要建立影片中所示的「備註搜尋」報告，請參閱「[建立任務報告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)」教學課程中的活動。
+>若要建立影片中所示的「備註搜尋」報告，請參閱「[建立任務報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)」教學課程中的活動。
 >
->若要把「備註搜尋」報告新增到專案面板中，請參閱「[建立儀表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard)」教學課程中的活動。
+>若要把「備註搜尋」報告新增到專案面板中，請參閱「[建立儀表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=zh-Hant#activity-1-create-a-dashboard)」教學課程中的活動。
 
 ## 關鍵重點
 

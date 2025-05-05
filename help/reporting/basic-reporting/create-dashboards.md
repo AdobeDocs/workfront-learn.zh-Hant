@@ -49,7 +49,7 @@ ht-degree: 66%
 
 ### 解答 1
 
-1. 執行您在「建立備註報表」活動中建立的報表。 尚未建立嗎？ 按一下這裡以在[建立任務報告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教學課程中檢視活動。
+1. 執行您在「建立備註報表」活動中建立的報表。 尚未建立嗎？ 按一下這裡以在[建立任務報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教學課程中檢視活動。
 1. 按一下「**[!UICONTROL 報告動作]**」並選取「**[!UICONTROL 複製]**」。[!DNL Workfront] 建立一個名為「備註搜尋 (副本)」的新報告。
 1. 前往「**[!UICONTROL 報告動作]**」並選取「**[!UICONTROL 編輯]**」。按一下「**[!UICONTROL 報告設定]**」，並將名稱變更為「此專案的搜尋備註」。
 1. 按一下「[!UICONTROL 報告提示]」並刪除清單中的「[!UICONTROL 專案]」>「[!UICONTROL 名稱]」提示。

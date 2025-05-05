@@ -26,7 +26,7 @@ ht-degree: 4%
 
 在本教學課程中，您將瞭解如何建立專案、規劃專案、管理專案及關閉專案。
 
-完成本教學課程之後，我們建議[管理工作至中級階段](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)，以進一步提升您的專案管理技能。
+完成本教學課程之後，我們建議[管理工作至中級階段](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=zh-Hant)，以進一步提升您的專案管理技能。
 
 >[!PREREQUISITES]
 >

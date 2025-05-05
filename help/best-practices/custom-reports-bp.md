@@ -86,7 +86,7 @@ ht-degree: 100%
 </br>
 </br>
 
-有關如何在報告中使用基於使用者的萬用字元說明，請參閱「[使用基於使用者的萬用字元來建立篩選器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)」。
+有關如何在報告中使用基於使用者的萬用字元說明，請參閱「[使用基於使用者的萬用字元來建立篩選器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=zh-Hant)」。
 
 **最佳實務**
 

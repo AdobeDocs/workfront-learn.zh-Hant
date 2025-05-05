@@ -53,9 +53,9 @@ ht-degree: 100%
 
 針對您想查看每個段落的資料建立一次性的報告不但耗費時間，也讓 Workfront 系統切分成多個區塊。
 
-有關如何建立附有提示的報告說明，請參閱「[了解報告設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html)」影片中標有「如何設定和使用報告提示」的章節。
+有關如何建立附有提示的報告說明，請參閱「[了解報告設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=zh-Hant)」影片中標有「如何設定和使用報告提示」的章節。
 
-有關如何建立附有自訂提示的報告說明，請參閱「[建立自訂提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html)」。
+有關如何建立附有自訂提示的報告說明，請參閱「[建立自訂提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=zh-Hant)」。
 
 </br>
 </br>
@@ -68,7 +68,7 @@ ht-degree: 100%
 
 數量越少，獲得越多。隱藏與使用者日常工作流程無關的篩選器、視圖和分組清單選項，可以縮小清單範圍，讓使用者更容易迅速找到他們需要的內容。
 
-有關如何使用版本配置範本隱藏篩選器、視圖或分組的說明，請參閱「[使用版本配置範本自訂報告清單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html)」。
+有關如何使用版本配置範本隱藏篩選器、視圖或分組的說明，請參閱「[使用版本配置範本自訂報告清單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=zh-Hant)」。
 
 </br>
 </br>
@@ -83,7 +83,7 @@ ht-degree: 100%
 
 透過版本配置範本來自訂您要讓使用者看見的資訊，也節省系統和群組管理員的時間，因為他們不必分別共用每一個篩選器、視圖或分組。
 
-有關如何使用版本配置範本共用篩選器、視圖或分組的說明，請參閱「[使用版本配置範本自訂報告清單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html)」。
+有關如何使用版本配置範本共用篩選器、視圖或分組的說明，請參閱「[使用版本配置範本自訂報告清單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=zh-Hant)」。
 
 </br>
 </br>

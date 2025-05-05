@@ -49,9 +49,9 @@ ht-degree: 100%
 
 逐步操作您的工作流程，可以更容易發現需要溝通的地方，並確認已啟用正確的通知。這會根據組織現有的運作方式啟動相關通知，避免垃圾郵件或通訊中斷。
 
-有關如何設定事件通知的說明，請參閱「[設定事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)」。
+有關如何設定事件通知的說明，請參閱「[設定事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=zh-Hant)」。
 
-有關如何管理事件通知的說明，請參閱「[管理應用程式內和電子郵件事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)」。
+有關如何管理事件通知的說明，請參閱「[管理應用程式內和電子郵件事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=zh-Hant)」。
 
 </br>
 </br>
@@ -72,5 +72,5 @@ ht-degree: 100%
 * 所有者名稱
 * 輸入日期
 
-有關如何建立附提示的筆記報告逐步說明，請觀看「[建立任務報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html)」教學課程，然後執行後續的活動。
+有關如何建立附提示的筆記報告逐步說明，請觀看「[建立任務報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=zh-Hant)」教學課程，然後執行後續的活動。
 

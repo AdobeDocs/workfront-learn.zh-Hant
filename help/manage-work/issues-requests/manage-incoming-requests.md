@@ -22,5 +22,5 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->「**管理請求**」現已包含在「**[尋找和管理請求](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)」**&#x200B;中。
+>「**管理請求**」現已包含在「**[尋找和管理請求](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html?lang=zh-Hant)」**&#x200B;中。
 

@@ -55,4 +55,4 @@ ht-degree: 0%
 
 建立一個包含「[!UICONTROL 任務限制]」欄的自訂視圖，便能在任務清單中看到這項資訊。若您從開始日期進行專案規劃，則您想要設定「[!UICONTROL 盡可能最早] ([!UICONTROL ASAP])」的任務限制。
 
-有關任務限制的更多資訊，請參閱「[了解和管理期間類型和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)」。
+有關任務限制的更多資訊，請參閱「[了解和管理期間類型和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=zh-Hant)」。
