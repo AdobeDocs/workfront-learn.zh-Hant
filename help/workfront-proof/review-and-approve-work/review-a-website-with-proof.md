@@ -26,7 +26,7 @@ ht-degree: 100%
 * 在靜態網站校訂上留下註解
 * 在互動式網站校訂上留下註解
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445973/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 <!--
 ## Learn more

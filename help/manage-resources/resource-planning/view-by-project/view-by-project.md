@@ -25,7 +25,7 @@ ht-degree: 100%
 * 查看「[!UICONTROL 依專案檢視]」視圖
 * 瞭解資源資訊在此視圖中如何顯示
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431632/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 「依專案檢視」選項是預設顯示「已編預算」欄，它會從業務案例提取專案所需資源的預估數量，若已填入這項資訊的話。這也表示「淨值」欄依預設使用「已編預算」欄的數字，讓您知道尚有多少剩餘資源。
 

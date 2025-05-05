@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 在 [!DNL Workfront] 中文件與校訂之間的差異。
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439870/?quality=12&learn=on&enablevpops&captions=chi_hant)

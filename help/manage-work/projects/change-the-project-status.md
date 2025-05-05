@@ -28,7 +28,7 @@ ht-degree: 100%
 * 為何將專案狀態變更為「[!UICONTROL 完成]」
 * 如果無法將專案狀態變更為「[!UICONTROL 完成]」該怎麼辦
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439369/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

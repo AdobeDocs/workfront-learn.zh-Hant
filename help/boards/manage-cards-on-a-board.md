@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何在展示板上重新整理、複製、封存、刪除卡片以及中斷卡片連接。
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422918/?quality=12&learn=on&enablevpops&captions=chi_hant)

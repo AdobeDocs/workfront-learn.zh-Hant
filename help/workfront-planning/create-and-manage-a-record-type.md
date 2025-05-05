@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何在Adobe Workfront Planning中建立、匯入和管理自訂記錄型別，以有效組織和追蹤工作相關專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448095/?learn=on&enablevpops&captions=chi_hant)

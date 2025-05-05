@@ -30,7 +30,7 @@ ht-degree: 0%
 * 把文件上傳到什麼地方
 * 如何查看更新歷史記錄
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449737/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 專案頁面的主要部分
 

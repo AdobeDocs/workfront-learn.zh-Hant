@@ -23,5 +23,5 @@ ht-degree: 100%
 
 了解使用者如何控制他們要收到哪些應用程式內和電子郵件通知，以便收到與其工作相關、實用的電子郵件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442818/?quality=12&learn=on&enablevpops&captions=chi_hant)
 

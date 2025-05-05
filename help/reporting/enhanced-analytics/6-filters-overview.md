@@ -27,7 +27,7 @@ ht-degree: 100%
 * 如何使用自訂表單新增篩選器
 * 篩選技巧
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439648/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 >[!NOTE]
 >

@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * 初步認識您將從其他適用於 [!DNL Slack] 的 [!DNL Workfront] 影片學習到的知識。
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435926/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 >[!NOTE]
 >

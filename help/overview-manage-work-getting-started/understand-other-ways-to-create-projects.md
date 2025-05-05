@@ -30,7 +30,7 @@ ht-degree: 100%
 * 複製現有專案
 * 匯入 [!DNL Microsoft Project] 檔案
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432167/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

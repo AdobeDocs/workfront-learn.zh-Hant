@@ -19,4 +19,4 @@ ht-degree: 100%
 
 瞭解如何把故事拆分成更小的任務、將待辦項目中的故事重新排定優先順序，以及標示故事已準備好進行疊代。
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428937/?quality=12&learn=on&enablevpops&captions=chi_hant)

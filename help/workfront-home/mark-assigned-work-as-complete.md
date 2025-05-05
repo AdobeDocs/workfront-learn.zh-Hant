@@ -26,7 +26,7 @@ ht-degree: 100%
 * 為什麼在 [!DNL  Workfront] 中狀態很重要
 * 如何篩選「[!UICONTROL 工作清單]」來查看已完成的工作
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444296/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 
 ## 表示工作已完成的另外兩種方式

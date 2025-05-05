@@ -26,4 +26,4 @@ ht-degree: 100%
 * 如何建立職務角色。
 * 如何對使用者套用職務角色，以便他們獲得正確的工作指派。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452437/?quality=12&learn=on&enablevpops&captions=chi_hant)

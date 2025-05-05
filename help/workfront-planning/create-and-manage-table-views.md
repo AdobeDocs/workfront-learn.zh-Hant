@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何在Adobe Workfront Planning中建立、管理和自訂記錄型別表格檢視，以強化專案組織和共同作業。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448161/?learn=on&enablevpops&captions=chi_hant)

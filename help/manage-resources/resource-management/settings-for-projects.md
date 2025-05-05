@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 如何最佳化資源管理工具 — 期間和規劃日期、規劃時數和職務角色指派。
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431652/?quality=12&learn=on&enablevpops&captions=chi_hant)

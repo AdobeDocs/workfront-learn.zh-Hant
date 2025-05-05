@@ -25,7 +25,7 @@ ht-degree: 100%
 
 在本影片中，您將了解一些可快速輕鬆尋找專案的方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439559/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

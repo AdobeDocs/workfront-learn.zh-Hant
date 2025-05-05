@@ -23,7 +23,7 @@ ht-degree: 12%
 
 本影片提供在Workfront中管理任務的詳細指南。 它強調有效的任務管理，包括編輯、刪除、新增、複製和重新組織專案計畫中的任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448567/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 關鍵重點
 

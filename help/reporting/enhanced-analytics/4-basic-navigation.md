@@ -29,4 +29,4 @@ ht-degree: 100%
 * 工作圖表概觀
 * 人員圖表概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436406/?quality=12&learn=on&enablevpops&captions=chi_hant)

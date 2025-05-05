@@ -28,7 +28,7 @@ ht-degree: 100%
 * 如何記錄問題
 * 問題管理最佳實務
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446577/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

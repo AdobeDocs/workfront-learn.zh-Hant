@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * 安裝 Microsoft Outlook 增益集
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431660/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 >[!IMPORTANT]
 >

@@ -25,4 +25,4 @@ ht-degree: 100%
 * Workfront 對公司的定義
 * 如何建立公司和協會
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432864/?quality=12&learn=on&enablevpops&captions=chi_hant)

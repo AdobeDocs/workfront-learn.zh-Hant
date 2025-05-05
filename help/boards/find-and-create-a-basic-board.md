@@ -21,4 +21,4 @@ ht-degree: 100%
 
 深入瞭解什麼是展示板以及其如何為您和/或您的團隊帶來管理工作方面的好處。瞭解到哪裡存取展示板以及如何建立基本的展示板。
 
->[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422937/?quality=12&learn=on&enablevpops&captions=chi_hant)

@@ -24,4 +24,4 @@ ht-degree: 100%
 * 導覽圖表
 * 導覽目標一致性
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431647/?quality=12&learn=on&enablevpops&captions=chi_hant)

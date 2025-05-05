@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解新增Workfront規劃工具並顯示在您執行個體中的使用者需要哪些需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447977/?learn=on&enablevpops&captions=chi_hant)

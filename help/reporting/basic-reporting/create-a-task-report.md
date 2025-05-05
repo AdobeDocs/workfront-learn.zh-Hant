@@ -25,7 +25,7 @@ ht-degree: 100%
 * 如何使用複雜的篩選器建立任務報告
 * 如何尋找您建立的報告
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448353/?quality=12&learn=on&captions=chi_hant)
 
 ## 「建立任務報告」活動
 

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 觀看這段影片，您將瞭解在 [!DNL  Workfront] 中建立和管理專案時間表時所使用的元素，例如日期類型和任務限制。
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436751/?quality=12&learn=on&enablevpops&captions=chi_hant)

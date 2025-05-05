@@ -25,7 +25,7 @@ ht-degree: 7%
 
 影片強調完成業務案例以進行準確比較的重要性，並逐步說明如何有效最佳化及管理專案優先順序。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446286/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 關鍵重點
 

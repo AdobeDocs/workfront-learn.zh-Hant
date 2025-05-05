@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解什麼是標記及其實用功能，並學習如何建立、刪除、新增及移除標記。
 
->[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423028/?quality=12&learn=on&enablevpops&captions=chi_hant)

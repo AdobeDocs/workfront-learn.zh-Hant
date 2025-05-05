@@ -26,7 +26,7 @@ ht-degree: 0%
 * 如何使用跨職能團隊
 * 如何建立團隊並相互關聯
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432882/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 建立團隊
 

@@ -30,7 +30,7 @@ ht-degree: 100%
 * 任務期間如何影響專案時間表
 * 使用任務期間的建議最佳實務
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449354/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

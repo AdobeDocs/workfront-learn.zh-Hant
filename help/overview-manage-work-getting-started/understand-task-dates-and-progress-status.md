@@ -26,7 +26,7 @@ ht-degree: 100%
 * 選取一種視圖來比較 [!DNL Workfront's] 不同的日期類型
 * 使用進度狀態協助您追蹤工作進度
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436618/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 >[!NOTE]
 >

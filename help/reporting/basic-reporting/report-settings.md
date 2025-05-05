@@ -25,4 +25,4 @@ ht-degree: 100%
 * 如何存取報告設定
 * 一些常用報告設定的用途
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445874/?quality=12&learn=on&enablevpops&captions=chi_hant)

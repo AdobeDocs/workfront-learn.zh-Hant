@@ -33,7 +33,7 @@ ht-degree: 55%
 * **檔案區段：**&#x200B;啟用上傳和管理專案相關的檔案和校樣。&#x200B;URL 附加到任務的檔案會彙總到專案層級，以便輕鬆存取。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449737/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 關鍵重點
 

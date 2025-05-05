@@ -23,5 +23,5 @@ ht-degree: 100%
 
 在本影片中，您將了解如何確定誰可以檢視和/或編輯自訂欄位。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446553/?quality=12&learn=on&enablevpops&captions=chi_hant)
 

@@ -28,7 +28,7 @@ ht-degree: 100%
 * 選取適當的專案範本
 * 完成從請求轉換為專案
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446633/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 
 ## 有關此主題的推薦教學課程

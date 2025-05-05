@@ -25,4 +25,4 @@ ht-degree: 100%
 * 將工作標記為優先指派
 * 篩選「[!UICONTROL 工作清單]」以便僅顯示優先處理的工作
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438544/?quality=12&learn=on&enablevpops&captions=chi_hant)

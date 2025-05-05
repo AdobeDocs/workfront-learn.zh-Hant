@@ -13,7 +13,7 @@ ht-degree: 100%
 
 具備培訓影片與文章資料庫，協助您更加瞭解 Workfront 功能和設定。其中包括一系列最佳實務、精心策劃的練習和其他資源，協助您及貴組織擁有成功的 Workfront 使用經驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428922/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 <!-- 
 

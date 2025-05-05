@@ -24,7 +24,7 @@ ht-degree: 21%
 
 影片說明如何從範本建立專案。&#x200B;URL 如果您有開啟範本的許可權，可以將其用作建立專案的捷徑。&#x200B;URL 若要這麼做，請開啟範本、存取三點式選單，然後選取「建立專案」&#x200B;。 這會將您帶到可以編輯專案詳細資料的畫面。&#x200B;URL 準備就緒後，按一下「建立專案」以完成。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456024/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 關鍵重點
 

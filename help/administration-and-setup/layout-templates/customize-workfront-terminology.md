@@ -22,4 +22,4 @@ ht-degree: 100%
 
 觀看這段影片，您將瞭解如何使用版面範本設定術語。
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445485/?quality=12&learn=on&enablevpops&captions=chi_hant)

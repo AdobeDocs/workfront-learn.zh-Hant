@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何建立分組
 * 以及如何與其他 Workfront 使用者共用分組
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449826/?quality=12&learn=on&captions=chi_hant)
 
 ## 「建立基本分組」活動
 

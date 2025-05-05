@@ -24,7 +24,7 @@ ht-degree: 100%
 * 檢閱和啟動建議目標
 * 將季度目標逐層傳遞並調整一致
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432165/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 <!--
 Pro-tips graphic

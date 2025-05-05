@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何建立和管理 Workfront 物件與工作流程的系統與群組狀態。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451860/?learn=on&captions=chi_hant)

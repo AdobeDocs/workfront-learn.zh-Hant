@@ -28,7 +28,7 @@ ht-degree: 100%
 * 存取專案量度圖表
 * 自訂圖表中的資訊
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439182/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

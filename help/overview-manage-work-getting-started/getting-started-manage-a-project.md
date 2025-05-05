@@ -29,7 +29,7 @@ ht-degree: 100%
 * 如何深入查看任務詳細資料
 * 如何與您的利害關係人溝通
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445178/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

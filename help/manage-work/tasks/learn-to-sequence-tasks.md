@@ -27,7 +27,7 @@ ht-degree: 10%
 &#x200B;URL它強調與前置任務練習的重要性，以瞭解其對專案時間表的影響，並建議使用持續時間和前置任務以實現有效的專案規劃。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447331/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 關鍵重點
 

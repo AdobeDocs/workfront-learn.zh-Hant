@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何重新命名校訂決定選項
 * 如何隱藏非必要的校訂決定選項
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444660/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 換您來操作
 

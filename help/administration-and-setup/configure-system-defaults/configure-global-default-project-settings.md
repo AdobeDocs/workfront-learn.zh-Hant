@@ -30,7 +30,7 @@ ht-degree: 100%
 * 設定全域專案偏好設定
 * 建立和使用排程
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423346/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 全域和群組專案、任務和問題設定
 

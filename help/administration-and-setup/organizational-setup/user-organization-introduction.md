@@ -24,7 +24,7 @@ ht-degree: 100%
 * 群組
 * 團隊
 
->[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444285/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 在開始之前，要在 [!DNL Workfront] 中探索使用者組織，必須先熟悉以下重要詞語：
 

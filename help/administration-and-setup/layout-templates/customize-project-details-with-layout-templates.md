@@ -25,4 +25,4 @@ ht-degree: 100%
 * 導覽至專案詳細資料區域
 * 使用版面範本自訂專案詳細資料欄位
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432904/?quality=12&learn=on&enablevpops&captions=chi_hant)

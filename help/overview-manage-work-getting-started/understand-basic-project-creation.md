@@ -30,7 +30,7 @@ ht-degree: 100%
 * 關於任務和問題的一些資訊
 * 開始建立專案的最佳實務
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432339/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

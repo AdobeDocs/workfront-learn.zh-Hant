@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解Workfront計畫如何透過集中專案追蹤並將設計工作與業務目標對應來提高UX團隊效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452191/?learn=on&enablevpops&captions=chi_hant)

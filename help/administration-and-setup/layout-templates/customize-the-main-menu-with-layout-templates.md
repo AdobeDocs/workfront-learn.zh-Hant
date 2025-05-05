@@ -27,4 +27,4 @@ ht-degree: 100%
 * 新增項目到[!UICONTROL 主選單]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432309/?quality=12&learn=on&enablevpops&captions=chi_hant)

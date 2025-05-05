@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何在展示板上新增及編輯欄設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422928/?quality=12&learn=on&enablevpops&captions=chi_hant)

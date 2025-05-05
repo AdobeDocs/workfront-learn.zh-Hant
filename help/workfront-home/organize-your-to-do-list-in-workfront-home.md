@@ -31,7 +31,7 @@ ht-degree: 100%
 * 識別做好啟動準備的工作
 * 接受工作指派
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445089/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 >[!NOTE]
 >

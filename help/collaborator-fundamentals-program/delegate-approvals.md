@@ -21,7 +21,7 @@ ht-degree: 100%
 * 結束委託期
 * 尋找已委派的核准工作
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446387/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 <!--
 learn more URLS

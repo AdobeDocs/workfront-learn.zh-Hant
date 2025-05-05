@@ -27,4 +27,4 @@ ht-degree: 100%
 * 如何變更日期範圍
 * 如何並排使用兩個不同的篩選器來比較 KPI
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440258/?quality=12&learn=on&enablevpops&captions=chi_hant)

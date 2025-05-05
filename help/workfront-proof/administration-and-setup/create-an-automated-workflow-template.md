@@ -28,7 +28,7 @@ ht-degree: 100%
 * 設定檢閱和核准流程的截止期限
 * 與其他人共用自動化工作流程範本
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454262/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 其他階段啟動選項
 

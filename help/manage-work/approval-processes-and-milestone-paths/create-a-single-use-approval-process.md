@@ -26,7 +26,7 @@ ht-degree: 25%
 此影片示範如何建立核准程式、設定核准者、設定狀態，以及使用階段進行多級核准。
 &#x200B;URL它強調全域和單一使用流程的彈性，以有效管理任務核准。
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434698/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 關鍵重點
 

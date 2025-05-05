@@ -20,4 +20,4 @@ ht-degree: 100%
 
 觀看這段影片，您將會瞭解核准流程如何將工作檢閱流程簡化和自動化。
 
->[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436451/?quality=12&learn=on&enablevpops&captions=chi_hant)

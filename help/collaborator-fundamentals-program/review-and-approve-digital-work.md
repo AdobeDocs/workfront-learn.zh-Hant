@@ -22,7 +22,7 @@ ht-degree: 0%
 * 核准文件
 * 核准校訂
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444957/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 <!--
 learn more URLS

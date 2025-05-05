@@ -22,4 +22,4 @@ ht-degree: 100%
 
 瞭解如何透過版面範本在專案標題中新增和移除欄位。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3422842?captions=chi_hant)

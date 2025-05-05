@@ -28,7 +28,7 @@ ht-degree: 100%
 * 檢視資料夾詳細資料
 * 檢視及更新資產中繼資料和關鍵字
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453934/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 基本搜尋條件
 

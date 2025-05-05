@@ -29,7 +29,7 @@ ht-degree: 100%
 * 如何利用「[!UICONTROL 視圖]」查看所需的資訊
 * 如何設定開始或完成日期
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448578/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 如何提出建議以協助您的組織提高營運效率
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438840/?quality=12&learn=on&enablevpops&captions=chi_hant)

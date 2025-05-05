@@ -44,7 +44,7 @@ ht-degree: 100%
 
 這段影片會展示您在「[!UICONTROL 工作流程]」區域可做的一些變更。參閱本影片下方的項目符號清單來檢視這些設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432621/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 回顧以下這些在「[!UICONTROL 工作流程]」區段可以進行的校訂範本變更：
 

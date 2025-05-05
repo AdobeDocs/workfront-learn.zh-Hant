@@ -27,4 +27,4 @@ ht-degree: 100%
 * 連線到外部 API
 * 使用公式編輯器從陣列擷取資訊
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435883/?quality=12&learn=on&enablevpops&captions=chi_hant)

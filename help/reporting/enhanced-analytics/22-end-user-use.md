@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 一般使用者可能如何使用飛行計劃、燃盡圖以及飛行圖中的任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437700/?quality=12&learn=on&enablevpops&captions=chi_hant)

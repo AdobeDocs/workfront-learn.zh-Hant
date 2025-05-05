@@ -26,7 +26,7 @@ ht-degree: 100%
 * 從開始或完成日期開始進行專案排程
 * 任務限制
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435846/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 >[!IMPORTANT]
 >

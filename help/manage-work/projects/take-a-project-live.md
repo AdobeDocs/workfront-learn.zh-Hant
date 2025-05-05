@@ -23,7 +23,7 @@ ht-degree: 10%
 
 影片說明將狀態變更為「目前」以讓專案上線的最後步驟&#x200B;。 在執行此操作之前，它強調稽核關鍵專案元素，包括任務名稱、持續時間、計畫時數、前置任務、開始和完成日期以及指派，以確保一切正確且正確設定。&#x200B;URL 專案上線後，專案經理將會收到根據全域和個人設定的通知，且專案會出現在使用中專案的報表和篩選中。&#x200B;URL 這標誌著工作的正式開始。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439004/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 關鍵重點
 

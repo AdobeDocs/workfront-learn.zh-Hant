@@ -27,7 +27,7 @@ ht-degree: 100%
 * 如何建立和修改視圖
 * 如何與其他 Workfront 使用者共用視圖
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450249/?quality=12&learn=on&captions=chi_hant)
 
 ## 「建立基本視圖」活動
 

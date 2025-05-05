@@ -28,7 +28,7 @@ ht-degree: 100%
 * Workfront 中的不同視圖，例如用於規劃的標準視圖以及用於監控進度的狀態視圖，其中包括進度、評論、文件、問題、核准、關鍵路徑以及里程碑的標幟。可以追蹤最近的活動以查看更新和備註。
 * 可以使用開始日期或完成日期來設定排程，Workfront 會根據任務持續時間及前置任務，自動計算相對應的日期。影片建議從開始日期設定關鍵完成日期，以便預留一些寬限時間。也會探討各種任務限制，例如「盡快」和「越晚越好」，說明這些限制如何影響任務排程。可以建立自訂視圖來顯示任務限制。
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435846/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 >[!IMPORTANT]
 >

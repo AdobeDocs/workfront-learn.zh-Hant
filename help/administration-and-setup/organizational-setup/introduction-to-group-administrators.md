@@ -22,6 +22,6 @@ ht-degree: 100%
 
 了解系統管理員如何善用群組管理員來有效維護設定，並讓群組對工作流程擁有更大的掌控權。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439334/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 

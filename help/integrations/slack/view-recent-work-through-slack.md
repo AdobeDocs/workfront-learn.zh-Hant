@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 透過 [!DNL Slack] 檢視最近的工作
 
->[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435938/?quality=12&learn=on&enablevpops&captions=chi_hant)

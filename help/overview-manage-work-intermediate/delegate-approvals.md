@@ -31,7 +31,7 @@ ht-degree: 100%
 * 委派專案、任務、問題的核准工作
 * 識別委派的核准工作
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446387/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 
