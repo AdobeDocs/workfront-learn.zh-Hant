@@ -12,10 +12,10 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 48%
+source-wordcount: '595'
+ht-degree: 39%
 
 ---
 
@@ -78,10 +78,11 @@ ht-degree: 48%
    ![影像顯示在報告中新增篩選器的畫面](assets/chart-report-filters.png)
 
 1. 在「**[!UICONTROL 圖表]**」標籤中，圖表類型請選擇「**[!UICONTROL 欄]**」。
-1. 對「[!UICONTROL 左 (Y) 軸]」，選擇「[!UICONTROL 專案]」>「[!UICONTROL 規劃成本]」。
-1. 對「[!UICONTROL 底部 (X) 軸]」，選擇「[!UICONTROL 專案]」>「[!UICONTROL 名稱]」。
-1. 按一下「**[!UICONTROL 組合圖表]**」按鈕並在「**[!UICONTROL 價值]**」欄位中選取「[!UICONTROL 專案]」>「[!UICONTROL 實際成本]」。
-1. 按一下顏色方塊旁邊的箭頭來變更「[!UICONTROL 實際成本]」的顏色。選取其中一個出現的顏色，或是按一下右下角的方塊來開啟調色盤。
+1. 針對[!UICONTROL 左(Y)軸]，選擇[!UICONTROL 計畫成本]。
+1. 針對[!UICONTROL 底部(X)軸]，請選擇[!UICONTROL 名稱]。
+1. 按一下&#x200B;**[!UICONTROL 組合圖表]**&#x200B;按鈕，並在&#x200B;**[!UICONTROL 值]**&#x200B;欄位中選取[!UICONTROL 實際成本]。
+1. 在&#x200B;**[!UICONTROL 圖表型別]**&#x200B;欄位中，選取「線條」。
+1. 按一下顏色方塊以變更[!UICONTROL 實際成本]顏色。 選取顏色。
 1. 按一下「**[!UICONTROL 儲存並關閉]**」。系統提示輸入報告名稱時，請命名為「上一季已完成的專案之規劃成本與實際成本比較」。
 
    ![影像顯示將圖表新增至報告中的畫面](assets/chart-report-chart.png)
