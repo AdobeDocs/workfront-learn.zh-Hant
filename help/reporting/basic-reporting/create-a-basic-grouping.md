@@ -1,6 +1,6 @@
 ---
 title: 建立基本分組
-description: 瞭解在 Workfront 中什麼是分組、如何建立分組，以及與其他使用者共用分組。
+description: Workfront分組可讓使用者根據專案組合、方案或完成日期等專案來分類清單，並使用可自訂的共用和管理選項來有效率地共同作業，進而改善專案組織。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,24 +9,30 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
+last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '235'
-ht-degree: 100%
+source-git-commit: 888021fa7d7160154a3a21c491c1d50c13650864
+workflow-type: tm+mt
+source-wordcount: '419'
+ht-degree: 34%
 
 ---
 
 # 建立基本分組
 
-觀看這段影片，您將會瞭解：
+此影片說明如何在Workfront中建立和管理群組，以有效組織專案清單。&#x200B;URL 分組是除了篩選器和檢視之外的三個主要報告元素之一，它們有助於根據共用資訊組織結果。&#x200B;URL
+本教學課程提供組織專案清單的實用步驟，以簡化日常工作和共同作業。&#x200B;URL
 
-* 在 Workfront 中什麼是分組
-* 如何建立分組
-* 以及如何與其他 Workfront 使用者共用分組
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/3449826/?quality=12&learn=on&captions=chi_hant)
+## 關鍵重點
+
+* **群組的用途：**&#x200B;群組是Workfront中的關鍵報表元素，可根據共用資訊（例如完成日期、投資組合或計畫）來組織專案清單。&#x200B;URL
+* **建立群組：**&#x200B;您最多可以使用三個條件層級來建立自訂群組。&#x200B;URL 例如，專案可以先依投資組合分組，然後依計劃分組，以獲得更好的組織。&#x200B;URL
+* **編輯及儲存群組：**&#x200B;無法覆寫內建群組，但您可以將編輯儲存為新群組。&#x200B;URL 自訂群組應具有清楚的描述性名稱，以便輕鬆識別。&#x200B;URL
+* **共用群組：**&#x200B;群組可以與其他使用者共用，且具有預設「檢視」許可權，可允許他們使用和共用群組，但不能編輯它。 「&#x200B;管理」許可權可允許編輯和刪除。&#x200B;URL
+* **移除群組：**&#x200B;刪除您建立的群組也會從您共用該群組的使用者清單中將其移除。&#x200B;URL 共用群組會顯示在其他使用者的「與我共用」區段下。&#x200B;URL
 
 ## 「建立基本分組」活動
 
@@ -48,9 +54,7 @@ ht-degree: 100%
 1. 在問題列表報告中，請至「**[!UICONTROL 分組]**」選單並選取「**[!UICONTROL 新增分組]**」。
 1. 將您的分組命名為「要求佇列、佇列主題、優先順序」。
 1. 按一下「**[!UICONTROL 新增分組]**」。
-1. 在「[!UICONTROL 首先依據]」欄位中輸入「專案名稱」，然後選取「專案」欄位來源下方的「**[!UICONTROL 名稱]**」。
-1. 按一下「**[!UICONTROL 新增另一個分組]**」。
-1. 在「[!UICONTROL 接著依據]」欄位中，輸入「佇列」然後選取「[!UICONTROL 佇列主題]」欄位來源下方的「**[!UICONTROL 名稱]**」。
-1. 按一下「**[!UICONTROL 新增另一個分組]**」。
-1. 在「[!UICONTROL 接著依據]」欄位中，輸入「優先順序」然後選取「[!UICONTROL 問題]」欄位來源下方的「**[!UICONTROL 優先順序]**」。
+1. 在[!UICONTROL Group by]欄位中。 輸入「專案名稱」，然後選取「專案」欄位來源下方的「**[!UICONTROL 名稱]**」。
+1. 按一下&#x200B;**[!UICONTROL 新增其他群組]**，然後輸入「佇列」並在[!UICONTROL 佇列主題]欄位來源下選取&#x200B;**[!UICONTROL 名稱]**。
+1. 按一下「**[!UICONTROL 新增其他群組]**」，然後輸入「優先順序」並在[!UICONTROL 問題]欄位來源下選取&#x200B;**[!UICONTROL 優先順序]**。
 1. 按一下「**[!UICONTROL 儲存分組]**」
