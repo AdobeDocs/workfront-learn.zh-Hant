@@ -2,7 +2,7 @@
 title: 了解分組的基本文字模式
 description: 了解什麼是文字模式、什麼是駝峰式大小寫，以及您可以在 Workfront 的分組中使用的一些「隨插即用」基本文字模式。
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 * 什麼是駝峰式大小寫
 * 可以在分組中使用的一些基本「隨插即用」文字模式
 
->[!VIDEO](https://video.tv.adobe.com/v/3422895/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## 「了解分組的基本文字模式」活動
 

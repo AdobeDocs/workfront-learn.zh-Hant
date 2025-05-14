@@ -2,7 +2,7 @@
 title: 了解篩選器的基本文字模式
 description: 了解什麼是文字模式、什麼是駝峰式大小寫，以及在 Workfront 的報告篩選器中可以使用的一些基本的「隨插即用」文字模式。
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -12,8 +12,8 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 100%
 

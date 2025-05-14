@@ -2,7 +2,7 @@
 title: 進階報告第 3 部分
 description: 瞭解對文字模式分組的深入分析、計算彙總和計算分組。
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-11202
 exl-id: 208af7e6-7625-4e81-bcb3-c3c7932828e5
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
 

@@ -2,7 +2,7 @@
 title: 歡迎使用進階報告
 description: 瞭解如何使用 [!UICONTROL API Explorer] 和文字模式來建立進階篩選器、視圖和分組，這些均是「[!UICONTROL 報告 UI]」無法提供的功能。
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -10,7 +10,7 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 100%
@@ -47,9 +47,9 @@ ht-degree: 100%
    * [[!UICONTROL 瞭解視圖的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)
    * [[!UICONTROL 瞭解分組的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hant)
 
-## 目標對象
+## 目標客群
 
-這些教學課程的目標對象是擁有「[!UICONTROL 計劃]」授權的使用者，他們目前會建立自訂報告而且想要知道如何使用文字模式來完成更多報告使用者介面原本設計無法做到的事。
+這些教學課程的目標客群是擁有「[!UICONTROL 計劃]」授權的使用者，他們目前會建立自訂報告而且想要知道如何使用文字模式來完成更多報告使用者介面原本設計無法做到的事。
 
 ## 這些教學課程的來源是哪裡？
 
