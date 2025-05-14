@@ -39,7 +39,7 @@ ht-degree: 100%
 * 什麼是駝峰式大小寫
 * 可以在分組中使用的一些基本「隨插即用」文字模式
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422895/?quality=12&learn=on&captions=chi_hant)
 
 ## 「了解分組的基本文字模式」活動
 

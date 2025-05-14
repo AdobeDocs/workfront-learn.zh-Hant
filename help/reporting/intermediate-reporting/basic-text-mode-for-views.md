@@ -40,7 +40,7 @@ ht-degree: 100%
 * 什麼是駝峰式大小寫
 * 可以在檢視中使用的一些基本「隨插即用」文字模式
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422886/?quality=12&learn=on&captions=chi_hant)
 
 ## 「了解視圖的基本文字模式」活動
 
