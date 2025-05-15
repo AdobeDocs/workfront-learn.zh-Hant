@@ -49,7 +49,7 @@ ht-degree: 64%
 
 以下包含逐步操作指示。
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443390/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 活動 2 答案
 
