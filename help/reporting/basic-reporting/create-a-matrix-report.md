@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
+last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '260'
-ht-degree: 100%
+source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
+workflow-type: tm+mt
+source-wordcount: '418'
+ht-degree: 62%
 
 ---
 
@@ -25,7 +26,15 @@ ht-degree: 100%
 * 矩陣報告的適用時機
 * 以及如何建立矩陣報告
 
->[!VIDEO](https://video.tv.adobe.com/v/3448194/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+
+## 關鍵重點
+
+* **矩陣報表結構：**&#x200B;矩陣報表會以列與欄的方式組織資料，並自動顯示列與欄總計。&#x200B;URL 這些維度非常適合用於追蹤工作時數、成本和收入等量度。&#x200B;URL
+* **篩選器設定：**&#x200B;使用篩選器來專注於特定資料，例如特定主團隊的使用者上個季度所工作的時數。&#x200B;URL 「擁有者欄位來源」可協助識別相關團隊成員。&#x200B;URL
+* **群組選項：**&#x200B;在我們的範例中，列是依「所有者名稱」（工作小時的人員）分組，而欄是依「小時輸入日期」（依月和周）分組。&#x200B;URL
+* **摘要資料：**&#x200B;依預設會摘要時數、實際成本和收入等欄，以確保總和會顯示在矩陣中。 如有需要，可關閉這些預設值。&#x200B;URL
+* **圖表整合：**&#x200B;矩陣報表可使用相同的群組資訊，以圖表作為替代資料視覺效果的補充。 您可以將矩陣標籤或圖表標籤設定為預設檢視。&#x200B;URL
 
 ## 「建立矩陣報告」活動
 
