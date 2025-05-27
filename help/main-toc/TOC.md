@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
+source-git-commit: b453097c89c2ba1a2bad5b71c195846425e5214a
 workflow-type: tm+mt
-source-wordcount: '2384'
+source-wordcount: '2274'
 ht-degree: 94%
 
 ---
@@ -236,28 +236,6 @@ ht-degree: 94%
       + [瞭解其他行事曆報告選項](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [輪到您建立行事曆報告](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + 增強型分析 {#enhanced-analytics}
-      + [與產品討論[!UICONTROL 增強型分析]的時刻](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [開始使用[!UICONTROL 增強型分析]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [如何存取[!UICONTROL 增強型分析]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
-      + [瞭解基本導覽](/help/reporting/enhanced-analytics/4-basic-navigation.md)
-      + [瞭解工作和人員圖表](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
-      + [瞭解篩選器](/help/reporting/enhanced-analytics/6-filters-overview.md)
-      + [瞭解日期範圍和時間範圍](/help/reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
-      + [瞭解規劃時數和期間視圖](/help/reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-      + [瞭解動作：游標懸停、點選並拖曳以及點選進入](/help/reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-      + [瞭解 KPI](/help/reporting/enhanced-analytics/10-kpis-overview.md)
-      + [瞭解如何導覽和檢閱專案](/help/reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
-      + [使用時間範圍和其他圖表深入瞭解](/help/reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
-      + [瞭解如何導覽和檢閱專案活動](/help/reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
-      + [深入瞭解導覽](/help/reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
-      + [瞭解存取和檢閱燃盡圖](/help/reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
-      + [檢閱飛行圖中的任務](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
-      + [透過更新來採取行動](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
-      + [瞭解「依團隊檢視活動」圖表](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [瞭解 KPI 比較的使用案例](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
-      + [瞭解一般使用者的使用案例](/help/reporting/enhanced-analytics/22-end-user-use.md)
-      + [瞭解諮詢指南](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
 
 + 管理資源 {#manage-resources}
    + 資源管理 {#resource-management}
@@ -344,10 +322,10 @@ ht-degree: 94%
       + [使用 Adobe Workfront 外掛程式與 Creative Cloud 整合](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [設定整合](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hant)
-      + [對應中繼資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=zh-Hant)
-      + [傳送文件和連結資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=zh-Hant)
-      + [維護版本歷史記錄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=zh-Hant)
+      + [設定整合](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [對應中繼資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [傳送文件和連結資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [維護版本歷史記錄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [透過 G Suite 整合功能改進工作流程](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -359,13 +337,13 @@ ht-degree: 94%
       + [安裝 Microsoft Outlook 增益集](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront for Microsoft Teams 概觀](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=zh-Hant)
-      + [安裝 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=zh-Hant)
-      + [存取 Adobe Workfront from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=zh-Hant)
-      + [在 Microsoft Teams 中搜尋和共用 Adobe Workfront 項目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=zh-Hant)
-      + [從 Microsoft Teams 建立 Adobe Workfront 任務](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=zh-Hant)
-      + [從 Microsoft Teams 提交 Adobe Workfront 請求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=zh-Hant)
-      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=zh-Hant)
+      + [Adobe Workfront for Microsoft Teams 概觀](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [安裝 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [存取 Adobe Workfront from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [在 Microsoft Teams 中搜尋和共用 Adobe Workfront 項目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [從 Microsoft Teams 建立 Adobe Workfront 任務](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [從 Microsoft Teams 提交 Adobe Workfront 請求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [瞭解適用於 [!UICONTROL Slack] 的 Workfront](/help/integrations/slack/introduction-to-workfront-for-slack.md)
