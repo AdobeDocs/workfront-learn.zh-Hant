@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
+last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: eb6e0375169c5a171eee01053f9577394460fa11
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 66%
+source-wordcount: '646'
+ht-degree: 49%
 
 ---
 
@@ -23,7 +24,7 @@ ht-degree: 66%
 影片提供全面指南，讓您瞭解並使用Workfront中的控制面板。
 &#x200B;URL說明儀表板是報表的集合，可讓使用者在一處整理和顯示相關資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449133/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## 關鍵重點
 
@@ -40,7 +41,7 @@ ht-degree: 66%
 
 建立僅包含一份報告的[!UICONTROL 儀表板]—「此專案的搜尋備註」。這樣可以快速找到專案上的任何更新，即使要搜尋的更新多達數千。它會搜尋更新資料串，以利快速擷取符合您在提示中指定之條件的任何更新。
 
-複製您在「建立備註報告」活動中建立的「搜尋備註」報告的副本來建立這份報告 (若您未進行該活動，請使用另一份報告)。
+建立此報表的方式為複製您在「建立備註報表」活動中建立的「搜尋備註報表」。 尚未建立嗎？ 按一下這裡以在[建立任務報告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教學課程中檢視活動。
 
 * 移除副本的「專案名稱」提示，並將報告重新命名為「此專案的搜尋備註」。
 * 將[!UICONTROL 儀表板]命名為「搜尋備註」。
@@ -49,7 +50,7 @@ ht-degree: 66%
 
 ### 解答 1
 
-1. 執行您在「建立備註報表」活動中建立的報表。 尚未建立嗎？ 按一下這裡以在[建立任務報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教學課程中檢視活動。
+1. 執行您在「建立備註報表」活動中建立的報表。 尚未建立嗎？ 按一下這裡以在[建立任務報告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教學課程中檢視活動。
 1. 按一下「**[!UICONTROL 報告動作]**」並選取「**[!UICONTROL 複製]**」。[!DNL Workfront] 建立一個名為「備註搜尋 (副本)」的新報告。
 1. 前往「**[!UICONTROL 報告動作]**」並選取「**[!UICONTROL 編輯]**」。按一下「**[!UICONTROL 報告設定]**」，並將名稱變更為「此專案的搜尋備註」。
 1. 按一下「[!UICONTROL 報告提示]」並刪除清單中的「[!UICONTROL 專案]」>「[!UICONTROL 名稱]」提示。
@@ -61,7 +62,7 @@ ht-degree: 66%
 
    接下來，您將使用快速鍵建立新儀表板，並將這份報告新增至儀表板。
 
-1. 按一下「**[!UICONTROL 報告動作]**」，並選取「**[!UICONTROL 新增至儀表板]**」>「**[!UICONTROL 新儀表板]**」。
+1. 按一下&#x200B;**[!UICONTROL 報告動作]**&#x200B;並選取&#x200B;**[!UICONTROL 新增到傳統儀表板]** > **[!UICONTROL 新儀表板]**。
 1. 將「此專案的搜尋備註」報告拖曳至「**[!UICONTROL 版面]**」面板。
 1. 請注意，此報告的名稱將成為儀表板的名稱。將名稱編輯為「搜尋備註」。
 
@@ -73,8 +74,8 @@ ht-degree: 66%
 
    ![影像顯示建立新儀表板的畫面](assets/add-custom-section.png)
 
-1. 前往任何專案。從左側面板選單，按一下「**[!UICONTROL 新增自訂區段]**」圖示。
-1. 在「**[!UICONTROL 新增儀表板]**」欄位中輸入「搜尋備註」，並從清單中選取「[!UICONTROL 儀表板]」。
-1. 在「**[!UICONTROL 自訂區段標題]**」欄位，輸入「搜尋備註」。
-1. 按一下「**[!UICONTROL 新增新區段]**」。
-1. 從左側面板選單中，找到「搜尋備註」。按一下區段名稱左邊的圓點，並把它拖曳到「更新」下方。
+1. 前往任何專案。從左側面板功能表，按一下&#x200B;**[!UICONTROL 新增儀表板]**&#x200B;按鈕。
+1. 在「**[!UICONTROL 選擇儀表板]**」欄位中，輸入「搜尋備註」並從清單中選取[!UICONTROL 儀表板]。
+1. 在&#x200B;**[!UICONTROL 快速連結名稱]**&#x200B;欄位中，輸入「搜尋備註」。
+1. 按一下&#x200B;**[!UICONTROL 新增]**。
+1. 從左側面板選單，尋找底部附近的搜尋附註。 按一下名稱左側的點，並將其拖曳至「更新」的正下方。
