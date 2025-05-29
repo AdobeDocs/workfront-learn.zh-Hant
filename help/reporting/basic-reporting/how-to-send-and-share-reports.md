@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '216'
-ht-degree: 100%
+source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 61%
 
 ---
 
@@ -26,7 +27,16 @@ ht-degree: 100%
 * 如何與任何人共用報告
 * 收件者可以透過 Workfront 報告看到什麼資訊及執行哪些動作
 
->[!VIDEO](https://video.tv.adobe.com/v/3447823/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## 關鍵重點
+
+* **傳送報表給外部使用者：**&#x200B;您可以輸入非Workfront使用者的電子郵件地址，以便輕鬆在組織外部共用資料，藉此將報表傳送給非使用者。&#x200B;URL
+* **存取許可權控制可見性：**&#x200B;收件者的報告檢視視取決於您設定的存取許可權，以確保資料安全性及適當的可見性。&#x200B;URL
+* **快照的重複傳遞：**&#x200B;排程傳遞會在特定時間提供資料的凍結快照，有助於追蹤趨勢和維護專案資料的歷史記錄。&#x200B;URL
+* **與團隊共用報告：**&#x200B;可與個人、團隊或工作角色共用報告，並授與檢視或管理許可權。&#x200B;URL 共用報表會顯示在「與我共用」的使用者區段中。&#x200B;URL
+* **公開和全系統共用：**&#x200B;報告可透過公開連結供外部使用者共用，或供所有Workfront使用者在整個系統內顯示，提供資料共用的彈性。
+
 
 ## 「傳送和共用報告」活動
 
