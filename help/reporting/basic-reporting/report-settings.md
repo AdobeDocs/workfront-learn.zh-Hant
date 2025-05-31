@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335159.png
 jira: KT-8871
+last-substantial-update: 2025-05-30T00:00:00Z
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '41'
-ht-degree: 100%
+source-git-commit: cc611bf43c51dde02af715d19246cfd17bcce095
+workflow-type: tm+mt
+source-wordcount: '54'
+ht-degree: 61%
 
 ---
 
@@ -23,6 +24,7 @@ ht-degree: 100%
 觀看這段影片，您將會瞭解：
 
 * 如何存取報告設定
-* 一些常用報告設定的用途
+* 如何使用特定使用者的存取許可權執行報告
+* 如何設定及使用報告提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3445874/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
