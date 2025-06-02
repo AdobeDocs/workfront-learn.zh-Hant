@@ -9,12 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '983'
-ht-degree: 100%
+source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
+workflow-type: tm+mt
+source-wordcount: '985'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +43,7 @@ ht-degree: 100%
    ![初始情境設計影像 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. 在下一頁，搜尋 Workfront 並選取該應用程式。然後按一下「繼續」。
-1. 在情境設計工具畫面的左上角，請把情境重新命名為「初始情境設計」
+1. 在情境設計工具畫面的左上角，將您的情境重新命名為「初始情境設計」
 1. 按一下螢幕中央空白的觸發模組並選取 Workfront 應用程式，然後選取「下載文件」模組。
 
    **驗證模組與您的 Workfront 帳戶的連線。**
@@ -55,7 +56,7 @@ ht-degree: 100%
 
    ![初始情境設計影像 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. 輸入您的 **Workfront 執行個體**&#x200B;的 URL，然後按一下「下一步」。
+1. 輸入&#x200B;**您的Workfront測試磁碟機帳戶**&#x200B;的URL，然後按[下一步]。
 
    ![初始情境設計影像 5](../12-exercises/assets/initial-scenario-design-5.png)
 
