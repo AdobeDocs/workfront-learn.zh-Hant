@@ -1,6 +1,6 @@
 ---
 title: 追蹤校訂進度
-description: 瞭解如何使用 [!UICONTROL SOCD] 指標、校訂進度和報告來追蹤  [!DNL  Workfront] 中的校訂進度。
+description: 瞭解如何使用 [!UICONTROL SOCD] 指標、校訂進度和報告來追蹤  [!DNL &#x200B; Workfront] 中的校訂進度。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -27,7 +27,7 @@ ht-degree: 64%
 
 使用「[!UICONTROL 文件]」清單中的 [!UICONTROL SOCD] 圖示，從高層次角度檢視校訂工作在檢閱與核准流程中的進度。這些圖示表示對校訂採取的特定動作。
 
-![影像顯示 [!DNL  Workfront] 專案中「[!UICONTROL 文件]」清單，並且突顯標示 [!UICONTROL SOCD] 圖示。](assets/manage-proofs-socd.png)
+![影像顯示 [!DNL &#x200B; Workfront] 專案中「[!UICONTROL 文件]」清單，並且突顯標示 [!UICONTROL SOCD] 圖示。](assets/manage-proofs-socd.png)
 
 這些圖示表示從您傳送校訂給收件者直到他們對校訂做出決定為止，在校訂上已完成的工作。
 
@@ -59,7 +59,7 @@ ht-degree: 64%
 
 校訂狀態取決於階段校訂收件者的狀態。 您可以在「[!UICONTROL 文件]」頁面，在 [!UICONTROL SOCD] 指標的右側看到整體校訂狀態，所以您可以輕鬆判斷校訂是否已有決定。
 
-![影像顯示 [!DNL  Workfront] 專案的「[!UICONTROL 文件]」清單並突顯標示整體校訂狀態。](assets/manage-proofs-overall-status.png)
+![影像顯示 [!DNL &#x200B; Workfront] 專案的「[!UICONTROL 文件]」清單並突顯標示整體校訂狀態。](assets/manage-proofs-overall-status.png)
 
 這個校訂狀態表示校訂的整體狀態。比如，有兩位收件者核准校訂，其個別狀態會顯示「[!UICONTROL 已核准]」但是，第三個收件者尚未做出決定，因此該人員的狀態為[!UICONTROL 擱置中]。 因此整體狀態顯示為「[!UICONTROL 待處理]」。
 
@@ -79,11 +79,11 @@ ht-degree: 64%
 
 校訂核准報告協助您追蹤待完成的核准，以確保在截止期限前完成。
 
-![影像顯示 [!DNL  Workfront] 中的校訂核准報告。](assets/proof-approval-report.png)
+![影像顯示 [!DNL &#x200B; Workfront] 中的校訂核准報告。](assets/proof-approval-report.png)
 
 您可以利用文件版本報告來管理和追蹤校訂版本。
 
-![影像顯示 [!DNL  Workfront] 中的文件版本。](assets/document-version-report.png)
+![影像顯示 [!DNL &#x200B; Workfront] 中的文件版本。](assets/document-version-report.png)
 
 我們建議與您的 [!DNL Workfront] 顧問一起合作，建立符合組織需求的報告。有些報告必須熟悉 [!DNL Workfront's] 文字模式報告功能方能使用。
 
