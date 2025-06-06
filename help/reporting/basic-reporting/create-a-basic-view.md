@@ -8,26 +8,31 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '827'
-ht-degree: 100%
+source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+workflow-type: tm+mt
+source-wordcount: '974'
+ht-degree: 77%
 
 ---
 
 # 建立基本視圖
 
-觀看這段影片，您將會了解：
+影片說明如何在Workfront中建立和自訂檢視，以顯示清單中專案的特定資訊，例如專案、任務、問題和檔案。&#x200B;URL 檢視可讓使用者檢視詳細資訊，例如名稱、說明、狀態，以及與專案相關的其他欄位。&#x200B;URL
 
-* Workfront 中的視圖是什麼
-* 如何建立和修改視圖
-* 如何與其他 Workfront 使用者共用視圖
+影片強調Workfront檢視的彈性，並提供建立、自訂及管理檢視的逐步指示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450249/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+
+## 關鍵重點
+
+* **自訂檢視**：使用者可以新增、移除或重新排列欄以顯示特定資訊，例如專案狀態或預算，以編輯現有檢視或建立新檢視。
+* **內嵌編輯**：清單檢視中的某些欄位可以直接更新，而不需要開啟個別專案，因此變更的速度更快。&#x200B;URL
+* **從頭開始建立檢視**：使用者可以透過新增預算、實際成本和進度狀態等相關欄，來設計檢視以滿足特定需求，例如追蹤專案狀況。&#x200B;URL
+* **共用及管理檢視**：自訂檢視可與團隊成員共用，以進行共同作業，或在不再需要自訂檢視時移除。
 
 ## 「建立基本視圖」活動
 
@@ -65,7 +70,7 @@ ht-degree: 100%
 
 ### 活動 2：建立里程碑視圖
 
-如果您使用里程碑，此視圖是依名稱查看里程碑並使用行間編輯來新增或編輯里程碑的最簡單方法。
+如果您使用里程碑，此檢視是在工作清單中依名稱檢視里程碑，並使用內嵌編輯在工作中新增或移除里程碑的最簡單方式。
 
 建立一個名為「里程碑視圖」的任務視圖且包含下列欄：
 
@@ -86,7 +91,7 @@ ht-degree: 100%
 1. 在專案任務清單中，前往「**[!UICONTROL 視圖]**」下拉式選單並選取「**[!UICONTROL 新增視圖]**」。
 1. 將您的視圖命名為「里程碑視圖」。
 1. 按一下「[!UICONTROL 前置任務]」欄來選取前置任務。
-1. 在「[!UICONTROL 在此欄中顯示]」欄位中，按一下「[!UICONTROL 任務 >> 前置任務]」欄位的 X 圖示，然後輸入「[!UICONTROL 里程碑名稱]」，再按一下清單中的「[!UICONTROL 名稱]」。
+1. 在「[!UICONTROL 在此欄顯示]」欄位中，按一下「[!UICONTROL 任務>>前置任務]」欄位中的「減號」圖示，然後輸入「[!UICONTROL 里程碑名稱]」並按一下清單中的「[!UICONTROL 名稱]」。
 1. 按一下「**[!UICONTROL 儲存]**」。
 
 ![影像顯示使用里程碑視圖的任務清單](assets/view-milestone-exercise-2.png)
