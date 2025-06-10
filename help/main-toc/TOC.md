@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教學課程
-source-git-commit: b453097c89c2ba1a2bad5b71c195846425e5214a
+source-git-commit: 64c683bc598a811c398561b7e1895edd316c5af3
 workflow-type: tm+mt
-source-wordcount: '2274'
+source-wordcount: '2277'
 ht-degree: 94%
 
 ---
@@ -157,7 +157,7 @@ ht-degree: 94%
    + 核准程式和里程碑路徑 {#approval-processes-and-milestone-paths}
       + [建立全域和單次使用的核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [在請求佇列中套用問題核准流程](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
-      + [檢閱及核准數位工作](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [審閱及核准數位工作](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [委派任務、問題與核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [套用里程碑](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [檢視里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
@@ -180,7 +180,7 @@ ht-degree: 94%
       + [完成核准](/help/manage-work/close-a-project/complete-approvals.md)
       + [上傳資產](/help/manage-work/close-a-project/upload-assets.md)
       + [記錄學習到的經驗](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-      + [記錄和檢閱時數](/help/manage-work/close-a-project/log-and-review-hours.md)
+      + [記錄和審閱時數](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + 適用於用戶的專案財務 {#project-finances-users}
       + [尋找財務資訊](/help/manage-work/project-finances/find-financial-information.md)
@@ -315,6 +315,7 @@ ht-degree: 94%
    + [建立和管理記錄型別](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [建立和管理表格檢視](/help/workfront-planning/create-and-manage-table-views.md)
    + [建立和管理時間軸檢視](/help/workfront-planning/create-and-manage-timeline-views.md)
+   + [連線記錄型別](/help/workfront-planning/connect-record-types.md)
    + [適用於UX設計團隊的Workfront規劃的優點](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + 整合 {#integrations}
@@ -322,10 +323,10 @@ ht-degree: 94%
       + [使用 Adobe Workfront 外掛程式與 Creative Cloud 整合](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [設定整合](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hant)
-      + [對應中繼資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=zh-Hant)
-      + [傳送文件和連結資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=zh-Hant)
-      + [維護版本歷史記錄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=zh-Hant)
+      + [設定整合](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [對應中繼資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [傳送文件和連結資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [維護版本歷史記錄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [透過 G Suite 整合功能改進工作流程](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -337,13 +338,13 @@ ht-degree: 94%
       + [安裝 Microsoft Outlook 增益集](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront for Microsoft Teams 概觀](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=zh-Hant)
-      + [安裝 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=zh-Hant)
-      + [存取 Adobe Workfront from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=zh-Hant)
-      + [在 Microsoft Teams 中搜尋和共用 Adobe Workfront 項目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=zh-Hant)
-      + [從 Microsoft Teams 建立 Adobe Workfront 任務](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=zh-Hant)
-      + [從 Microsoft Teams 提交 Adobe Workfront 請求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=zh-Hant)
-      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=zh-Hant)
+      + [Adobe Workfront for Microsoft Teams 概觀](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [安裝 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [存取 Adobe Workfront from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [在 Microsoft Teams 中搜尋和共用 Adobe Workfront 項目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [從 Microsoft Teams 建立 Adobe Workfront 任務](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [從 Microsoft Teams 提交 Adobe Workfront 請求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [瞭解適用於 [!UICONTROL Slack] 的 Workfront](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -496,10 +497,10 @@ ht-degree: 94%
 
    + 檢閱和核准工作 {#review-and-approve-work-for-proof}
       + [導覽校訂檢視器](/help/workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
-      + [檢閱及核准校訂](/help/workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
-      + [檢閱並回應校訂註解](/help/workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
-      + [使用校訂來檢閱影片](/help/workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
-      + [使用校訂來檢閱網站](/help/workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
+      + [審閱及核准校訂](/help/workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
+      + [審閱並回應校訂註解](/help/workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
+      + [使用校訂來審閱影片](/help/workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
+      + [使用校訂來審閱網站](/help/workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
       + [瞭解校訂詳細資料](/help/workfront-proof/review-and-approve-work/proof-details-overview.md)
       + [管理校訂註解](/help/workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [追蹤校訂進度](/help/workfront-proof/review-and-approve-work/track-proof-progress.md)
@@ -517,7 +518,7 @@ ht-degree: 94%
    + 中繼資料和關鍵字  {#metadata-and-keywords}
       + [瞭解中繼資料](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
       + [啟用並強制執行關鍵字分類法](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
-      + [檢閱中繼資料術語](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
+      + [審閱中繼資料術語](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
       + [使用中繼資料與關鍵字搜尋資產](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)
       + [設定中繼資料範本](/help/workfront-dam/metadata-and-keywords/metadata-templates.md)
       + [設定中繼資料對應](/help/workfront-dam/metadata-and-keywords/metadata-mapping.md)
