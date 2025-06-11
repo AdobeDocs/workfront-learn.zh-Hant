@@ -1,6 +1,6 @@
 ---
 title: 建立任務報告
-description: 了解如何使用複雜的篩選器建立任務報告，並在 Workfront 中找到您所建立的報告。活動 - 建立附有提示的筆記報告。
+description: 瞭解如何使用複雜的篩選器建立任務報告，並找到您在Workfront中建立的報告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,32 +8,41 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
+last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
-workflow-type: ht
-source-wordcount: '925'
-ht-degree: 100%
+source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
+workflow-type: tm+mt
+source-wordcount: '1116'
+ht-degree: 77%
 
 ---
 
 # 建立任務報告
 
-觀看這段影片，您將會了解：
+影片逐步說明如何建立自訂報表，以追蹤指派給登入使用者的延遲任務。 首先，說明當現有的篩選器、檢視或內建報表不符合特定需求時，需要自訂報表。&#x200B;URL 該報表命名為「指派給我的最晚任務」，並新增說明以更明確說明。&#x200B;URL
 
-* 如何使用複雜的篩選器建立任務報告
-* 如何尋找您建立的報告
+產生的報表可幫助使用者專注於後期任務、提供相依性的深入分析，並簡化主機專案的導覽。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3448353/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+## 關鍵重點
+
+* **自訂報告建立：**&#x200B;當現有的篩選器和內建報告不符合您的需求時，您可以從頭開始建立自訂報告，以聚焦於特定資料，例如指派給您的延遲工作。&#x200B;URL
+* **篩選器設定：**&#x200B;使用篩選器來定義報告條件，包括延遲任務、未完成任務、目前專案和指派給登入使用者的任務。&#x200B;URL
+* 內容：**欄：**&#x200B;新增「可以開始」之類的欄以識別相依性問題，以及含有超連結的「專案名稱」，以輕鬆導覽至相關專案。&#x200B;URL
+* **排序優先順序：**&#x200B;依「到期日」欄遞增順序排序工作，以在報告頂端優先處理最逾期的工作。&#x200B;URL
+* **協助工具：**&#x200B;儲存報告、釘選報告或將其標示為最愛以快速存取，確保有效率地追蹤和管理延遲工作。
+
 
 ## 「建立任務報告」活動
 
 >[!TIP]
 >
 >拿出您的各種器具，準備好使用我們 [ Adobe Workfront 客戶報告逐步指南](/help/assets/workfront-customer-reporting-cookbook.pdf)內的秘方。您將在指南中找到 10 份報告的逐步說明，可供您立即在您的環境中快速應用。
->我們收集了客戶最喜歡的報告，並將這些內容整理成一套簡單易懂、易消化的秘方，您帶回後可在自己的 Workfront 環境中進行測試。
->這 10 份報告來自與您類似的客戶。我們的客戶分佈在不同的行業、部門、團隊、職位以及不同的公司，非常感謝這些最棒的客戶分享他們最喜歡的報告。有些報告很簡單 (但非常有用)，有些則比較複雜，但都可讓您的報告提升到另一個全新境界。
+>>我們收集了客戶最喜歡的報告，並將這些內容整理成一套簡單易懂、易消化的秘方，您帶回後可在自己的 Workfront 環境中進行測試。
+>>這 10 份報告來自與您類似的客戶。我們的客戶分佈在不同的行業、部門、團隊、職位以及不同的公司，非常感謝這些最棒的客戶分享他們最喜歡的報告。有些報告很簡單 (但非常有用)，有些則比較複雜，但都可讓您的報告提升到另一個全新境界。
 
 
 ### 活動 1：建立附帶提示的備註報告
@@ -110,15 +119,15 @@ ht-degree: 100%
 
 ### 活動 2：建立管理團隊意見回饋報告
 
-這是一份問題報告，主要是顯示為系統管理員所建立意見回饋請求佇列的所有問題。您可以在「[建立系統管理員意見回饋請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=zh-Hant)」教學課程中查看如何建立此請求佇列。
+這是一份問題報告，主要是顯示為系統管理員所建立意見回饋請求佇列的所有問題。您可以在「[建立系統管理員意見回饋請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html)」教學課程中查看如何建立此請求佇列。
 
-此報告也使用自訂表單。若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hant)」教學課程。
+此報告也使用自訂表單。若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)」教學課程。
 
-此自訂表單應依下列方法來建立：
+此自訂表單應使用物件型別「專案和問題」，並應按如下方式建立：
 
 名稱：管理流程意見回饋
 
-1. 流程類型 (下拉式欄位)
+1. 程式型別（單選下拉式欄位）
    * 存取層級
    * 核准流程 (僅限全域)
    * 電子郵件通知
@@ -128,7 +137,7 @@ ht-degree: 100%
    * 提醒通知
    * 請求佇列
 1. 流程名稱 (單行文字欄位)
-1. 流程等級 (下拉式欄位)
+1. 程式等級（單選下拉式欄位）
    * 1 - 完全沒用
    * 2 - 不是很有用
    * 3 - 很好，但還可以更好
