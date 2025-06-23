@@ -1,20 +1,20 @@
 ---
 title: 建立自訂行事曆報告
-description: 了解如何建立自訂行事曆，顯示個人的工作項目和休假。
+description: 瞭解如何建立顯示工作專案與個人休假的自訂行事曆。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-29T00:00:00Z
+last-substantial-update: 2025-06-23T00:00:00Z
 thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 83%
 
 ---
 
@@ -34,5 +34,5 @@ ht-degree: 100%
 * 將工作項目新增到行事曆分組
 * 建立休假行事曆
 
->[!VIDEO](https://video.tv.adobe.com/v/3452404/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops)
 
