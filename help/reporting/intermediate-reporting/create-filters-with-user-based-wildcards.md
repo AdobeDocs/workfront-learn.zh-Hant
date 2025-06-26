@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '348'
-ht-degree: 100%
+source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 87%
 
 ---
 
@@ -29,7 +30,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->建立搜尋任務或問題指派資料的篩選器時，請使用「指派使用者>>ID」欄位來源和名稱。此選項會搜尋已指派至任務或問題的所有使用者，而不只是「所有者」或主要受指派人。
+>建立搜尋任務或問題指派資料的篩選器時，請使用「指派使用者>>ID」欄位來源和名稱。此選項會檢視指派給任務或問題的所有使用者，而不僅僅是「所有者」或主要受指派人。
 
 >[!TIP]
 >
@@ -44,7 +45,7 @@ ht-degree: 100%
 
 ### 活動 1
 
-您這一週多了一些空閒時間，所以想要看看團隊中是否有人需要協助處理他們的指派工作。建立任務篩選器以尋找本週到期但尚未完成的任務。
+您這一週多了一些空閒時間，所以想要看看團隊中是否有人需要協助處理他們的指派工作。建立任務篩選器以尋找指派給您的主團隊本週到期且尚未完成的任務。
 
 ### 解答 1
 
