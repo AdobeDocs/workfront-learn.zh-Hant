@@ -29,7 +29,7 @@ ht-degree: 100%
 * 使用萬用字元、屬性、運算子和修飾元來建立自訂日期
 * 使用萬用字元建立自訂日期範圍
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464545/?quality=12&learn=on&captions=chi_hant)
 
 
 ## 「建立含有日期型萬用字元的篩選器」活動
