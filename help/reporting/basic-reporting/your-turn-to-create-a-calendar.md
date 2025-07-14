@@ -1,6 +1,6 @@
 ---
-title: 輪到您建立行事曆報告
-description: 瞭解如何建立顯示您的未完成任務和問題的客戶行事曆。
+title: 活動 — 建立行事曆報告
+description: 逐步指示如何建立客戶行事曆，以顯示您未完成的任務和問題。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,18 +11,14 @@ last-substantial-update: 2025-06-23T00:00:00Z
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
+source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 89%
+source-wordcount: '362'
+ht-degree: 81%
 
 ---
 
-# 輪到您建立行事曆報告
-
-在此活動中，您將可以親自動手建立自己的行事曆。
-
-## 活動：建立行事曆
+# 活動 — 建立行事曆報告
 
 建立名為「我的未完成工作」的客戶行事曆。
 
