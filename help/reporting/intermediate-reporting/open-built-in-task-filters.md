@@ -1,20 +1,21 @@
 ---
 title: 了解內建的任務篩選器
-description: 了解如何檢閱內建的任務篩選器以查看其建置方式，並在 Workfront 中建立自己的任務篩選器。
+description: 了解如何審閱內建的任務篩選器以查看其建置方式，並在 Workfront 中建立自己的任務篩選器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336818.png
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-07-22T00:00:00Z
 team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: a3174fcd208a2483bc3728932ae4d31b2e155e6b
+workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -22,7 +23,7 @@ ht-degree: 100%
 
 觀看這段影片，您將：
 
-* 檢閱內建的任務篩選器以了解其建置方式
+* 審閱內建的任務篩選器以了解其建置方式
 * 了解一些實用的任務報告元素
 * 了解如何建立您的任務篩選器
 
@@ -45,6 +46,6 @@ ht-degree: 100%
 
 您可能希望根據指派給各個任務的團隊名稱來將清單分組。
 
-報告應如下所示：
+以下是報表的外觀：
 
 ![影像顯示任務報告](assets/opening-built-in-task-filters-2.png)
