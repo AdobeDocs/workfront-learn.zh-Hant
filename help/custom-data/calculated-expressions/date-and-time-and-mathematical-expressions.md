@@ -46,5 +46,5 @@ Workfront 客戶通常使用這兩個數學運算式組合：
 
 >[!NOTE]
 >
->如需運算式的完整清單和每個運算式的詳細資訊，請前往[計算資料運算式](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions)檔案頁面。
+>如需運算式的完整清單和每個運算式的詳細資訊，請前往[計算資料運算式](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions)檔案頁面。
 
