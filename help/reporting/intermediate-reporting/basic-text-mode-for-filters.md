@@ -41,7 +41,7 @@ ht-degree: 100%
 * 什麼是駝峰式大小寫
 * 可以在報告篩選器中使用的一些基本「隨插即用」文字模式
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470329/?quality=12&learn=on&captions=chi_hant)
 
 ## 「了解篩選器的基本文字模式」活動
 
