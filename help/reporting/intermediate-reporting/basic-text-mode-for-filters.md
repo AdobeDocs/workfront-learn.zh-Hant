@@ -1,6 +1,6 @@
 ---
-title: 了解篩選器的基本文字模式
-description: 了解什麼是文字模式、什麼是駝峰式大小寫，以及在 Workfront 的報告篩選器中可以使用的一些基本的「隨插即用」文字模式。
+title: 瞭解篩選器的基本文字模式
+description: 瞭解您可以在Workfront的報告篩選器中使用的文字模式、駝峰式大小寫和一些基本文字模式。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 721f246178c0a1dc396b9fe8db53a90e26246775
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 100%
+source-wordcount: '423'
+ht-degree: 90%
 
 ---
 
@@ -35,13 +35,13 @@ ht-degree: 100%
 >* 按一下此處以存取 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 
-觀看這段影片，您將會了解：
+在這段影片中，您將了解以下內容：
 
-* 什麼是文字模式
-* 什麼是駝峰式大小寫
-* 可以在報告篩選器中使用的一些基本「隨插即用」文字模式
+* 文字模式
+* 駝峰式大小寫
+* 您可以用在報表篩選中的某些&#x200B;_文字模式程式碼區塊_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470329/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## 「了解篩選器的基本文字模式」活動
 

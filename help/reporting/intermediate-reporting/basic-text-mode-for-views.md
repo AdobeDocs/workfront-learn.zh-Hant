@@ -1,6 +1,6 @@
 ---
 title: 了解檢視的基本文字模式
-description: 了解什麼是文字模式、什麼是駝峰式大小寫，以及可以在 Workfront 的檢視中使用的一些基本的「隨插即用」文字模式。
+description: 瞭解您可以在Workfront的報告檢視中使用的文字模式、駝峰式大小寫和一些基本文字模式。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 100%
+source-wordcount: '651'
+ht-degree: 94%
 
 ---
 
@@ -38,9 +39,9 @@ ht-degree: 100%
 
 * 什麼是文字模式
 * 什麼是駝峰式大小寫
-* 可以在檢視中使用的一些基本「隨插即用」文字模式
+* 您可以在報表檢視中使用某些&#x200B;_文字模式程式碼區塊_
 
->[!VIDEO](https://video.tv.adobe.com/v/3422886/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## 「了解視圖的基本文字模式」活動
 
