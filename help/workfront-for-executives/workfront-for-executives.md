@@ -79,7 +79,7 @@ Workfront 儀表板中的報告範例
 * 提出請求
 * 檢視您提交的請求
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470920/?quality=12&learn=on&enablevpops&captions=chi_hant)
 
 ## 等待您批准的項目
 
