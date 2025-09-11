@@ -34,5 +34,5 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
 
 **如需詳細資訊，請參閱下列說明文章：**
-[畫布儀表板概觀](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[在畫布儀表板中建立KPI報告](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[畫布儀表板概觀](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[在畫布儀表板中建立KPI報告](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
