@@ -41,7 +41,7 @@ ht-degree: 94%
 * 什麼是駝峰式大小寫
 * 您可以在報表檢視中使用某些&#x200B;_文字模式程式碼區塊_
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470799/?quality=12&learn=on&captions=chi_hant)
 
 ## 「了解視圖的基本文字模式」活動
 
