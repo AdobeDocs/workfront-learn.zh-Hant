@@ -41,7 +41,7 @@ ht-degree: 90%
 * 駝峰式大小寫
 * 您可以用在報表篩選中的某些&#x200B;_文字模式程式碼區塊_
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470329/?quality=12&learn=on&captions=chi_hant)
 
 ## 「了解篩選器的基本文字模式」活動
 
