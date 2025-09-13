@@ -30,7 +30,7 @@ ht-degree: 90%
 
 >[!TIP]
 >
->* 為了深入了解文字模式，我們建議觀看錄影版網路研討會活動「[詢問專家 - 文字模式報告簡介](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)」，影片長度為 1 小時。
+>* 為了深入了解文字模式，我們建議觀看錄影版網路研討會活動「[詢問專家 - 文字模式報告簡介](https://experienceleague.adobe.com/zh-hant/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)」，影片長度為 1 小時。
 >* 若要更加深入了解文字模式，我們建議觀看「[進階報告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-hant)」教學課程，全部課程總長 5 個半小時。
 >* 按一下此處以存取 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 

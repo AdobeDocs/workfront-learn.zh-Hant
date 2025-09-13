@@ -24,7 +24,7 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
 
-如需詳細資訊，請參閱[畫布控制面板概觀](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)文章。
+如需詳細資訊，請參閱[畫布控制面板概觀](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)文章。
 
 ## 有關此主題的推薦教學課程
 
