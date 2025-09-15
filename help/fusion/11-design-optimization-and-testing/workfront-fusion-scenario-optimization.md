@@ -11,10 +11,10 @@ jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 100%
 
 什麼是「情境最佳化」以及您可以如何將情境最佳化？
 
-情境最佳化是一項需要時間和精力來培養且經過實踐獲得的技能。您第一次嘗試建立一個情境來取得業務成果，不應該成為您的最後一次。情境從第一天開始便要疊代執行，直到您發佈整合功能為止。即使在發佈之後，在情境的整個生命期間也要進行檢閱與更新，才能配合業務與行為的變化。
+情境最佳化是一項需要時間和精力來培養且經過實踐獲得的技能。您第一次嘗試建立一個情境來取得業務成果，不應該成為您的最後一次。情境從第一天開始便要疊代執行，直到您發佈整合功能為止。即使在發佈之後，在情境的整個生命期間也要進行審閱與更新，才能配合業務與行為的變化。
 
-情境需要維護。Workfront Fusion 開發人員應定期檢查情境，以利把握重建、重組或最佳化的機會。Workfront Fusion 情境需要定期關注、保養和維護。
+情境需要維護。Workfront Fusion 開發人員應定期審閱情境，以利把握重建、重組或最佳化的機會。Workfront Fusion 情境需要定期關注、保養和維護。
 
 觀看這段影片，您將了解如何：
 
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 ## 想要了解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

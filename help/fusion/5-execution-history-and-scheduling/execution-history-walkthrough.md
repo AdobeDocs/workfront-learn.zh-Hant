@@ -1,6 +1,6 @@
 ---
 title: 執行歷史記錄操作示範
-description: 瞭解如何檢閱情境的執行歷史記錄來瞭解在  [!DNL Adobe Workfront Fusion] 時發生什麼事。
+description: 瞭解如何審閱情境的執行歷史記錄來瞭解在  [!DNL Adobe Workfront Fusion] 時發生什麼事。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # 執行歷史記錄操作示範
 
-檢閱「使用功能強大的篩選器」情境的執行歷史記錄，來瞭解執行時發生什麼事以及他們在執行時的結構。
+審閱「使用功能強大的篩選器」情境的執行歷史記錄，來瞭解執行時發生什麼事以及他們在執行時的結構。
 
 ![影像顯示 Fusion 情境的執行歷史記錄](assets/execution-history-and-scheduling-1.png)
 
@@ -60,4 +60,4 @@ D — 複製執行 ID。
 
 ## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

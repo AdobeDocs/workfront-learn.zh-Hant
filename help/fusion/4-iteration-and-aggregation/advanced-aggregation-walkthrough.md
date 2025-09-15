@@ -11,10 +11,10 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '245'
-ht-degree: 100%
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 90%
 
 ---
 
@@ -53,10 +53,10 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 本實作練習以您在操作示範中學到的知識為基礎，但未提供解決方案。
 
-建立一個新情境，把行銷專案組合中各項專案的任務之所有記錄時數加總。然後傳送一封電子郵件，表示「您的 {Project Name} 專案團隊已記錄 {summed hours}，而總規劃時數為 {planned hours}，所以計劃目前進度為 {percentage}」。
+建立一個新情境，把行銷專案組合中各項專案的任務之所有記錄時數加總。然後傳送一封電子郵件，顯示「您的{Project Name}專案團隊已記錄總{summed hours}個計畫時數中的{planned hours}，使您處於計畫的{percentage}」。
 
 **挑戰：**&#x200B;看看您是否執行相同操作，但僅限今年記錄的時數。
 
 ## 想要瞭解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion 文件](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hant)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
