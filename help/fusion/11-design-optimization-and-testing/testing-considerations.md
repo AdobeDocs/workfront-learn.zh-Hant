@@ -48,4 +48,4 @@ Workfront Fusion 測試應著重於檢查已連接的軟體平台之間的輸入
 
 ## 想要了解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion 文件](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

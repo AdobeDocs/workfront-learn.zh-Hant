@@ -36,9 +36,9 @@ ht-degree: 99%
 
 >[!NOTE]
 >
->如果您的組織已加入 Adobe Admin Console，請參閱[透過 Adobe Admin Console 將使用者新增至 Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html)。
+>如果您的組織已加入 Adobe Admin Console，請參閱[透過 Adobe Admin Console 將使用者新增至 Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html?lang=zh-Hant)。
 
 
 ## 想要了解更多嗎？我們建議參閱以下資訊：
 
-[Workfront Fusion 文件](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
