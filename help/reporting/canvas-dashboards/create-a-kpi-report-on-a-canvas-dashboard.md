@@ -11,9 +11,9 @@ jira: KT-18769
 last-substantial-update: 2025-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
+source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '119'
 ht-degree: 4%
 
 ---
@@ -31,13 +31,14 @@ ht-degree: 4%
 
 [畫布儀表板簡介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)會逐步說明如何做到這兩點。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474853/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
 
 **如需詳細資訊，請參閱下列說明文章：**
-[畫布儀表板概觀](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[在畫布儀表板中建立KPI報告](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[畫布儀表板概觀](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[在畫布儀表板中建立KPI報告](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## 有關此主題的推薦教學課程
 
 * [Canvas儀表板簡介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [在畫布控制面板上建立表格報告](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+* [新增條件式格式至畫布控制面板報表](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
