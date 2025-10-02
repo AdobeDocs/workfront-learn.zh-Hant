@@ -119,9 +119,9 @@ ht-degree: 78%
 
 ### 活動 2：建立管理團隊意見回饋報告
 
-這是一份問題報告，主要是顯示為系統管理員所建立意見回饋請求佇列的所有問題。您可以在「[建立系統管理員意見回饋請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html)」教學課程中查看如何建立此請求佇列。
+這是一份問題報告，主要是顯示為系統管理員所建立意見回饋請求佇列的所有問題。您可以在「[建立系統管理員意見回饋請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=zh-Hant)」教學課程中查看如何建立此請求佇列。
 
-此報告也使用自訂表單。若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)」教學課程。
+此報告也使用自訂表單。若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hant)」教學課程。
 
 此自訂表單應使用物件型別「專案和問題」，並應按如下方式建立：
 
