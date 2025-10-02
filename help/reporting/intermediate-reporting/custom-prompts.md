@@ -12,10 +12,10 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 99%
+source-wordcount: '198'
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 99%
 * 如何使用文字模式來建立自訂提示
 * 您可以在報告中使用的一些範例
 
->[!VIDEO] (https://video.tv.adobe.com/v/3470513/?quality=12&learn=on&enablevpops=0&captions=chi_hant
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
 ## 「建立自訂提示」活動
 

@@ -12,9 +12,9 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '533'
 ht-degree: 45%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 45%
 * **篩選限定詞：**&#x200B;定義要在報告中包含或排除的值，例如顯示優先順序為「高」的工作&#x200B;。
 
 
->[!VIDEO] (https://video.tv.adobe.com/v/3447032/?quality=12&learn=on&enablevpops=0&captions=chi_hant
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
 ## 關鍵重點
 
@@ -48,7 +48,7 @@ ht-degree: 45%
 欄位來源選項取決於選取的物件類型。通常，欄位來源是 Workfront 中某項資訊 (即欄位名稱) 所屬的項目。有時候欄位來源與物件類型相同。
 欄位來源決定可以使用的欄位名稱。
 
-例如：「[!UICONTROL &#x200B; 專案]」、「[!UICONTROL 任務]」、「[!UICONTROL 問題]」、「[!UICONTROL 指派至]」
+例如：「[!UICONTROL  專案]」、「[!UICONTROL 任務]」、「[!UICONTROL 問題]」、「[!UICONTROL 指派至]」
 
 **B - 欄位名稱**
 

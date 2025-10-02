@@ -12,9 +12,9 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '651'
 ht-degree: 94%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 94%
 * 什麼是駝峰式大小寫
 * 您可以在報表檢視中使用某些&#x200B;_文字模式程式碼區塊_
 
->[!VIDEO] (https://video.tv.adobe.com/v/3470799/?quality=12&learn=on&enablevpops=0&captions=chi_hant
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## 「了解視圖的基本文字模式」活動
 
