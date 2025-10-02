@@ -12,7 +12,7 @@ jira: KT-8871
 last-substantial-update: 2025-05-30T00:00:00Z
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: cc611bf43c51dde02af715d19246cfd17bcce095
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 61%
@@ -27,4 +27,4 @@ ht-degree: 61%
 * 如何使用特定使用者的存取許可權執行報告
 * 如何設定及使用報告提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3445874/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)

@@ -13,10 +13,10 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 10%
 影片說明如何管理和自訂專案中工作角色的計費率。&#x200B;URL它強調為相同工作角色設定多個收費率的彈性，並確保精確的時間調整。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 
@@ -39,6 +39,6 @@ ht-degree: 10%
 ## 有關此主題的推薦教學課程
 
 * [尋找財務資訊](/help/manage-work/project-finances/find-financial-information.md)
-* [更新財務](/help/manage-work/project-finances/update-and-review-finances.md)
+* [更新財務狀況](/help/manage-work/project-finances/update-and-review-finances.md)
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 

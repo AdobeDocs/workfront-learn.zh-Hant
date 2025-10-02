@@ -13,7 +13,7 @@ jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 14%
@@ -25,7 +25,7 @@ ht-degree: 14%
 影片說明指派專案計畫中任務的各種方法。 它強調使用篩選器、範本和資源管理功能等工具來簡化任務指派並最佳化專案工作流程。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

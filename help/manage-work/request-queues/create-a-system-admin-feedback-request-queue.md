@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 20%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 20%
 
 >[!PREREQUISITES]
 >
->* [建立請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=zh-Hant)
->* [建立請求流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=zh-Hant)
+>* [建立請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
+>* [建立請求流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* 或者，您已經熟悉建立使用路由規則和自訂表單的請求佇列。
 
 影片提供逐步指南，說明如何為系統管理員建立意見要求佇列。
@@ -34,7 +34,7 @@ ht-degree: 20%
 &#x200B;URL建立報告和自訂表單的教學課程連結已提供進一步指導。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 關鍵重點
 
@@ -45,9 +45,9 @@ ht-degree: 20%
 * **測試與協助工具：**&#x200B;佇列已使用範例要求進行測試，以確保功能性。 它會發佈為說明請求佇列，可供所有使用者存取，預設完成時間為10天。
 
 
-若要瞭解如何建立影片中使用的&#x200B;**管理員團隊意見報告**，請參閱[建立任務報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report)教學課程中的&#x200B;**建立管理員團隊意見報告**&#x200B;活動。
+若要瞭解如何建立影片中使用的&#x200B;**管理員團隊意見報告**，請參閱&#x200B;**建立任務報告**&#x200B;教學課程中的[建立管理員團隊意見報告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report)活動。
 
-若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hant)」教學課程。
+若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)」教學課程。
 
 ## 有關此主題的推薦教學課程
 

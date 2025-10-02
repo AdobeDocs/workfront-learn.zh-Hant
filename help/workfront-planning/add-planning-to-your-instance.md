@@ -1,6 +1,6 @@
 ---
 title: 將Planning新增至執行個體
-description: 瞭解新增Workfront規劃工具並顯示在您執行個體中的使用者需要哪些需求。
+description: 了解想要新增 Workfront 規劃工具、並讓實例中的使用者可以看見該工具需要滿足哪些要求。
 feature: Workfront Planning
 topic: Administration
 role: Admin, Leader
@@ -9,16 +9,16 @@ doc-type: Feature Video
 duration: 182
 last-substantial-update: 2025-02-27T00:00:00Z
 jira: KT-16648
-source-git-commit: 342d20b1d49f47cfa554ec9da5cba3b5f0c4fd01
+exl-id: 11ae4e5b-84cd-48c4-b264-e06e1e37597d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 80%
 
 ---
 
-
 # 將Planning新增至執行個體
 
-瞭解新增Workfront規劃工具並顯示在您執行個體中的使用者需要哪些需求。
+了解想要新增 Workfront 規劃工具、並讓實例中的使用者可以看見該工具需要滿足哪些要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447977/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops=1)

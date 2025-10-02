@@ -12,8 +12,8 @@ last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 100%
 
@@ -21,9 +21,9 @@ ht-degree: 100%
 
 # 編輯自動化工作流程範本
 
-隨著校訂檢閱與核准流程有所改進或發生組織變更，自動化工作流程範本應更新並反映使用 Workfront 之團隊目前的運作。
+隨著校訂審閱與核准流程有所改進或發生組織變更，自動化工作流程範本應更新並反映使用 Workfront 之團隊目前的運作。
 
-保持範本最新狀態可確保檢閱與核准流程的一致性，也能節省上傳校訂的時間，因為不需要持續調整工作流程。
+保持範本最新狀態可確保審閱與核准流程的一致性，也能節省上傳校訂的時間，因為不需要持續調整工作流程。
 
 1. 從 [!DNL Workfront] 的&#x200B;**[!UICONTROL 主選單]**&#x200B;選取「**[!UICONTROL 校訂]**」。
 1. 在那裡的左側面板選單中選取「**[!UICONTROL 工作流程]**」。
@@ -38,13 +38,13 @@ ht-degree: 100%
 
 ## 變更階段和收件者
 
-當因為流程簡化使得截止期限提早，或是有人參與團隊並將檢閱校訂時，「[!UICONTROL 工作流程]」區域可能需要變更。
+當因為流程簡化使得截止期限提早，或是有人參與團隊並將審閱校訂時，「[!UICONTROL 工作流程]」區域可能需要變更。
 
 自動化工作流程的每個階段均有專屬區段，可以獨立修改截止期限、隱私權、校訂收件者和其他資訊。
 
-這段影片會展示您在「[!UICONTROL 工作流程]」區域可做的一些變更。參閱本影片下方的項目符號清單來檢視這些設定。
+這段影片會展示您在「[!UICONTROL 工作流程]」區域可做的一些變更。參閱本影片下方的項目符號清單來審閱這些設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432621/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 回顧以下這些在「[!UICONTROL 工作流程]」區段可以進行的校訂範本變更：
 

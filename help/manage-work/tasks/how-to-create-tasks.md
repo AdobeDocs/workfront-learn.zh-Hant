@@ -10,7 +10,7 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 11%
@@ -22,7 +22,7 @@ ht-degree: 11%
 此影片提供在Workfront專案中建立任務的相關教學課程，說明長方法與實用捷徑。 它強調建立工作的彈性，並提供有效管理工作的秘訣。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423155/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

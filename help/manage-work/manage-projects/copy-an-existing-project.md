@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 9%
@@ -27,7 +27,7 @@ ht-degree: 9%
 在此過程中，無法直接複製問題，因為這些問題不被視為計畫工作。&#x200B;URL 若要複製問題，請前往問題索引標籤，選取所需的問題，並使用「複製到」選項以將其轉移到新專案。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456049/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

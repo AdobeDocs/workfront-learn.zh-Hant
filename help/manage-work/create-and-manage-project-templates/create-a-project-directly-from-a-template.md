@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 21%
@@ -24,7 +24,7 @@ ht-degree: 21%
 
 影片說明如何從範本建立專案。&#x200B;URL 如果您有開啟範本的許可權，可以將其用作建立專案的捷徑。&#x200B;URL 若要這麼做，請開啟範本、存取三點式選單，然後選取「建立專案」&#x200B;。 這會將您帶到可以編輯專案詳細資料的畫面。&#x200B;URL 準備就緒後，按一下「建立專案」以完成。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3456024/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

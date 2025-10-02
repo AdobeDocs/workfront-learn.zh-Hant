@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 7%
@@ -27,7 +27,7 @@ ht-degree: 7%
 系統內會標籤受委派的核准，顯示受委派者及其受委派者。&#x200B;URL 與核准相關的更新會出現在「更新」標籤中，並且可以在「系統活動」標籤中檢視系統活動。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446387/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

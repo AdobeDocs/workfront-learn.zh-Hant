@@ -12,7 +12,7 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 12%
@@ -24,7 +24,7 @@ ht-degree: 12%
 影片說明如何在難以判斷精確估計時，使用Workfront中的工作投入功能來估計任務的計畫時數。
 它示範如何建立自訂工作量檢視，以透過新增相關欄（例如工作量、計畫時數和期間型別）來簡化任務管理
 
->[!VIDEO](https://video.tv.adobe.com/v/3447410/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

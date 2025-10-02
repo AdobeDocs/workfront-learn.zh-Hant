@@ -1,6 +1,6 @@
 ---
 title: 設定匯率
-description: 使用彈性的匯率管理、全域和專案層級的自訂功能，以及手動輸入選項，以自訂貨幣設定，進而進行精確的財務追蹤。
+description: 透過靈活的匯率管理、全域與專案層級的自訂功能，以及手動輸入選項來自訂貨幣設定，實現更精準的財務追蹤。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,10 +13,10 @@ exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 11%
+ht-degree: 18%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 11%
 影片提供在Workfront財務追蹤系統中管理貨幣的指南。&#x200B;URL 說明預設貨幣為美元，但其他貨幣可設定為全域或個別專案和工作角色。
 影片強調系統不會提供目前的匯率，因此使用者必須從外部取得匯率。&#x200B;URL 一旦設定，匯率成為專案或工作角色的預設值，但不會自動更新；具有適當許可權的使用者必須手動更新。&#x200B;URL 設定貨幣後，使用者可以建立新專案，並從可用的貨幣選項中進行選取，同時還能自訂個別專案的匯率。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

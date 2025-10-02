@@ -9,8 +9,8 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 如需詳細資訊，請觀看這部影片：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434167/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
 
 **我授予使用者存取佇列的權限，但現在他們也可以看見請求佇列專案。為什麼？**
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 
 如需詳細資訊，請觀看這部影片：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434187/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
 
 
 **在報告中篩選請求佇列的最佳方法是什麼？**
@@ -73,7 +73,7 @@ ht-degree: 100%
 
 如需詳細資訊，請觀看這部影片：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434341/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
 
 **建立請求佇列的自訂狀態是適當作法嗎？**
 

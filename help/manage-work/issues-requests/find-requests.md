@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 85%
@@ -30,7 +30,7 @@ ht-degree: 85%
 * 自訂報告和儀表板
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441665/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

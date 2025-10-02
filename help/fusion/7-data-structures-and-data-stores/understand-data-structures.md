@@ -11,8 +11,8 @@ jira: KT-9052
 exl-id: 5b64d25e-5555-400d-ae40-eb1199153874
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 瞭解資料結構的用法和功能
 * 在情境中建立和使用資料結構
 
->[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on&enablevpops=1)

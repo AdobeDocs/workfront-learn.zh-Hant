@@ -12,7 +12,7 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 7%
@@ -41,7 +41,7 @@ ht-degree: 7%
 
 影片強調使用團隊和範本來有效率地管理共用，並強調管理員在自訂共用偏好設定方面的作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423146/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

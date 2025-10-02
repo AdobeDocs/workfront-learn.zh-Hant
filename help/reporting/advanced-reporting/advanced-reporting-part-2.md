@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11201
 exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 有關文字模式之結構的其他詳細資料
 * 如何建立計算自訂資料欄位和計算欄
 
->[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12&learn=on&enablevpops=1)
 
 ## 方便的連結
 

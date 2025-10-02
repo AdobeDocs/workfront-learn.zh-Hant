@@ -1,6 +1,6 @@
 ---
 title: 建立任務報告
-description: 瞭解如何使用複雜的篩選器建立任務報告，並找到您在Workfront中建立的報告。
+description: 了解如何使用複雜的篩選器建立任務報告，以及在 Workfront 中找到您所建立的報告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '1116'
-ht-degree: 77%
+ht-degree: 78%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 77%
 
 產生的報表可幫助使用者專注於後期任務、提供相依性的深入分析，並簡化主機專案的導覽。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3448353/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 關鍵重點
 
@@ -41,8 +41,8 @@ ht-degree: 77%
 >[!TIP]
 >
 >拿出您的各種器具，準備好使用我們 [ Adobe Workfront 客戶報告逐步指南](/help/assets/workfront-customer-reporting-cookbook.pdf)內的秘方。您將在指南中找到 10 份報告的逐步說明，可供您立即在您的環境中快速應用。
->&#x200B;>我們收集了客戶最喜歡的報告，並將這些內容整理成一套簡單易懂、易消化的秘方，您帶回後可在自己的 Workfront 環境中進行測試。
->&#x200B;>這 10 份報告來自與您類似的客戶。我們的客戶分佈在不同的行業、部門、團隊、職位以及不同的公司，非常感謝這些最棒的客戶分享他們最喜歡的報告。有些報告很簡單 (但非常有用)，有些則比較複雜，但都可讓您的報告提升到另一個全新境界。
+>>我們收集了客戶最喜歡的報告，並將這些內容整理成一套簡單易懂、易消化的秘方，您帶回後可在自己的 Workfront 環境中進行測試。
+>>這 10 份報告來自與您類似的客戶。我們的客戶分佈在不同的行業、部門、團隊、職位以及不同的公司，非常感謝這些最棒的客戶分享他們最喜歡的報告。有些報告很簡單 (但非常有用)，有些則比較複雜，但都可讓您的報告提升到另一個全新境界。
 
 
 ### 活動 1：建立附帶提示的備註報告
@@ -119,9 +119,9 @@ ht-degree: 77%
 
 ### 活動 2：建立管理團隊意見回饋報告
 
-這是一份問題報告，主要是顯示為系統管理員所建立意見回饋請求佇列的所有問題。您可以在「[建立系統管理員意見回饋請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=zh-Hant)」教學課程中查看如何建立此請求佇列。
+這是一份問題報告，主要是顯示為系統管理員所建立意見回饋請求佇列的所有問題。您可以在「[建立系統管理員意見回饋請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html)」教學課程中查看如何建立此請求佇列。
 
-此報告也使用自訂表單。若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hant)」教學課程。
+此報告也使用自訂表單。若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)」教學課程。
 
 此自訂表單應使用物件型別「專案和問題」，並應按如下方式建立：
 
@@ -178,7 +178,7 @@ ht-degree: 77%
 
    * 「[!UICONTROL 問題]」>「[!UICONTROL 名稱]」
    * [!UICONTROL 主要聯絡人] > [!UICONTROL 姓名]
-      * 注意：這會以「所有者：姓名」的欄標籤來顯示。您可以將此變更為「報告人」，方法是按一下「進階選項」，然後在「**自訂欄標籤**」欄位中輸入「報告人」。
+      * 注意：這會以「擁有者:Name」作為欄標籤顯示。 您可以將此變更為「報告人」，方法是按一下「進階選項」，然後在「**自訂欄標籤**」欄位中輸入「報告人」。
    * [!UICONTROL 問題] > [!UICONTROL 流程類型]
    * [!UICONTROL 問題] > [!UICONTROL 流程名稱]
    * [!UICONTROL 問題] > [!UICONTROL 流程等級]

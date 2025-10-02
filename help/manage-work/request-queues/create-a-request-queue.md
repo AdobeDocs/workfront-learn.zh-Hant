@@ -13,7 +13,7 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 11%
@@ -24,7 +24,7 @@ ht-degree: 11%
 
 影片提供在Workfont中建立請求佇列的逐步指南。&#x200B;URL 影片最後會示範如何使用新建立的佇列提交請求，並示範在「已提交請求」索引標籤中輸入詳細資訊和驗證提交的程式。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

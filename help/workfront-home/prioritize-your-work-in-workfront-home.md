@@ -11,8 +11,8 @@ thumbnail: 335100.png
 jira: KT-8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 將工作標記為優先指派
 * 篩選「[!UICONTROL 工作清單]」以便僅顯示優先處理的工作
 
->[!VIDEO](https://video.tv.adobe.com/v/3438544/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops=1)

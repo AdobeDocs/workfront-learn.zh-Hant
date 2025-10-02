@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 12%
@@ -25,7 +25,7 @@ ht-degree: 12%
 影片說明如何使用專案量度追蹤專案進度。&#x200B;URL 它示範了存取專案左側面板中的量度索引標籤，可能需要捲動並按一下「顯示更多」。 頂端的KPI區域會顯示關鍵績效指標，例如已完成、未完成及逾期的工作。&#x200B;URL 使用者可以按一下指示器來檢視特定工作，並使用圖表來按狀態或優先順序將工作或問題分組。&#x200B;URL 將游標停留在欄上會顯示數量，而圖表會顯示完成與未完成任務或問題的比率。&#x200B;URL 量度也可以根據任務的狀態（完成、未完成、即將發生或過期）依受分派人顯示任務。&#x200B;URL 系統會儲存檢視量度的偏好設定，以供日後的造訪使用。&#x200B;URL 最後，影片會說明如何使用「匯出」按鈕，將度量頁面匯出為PNG檔案。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439182/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

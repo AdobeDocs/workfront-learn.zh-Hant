@@ -12,7 +12,7 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 10%
@@ -23,7 +23,7 @@ ht-degree: 10%
 
 影片說明業務案例在專案管理中的重要性。 它強調完整填寫業務案例有助於經理分析並優先處理競爭相同資源的專案。&#x200B;URL 完成後，提交業務案例會將專案狀態變更為「已請求」，並計算其整體分數，以便在Portfolio最佳化工具中進行比較。&#x200B;URL 雖然這些欄位都不是必填欄位，但更詳細的資訊可改善決策。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3442855/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

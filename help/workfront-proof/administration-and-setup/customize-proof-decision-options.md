@@ -11,8 +11,8 @@ thumbnail: 335127.png
 jira: KT-8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
 
@@ -26,13 +26,13 @@ ht-degree: 100%
 * 如何重新命名校訂決定選項
 * 如何隱藏非必要的校訂決定選項
 
->[!VIDEO](https://video.tv.adobe.com/v/3444660/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops=1)
 
 ## 換您來操作
 
 1. 確定貴組織的校訂工作流程需要哪些決定選項。請記住，這些皆是全域設定，使用校訂的每一個團隊都會看到相同的選項。
 1. 現在登入 Workfront 並前往校訂設定。在「決定」標籤中，根據貴組織的需求將決定重新命名。隱藏不需要的選項。
-1. 完成決定設定之後，請上傳校訂並指派自己為檢閱與核准者，以進行簡單的測試。
+1. 完成決定設定之後，請上傳校訂並指派自己為審閱與核准者，以進行簡單的測試。
 
 
 <!--

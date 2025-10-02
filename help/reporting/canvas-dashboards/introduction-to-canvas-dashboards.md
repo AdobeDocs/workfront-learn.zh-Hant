@@ -12,7 +12,7 @@ last-substantial-update: 2025-09-09T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 26%
@@ -23,9 +23,9 @@ ht-degree: 26%
 
 「畫布」儀表板功能是在Workfront中建立儀表板的另一種方式。 此功能目前在一般Beta中，這表示所有Workfront客戶都可以使用此功能（如果他們已註冊測試版）。 系統管理員需要執行註冊。 本影片將展示如何進行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474031/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-如需詳細資訊，請參閱[畫布控制面板概觀](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)文章。
+如需詳細資訊，請參閱[畫布控制面板概觀](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)文章。
 
 ## 有關此主題的推薦教學課程
 

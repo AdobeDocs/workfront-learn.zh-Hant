@@ -11,7 +11,7 @@ thumbnail: 335101.png
 jira: KT-8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
@@ -25,11 +25,11 @@ ht-degree: 100%
 * [!DNL  Workfront] 中狀態的用途
 * 如何變更工作指派的狀態
 
->[!VIDEO](https://video.tv.adobe.com/v/3443441/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
 
 ## 「開始」與「開始處理」的不同
 
-在[!UICONTROL 首頁]中檢閱工作指派時，您可能會發現一個顯示為「[!UICONTROL 開始任務]」或「[!UICONTROL 開始問題]」的按鈕。
+在[!UICONTROL 首頁]中審閱工作指派時，您可能會發現一個顯示為「[!UICONTROL 開始任務]」或「[!UICONTROL 開始問題]」的按鈕。
 
 ![[!DNL Workfront] [!UICONTROL 首頁] 有按鈕顯示為「[!UICONTROL 開始任務]」。](assets/worker-fundamentals-1.png)
 

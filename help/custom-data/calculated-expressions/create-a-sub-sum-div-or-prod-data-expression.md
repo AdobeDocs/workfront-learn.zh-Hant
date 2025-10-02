@@ -11,10 +11,10 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '386'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '378'
+ht-degree: 89%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * SUB、SUM、DIV 和 PROD 運算式的功能
 * 如何在計算欄位中建立 SUB 資料運算式
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops=1)
 
 ## 其他資訊：ROUND 運算式
 
@@ -37,11 +37,11 @@ ROUND 運算式將任何數字四捨五入到一定的小數位數。
 
 我們來建立一個計算欄位，確定規劃時數與任務實際記錄時數之間的差異，而這個欄位將需要使用 SUB 運算式，如下所示：
 
-**SUB({workRequired},{actualWorkRequired})**
+**SUB({workRequired}，{actualWorkRequired})**
 
 由於追蹤時間以分鐘為單位，而偏好的格式是以小時為單位，運算式的結果也必須除以 60，如下所示：
 
-**DIV(SUB({workRequired},{actualWorkRequired}),60)**
+**DIV(SUB({workRequired}，{actualWorkRequired})，60)**
 
 若在自訂表單中建立計算欄位時格式變更為「數字」，當您在視圖中新增欄位時可以變更數字格式。
 
@@ -57,8 +57,8 @@ ROUND 運算式包含運算式名稱 (ROUND) 以及兩個資料點，這是指�
 
 運算式的結構如下：ROUND(data point, #)
 
-在計算規劃時數與實際時數的差異的運算式中，請使用 DIV(SUB({workRequired},{actualWorkRequired}),60) 運算式作為第一個資料點。接著確保該運算式產生的任何數字，在小數點右側不會產生超過兩個位數。
+在計算計畫時數與實際時數之間差異的運算式中，使用此運算式 — DIV(SUB({workRequired}，{actualWorkRequired})，60)作為第一個資料點。 接著確保該運算式產生的任何數字，在小數點右側不會產生超過兩個位數。
 
 ![附帶使用情況報告的工作負載平衡器](assets/round03.png)
 
-運算式可以寫成這樣：ROUND(DIV(SUB({workRequired},{actualWorkRequired}),60),2)。
+運算式可以這樣撰寫： ROUND(DIV(SUB({workRequired}，{actualWorkRequired})，60)，2)。

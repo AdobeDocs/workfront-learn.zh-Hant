@@ -1,5 +1,5 @@
 ---
-title: 檢閱及核准數位工作
+title: 審閱及核准數位工作
 description: 透過「等待我核准」Widget的集中管理、彈性的稽核選項、詳細的校訂核准選擇，以及清晰的註解，以進行有效率的溝通和更新，來簡化核准工作流程。
 activity: use
 feature: Work Management
@@ -12,14 +12,14 @@ jira: KT-8808
 recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 13%
 
 ---
 
-# 檢閱及核准數位工作
+# 審閱及核准數位工作
 
 影片說明如何使用首頁區域的「等待我核准」Widget來檢閱和核准數位工作。&#x200B;URL 它涵蓋五種核准型別：
 
@@ -31,7 +31,7 @@ ht-degree: 13%
 
 影片強調稽核和核准工作的靈活性，並視需要提供新增註釋和指定變更的選項。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3444957/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

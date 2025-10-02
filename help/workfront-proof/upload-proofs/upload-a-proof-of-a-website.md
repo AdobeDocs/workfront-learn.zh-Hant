@@ -11,8 +11,8 @@ thumbnail: 335135.png
 jira: KT-8835
 exl-id: 7e75e409-f87e-46f6-8ff1-f55bbdd892f6
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 上傳網站作為靜態校訂
 * 上傳網站作為互動式校訂
 
->[!VIDEO](https://video.tv.adobe.com/v/3445078/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops=1)
 
 
 ## 互動式內容考量事項
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 * 該網站必須使用安全的通訊協定進行託管，亦即網站位址的開頭是 https。
 * 要校訂的網站不可以嵌入在 iframe 之中。
-* 網站必須可供檢閱者存取。
+* 網站必須可供審閱者存取。
 * 該網站必須可以公開存取，亦即它並非位在防火牆之後。
 * 在建立靜態網站校訂時，網站無法設定密碼保護。
 

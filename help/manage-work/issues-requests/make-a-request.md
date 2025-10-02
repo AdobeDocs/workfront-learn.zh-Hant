@@ -13,7 +13,7 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 14%
@@ -24,7 +24,7 @@ ht-degree: 14%
 
 影片提供如何在Workfront中提出和管理請求的詳細指南。 本檔案說明建立請求的程式，從主功能表選取「請求」並按一下「新增請求」按鈕開始。&#x200B;URL 使用者可以從根據其組織的工作流程量身打造的自訂設計佇列中選擇請求型別。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470920/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

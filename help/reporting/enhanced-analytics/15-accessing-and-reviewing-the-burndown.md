@@ -1,5 +1,5 @@
 ---
-title: 了解存取和檢閱燃盡圖
+title: 了解存取和審閱燃盡圖
 description: 了解如何在[!UICONTROL 增強型分析]中存取燃盡圖並理解剩餘時數、專案狀況與專案速度之間的關係。
 activity: use
 feature: Reports and Dashboards
@@ -12,21 +12,21 @@ jira: KT-8734
 recommendations: noDisplay,catalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 100%
 
 ---
 
-# 了解存取和檢閱燃盡圖
+# 了解存取和審閱燃盡圖
 
 觀看這段影片，您將會了解：
 
 * 如何存取燃盡圖
 * 如何理解專案的剩餘時間、專案狀況和速度之間的關係
 
->[!VIDEO](https://video.tv.adobe.com/v/3438895/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops=1)
 
 ## 追蹤專案速度
 

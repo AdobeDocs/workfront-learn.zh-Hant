@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # 了解 [!UICONTROL Workfront DAM]
 
-[!UICONTROL Workfront DAM] 是一種數位資產管理 (DAM) 解決方案，專門用於管理、控制和發佈您的行銷和創意資產。它可以與您在 [!DNL Workfront] 中原有的工作流程，包括管理專案、任務指派和其他工作等結合使用。使用 [!DNL Workfront] 來建立資產請求，然後管理資產之生產與檢閱。使用 [!UICONTROL Workfront DAM] 來策劃、儲存及散佈已完成和已核准的資產。
+[!UICONTROL Workfront DAM] 是一種數位資產管理 (DAM) 解決方案，專門用於管理、控制和發佈您的行銷和創意資產。它可以與您在 [!DNL Workfront] 中原有的工作流程，包括管理專案、任務指派和其他工作等結合使用。使用 [!DNL Workfront] 來建立資產請求，然後管理資產之生產與審閱。使用 [!UICONTROL Workfront DAM] 來策劃、儲存及散佈已完成和已核准的資產。
 
 
 作為系統管理員，您負責設定及維護 [!UICONTROL Workfront DAM]。您需要利害關係人針對他們的流程提供深入分析，讓您可以提供符合他們需求的系統。這些利害關係人可能包含：
@@ -35,4 +35,4 @@ ht-degree: 100%
 * 搜尋及檢視資產
 * 探索資料夾結構如何影響資產之整理和存取
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops=1)

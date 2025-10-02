@@ -13,9 +13,9 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '403'
 ht-degree: 9%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 9%
 然後影片會示範如何建立佇列主題，這些主題會連結至路由規則、主題群組、自訂表單、核准程式和預設持續時間。
 最後，影片會說明如何透過提交請求來測試設定，以確保其正確路由。&#x200B;URL 如果發生任何問題，可以對佇列進行調整。&#x200B;URL 影片強調驗證請求流程結構和功能的重要性，以確保路由和組織正確。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433833/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 關鍵重點
 

@@ -11,8 +11,8 @@ thumbnail: 335133.png
 jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何使用校訂範本套用工作流程
 * 如何從頭開始設定自動化工作流程
 
->[!VIDEO](https://video.tv.adobe.com/v/3453022/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops=1)
 
 
 
@@ -78,8 +78,8 @@ Learn more about these in the Proof settings section of the Configure a proof ar
 使用進階工作流程上傳校訂。若您的組織已經設定校訂範本，請選取您的團隊所使用的範本再進行若干調整。
 
 * 調整電子郵件警報，以便校訂上發生活動時沒有人會收到通知。
-* 第一階段應有 2 名檢閱者/核准者。
-* 第二階段應該只有 1 個檢閱者/核准者。
+* 第一階段應有 2 名審閱者/核准者。
+* 第二階段應該只有 1 個審閱者/核准者。
 
 如果您的組織尚未建立校訂範本，請從頭開始設定兩階段工作流程。
 
@@ -87,6 +87,6 @@ Learn more about these in the Proof settings section of the Configure a proof ar
 * 將第一階段的截止日期設為建立校訂之後 1 天。
 * 將喜愛的另一位同事指派到第二階段。
 * 第一階段的截止日期過後，啟動該階段。
-* 讓這個階段的人員利用 2 天時間完成檢閱，但必須在中午之前完成。
+* 讓這個階段的人員利用 2 天時間完成審閱，但必須在中午之前完成。
 
 

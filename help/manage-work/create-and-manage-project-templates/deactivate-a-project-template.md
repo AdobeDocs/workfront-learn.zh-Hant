@@ -13,7 +13,7 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 76%
@@ -27,11 +27,11 @@ ht-degree: 76%
 * 如何共用專案範本來授予啟用和停用範本的權限。
 * 如何啟用和停用專案範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445001/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
->如果您決定刪除範本，則使用該範本創建的任何專案都不會受到影響。 已刪除的範本將移動到回收站30天，並且只能由系統管理員恢復。
+>如果您決定刪除範本，則使用該範本建立的任何專案都不會受到影響。 刪除的範本將會移至資源回收筒並保留30天，且只有系統管理員才能復原。
 
 
 

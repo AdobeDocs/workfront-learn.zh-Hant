@@ -1,5 +1,5 @@
 ---
-title: 了解如何導覽和檢閱專案
+title: 了解如何導覽和審閱專案
 description: 了解如何閱讀[!UICONTROL 增強型分析]中的飛行計劃圖。
 activity: use
 feature: Reports and Dashboards
@@ -12,20 +12,20 @@ jira: KT-8729
 recommendations: noDisplay,catalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 100%
 
 ---
 
-# 了解如何導覽和檢閱專案
+# 了解如何導覽和審閱專案
 
 觀看這段影片，您將會了解：
 
 * 如何閱讀飛行計劃圖
 
->[!VIDEO](https://video.tv.adobe.com/v/3439026/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
 
 ## 飛行計劃圖
 

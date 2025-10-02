@@ -1,6 +1,6 @@
 ---
 title: 瞭解現有的篩選器
-description: 瞭解「存在」篩選器是什麼、它可以對您做什麼，以及如何從頭開始建立篩選器。 此外，您還能看到許多「存在」篩選器的實用範例。
+description: 了解什麼是 EXISTS 篩選器，其有什麼功能，以及您要如何從頭開始建置一個。此外，還可以參閱許多 EXISTS 篩選器的實用範例。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,10 +10,11 @@ level: Intermediate
 jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
-source-git-commit: 7be0b8cce9cba04927d6704d0009b482bbcf4b41
+exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '682'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -23,9 +24,9 @@ ht-degree: 0%
 
 在本影片中，您將瞭解如何建立存在篩選器，以在校訂核准報告中檢視「目前專案的校訂核准」。
 
-如需有關EXISTS函式的更深入逐步解說，請參閱[使用EXISTS陳述式建立複雜的文字模式篩選器](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)檔案。
+如需有關EXISTS函式的更深入逐步解說，請參閱[使用EXISTS陳述式建立複雜的文字模式篩選器](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471214/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## EXISTS篩選範例
 

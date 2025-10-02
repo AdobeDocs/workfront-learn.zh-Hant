@@ -1,5 +1,5 @@
 ---
-title: 了解如何導覽和檢閱專案活動
+title: 了解如何導覽和審閱專案活動
 description: 了解如何在[!UICONTROL 增強型分析]中根據已登入的使用者、任務狀態變更以及已完成的任務來進行專案比較。
 activity: use
 feature: Reports and Dashboards
@@ -12,20 +12,20 @@ jira: KT-8731
 recommendations: noDisplay,catalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 100%
 
 ---
 
-# 了解如何導覽和檢閱專案活動
+# 了解如何導覽和審閱專案活動
 
 觀看這段影片，您將會了解：
 
 * 了解如何根據已登入的使用者、任務狀態變更和已完成的任務來進行專案比較
 
->[!VIDEO](https://video.tv.adobe.com/v/3437447/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
 
 ## 比較專案工作
 

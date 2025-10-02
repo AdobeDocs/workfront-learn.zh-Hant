@@ -13,7 +13,7 @@ jira: KT-13737
 doc-type: video
 hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -36,6 +36,6 @@ ht-degree: 100%
 * 如何建立跨專案前置任務
 * 如何在報告中追蹤跨專案前置任務
 
->[!VIDEO](https://video.tv.adobe.com/v/3422833/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
 要了解如何建立「**跨專案的前置任務和後續任務**」視圖以及影片中使用的「**跨專案的前置任務和後續任務**」報告，請參閱「[了解視圖的基本文字模式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)」教學課程，而且若要需要，請務必參加所列出的先修課程。

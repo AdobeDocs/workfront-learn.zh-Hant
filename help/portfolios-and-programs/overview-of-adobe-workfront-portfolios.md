@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 8%
@@ -24,7 +24,7 @@ ht-degree: 8%
 影片說明產品組合管理，重點說明經理如何最佳化專案選擇，以符合公司目標。&#x200B;URL 它引入產品組合的概念，作為競爭共用資源、預算和排程的專案集合。&#x200B;URL 經理可以使用Portfolio Optimizer之類的工具，根據人力、費用、風險、ROI等條件以及與投資組合目標的一致性來比較專案。&#x200B;URL 準備專案以進行比較，需要為每個專案建立業務案例。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442839/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

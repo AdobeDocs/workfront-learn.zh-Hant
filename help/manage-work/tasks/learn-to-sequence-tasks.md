@@ -13,7 +13,7 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 10%
@@ -27,7 +27,7 @@ ht-degree: 10%
 &#x200B;URL它強調與前置任務練習的重要性，以瞭解其對專案時間表的影響，並建議使用持續時間和前置任務以實現有效的專案規劃。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447331/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

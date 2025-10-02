@@ -1,6 +1,6 @@
 ---
 title: 設定任務的預設收入與成本
-description: 瞭解在何處使用收入型態與成本型態，以及如何設定系統預設值。
+description: 了解收入類型和成本類型的使用位置，以及如何設定系統預設值。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,19 +13,19 @@ exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 16%
+ht-degree: 33%
 
 ---
 
 
 # 設定任務的預設收入與成本
 
-瞭解在何處使用收入型態與成本型態，以及如何設定系統預設值。
+了解收入類型和成本類型的使用位置，以及如何設定系統預設值。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

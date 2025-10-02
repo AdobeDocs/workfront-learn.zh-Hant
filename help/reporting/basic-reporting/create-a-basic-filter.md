@@ -12,7 +12,7 @@ jira: kt-8857
 last-substantial-update: 2025-04-30T00:00:00Z
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: af53d11fcf3e81c8ea0176f4db9dcec77e9195ed
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 3%
@@ -24,7 +24,7 @@ ht-degree: 3%
 此影片說明如何在Workfront中建立和使用篩選器，以根據特定條件自訂清單報表。&#x200B;URL 篩選器可讓使用者透過定義條件來縮小清單（例如任務、專案或檔案）的範圍。&#x200B;URL 只有符合篩選條件且登入使用者可存取的專案才會出現在清單中。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

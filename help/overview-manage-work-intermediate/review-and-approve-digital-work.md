@@ -1,5 +1,5 @@
 ---
-title: 檢閱及核准數位工作
+title: 審閱及核准數位工作
 description: 了解如何在  [!DNL Workfront Home]中尋找和核准專案、任務、問題、文件和校訂。
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c6eedc74-c104-434d-8124-1329d4e39e25
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 
 ---
 
-# 檢閱及核准數位工作
+# 審閱及核准數位工作
 
 觀看這段影片，您將了解如何：
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 核准文件
 * 核准校訂
 
->[!VIDEO](https://video.tv.adobe.com/v/3444957/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 
 >[!NOTE]

@@ -1,6 +1,6 @@
 ---
 title: 更新財務
-description: 藉由定義費率、為任務指定成本與收入型別、管理費用以及建立帳單記錄，簡化成本追蹤與開立帳單。 Workfront不負責實際計費。
+description: 透過定義費率、針對任務指派成本和收入類型、管理費用和建立計費記錄來簡化成本追蹤和計費。Workfront 不進行實際計費。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,10 +13,10 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '359'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
@@ -47,7 +47,7 @@ Workfront會追蹤可記帳專案，但不處理實際帳單；使用者必須�
 
 此影片強調正確設定和追蹤以簡化使用者端計費流程的重要性。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 
@@ -62,6 +62,6 @@ Workfront會追蹤可記帳專案，但不處理實際帳單；使用者必須�
 ## 有關此主題的推薦教學課程
 
 * [尋找財務資訊](/help/manage-work/project-finances/find-financial-information.md)
-* [瞭解多重收費率](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [了解多種計費費率](/help/manage-work/project-finances/multiple-billing-rates.md)
   <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

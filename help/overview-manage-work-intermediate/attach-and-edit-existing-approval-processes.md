@@ -12,7 +12,7 @@ jira: KT-8963
 hide: true
 doc-type: video
 exl-id: 6a1a682c-4437-4c1b-8373-5f4d07bb9c28
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 使用現有的核准流程
 * 編輯特定專案、任務或問題的現有核准流程
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

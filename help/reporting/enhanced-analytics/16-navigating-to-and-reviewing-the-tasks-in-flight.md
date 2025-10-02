@@ -1,5 +1,5 @@
 ---
-title: 檢閱飛行圖中的任務
+title: 審閱飛行圖中的任務
 description: 了解在[!UICONTROL 增強型分析]中如何存取飛行圖中的任務，以及如何快速查看專案中哪些任務尚未完成。
 activity: use
 feature: Reports and Dashboards
@@ -12,21 +12,21 @@ jira: KT-8735
 recommendations: noDisplay,catalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 100%
 
 ---
 
-# 檢閱飛行圖中的任務
+# 審閱飛行圖中的任務
 
 觀看這段影片，您將會了解：
 
 * 如何存取飛行圖中的任務
 * 如何快速查看專案中有哪些任務尚未完成
 
->[!VIDEO](https://video.tv.adobe.com/v/3437011/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
 
 ## 任務層級資料
 

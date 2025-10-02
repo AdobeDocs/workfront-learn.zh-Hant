@@ -13,8 +13,8 @@ last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 100%
 
@@ -35,6 +35,6 @@ ht-degree: 100%
 在本影片中，您將了解系統和群組管理員如何授予對 Workfront 中的[!UICONTROL 分析]存取權。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on&enablevpops=1)
 
 只要「[!UICONTROL 分析]」已經新增到所指派的版面範本，則任何具有 Workfront 授權 ([!UICONTROL Workfront Business] 計劃中的「工作」、「計劃」或「協作者」或更高) 的人皆可存取。但是，唯有您的 Workfront 存取層級以及特定專案和使用者的共用權限允許的情況下，您才會看到那些專案和使用者資訊。

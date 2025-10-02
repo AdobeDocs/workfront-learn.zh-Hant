@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 100%
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 * 控制應用程式內通知
 * 設定與維護 [!UICONTROL Workfront DAM] 的計劃
 
->[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on&enablevpops=1)

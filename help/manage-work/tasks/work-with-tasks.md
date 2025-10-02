@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 12%
@@ -23,7 +23,7 @@ ht-degree: 12%
 
 本影片提供在Workfront中管理任務的詳細指南。 它強調有效的任務管理，包括編輯、刪除、新增、複製和重新組織專案計畫中的任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448567/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

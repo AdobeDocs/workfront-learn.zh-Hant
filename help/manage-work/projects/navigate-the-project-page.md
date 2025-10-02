@@ -13,16 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '803'
-ht-degree: 55%
+ht-degree: 56%
 
 ---
 
 # 導覽專案頁面
 
-本影片提供在Workfront中導覽及管理專案頁面的概觀。&#x200B;URL 主要功能包括：
+本影片提供在Workfront中導覽及管理專案頁面的概觀。&#x200B;URL 重要功能包含：
 
 * **專案標題：**&#x200B;顯示基本資訊，例如完成百分比、專案經理、計畫完成日期、專案狀態及狀態。&#x200B;URL 狀態有助於追蹤專案的階段並觸發通知。&#x200B;URL
 * **階層連結導覽：**&#x200B;顯示專案在組織方案和投資組合中的位置，並提供可點按的連結以方便導覽。&#x200B;URL
@@ -33,7 +33,7 @@ ht-degree: 55%
 * **檔案區段：**&#x200B;啟用上傳和管理專案相關的檔案和校樣。&#x200B;URL 附加到任務的檔案會彙總到專案層級，以便輕鬆存取。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449737/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

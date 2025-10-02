@@ -13,8 +13,8 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
@@ -28,11 +28,11 @@ ht-degree: 100%
 * 為何將專案狀態變更為「[!UICONTROL 完成]」
 * 如果無法將專案狀態變更為「[!UICONTROL 完成]」該怎麼辦
 
->[!VIDEO](https://video.tv.adobe.com/v/3439369/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 
 * [完成核准](/help/manage-work/close-a-project/complete-approvals.md)
 * [上傳資產](/help/manage-work/close-a-project/upload-assets.md)
 * [記錄學習到的經驗](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [記錄和檢閱時數](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [記錄和審閱時數](/help/manage-work/close-a-project/log-and-review-hours.md)

@@ -1,6 +1,6 @@
 ---
 title: 導覽專案頁面
-description: 了解在  [!DNL &#x200B; Workfront] 中如何檢視專案的詳細資料、任務清單中顯示哪些資訊、把文件上傳到什麼地方，以及如何檢視更新歷史記錄。
+description: 了解在  [!DNL  Workfront] 中如何檢視專案的詳細資料、任務清單中顯示哪些資訊、把文件上傳到什麼地方，以及如何檢視更新歷史記錄。
 activity: use
 feature: Work Management
 thumbnail: 335085.jpeg
@@ -14,10 +14,10 @@ jira: KT-8771
 hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '495'
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 * 把文件上傳到什麼地方
 * 如何查看更新歷史記錄
 
->[!VIDEO](https://video.tv.adobe.com/v/3449737/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## 專案頁面的主要部分
 

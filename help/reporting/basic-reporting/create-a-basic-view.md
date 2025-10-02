@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '974'
-ht-degree: 77%
+source-wordcount: '977'
+ht-degree: 74%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 77%
 
 影片強調Workfront檢視的彈性，並提供建立、自訂及管理檢視的逐步指示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450249/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 關鍵重點
 
@@ -133,9 +133,9 @@ ht-degree: 77%
 1. 再按一下「**[!UICONTROL 新增欄]**」。
 1. 在「[!UICONTROL 在此欄中顯示]」欄位中，輸入「[!UICONTROL 限制]」然後在「任務」欄位來源之下選取「[!UICONTROL 限制日期]」。
 1. 選取「[!UICONTROL 開始日期]」欄，然後按一下「[!UICONTROL 進階選項]」。
-1. 在「[!UICONTROL 欄位格式]」下拉式選單之下，選取「[!UICONTROL 10/17/60 3:00 AM]」。
+1. 在[!UICONTROL 欄位格式]下拉式清單中，選取[!UICONTROL &quot;10/17/60 3:00 AM&quot;]。
 1. 選取「[!UICONTROL 到期日]」欄，然後按一下「[!UICONTROL 進階選項]」。
-1. 在「[!UICONTROL 欄位格式]」下拉式選單之下，選取「[!UICONTROL 10/17/60 3:00 AM]」。
+1. 在[!UICONTROL 欄位格式]下拉式清單中，選取[!UICONTROL &quot;10/17/60 3:00 AM&quot;]。
 1. 按一下「**[!UICONTROL 儲存]**」。
 
 ### 活動 4：建立專案範本使用中狀態視圖

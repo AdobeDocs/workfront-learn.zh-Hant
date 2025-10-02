@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
@@ -19,10 +19,10 @@ ht-degree: 100%
 
 # 導覽 [!UICONTROL Pulse] 更新資料流
 
-使用「[!UICONTROL Pulse]」區段來檢閱和請求對可能影響目標進度的目標進行更新，包括符合策略的目標及其結果或活動。這些可能是屬於您、您的團隊、群組或組織的目標。
+使用「[!UICONTROL Pulse]」區段來審閱和請求對可能影響目標進度的目標進行更新，包括符合策略的目標及其結果或活動。這些可能是屬於您、您的團隊、群組或組織的目標。
 
 觀看這段影片，您將瞭解如何：
 
 * 導覽 [!UICONTROL Pulse] 更新資料流
 
->[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on&enablevpops=1)

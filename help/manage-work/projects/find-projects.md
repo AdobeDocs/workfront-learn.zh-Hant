@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 23%
@@ -24,7 +24,7 @@ ht-degree: 23%
 
 在本影片中，您將了解一些可快速輕鬆尋找專案的方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439559/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

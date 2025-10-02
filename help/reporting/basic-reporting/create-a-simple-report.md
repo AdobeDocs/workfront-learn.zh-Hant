@@ -12,9 +12,9 @@ last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 96128e92d7a84dadb8b2c8547a6e612ddb0776d3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 49%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 49%
 
 影片強調自訂報表可保留其預設設定，但檢視時可暫時變更。&#x200B;URL 報表儲存在「我的報表」區段，而共用報表會顯示在「與我共用」區段&#x200B;。 可將常用的報表釘選或標籤為我的最愛，以方便存取。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 關鍵重點
 

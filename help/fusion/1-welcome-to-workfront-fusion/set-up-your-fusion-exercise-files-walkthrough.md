@@ -12,8 +12,8 @@ jira: KT-8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
@@ -27,4 +27,4 @@ ht-degree: 100%
 
 1. 觀看影片並瞭解如何把這些檔案上傳到 Workfront 的資料夾。
 
->[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on&enablevpops=1)

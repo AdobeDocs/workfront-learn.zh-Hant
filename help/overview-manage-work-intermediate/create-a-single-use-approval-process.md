@@ -12,7 +12,7 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 100%
@@ -23,11 +23,11 @@ ht-degree: 100%
 
 專案、任務和問題的核准流程使專案經理人能夠在繼續下一步之前，獲得專家確認工作已完成。專案經理人可以針對每種情況建立一個核准流程 (稱為單次核准流程)，或從先前為滿足常見需求而建立、數量可能較多的核准流程清單中選擇 (這些稱為全域或現有核准流程)。
 
-在任一情況下，當物件狀態變更為核准流程中指定的狀態時，核准者都會以各種方式收到通知，以便檢閱工作並予以核准或拒絕。由於整個專案可能會因為等待核准而暫停，核准者應提前意識到可能輪到他們負責核准。如果核准者因任何原因不在辦公室，他們可以將核准工作委派給符合資格的替補人員。如需詳細資訊請參閱「[委派任務、問題和核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)」。
+在任一情況下，當物件狀態變更為核准流程中指定的狀態時，核准者都會以各種方式收到通知，以便審閱工作並予以核准或拒絕。由於整個專案可能會因為等待核准而暫停，核准者應提前意識到可能輪到他們負責核准。如果核准者因任何原因不在辦公室，他們可以將核准工作委派給符合資格的替補人員。如需詳細資訊請參閱「[委派任務、問題和核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)」。
 
 在這部影片中，您將了解如何針對專案、任務或問題建立全域核准流程和單次核准流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434698/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

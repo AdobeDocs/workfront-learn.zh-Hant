@@ -1,6 +1,6 @@
 ---
-title: 記錄和檢閱時數
-description: 在  [!DNL  Workfront] 中結束專案之前，記錄未完成的時數並檢閱已記錄的時數。
+title: 記錄和審閱時數
+description: 在  [!DNL  Workfront] 中結束專案之前，記錄未完成的時數並審閱已記錄的時數。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 doc-type: video
 hide: true
 exl-id: 5104c034-82cf-4993-9016-53802d562d14
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
 
 ---
 
-# 記錄和檢閱時數
+# 記錄和審閱時數
 
 觀看這段影片，您將了解如何：
 
-* 檢閱專案的記錄時數
+* 審閱專案的記錄時數
 * 必要時核准專案時數
 
->[!VIDEO](https://video.tv.adobe.com/v/3441080/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 

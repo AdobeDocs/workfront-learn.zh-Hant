@@ -14,14 +14,14 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 100%
 
 ---
 
-# 建立專案範本並瞭解[!UICONTROL 藍圖]
+# 建立專案範本並了解 [!UICONTROL Blueprint]
 
 學習從頭開始和從現有專案建立專案範本，並瞭解如何透過[!UICONTROL 藍圖]存取由 Workfront 專家建立的許多實用專案範本。
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 * 從頭開始建立範本
 * 使用現有專案建立範本
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=1)
 
 ## 使用[!UICONTROL 藍圖]建立範本
 

@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 9%
@@ -24,7 +24,7 @@ ht-degree: 9%
 此影片說明Workfront中的工作結構。 任務是專案的基本元件，代表完成所需的工作專案&#x200B;。 影片強調正確組織任務的重要性，因為這是專案規劃與管理的關鍵步驟。 它示範了如何開始處理任務，並說明了父子任務關係。
 &#x200B;URL父系任務會充當組織者，將專案分組為階段、階段或里程碑，且不會指派給個人。 子任務或子任務代表指派給專案團隊成員的可操作工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

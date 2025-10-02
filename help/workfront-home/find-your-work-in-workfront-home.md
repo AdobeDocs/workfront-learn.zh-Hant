@@ -1,6 +1,6 @@
 ---
 title: 如何在[!UICONTROL 首頁]中尋找工作指派
-description: 了解如何在 [!UICONTROL  ] 尋找指派給您的即將到來和現有的工作。接著檢閱指派資料。
+description: 了解如何在 [!UICONTROL  ] 尋找指派給您的即將到來和現有的工作。接著審閱指派資料。
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 
@@ -29,6 +29,6 @@ ht-degree: 100%
 觀看這段影片，您將了解如何：
 
 * 尋找即將到來和現有的工作指派
-* 檢閱指派資訊
+* 審閱指派資訊
 
->[!VIDEO](https://video.tv.adobe.com/v/3432300/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops=1)

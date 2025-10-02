@@ -12,9 +12,9 @@ jira: KT-8853
 last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 888021fa7d7160154a3a21c491c1d50c13650864
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '420'
 ht-degree: 34%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 34%
 此影片說明如何在Workfront中建立和管理群組，以有效組織專案清單。&#x200B;URL 分組是除了篩選器和檢視之外的三個主要報告元素之一，它們有助於根據共用資訊組織結果。&#x200B;URL
 本教學課程提供組織專案清單的實用步驟，以簡化日常工作和共同作業。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3449826/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 關鍵重點
 
@@ -55,6 +55,6 @@ ht-degree: 34%
 1. 將您的分組命名為「要求佇列、佇列主題、優先順序」。
 1. 按一下「**[!UICONTROL 新增分組]**」。
 1. 在[!UICONTROL Group by]欄位中。 輸入「專案名稱」，然後選取「專案」欄位來源下方的「**[!UICONTROL 名稱]**」。
-1. 按一下&#x200B;**[!UICONTROL 新增其他群組]**，然後輸入「佇列」並在[!UICONTROL 佇列主題]欄位來源下選取&#x200B;**[!UICONTROL 名稱]**。
-1. 按一下「**[!UICONTROL 新增其他群組]**」，然後輸入「優先順序」並在[!UICONTROL 問題]欄位來源下選取&#x200B;**[!UICONTROL 優先順序]**。
+1. 按一下&#x200B;**[!UICONTROL 新增其他群組]**，然後輸入「佇列」並在&#x200B;**[!UICONTROL 佇列主題]**&#x200B;欄位來源下選取[!UICONTROL 名稱]。
+1. 按一下「**[!UICONTROL 新增其他群組]**」，然後輸入「優先順序」並在&#x200B;**[!UICONTROL 問題]**&#x200B;欄位來源下選取[!UICONTROL 優先順序]。
 1. 按一下「**[!UICONTROL 儲存分組]**」

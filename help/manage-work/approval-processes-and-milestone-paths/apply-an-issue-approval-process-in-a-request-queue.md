@@ -12,10 +12,11 @@ jira: KT-17578
 last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '376'
-ht-degree: 6%
+ht-degree: 11%
 
 ---
 
@@ -24,13 +25,13 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* [建立請求流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [建立全域和單次使用的核准程式](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [建立全域和單次使用的核准流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 此影片說明建立請求佇列時，套用預設核准程式的程式。&#x200B;URL 建立請求時，其狀態會從「新增 — 未決核准」開始，並傳送核准通知給指定的核准者。&#x200B;URL 如果核准，狀態會變更為「新增」，允許指派的個人開始工作。&#x200B;URL 如果遭拒絕，由於核准流程設定中的常見錯誤，狀態可能會錯誤地恢復為「新」。&#x200B;URL
 影片重點說明當狀態設為「新增」（新請求的預設值）時，會觸發核准流程。&#x200B;URL 若遭拒絕，系統預設會將狀態變更為上一個狀態，對於新請求而言並不理想。&#x200B;URL 相反地，應該選擇不同的狀態，例如「將不會解析」。&#x200B;URL 影片還指出，預設不會提供「已拒絕」狀態，但系統管理員可視需要建立一個狀態。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3455035/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 
@@ -46,4 +47,4 @@ ht-degree: 6%
 * [委派任務、問題與核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [瞭解特定群組的核准流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
-* [建立全域和單次使用的核准程式](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [建立全域和單次使用的核准流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

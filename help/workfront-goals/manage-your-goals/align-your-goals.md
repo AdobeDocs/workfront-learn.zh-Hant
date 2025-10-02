@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 當您把公司目標調整一致時，請記得要藉由簡化使目標明確且集中。若您在調整目標一致時面臨極大困難，很可能是因為那些目標在本質上毫無關聯，難以整合。若您一直無法調整成功，只需重新回顧公司的最高目標，接著回顧群組和團隊的目標，並決定哪些是最重要且必須保留的目標。消除任何看似多餘或不符合組織願景的內容。
 
-在建立和檢閱最高目標之後，個人貢獻者和團隊成員將負責建立目標並從所在層級逐層傳遞，以利設定更加集中的目標。個人目標的範圍比較狹窄。
+在建立和審閱最高目標之後，個人貢獻者和團隊成員將負責建立目標並從所在層級逐層傳遞，以利設定更加集中的目標。個人目標的範圍比較狹窄。
 
 <!-- Pro-tips graphic -->
 
@@ -52,4 +52,4 @@ ht-degree: 100%
 * 使用由下而上和由上而下的方法來調整目標一致性
 * 導覽「[!UICONTROL 目標一致性]」區段
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops=1)

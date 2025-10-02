@@ -11,7 +11,7 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
@@ -30,7 +30,7 @@ ht-degree: 100%
 * 設定全域專案偏好設定
 * 建立和使用排程
 
->[!VIDEO](https://video.tv.adobe.com/v/3423346/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
 
 ## 全域和群組專案、任務和問題設定
 

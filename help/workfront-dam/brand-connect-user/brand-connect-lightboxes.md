@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 觀看和管理 lightbox
 * 在 lightbox 上共同作業
 
->[!VIDEO](https://video.tv.adobe.com/v/3454361/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops=1)
 
 ## lightbox 與資料夾比較
 

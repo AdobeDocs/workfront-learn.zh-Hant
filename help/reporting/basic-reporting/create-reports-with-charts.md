@@ -12,9 +12,9 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '596'
 ht-degree: 39%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 39%
 
 影片重點說明圓形圖和棧疊直條圖等圖表如何提供任務分佈和專案效能的深入分析，以協助使用者比較專案並以視覺化方式瞭解任務進度。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3450025/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 關鍵重點
 
@@ -80,7 +80,7 @@ ht-degree: 39%
 1. 在「**[!UICONTROL 圖表]**」標籤中，圖表類型請選擇「**[!UICONTROL 欄]**」。
 1. 針對[!UICONTROL 左(Y)軸]，選擇[!UICONTROL 計畫成本]。
 1. 針對[!UICONTROL 底部(X)軸]，請選擇[!UICONTROL 名稱]。
-1. 按一下&#x200B;**[!UICONTROL 組合圖表]**&#x200B;按鈕，並在&#x200B;**[!UICONTROL 值]**&#x200B;欄位中選取[!UICONTROL 實際成本]。
+1. 按一下&#x200B;**[!UICONTROL 組合圖表]**&#x200B;按鈕，並在[!UICONTROL 值]欄位中選取&#x200B;**[!UICONTROL 實際成本]**。
 1. 在&#x200B;**[!UICONTROL 圖表型別]**&#x200B;欄位中，選取「線條」。
 1. 按一下顏色方塊以變更[!UICONTROL 實際成本]顏色。 選取顏色。
 1. 按一下「**[!UICONTROL 儲存並關閉]**」。系統提示輸入報告名稱時，請命名為「上一季已完成的專案之規劃成本與實際成本比較」。

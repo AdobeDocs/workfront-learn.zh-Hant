@@ -11,8 +11,8 @@ thumbnail: 335169.jpeg
 jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 瞭解資源資訊在此視圖中如何顯示
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops=1)
 
 對於「依職務角色檢視」選項，預設為顯示「已編預算」欄，從一個業務案例提取專案所需的預估資源數量，若該欄填有資訊的話。這也表示「淨值」欄依預設使用「已編預算」欄的數字，讓您知道尚有多少剩餘資源。
 

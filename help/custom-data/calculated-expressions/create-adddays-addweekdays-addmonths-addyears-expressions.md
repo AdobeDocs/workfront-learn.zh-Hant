@@ -11,10 +11,10 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '275'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR 運算式計算什麼
 * 如何在計算欄位中建立 ADDWEEKDAYS 資料運算式
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
 
 ## 其他範例
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 客戶想要知道，根據「實際開始日期」和「規劃期間」，任務應該何時完成。在這種情況下，「預計完成日期」並不適用，因為如果任務延遲，這個日期可能會變動，而如果之前的任務有所延遲，則「規劃完成日期」亦無法派上用場。
 
-所建立的運算式是 ADDDAYS({actualStartDate},{durationMinutes}/480)
+建立的運算式為ADDDAYS({actualStartDate}，{durationMinutes}/480)
 
 儲存在「期間」欄位的時間以分鐘為單位。因此，在此運算式中，如果時間要以天數為單位，則「期間」不能是獨立的欄位。因此，「期間」必須除以 480 分鐘 (480 分鐘 = 8 小時 = 1 天)
 
@@ -50,4 +50,4 @@ ht-degree: 100%
 
 發票提交後，必須在 30 天內完成並歸檔。為了自動產生完成和歸檔日期，ADDDAYS 計算欄位與「發票提交日期」自訂欄位一起使用。運算式如下所示：
 
-ADDDAYS({DE:Invoice Submission Date},30)
+ADDDAYS({DE:Invoice Submission Date}，30)

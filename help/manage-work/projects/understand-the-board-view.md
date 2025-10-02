@@ -12,7 +12,7 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 11%
@@ -23,7 +23,7 @@ ht-degree: 11%
 
 此影片說明Workfront中的展示板檢視功能，此功能提供另一種檢視和管理專案任務的方式。&#x200B;URL 在面板檢視中，任務會在Kanban樣式的面板上顯示為卡片，讓使用者可在欄內或欄之間排序、分組和移動任務。&#x200B;URL 移動任務會自動更新其狀態，這反映在工作清單檢視中。&#x200B;URL 使用者可以建立新卡片，在專案中產生新任務，並直接在展示板檢視中進行編輯或指派。&#x200B;URL 您可以設定欄和卡片，也可以使用任務清單檢視中的前置任務來排序任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423275/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

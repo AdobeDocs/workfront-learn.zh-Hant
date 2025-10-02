@@ -12,7 +12,7 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 16%
@@ -32,13 +32,13 @@ ht-degree: 16%
 
 影片重點說明Workfront如何簡化通訊、任務管理和報告，確保所有專案相關資訊都可存取且井然有序。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3436155/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->若要建立影片中所示的「備註搜尋」報告，請參閱「[建立任務報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)」教學課程中的活動。
+>若要建立影片中所示的「備註搜尋」報告，請參閱「[建立任務報告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)」教學課程中的活動。
 >
->若要把「備註搜尋」報告新增到專案面板中，請參閱「[建立儀表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=zh-Hant#activity-1-create-a-dashboard)」教學課程中的活動。
+>若要把「備註搜尋」報告新增到專案面板中，請參閱「[建立儀表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard)」教學課程中的活動。
 
 ## 關鍵重點
 

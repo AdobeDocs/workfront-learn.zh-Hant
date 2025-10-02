@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 70%
@@ -32,9 +32,9 @@ ht-degree: 70%
 
 * 安裝 Microsoft Outlook 增益集
 
->[!VIDEO](https://video.tv.adobe.com/v/3431660/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
->若您按照影片中所述卻無法找到 Workfront 附加程式，您的 IT 部門可能要先進行設定。詳細說明請參閱「[設定 Outlook 適用的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=zh-Hant)」。
+>若您按照影片中所述卻無法找到 Workfront 附加程式，您的 IT 部門可能要先進行設定。詳細說明請參閱「[設定 Outlook 適用的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html)」。
 

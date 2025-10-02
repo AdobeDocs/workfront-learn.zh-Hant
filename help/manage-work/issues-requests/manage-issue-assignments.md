@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 25%
@@ -30,7 +30,7 @@ ht-degree: 25%
 * 更新問題的處理進度
 * 更新問題狀態
 
->[!VIDEO](https://video.tv.adobe.com/v/3446966/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

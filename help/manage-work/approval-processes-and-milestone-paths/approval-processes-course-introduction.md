@@ -1,6 +1,6 @@
 ---
 title: 核准流程課程簡介
-description: 瞭解核准流程如何將工作檢閱流程簡化與自動化。
+description: 瞭解核准流程如何將工作審閱流程簡化與自動化。
 activity: deploy
 feature: Approvals
 type: Tutorial
@@ -9,8 +9,8 @@ level: Intermediate
 team: Technical Marketing
 jira: KT-8961
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
 
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # 核准流程課程簡介
 
-觀看這段影片，您將會瞭解核准流程如何將工作檢閱流程簡化和自動化。
+觀看這段影片，您將會瞭解核准流程如何將工作審閱流程簡化和自動化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436451/?quality=12&learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on&enablevpops=1)

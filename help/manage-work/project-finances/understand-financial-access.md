@@ -13,7 +13,7 @@ exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 12%
@@ -25,7 +25,7 @@ ht-degree: 12%
 此影片說明系統管理員在管理Workfront中財務資訊的存取許可權時的角色。&#x200B;URL 管理員可透過存取層級控制存取&#x200B;。
 影片強調，使用者只能將其財務存取權用於其所建立的專案，或財務存取權已共用給他們的專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 
