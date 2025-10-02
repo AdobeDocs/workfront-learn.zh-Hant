@@ -29,4 +29,4 @@ ht-degree: 100%
 
 ## 安裝 Adobe Workfront for G Suite
 
-有關安裝最新版本的指示，請參閱「[安裝 Adobe Workfront for G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html)」。
+有關安裝最新版本的指示，請參閱「[安裝 Adobe Workfront for G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html?lang=zh-Hant)」。

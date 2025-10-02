@@ -38,8 +38,8 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
 
-有關使用前置任務的更多資訊，請參閱「[使用任務前置任務](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html)」。
+有關使用前置任務的更多資訊，請參閱「[使用任務前置任務](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=zh-Hant)」。
 
-有關任務限制的更多資訊，請參閱「[了解和管理期間類型和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)」。
+有關任務限制的更多資訊，請參閱「[了解和管理期間類型和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=zh-Hant)」。
 
-有關跨專案前置任務的更多資訊，請參閱「[了解跨專案前置任務](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html)」。
+有關跨專案前置任務的更多資訊，請參閱「[了解跨專案前置任務](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=zh-Hant)」。

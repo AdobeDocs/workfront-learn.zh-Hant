@@ -24,7 +24,7 @@ ht-degree: 4%
 
 在本影片中，您將瞭解如何建立存在篩選器，以在校訂核准報告中檢視「目前專案的校訂核准」。
 
-如需有關EXISTS函式的更深入逐步解說，請參閱[使用EXISTS陳述式建立複雜的文字模式篩選器](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)檔案。
+如需有關EXISTS函式的更深入逐步解說，請參閱[使用EXISTS陳述式建立複雜的文字模式篩選器](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)檔案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
