@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 透過 [!DNL Slack] 進行核准
 
->[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436374/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

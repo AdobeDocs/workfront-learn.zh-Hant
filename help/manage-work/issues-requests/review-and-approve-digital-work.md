@@ -31,7 +31,7 @@ ht-degree: 13%
 
 影片強調稽核和核准工作的靈活性，並視需要提供新增註釋和指定變更的選項。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444957/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 關鍵重點
 

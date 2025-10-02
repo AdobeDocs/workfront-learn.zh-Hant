@@ -52,4 +52,4 @@ ht-degree: 100%
 * 記錄時間
 * 將您的工作標記為完成
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431665/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

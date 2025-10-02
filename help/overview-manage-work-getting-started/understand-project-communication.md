@@ -30,7 +30,7 @@ ht-degree: 100%
 * 問題
 * 報告
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436155/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 >[!TIP]
 >

@@ -28,7 +28,7 @@ ht-degree: 100%
 * 任務層級資訊
 * 問題層級資訊
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453077/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

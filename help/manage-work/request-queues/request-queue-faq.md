@@ -24,7 +24,7 @@ ht-degree: 100%
 
 如需詳細資訊，請觀看這部影片：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434167/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 **我授予使用者存取佇列的權限，但現在他們也可以看見請求佇列專案。為什麼？**
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 
 如需詳細資訊，請觀看這部影片：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434187/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 
 **在報告中篩選請求佇列的最佳方法是什麼？**
@@ -73,7 +73,7 @@ ht-degree: 100%
 
 如需詳細資訊，請觀看這部影片：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434341/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 **建立請求佇列的自訂狀態是適當作法嗎？**
 

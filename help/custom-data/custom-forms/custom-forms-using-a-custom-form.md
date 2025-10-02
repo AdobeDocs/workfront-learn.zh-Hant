@@ -23,4 +23,4 @@ ht-degree: 100%
 
 在本影片中，您將了解如何在 Workfront 物件上附加自訂表單。
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431641/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

@@ -24,7 +24,7 @@ ht-degree: 12%
 
 在本影片中，您將瞭解專案團隊可用於什麼以及如何維護它。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444600/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 關鍵重點
 

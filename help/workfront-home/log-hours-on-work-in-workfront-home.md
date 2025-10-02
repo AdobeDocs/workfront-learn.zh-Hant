@@ -25,7 +25,7 @@ ht-degree: 100%
 * 記錄時間的重要性
 * 如何記錄所指派工作的時間
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438609/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 在 [!DNL Home] 中記錄工作時數的技巧
 

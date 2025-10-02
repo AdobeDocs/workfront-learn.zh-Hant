@@ -28,7 +28,7 @@ ht-degree: 100%
 * 如何使用[!UICONTROL 展示板]視圖
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423275/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

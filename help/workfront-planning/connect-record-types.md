@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何在Workfront Planning中連線記錄型別，以簡化工作流程、提高清晰度並增強團隊責任感和效率。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3463809/?learn=on&enablevpops=1&captions=chi_hant)

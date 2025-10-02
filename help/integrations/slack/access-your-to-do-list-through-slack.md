@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 透過 [!DNL Workfront] 存取您的待辦事項清單
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437931/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

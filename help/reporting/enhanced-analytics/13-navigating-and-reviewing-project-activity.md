@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 了解如何根據已登入的使用者、任務狀態變更和已完成的任務來進行專案比較
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437447/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 比較專案工作
 

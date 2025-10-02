@@ -24,7 +24,7 @@ ht-degree: 12%
 影片說明如何在難以判斷精確估計時，使用Workfront中的工作投入功能來估計任務的計畫時數。
 它示範如何建立自訂工作量檢視，以透過新增相關欄（例如工作量、計畫時數和期間型別）來簡化任務管理
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447410/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 關鍵重點
 

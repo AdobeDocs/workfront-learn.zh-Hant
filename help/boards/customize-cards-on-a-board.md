@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解如何自訂展示板上卡片的資訊使用完整或精簡視圖顯示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446542/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

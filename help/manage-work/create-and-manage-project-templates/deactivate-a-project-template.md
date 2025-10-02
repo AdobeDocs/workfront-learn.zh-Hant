@@ -27,7 +27,7 @@ ht-degree: 76%
 * 如何共用專案範本來授予啟用和停用範本的權限。
 * 如何啟用和停用專案範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445001/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 >[!NOTE]
 >

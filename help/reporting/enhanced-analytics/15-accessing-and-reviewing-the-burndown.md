@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何存取燃盡圖
 * 如何理解專案的剩餘時間、專案狀況和速度之間的關係
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438895/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 追蹤專案速度
 

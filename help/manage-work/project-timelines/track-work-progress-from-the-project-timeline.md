@@ -29,7 +29,7 @@ ht-degree: 100%
 * 完成百分比
 * 進度狀態
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438219/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 
 ## 有關這個主題的推薦教學課程

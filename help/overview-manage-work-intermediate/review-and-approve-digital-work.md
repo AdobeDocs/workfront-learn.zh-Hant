@@ -29,7 +29,7 @@ ht-degree: 100%
 * 核准文件
 * 核准校訂
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444957/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 
 >[!NOTE]

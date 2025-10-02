@@ -24,7 +24,7 @@ ht-degree: 8%
 影片說明產品組合管理，重點說明經理如何最佳化專案選擇，以符合公司目標。&#x200B;URL 它引入產品組合的概念，作為競爭共用資源、預算和排程的專案集合。&#x200B;URL 經理可以使用Portfolio Optimizer之類的工具，根據人力、費用、風險、ROI等條件以及與投資組合目標的一致性來比較專案。&#x200B;URL 準備專案以進行比較，需要為每個專案建立業務案例。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442839/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 關鍵重點
 

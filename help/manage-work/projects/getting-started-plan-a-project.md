@@ -25,7 +25,7 @@ ht-degree: 15%
 
 影片強調真實的時間表、團隊可用性和準確規劃的重要性，為專案成功奠定堅實的基礎。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448578/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 關鍵重點
 

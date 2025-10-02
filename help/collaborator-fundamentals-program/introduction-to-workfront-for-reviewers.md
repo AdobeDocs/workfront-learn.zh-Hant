@@ -17,4 +17,4 @@ ht-degree: 100%
 
 觀看這段影片，您將瞭解如何利用「審閱」授權來使用 [!DNL  Workfront]。
 
->[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438697/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

@@ -25,7 +25,7 @@ ht-degree: 100%
 * 在 Workfront 專案中建立任務的漫長過程
 * 建立任務的幾個便利捷徑
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423155/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

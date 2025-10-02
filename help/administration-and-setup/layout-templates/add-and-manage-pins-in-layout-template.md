@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解什麼是釘選功能以及如何透過版面範本為一組使用者釘選重要或相關的頁面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428944/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

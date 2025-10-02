@@ -28,7 +28,7 @@ ht-degree: 100%
 * 新增里程碑至任務
 * 套用里程碑的最佳實務
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3430289/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 >[!TIP]
 >

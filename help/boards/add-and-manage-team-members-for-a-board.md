@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何新增和移除展示板的個人和團隊，讓他們可以存取展示板資訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423039/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

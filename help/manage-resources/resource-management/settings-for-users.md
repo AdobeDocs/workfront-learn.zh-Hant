@@ -28,4 +28,4 @@ ht-degree: 100%
 * 個人休假
 * 職務角色
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432157/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

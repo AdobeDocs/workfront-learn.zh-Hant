@@ -26,4 +26,4 @@ ht-degree: 100%
 * 新增項目到左側面板選單
 * 重新排列面板選單中的項目
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432890/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

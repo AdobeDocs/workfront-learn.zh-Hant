@@ -27,7 +27,7 @@ ht-degree: 100%
 * 審閱專案的記錄時數
 * 必要時核准專案時數
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441080/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

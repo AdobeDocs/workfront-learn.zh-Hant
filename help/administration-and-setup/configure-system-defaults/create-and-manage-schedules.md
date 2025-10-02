@@ -21,5 +21,5 @@ ht-degree: 100%
 
 瞭解排程的用途、如何建立和編輯排程以及幫助更準確判斷工作何時可以完成的其他設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423337/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 

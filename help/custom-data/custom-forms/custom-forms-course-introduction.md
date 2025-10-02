@@ -20,4 +20,4 @@ ht-degree: 100%
 
 觀看這段影片，您將瞭解什麼是自訂表單，以及如何使用這些表單來擷取組織的特定資訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432759/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

@@ -22,7 +22,7 @@ ht-degree: 100%
 * 檢視已提交的請求
 * 尋找請求的草稿
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3470920/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 快速、輕鬆地存取請求佇列路徑
 

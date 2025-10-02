@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何使用校訂範本套用工作流程
 * 如何從頭開始設定自動化工作流程
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453022/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 
 

@@ -21,5 +21,5 @@ ht-degree: 100%
 
 了解如何透過以下方式將使用者新增至 Workfront：複製現有使用者、大量匯入新使用者以及從頭開始建立新使用者等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447054/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 

@@ -34,5 +34,5 @@ ht-degree: 83%
 * 將工作項目新增到行事曆分組
 * 建立休假行事曆
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452404/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 

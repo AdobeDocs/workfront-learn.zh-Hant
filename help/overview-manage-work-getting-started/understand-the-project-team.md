@@ -27,7 +27,7 @@ ht-degree: 100%
 
 * 專案團隊的用途以及如何維護
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444600/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 有關此主題的推薦教學課程
 

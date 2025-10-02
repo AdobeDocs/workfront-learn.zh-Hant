@@ -26,4 +26,4 @@ ht-degree: 100%
 * 把版面範本指派給使用者、群組或團隊
 * 控制誰可以管理版面範本存取權
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432335/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

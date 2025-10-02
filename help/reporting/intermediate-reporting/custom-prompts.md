@@ -27,7 +27,7 @@ ht-degree: 99%
 * 如何使用文字模式來建立自訂提示
 * 您可以在報告中使用的一些範例
 
->[!VIDEO] (https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3470513/?quality=12&learn=on&enablevpops=0&captions=chi_hant
 
 ## 「建立自訂提示」活動
 

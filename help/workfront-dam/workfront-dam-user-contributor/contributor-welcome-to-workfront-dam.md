@@ -25,4 +25,4 @@ ht-degree: 100%
 * 您將在本課程中學到的內容
 * 什麼是 [!UICONTROL Workfront DAM] 以及其使用方式
 
->[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445710/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

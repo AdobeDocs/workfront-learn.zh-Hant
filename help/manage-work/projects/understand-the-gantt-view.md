@@ -40,7 +40,7 @@ ht-degree: 13%
 
 影片強調甘特圖的彈性，讓使用者能夠自訂檢視並同時顯示多個元素，以提升專案管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448017/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 您可以在線上閱讀文章「[開始使用甘特圖](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=zh-Hant)」了解更多資訊。
 

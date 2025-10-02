@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何在註解上執行動作
 * 如何自訂動作標籤
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432940/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 換您來操作
 

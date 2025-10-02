@@ -21,4 +21,4 @@ ht-degree: 80%
 
 了解如何在 Adobe Workfront 規劃中建立、管理和自訂記錄類型表格視圖，以加強專案組織和共同作業。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448161/?learn=on&enablevpops=1&captions=chi_hant)

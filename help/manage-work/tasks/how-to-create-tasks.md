@@ -22,7 +22,7 @@ ht-degree: 11%
 此影片提供在Workfront專案中建立任務的相關教學課程，說明長方法與實用捷徑。 它強調建立工作的彈性，並提供有效管理工作的秘訣。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423155/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 關鍵重點
 

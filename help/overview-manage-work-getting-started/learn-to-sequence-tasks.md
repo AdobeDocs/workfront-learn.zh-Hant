@@ -31,7 +31,7 @@ ht-degree: 100%
 * 設定任務開始日期將如何影響任務限制
 * 如何進入前置任務
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447331/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 <!--
 Learn more urls

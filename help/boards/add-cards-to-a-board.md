@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何將全新或來自現有工作現目的卡片新增到展示板。
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423048/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

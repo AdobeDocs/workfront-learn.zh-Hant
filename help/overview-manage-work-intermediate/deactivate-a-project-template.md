@@ -28,7 +28,7 @@ ht-degree: 100%
 * 如何共用專案範本來授予啟用和停用範本的權限。
 * 如何啟用和停用專案範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445001/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 了解如何建立自訂視圖，以查看和編輯專案範本的進行中狀態
 

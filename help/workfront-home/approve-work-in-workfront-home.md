@@ -25,7 +25,7 @@ ht-degree: 100%
 * 核准或拒絕工作
 * 審閱校訂
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447918/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 <!--
 learn more URLs

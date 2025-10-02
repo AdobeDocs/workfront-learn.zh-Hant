@@ -20,7 +20,7 @@ ht-degree: 17%
 
 影片會提供教學課程，說明更新任務狀態的方式、原因和頻率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471178/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 ## 關鍵重點
 

@@ -23,7 +23,7 @@ ht-degree: 100%
 
 在本影片中，您將學習如何將問題或請求轉換為任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445441/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 >[!NOTE]
 >

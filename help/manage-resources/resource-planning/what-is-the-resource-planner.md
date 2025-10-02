@@ -25,4 +25,4 @@ ht-degree: 100%
 不過，使用 Workfront 的資源規劃工具可以讓資源相關的任務變得輕鬆一些。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437265/?quality=12&learn=on&enablevpops=1&captions=chi_hant)

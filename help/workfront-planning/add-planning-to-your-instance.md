@@ -21,4 +21,4 @@ ht-degree: 80%
 
 了解想要新增 Workfront 規劃工具、並讓實例中的使用者可以看見該工具需要滿足哪些要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447977/?learn=on&enablevpops=1&captions=chi_hant)

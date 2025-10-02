@@ -27,7 +27,7 @@ ht-degree: 100%
 * 規劃、預計和實際的日期，以及
 * 如何運用日期來計算進度狀態
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436618/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 >[!NOTE]
 >

@@ -27,7 +27,7 @@ ht-degree: 100%
 
 在這部影片中，您將了解如何針對專案、任務或問題建立全域核准流程和單次核准流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434698/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
 
 >[!TIP]
 >

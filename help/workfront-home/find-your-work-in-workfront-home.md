@@ -31,4 +31,4 @@ ht-degree: 100%
 * 尋找即將到來和現有的工作指派
 * 審閱指派資訊
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432300/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
