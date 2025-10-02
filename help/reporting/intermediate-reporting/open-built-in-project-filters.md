@@ -26,7 +26,7 @@ ht-degree: 100%
 * 審閱內建的專案篩選器來了解其建置方式
 * 使用您所學到的知識建立自己的專案篩選器
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469867/?quality=12&learn=on&captions=chi_hant)
 
 ## 「了解內建的專案篩選器」活動
 
