@@ -31,7 +31,7 @@ ht-degree: 9%
 然後影片會示範如何建立佇列主題，這些主題會連結至路由規則、主題群組、自訂表單、核准程式和預設持續時間。
 最後，影片會說明如何透過提交請求來測試設定，以確保其正確路由。&#x200B;URL 如果發生任何問題，可以對佇列進行調整。&#x200B;URL 影片強調驗證請求流程結構和功能的重要性，以確保路由和組織正確。
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0
 
 ## 關鍵重點
 

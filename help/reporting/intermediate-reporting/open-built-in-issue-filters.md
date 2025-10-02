@@ -27,7 +27,7 @@ ht-degree: 99%
 * 了解一些有用的問題報告元素
 * 了解如何建立您自己的問題篩選器
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0
 
 
 ## 「了解內建的問題篩選器」活動

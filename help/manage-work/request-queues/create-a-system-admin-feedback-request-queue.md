@@ -34,7 +34,7 @@ ht-degree: 20%
 &#x200B;URL建立報告和自訂表單的教學課程連結已提供進一步指導。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0
 
 ## 關鍵重點
 
