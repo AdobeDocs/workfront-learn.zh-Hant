@@ -27,7 +27,7 @@ ht-degree: 95%
 * 了解一些實用的任務報告元素
 * 了解如何建立您的任務篩選器
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3469595/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 「了解內建的任務篩選器」活動
 

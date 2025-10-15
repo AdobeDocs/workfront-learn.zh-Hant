@@ -27,7 +27,7 @@ ht-degree: 100%
 * 視圖中有哪些條件式格式設定
 * 如何建立和修改條件式格式設定
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3445452/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 
 ## 條件式格式概要

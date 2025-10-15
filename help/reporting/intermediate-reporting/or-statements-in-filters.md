@@ -25,7 +25,7 @@ ht-degree: 31%
 或者，您也可以將篩選邏輯變更為「OR」，以顯示符合任何條件的專案。
 此影片也會示範如何使用篩選器群組來建立任務的篩選器。&#x200B;URL 例如，您可以建立兩個群組：一個用於指派給延遲創意團隊的未完成任務，另一個用於指派給未指派創意團隊的未完成任務。&#x200B;URL 在每個群組中，「AND」邏輯適用，這表示必須符合群組中的所有條件。&#x200B;URL 群組之間的「OR」邏輯可確保顯示符合任一群組條件的任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470704/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## OR 篩選活動
 

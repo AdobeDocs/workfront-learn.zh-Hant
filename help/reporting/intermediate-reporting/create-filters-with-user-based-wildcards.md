@@ -26,7 +26,7 @@ ht-degree: 87%
 * 了解為何要使用萬用字元
 * 使用基於使用者的萬用字元建立篩選器
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3464484/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 >[!TIP]
 >
