@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 87%
@@ -26,7 +26,7 @@ ht-degree: 87%
 * 了解為何要使用萬用字元
 * 使用基於使用者的萬用字元建立篩選器
 
->[!VIDEO](https://video.tv.adobe.com/v/3464484/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0)
 
 >[!TIP]
 >

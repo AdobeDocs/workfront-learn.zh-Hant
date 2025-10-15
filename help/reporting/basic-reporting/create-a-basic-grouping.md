@@ -12,7 +12,7 @@ jira: KT-8853
 last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 34%
@@ -24,7 +24,7 @@ ht-degree: 34%
 此影片說明如何在Workfront中建立和管理群組，以有效組織專案清單。&#x200B;URL 分組是除了篩選器和檢視之外的三個主要報告元素之一，它們有助於根據共用資訊組織結果。&#x200B;URL
 本教學課程提供組織專案清單的實用步驟，以簡化日常工作和共同作業。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3449826/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
 
 ## 關鍵重點
 

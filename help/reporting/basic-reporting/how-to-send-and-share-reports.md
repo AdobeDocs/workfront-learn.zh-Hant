@@ -12,7 +12,7 @@ jira: KT-8863
 last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 61%
@@ -27,7 +27,7 @@ ht-degree: 61%
 * 如何與任何人共用報告
 * 收件者可以透過 Workfront 報告看到什麼資訊及執行哪些動作
 
->[!VIDEO](https://video.tv.adobe.com/v/3447823/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
 ## 關鍵重點
 

@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 使用萬用字元、屬性、運算子和修飾元來建立自訂日期
 * 使用萬用字元建立自訂日期範圍
 
->[!VIDEO](https://video.tv.adobe.com/v/3464545/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0)
 
 
 ## 「建立含有日期型萬用字元的篩選器」活動

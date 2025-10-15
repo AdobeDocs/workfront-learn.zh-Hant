@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 86%
@@ -31,7 +31,7 @@ ht-degree: 86%
 * 範本建立後，即可用以建立新專案。此影片示範如何從範本建立新專案、進行必要調整，以及依據需求新增任務或修改期間。影片也展示如何使用資源排程和規劃功能，為職務角色指派任務。
 * 影片說明如何將現有專案儲存為新範本，以便更新及改善工作流程。影片強調了管理範本的重要性，以避免混淆並確保專案順利執行。
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## 關鍵重點
 
