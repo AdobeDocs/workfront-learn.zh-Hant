@@ -25,7 +25,7 @@ ht-degree: 22%
 此影片說明如何從頭開始建立和管理專案。&#x200B;URL 首先，請建立新專案、重新命名專案，並使用說明、開始日期和目標完成日期來設定目標。 專案可以劃分為任務，這些任務為具有估計持續時間和指派的計畫工作。&#x200B;URL 任務可以使用前置任務進行排序，並且專案狀態可以設定為「當前」以通知團隊並將其包含在報表中。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432339/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 
