@@ -60,6 +60,6 @@ Workfront 不提供 Workfront Fusion 產品試用。在完成教學課程之後�
 
 這些逐步指示將協助您完成操作示範練習。
 
-[Workfront Fusion 文件](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
 您還可以在 [Workfront Fusion 2.0 社群](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2)中貼文提問。
