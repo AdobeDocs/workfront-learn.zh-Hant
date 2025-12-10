@@ -21,7 +21,7 @@ ht-degree: 100%
 
 了解如何刪除、新增和重新排列首頁上的小工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448984/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 
 >[!NOTE]
