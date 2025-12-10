@@ -3,7 +3,7 @@ title: 新增分區符號和邏輯至自訂表單
 description: 了解如何新增分區符號來安排自訂表單的欄位，以及如何使用「跳過」和「顯示」邏輯以便需要時使用欄位。
 feature: Custom Forms
 topic: Personalization
-role: Leader, Data Architect, Data Engineer, Admin, User
+role: Leader, Developer, Admin, User
 level: Intermediate
 doc-type: Feature Video
 duration: 0
@@ -11,7 +11,7 @@ last-substantial-update: 2024-09-23T00:00:00Z
 jira: KT-14099
 thumbnail: 3425935.jpeg
 exl-id: e9563b1d-e0e4-4d48-97b1-57f154df4ae2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
