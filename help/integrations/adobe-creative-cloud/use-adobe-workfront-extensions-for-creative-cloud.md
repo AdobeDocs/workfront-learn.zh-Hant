@@ -33,8 +33,8 @@ ht-degree: 100%
 
 您必須為正在使用的 Adobe Creative Cloud 應用程式安裝正確的外掛程式：
 
-* 對於 Photoshop，請參閱「[安裝及開啟適用於 Photoshop 的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)」
-* 對於 InDesign、Illustrator、Premiere Pro 和 After Effects，請參閱「[安裝及開啟設計和影片適用的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)」
+* 對於 Photoshop，請參閱「[安裝及開啟適用於 Photoshop 的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=zh-Hant&)」
+* 對於 InDesign、Illustrator、Premiere Pro 和 After Effects，請參閱「[安裝及開啟設計和影片適用的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=zh-Hant&)」
 
 
 觀看這段影片，您將瞭解如何在 Creative Cloud 應用程式中執行以下操作：
