@@ -9,13 +9,14 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8811
 doc-type: video
+last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="整合" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 67237825d4d14091c1664993a65b2658c4f700dd
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '174'
 ht-degree: 100%
 
 ---
@@ -25,7 +26,6 @@ ht-degree: 100%
 將 Workfront 與 Creative Cloud 整合，即可在 Adobe Workfront 中尋找及更新指派給您的工作，而不需要離開以下 Adobe Creative Cloud 應用程式：
 
 * Photoshop
-* XD
 * InDesign
 * Illustrator
 * Premiere Pro
@@ -33,13 +33,8 @@ ht-degree: 100%
 
 您必須為正在使用的 Adobe Creative Cloud 應用程式安裝正確的外掛程式：
 
-* 對於 Photoshop，請參閱「[安裝及開啟適用於 Photoshop 的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=zh-Hant&)」
-* 對於 XD，請參閱「[安裝及開啟適用於 XD 的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=zh-Hant&)」
-* 對於 InDesign、Illustrator、Premiere Pro 和 After Effects，請參閱「[安裝及開啟設計和影片適用的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=zh-Hant&)」
-
->[!NOTE]
->
->目前無法透過外掛程式在 Workfront 中提供 **Premiere Pro** 和 **After Effects** 的影片上傳以及審閱和核准功能。
+* 對於 Photoshop，請參閱「[安裝及開啟適用於 Photoshop 的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)」
+* 對於 InDesign、Illustrator、Premiere Pro 和 After Effects，請參閱「[安裝及開啟設計和影片適用的 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)」
 
 
 觀看這段影片，您將瞭解如何在 Creative Cloud 應用程式中執行以下操作：
@@ -52,4 +47,4 @@ ht-degree: 100%
 * 記錄時間
 * 將您的工作標記為完成
 
->[!VIDEO](https://video.tv.adobe.com/v/3431665/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
