@@ -45,7 +45,7 @@ ht-degree: 5%
 
 影片強調使用團隊和範本來有效率地管理共用，並強調管理員在自訂共用偏好設定方面的作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423146/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

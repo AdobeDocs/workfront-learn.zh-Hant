@@ -24,7 +24,7 @@ ht-degree: 12%
 
 影片會提供在專案狀態變更為「目前」後管理專案的概觀&#x200B;。
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445178/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

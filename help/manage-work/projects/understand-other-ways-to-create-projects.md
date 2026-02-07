@@ -55,7 +55,7 @@ ht-degree: 4%
 
 影片強調Workfront透過範本、草稿、複製或匯入，以因應不同使用者需求來建立專案的靈活性。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432167/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

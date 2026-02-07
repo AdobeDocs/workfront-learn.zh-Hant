@@ -27,7 +27,7 @@ ht-degree: 5%
 系統內會標籤受委派的核准，顯示受委派者及其受委派者。&#x200B;URL 與核准相關的更新會出現在「更新」標籤中，並且可以在「系統活動」標籤中檢視系統活動。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446387/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

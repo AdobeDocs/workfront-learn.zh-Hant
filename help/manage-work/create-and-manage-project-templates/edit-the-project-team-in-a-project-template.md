@@ -27,7 +27,7 @@ ht-degree: 82%
 * 如何避免不小心將&#x200B;**非**&#x200B;專案團隊成員納入範本專案團隊。
 * 如何編輯範本專案團隊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441561/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 

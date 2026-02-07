@@ -27,7 +27,7 @@ ht-degree: 85%
 * 如何找到未完成核准的任務並進行處理
 * 如何找到未完成核准的問題並進行處理
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439435/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 

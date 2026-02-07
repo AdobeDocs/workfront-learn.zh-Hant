@@ -29,7 +29,7 @@ ht-degree: 84%
 * 建立「經驗傳承」自訂報告
 * 建立「經驗傳承」專案
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441023/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 
