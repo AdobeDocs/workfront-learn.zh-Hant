@@ -1,5 +1,5 @@
 ---
-title: 處理任務
+title: 在Workfront中有效率地管理任務
 description: 透過內嵌編輯、已刪除任務的資源回收筒備份、父子結構新增、任務複製和直覺式重組工具(如Workfront中的拖放)來增強任務管理。
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 12%
+source-wordcount: '211'
+ht-degree: 9%
 
 ---
 
-# 處理任務
+# 在Workfront中有效率地管理任務
 
 本影片提供在Workfront中管理任務的詳細指南。 它強調有效的任務管理，包括編輯、刪除、新增、複製和重新組織專案計畫中的任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448567/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

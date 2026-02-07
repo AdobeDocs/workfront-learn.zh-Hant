@@ -1,5 +1,5 @@
 ---
-title: 共用專案
+title: 在Workfront中有效共用專案
 description: 透過自動存取許可權、彈性的選項、團隊式管理、範本共用和可自訂的系統預設來簡化Workfront中的專案共用，進而簡化協同合作。
 activity: use
 team: Technical Marketing
@@ -12,36 +12,40 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 7%
+source-wordcount: '361'
+ht-degree: 5%
 
 ---
 
-# 共用專案
+# 在Workfront中有效共用專案
 
 影片說明如何在Workfront中有效共用專案，以確保利害關係人和共同作業人員擁有必要的可見度和存取權。&#x200B;URL Workfront會根據角色自動指派適當的存取許可權，以簡化共用作業：
 
 **自動共用：**
+
 * 專案建立者擁有受管理的許可權，可檢視及編輯專案、任務和問題。
 * 指派給任務的工作者可獲得整個專案的檢視許可權，以及其任務的貢獻者許可權。
 * 專案贊助者可以檢視專案，而資源管理員可以管理專案但不能刪除專案。
 
 **手動共用：**
+
 * 專案可與個人、團隊、工作角色、群組或公司共用。
 * 最佳實務包括建立團隊時記住相關內容，並使用專案組合或計畫繼承多個專案的許可權。
 
 **大量和範本共用：**
+
 * 大量編輯允許共用多個專案的調整。&#x200B;URL
 * 共用設定可在專案範本中預先設定，以節省時間。&#x200B;URL
 
 **系統預設值：**
+
 * 系統管理員或群組管理員可以修改預設的共用設定，例如將參與者許可權授與指派給任務的團隊成員。
 
 影片強調使用團隊和範本來有效率地管理共用，並強調管理員在自訂共用偏好設定方面的作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423146/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

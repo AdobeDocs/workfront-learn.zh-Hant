@@ -1,5 +1,5 @@
 ---
-title: 開始管理專案
+title: 管理具有目前狀態的專案
 description: 使用報告有效地追蹤專案進度、透過甘特圖檢視管理相依性、監視任務和核准、增強團隊溝通，以及透過頻繁更新確保順暢的工作流程。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 18%
+source-wordcount: '178'
+ht-degree: 12%
 
 ---
 
-# 開始管理專案
+# 管理具有目前狀態的專案
 
 影片會提供在專案狀態變更為「目前」後管理專案的概觀&#x200B;。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445178/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

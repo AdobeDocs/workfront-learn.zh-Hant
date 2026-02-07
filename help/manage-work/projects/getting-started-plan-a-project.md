@@ -1,5 +1,5 @@
 ---
-title: 開始規劃專案
+title: 在Workfront中有效計畫專案
 description: 透過專注於關鍵欄位、將狀態設定為「計畫」、使用適當的檢視表、選取實際的開始日期，以及運用排程模式以取得準確的時間表，來簡化專案計畫。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -12,20 +12,20 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 15%
+source-wordcount: '275'
+ht-degree: 11%
 
 ---
 
-# 開始規劃專案
+# 在Workfront中有效計畫專案
 
 影片提供如何在Workfront中有效規劃專案的指引。&#x200B;URL 它強調奠定堅實基礎的重要性，以確保專案按時完成並取得成功。&#x200B;URL 關鍵步驟包括瞭解五個關鍵欄位：任務、指派、持續時間、計畫時數及前置任務。&#x200B;URL 這些欄位可讓您快速且準確地調整專案計畫。&#x200B;URL
 
 影片強調真實的時間表、團隊可用性和準確規劃的重要性，為專案成功奠定堅實的基礎。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3448578/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

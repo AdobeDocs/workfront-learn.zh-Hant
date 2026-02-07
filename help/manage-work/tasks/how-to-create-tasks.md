@@ -1,5 +1,5 @@
 ---
-title: 建立任務
+title: 在Workfront中有效率地建立任務
 description: 使用詳細或內嵌編輯、彈性重新定位、其他欄位的自訂檢視和特定位置(例如使用Workfront中的「在下方插入任務」)的選項，簡化任務建立。
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
@@ -10,19 +10,19 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 11%
+source-wordcount: '201'
+ht-degree: 9%
 
 ---
 
-# 建立任務
+# 在Workfront中有效率地建立任務
 
 此影片提供在Workfront專案中建立任務的相關教學課程，說明長方法與實用捷徑。 它強調建立工作的彈性，並提供有效管理工作的秘訣。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423155/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

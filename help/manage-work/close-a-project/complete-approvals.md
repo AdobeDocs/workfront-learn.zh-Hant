@@ -1,5 +1,5 @@
 ---
-title: 完成核准
+title: 解決任務和問題核准
 description: 了解如何找出未完成的核准並予以解決，以利專案結案。
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 100%
+source-wordcount: '71'
+ht-degree: 85%
 
 ---
 
-# 完成核准
+# 解決任務和問題核准
 
 觀看這段影片，您將會了解：
 
 * 如何找到未完成核准的任務並進行處理
 * 如何找到未完成核准的問題並進行處理
 
->[!VIDEO](https://video.tv.adobe.com/v/3439435/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 

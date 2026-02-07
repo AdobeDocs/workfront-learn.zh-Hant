@@ -1,5 +1,5 @@
 ---
-title: 建立專案範本並了解 [!UICONTROL Blueprint]
+title: 建立專案範本並探索藍圖
 description: 學習從頭開始和從現有專案建立專案範本，並瞭解如何透過[!UICONTROL 藍圖]存取由 Workfront 專家建立的許多實用專案範本。
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 86%
+source-wordcount: '633'
+ht-degree: 84%
 
 ---
 
-# 建立專案範本並了解 [!UICONTROL Blueprint]
+# 建立專案範本並探索藍圖
 
 
 學習從頭開始和從現有專案建立專案範本，並瞭解如何透過[!UICONTROL 藍圖]存取由 Workfront 專家建立的許多實用專案範本。

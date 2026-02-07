@@ -1,5 +1,5 @@
 ---
-title: 檢視里程碑
+title: 檢視專案中的里程碑
 description: 了解如何檢視專案中的里程碑，以及在「[!UICONTROL 專案]」區域中使用里程碑檢視。
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '78'
+ht-degree: 87%
 
 ---
 
-# 檢視里程碑
+# 檢視專案中的里程碑
 
 觀看這段影片，您將了解如何：
 

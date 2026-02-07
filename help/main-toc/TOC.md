@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront 教學課程
 user-guide-description: 訓練影片和文章庫，旨在協助您更瞭解Workfront的功能與設定。
-source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '2356'
-ht-degree: 91%
+source-wordcount: '2428'
+ht-degree: 83%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 91%
 
    + 核准程式和里程碑路徑 {#approval-processes-and-milestone-paths}
       + [瞭解特定群組的核准流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-      + [建立里程碑](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+      + [建立里程碑路徑和步驟](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + 系統效能和維護 {#system-perfomance-and-maintenance}
       + [負責現有的 Adobe Workfront 執行個體](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
@@ -105,44 +105,44 @@ ht-degree: 91%
 
 + 管理工作 {#manage-work}
    + 專案 {#projects}
-      + [瞭解建立專案的基本操作](/help/manage-work/projects/understand-basic-project-creation.md)
+      + [從頭開始建立和管理專案](/help/manage-work/projects/understand-basic-project-creation.md)
       + [導覽專案頁面](/help/manage-work/projects/navigate-the-project-page.md)
-      + [瞭解建立專案的四種方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [填寫專案詳細資料](/help/manage-work/projects/fill-in-the-project-details.md)
-      + [開始規劃專案](/help/manage-work/projects/getting-started-plan-a-project.md)
+      + [探索四種建立專案的方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [填寫基本專案詳細資訊](/help/manage-work/projects/fill-in-the-project-details.md)
+      + [在Workfront中有效計畫專案](/help/manage-work/projects/getting-started-plan-a-project.md)
       + [專案上線](/help/manage-work/projects/take-a-project-live.md)
-      + [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
-      + [尋找專案](/help/manage-work/projects/find-projects.md)
-      + [共用專案](/help/manage-work/projects/share-a-project.md)
+      + [管理具有目前狀態的專案](/help/manage-work/projects/getting-started-manage-a-project.md)
+      + [有效地尋找專案](/help/manage-work/projects/find-projects.md)
+      + [在Workfront中有效共用專案](/help/manage-work/projects/share-a-project.md)
       + [瞭解專案團隊](/help/manage-work/projects/understand-the-project-team.md)
-      + [瞭解專案溝通](/help/manage-work/projects/understand-project-communication.md)
-      + [檢視專案資訊](/help/manage-work/projects/view-project-information.md)
+      + [透過有效溝通提升專案成功率](/help/manage-work/projects/understand-project-communication.md)
+      + [探索專案管理的篩選器、檢視和群組](/help/manage-work/projects/view-project-information.md)
       + [追蹤專案整體進度](/help/manage-work/projects/track-overall-project-progress.md)
       + [使用專案量度追蹤工作進度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [瞭解[!UICONTROL 甘特圖]視圖](/help/manage-work/projects/understand-the-gantt-view.md)
       + [瞭解[!UICONTROL 展示板]視圖](/help/manage-work/projects/understand-the-board-view.md)
 
    + 任務 {#tasks}
-      + [建立任務](/help/manage-work/tasks/how-to-create-tasks.md)
-      + [瞭解父子任務](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [處理任務](/help/manage-work/tasks/work-with-tasks.md)
+      + [在Workfront中有效率地建立任務](/help/manage-work/tasks/how-to-create-tasks.md)
+      + [瞭解父子任務關係](/help/manage-work/tasks/understand-parent-child-tasks.md)
+      + [在Workfront中有效率地管理任務](/help/manage-work/tasks/work-with-tasks.md)
       + [指派專案計劃的任務](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [更新任務狀態](/help/manage-work/tasks/update-the-task-status.md)
-      + [了解任務期間](/help/manage-work/tasks/understand-task-durations.md)
-      + [瞭解如何排定任務順序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+      + [更新任務狀態以取得準確的報告](/help/manage-work/tasks/update-the-task-status.md)
+      + [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
+      + [在Workfront中有效地排序任務](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [瞭解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
-      + [了解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
+      + [使用工作量估計任務時數](/help/manage-work/tasks/understand-work-effort.md)
 
    + 問題/請求 {#issues-requests}
-      + [處理未規劃的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
-      + [提出請求](/help/manage-work/issues-requests/make-a-request.md)
-      + [尋找和管理請求](/help/manage-work/issues-requests/find-requests.md)
-      + [管理問題指派](/help/manage-work/issues-requests/manage-issue-assignments.md)
-      + [更新問題狀態](/help/manage-work/tasks/update-the-issue-status.md)
-      + [更新請求](/help/manage-work/issues-requests/update-a-request.md)
+      + [有效處理計畫外工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+      + [在Workfront中建立和管理請求](/help/manage-work/issues-requests/make-a-request.md)
+      + [有效率地尋找及管理請求](/help/manage-work/issues-requests/find-requests.md)
+      + [有效管理問題指派](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [有效地更新問題狀態](/help/manage-work/tasks/update-the-issue-status.md)
+      + [在Workfront中更新請求](/help/manage-work/issues-requests/update-a-request.md)
       + [將問題/請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [將問題/請求轉換為任務](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [報告問題](/help/manage-work/issues-requests/report-on-issues.md)
+      + [建立問題管理的自訂報告](/help/manage-work/issues-requests/report-on-issues.md)
 
    + 請求佇列 {#request-queues}
       + [了解請求佇列](/help/manage-work/request-queues/understand-request-queues.md)
@@ -153,36 +153,36 @@ ht-degree: 91%
       + [請求佇列常見問題的解答](/help/manage-work/request-queues/request-queue-faq.md)
 
    + 專案組合 {#portfolios}
-      + [了解專案組合](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [瞭解[!UICONTROL 業務案例]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [了解[!UICONTROL 專案組合最佳化工具]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [探索產品組合管理和最佳化](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [建立全方位的業務案例](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+      + [使用Portfolio最佳化工具最佳化專案優先順序](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 核准程式和里程碑路徑 {#approval-processes-and-milestone-paths}
       + [建立全域和單次使用的核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [在請求佇列中套用問題核准流程](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [審閱及核准數位工作](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-      + [委派任務、問題與核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [套用里程碑](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-      + [檢視里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+      + [有效地委派任務、問題和核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+      + [將里程碑路徑套用至專案和任務](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [檢視專案中的里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + 建立和管理專案範本 {#create-and-manage-project-templates}
-      + [建立專案範本並瞭解藍圖](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [建立專案範本並探索藍圖](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [直接使用範本建立專案](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-      + [共用專案範本](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [有效共用專案範本](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+      + [有效率地複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [停用專案範本](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [在專案範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [在範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + 專案時間表  {#project-timelines}
-      + [瞭解專案時間表](/help/manage-work/project-timelines/understand-project-timelines.md)
-      + [瞭解日期類型和進度狀態](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [根據專案時間表追蹤進度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [探索Workfront中的專案時間表](/help/manage-work/project-timelines/understand-project-timelines.md)
+      + [了解日期類型和進度狀態](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+      + [使用完成百分比和進度狀態追蹤進度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + 結束專案 {#close-a-project}
       + [變更專案狀態來完成專案](/help/manage-work/projects/change-the-project-status.md)
-      + [完成核准](/help/manage-work/close-a-project/complete-approvals.md)
-      + [上傳資產](/help/manage-work/close-a-project/upload-assets.md)
-      + [記錄學習到的經驗](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+      + [解決任務和問題核准](/help/manage-work/close-a-project/complete-approvals.md)
+      + [上傳和管理專案資產](/help/manage-work/close-a-project/upload-assets.md)
+      + [紀錄未來專案的經驗教訓](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [記錄和審閱時數](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + 適用於用戶的專案財務 {#project-finances-users}
@@ -335,10 +335,10 @@ ht-degree: 91%
       + [使用 Adobe Workfront 外掛程式與 Creative Cloud 整合](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [設定整合](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hant)
-      + [對應中繼資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=zh-Hant)
-      + [傳送文件和連結資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=zh-Hant)
-      + [維護版本歷史記錄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=zh-Hant)
+      + [設定整合](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [對應中繼資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [傳送文件和連結資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [維護版本歷史記錄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [透過 G Suite 整合功能改進工作流程](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -350,13 +350,13 @@ ht-degree: 91%
       + [安裝 Microsoft Outlook 增益集](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront for Microsoft Teams 概觀](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=zh-Hant)
-      + [安裝 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=zh-Hant)
-      + [存取 Adobe Workfront from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=zh-Hant)
-      + [在 Microsoft Teams 中搜尋和共用 Adobe Workfront 項目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=zh-Hant)
-      + [從 Microsoft Teams 建立 Adobe Workfront 任務](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=zh-Hant)
-      + [從 Microsoft Teams 提交 Adobe Workfront 請求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=zh-Hant)
-      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=zh-Hant)
+      + [Adobe Workfront for Microsoft Teams 概觀](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [安裝 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [存取 Adobe Workfront from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [在 Microsoft Teams 中搜尋和共用 Adobe Workfront 項目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [從 Microsoft Teams 建立 Adobe Workfront 任務](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [從 Microsoft Teams 提交 Adobe Workfront 請求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [瞭解適用於 [!UICONTROL Slack] 的 Workfront](/help/integrations/slack/introduction-to-workfront-for-slack.md)

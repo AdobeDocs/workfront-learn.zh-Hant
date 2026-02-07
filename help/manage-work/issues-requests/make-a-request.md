@@ -1,5 +1,5 @@
 ---
-title: 提出請求
+title: 在Workfront中建立和管理請求
 description: 透過簡化的請求建立、可自訂的工作流程、草稿自動儲存、追蹤和篩選工具，以及複製和重複使用請求的能力，提高Workfront中的效率。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 14%
+source-wordcount: '260'
+ht-degree: 11%
 
 ---
 
-# 提出請求
+# 在Workfront中建立和管理請求
 
 影片提供如何在Workfront中提出和管理請求的詳細指南。 本檔案說明建立請求的程式，從主功能表選取「請求」並按一下「新增請求」按鈕開始。&#x200B;URL 使用者可以從根據其組織的工作流程量身打造的自訂設計佇列中選擇請求型別。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470920/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

@@ -1,5 +1,5 @@
 ---
-title: 記錄經驗傳承。
+title: 紀錄未來專案的經驗教訓
 description: 了解在結束專案時如何運用「經驗傳承」。
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 84%
 
 ---
 
-# 記錄經驗傳承
+# 紀錄未來專案的經驗教訓
 
 在本影片中，您會了解以下操作的好處：
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 建立「經驗傳承」自訂報告
 * 建立「經驗傳承」專案
 
->[!VIDEO](https://video.tv.adobe.com/v/3441023/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 

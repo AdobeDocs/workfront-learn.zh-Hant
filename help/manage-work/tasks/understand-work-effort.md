@@ -1,5 +1,5 @@
 ---
-title: 瞭解[!UICONTROL 工作投入]
+title: 使用工作量估計任務時數
 description: 使用工作量功能簡化Workfront中的任務計畫，允許自訂計畫時數估計、內聯和大量編輯，以及自訂檢視，以實現有效的專案管理。
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 12%
+source-wordcount: '289'
+ht-degree: 10%
 
 ---
 
-# 了解[!UICONTROL 工作投入]
+# 使用工作量估計任務時數
 
 影片說明如何在難以判斷精確估計時，使用Workfront中的工作投入功能來估計任務的計畫時數。
 它示範如何建立自訂工作量檢視，以透過新增相關欄（例如工作量、計畫時數和期間型別）來簡化任務管理
 
->[!VIDEO](https://video.tv.adobe.com/v/3447410/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

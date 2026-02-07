@@ -1,5 +1,5 @@
 ---
-title: 尋找專案
+title: 有效地尋找專案
 description: 使用篩選器、搜尋工具、最近清單、我的最愛、釘選專案和自訂報表或控制面板，以快速而有條理地存取專案，藉此簡化專案管理。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 23%
+source-wordcount: '175'
+ht-degree: 20%
 
 ---
 
-# 尋找專案
+# 有效地尋找專案
 
 在本影片中，您將了解一些可快速輕鬆尋找專案的方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439559/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

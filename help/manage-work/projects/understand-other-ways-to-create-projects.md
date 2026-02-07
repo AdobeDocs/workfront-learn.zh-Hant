@@ -1,5 +1,5 @@
 ---
-title: 瞭解建立專案的四種方法
+title: 探索四種建立專案的方法
 description: 探索如何使用範本（從頭開始）、複製現有專案或匯入Microsoft專案檔案（根據不同使用者的需求量身打造），在Workfront中有效率地建立專案。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 7%
+ht-degree: 4%
 
 ---
 
-# 瞭解建立專案的四種方法
+# 探索四種建立專案的方法
 
 影片提供使用各種方法在Workfront中建立專案的完整指南：
 
@@ -55,7 +55,7 @@ ht-degree: 7%
 
 影片強調Workfront透過範本、草稿、複製或匯入，以因應不同使用者需求來建立專案的靈活性。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3432167/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

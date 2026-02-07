@@ -1,5 +1,5 @@
 ---
-title: 管理問題指派
+title: 有效管理問題指派
 description: 使用內聯編輯和工作負載平衡器指派、追蹤和更新進度、變更問題狀態，以及遵循團隊特定的工作流程，以順暢執行專案，從而有效管理Workfront中的問題。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 25%
+source-wordcount: '291'
+ht-degree: 23%
 
 ---
 
-# 管理問題指派
+# 有效管理問題指派
 
 管理問題是專案經理人和被指派解決問題的人員的重要職責。
 
@@ -30,7 +30,7 @@ ht-degree: 25%
 * 更新問題的處理進度
 * 更新問題狀態
 
->[!VIDEO](https://video.tv.adobe.com/v/3446966/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

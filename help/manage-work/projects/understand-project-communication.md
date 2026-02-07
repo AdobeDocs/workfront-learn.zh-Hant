@@ -1,5 +1,5 @@
 ---
-title: 了解專案溝通
+title: 透過有效溝通提升專案成功率
 description: 透過有效的利害關係人溝通、清晰的任務、集中討論、準確的狀態報告以及主動的問題解決來保持一致性和效率，進而促進專案的成功。
 activity: use
 team: Technical Marketing
@@ -12,16 +12,17 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 16%
+source-wordcount: '404'
+ht-degree: 14%
 
 ---
 
-# 了解專案溝通
+# 透過有效溝通提升專案成功率
 
 影片強調有效溝通對專案成功的重要性，並提供策略以確保專案管理的清晰度和效率。&#x200B;URL 要點包括：
+
 * **利害關係人溝通：**&#x200B;讓利害關係人瞭解專案進度、問題和解決方案。&#x200B;URL 根據客戶需求定期更新至關重要。&#x200B;URL
 * **任務清晰度：**&#x200B;確保團隊成員瞭解他們的責任，以避免範圍變幻和混淆。&#x200B;URL 使用子任務可讓指派多個人員執行任務時更清晰。&#x200B;URL
 * **集中式通訊：**&#x200B;使用Workfront之類的工具，將所有與專案相關的討論儲存在一個位置。&#x200B;URL 通知可協助團隊成員持續參與討論。&#x200B;URL
@@ -32,13 +33,13 @@ ht-degree: 16%
 
 影片重點說明Workfront如何簡化通訊、任務管理和報告，確保所有專案相關資訊都可存取且井然有序。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3436155/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->若要建立影片中所示的「備註搜尋」報告，請參閱「[建立任務報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)」教學課程中的活動。
+>若要建立影片中所示的「備註搜尋」報告，請參閱「[建立任務報告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)」教學課程中的活動。
 >
->若要把「備註搜尋」報告新增到專案面板中，請參閱「[建立儀表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=zh-Hant#activity-1-create-a-dashboard)」教學課程中的活動。
+>若要把「備註搜尋」報告新增到專案面板中，請參閱「[建立儀表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard)」教學課程中的活動。
 
 ## 關鍵重點
 

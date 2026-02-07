@@ -1,5 +1,5 @@
 ---
-title: 更新問題狀態
+title: 有效地更新問題狀態
 description: 瞭解問題狀態和使用它們的最佳實務。
 feature: Work Management
 type: Tutorial
@@ -9,18 +9,18 @@ last-substantial-update: 2025-09-03T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 18%
+ht-degree: 14%
 
 ---
 
-# 更新問題狀態
+# 有效地更新問題狀態
 
 在本影片中，您將瞭解問題狀態和使用它們的最佳實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3472976/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

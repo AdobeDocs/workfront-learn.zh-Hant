@@ -1,5 +1,5 @@
 ---
-title: 了解[!UICONTROL 專案組合最佳化工具]
+title: 使用Portfolio最佳化工具最佳化專案優先順序
 description: 在Workfront中最佳化專案管理，方法是完成商業案例以進行公平比較、依狀態篩選專案、動態調整分數、有效排定專案的優先順序，以及根據投資組合目標調整資源規劃。
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 7%
+source-wordcount: '291'
+ht-degree: 4%
 
 ---
 
-# 了解[!UICONTROL 專案組合最佳化工具]
+# 使用Portfolio最佳化工具最佳化專案優先順序
 
 影片說明如何使用Workfront中的Portfolio最佳化工具來評估專案組合併排定其優先順序。&#x200B;URL 首先，提交專案的商業案例，將其狀態變更為「已要求」，並啟用核准或拒絕專案的選項。&#x200B;URL 在核准之前，使用者可以使用Portfolio最佳化工具將專案與產品組合中的其他專案進行比較。&#x200B;URL
 
 影片強調完成業務案例以進行準確比較的重要性，並逐步說明如何有效最佳化及管理專案優先順序。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3446286/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

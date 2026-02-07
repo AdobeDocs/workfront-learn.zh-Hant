@@ -1,5 +1,5 @@
 ---
-title: 報告問題
+title: 建立問題管理的自訂報告
 description: 了解如何針對問題及專案管理建立自訂報告，包括如何集中和追蹤未解決的問題、自訂欄和篩選器，以及最佳化專案和問題管理。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 100%
+source-wordcount: '382'
+ht-degree: 96%
 
 ---
 
-# 報告問題
+# 建立問題管理的自訂報告
 
 這部影片提供步驟化的指南，說明如何建立兩種類型的報告，以管理並追蹤問題和專案。
 

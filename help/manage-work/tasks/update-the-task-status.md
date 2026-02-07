@@ -1,5 +1,5 @@
 ---
-title: 更新任務狀態
+title: 更新任務狀態以取得準確的報告
 description: 瞭解如何更新任務狀態、更新的原因以及多久更新一次。
 feature: Work Management
 type: Tutorial
@@ -9,18 +9,18 @@ last-substantial-update: 2025-08-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18799
 exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 17%
+source-wordcount: '159'
+ht-degree: 16%
 
 ---
 
-# 更新任務狀態
+# 更新任務狀態以取得準確的報告
 
 影片會提供教學課程，說明更新任務狀態的方式、原因和頻率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471178/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

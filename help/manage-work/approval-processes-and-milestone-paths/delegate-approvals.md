@@ -1,5 +1,5 @@
 ---
-title: 委派任務、問題與核准
+title: 有效地委派任務、問題和核准
 description: 透過在「設定」中啟用任務和核准委派、使用「委派」和「委派核准」按鈕、設定指派的電子郵件通知，以及追蹤更新和明確監督的系統活動，簡化委派工作流程。
 activity: use
 feature: Approvals
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 7%
+source-wordcount: '432'
+ht-degree: 5%
 
 ---
 
-# 委派任務、問題與核准
+# 有效地委派任務、問題和核准
 
 影片說明如何委派任務、問題和核准。&#x200B;URL 若要啟用委派，系統或群組管理員必須在「專案偏好設定」下的「設定」中啟動該功能。&#x200B;URL 啟用後，使用者可以使用「我的任務」Widget中的「委派」按鈕，將其所有任務和問題委派給指定時間段內的其他人。&#x200B;URL 委派會同時套用至任務和問題，且必須指派給同一個人。&#x200B;URL 無論是否設定結束日期，委派都可設定，使用者隨時可以手動停止委派。&#x200B;URL
 使用者可透過「等待我的核准」Widget將其委派。&#x200B;URL 委派適用於指定時段內的現有核准和新核准，但僅適用於專案、任務和問題，不適用於檔案、校樣或時程表。&#x200B;URL 管理員可以啟用受委派任務、問題和核准的通知，以通知委派者和受委派者。&#x200B;URL
 系統內會標籤受委派的核准，顯示受委派者及其受委派者。&#x200B;URL 與核准相關的更新會出現在「更新」標籤中，並且可以在「系統活動」標籤中檢視系統活動。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446387/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

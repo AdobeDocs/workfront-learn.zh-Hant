@@ -1,5 +1,5 @@
 ---
-title: 套用里程碑
+title: 將里程碑路徑套用至專案和任務
 description: 了解如何將里程碑路徑套用至專案，以及在專案內將關鍵任務關聯為的里程碑步驟。
 feature: Work Management
 thumbnail: 335205.jpeg
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 79%
 
 ---
 
-# 套用里程碑
+# 將里程碑路徑套用至專案和任務
 
 觀看這段影片，您將了解如何：
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 新增里程碑至任務
 * 套用里程碑的最佳實務
 
->[!VIDEO](https://video.tv.adobe.com/v/3430289/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
@@ -37,5 +37,5 @@ ht-degree: 100%
 ## 有關此主題的推薦教學課程
 
 * [檢視里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [建立里程碑](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [將里程碑路徑套用至專案和任務](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 * [建立基本檢視中的里程碑檢視活動](/help/reporting/basic-reporting/create-a-basic-view.md)

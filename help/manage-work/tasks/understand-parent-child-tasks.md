@@ -1,5 +1,5 @@
 ---
-title: 了解上層-下層任務
+title: 瞭解父子任務關係
 description: 以作業為基礎來最佳化專案管理，使用上階下階結構、自動上階作業完成、彈性組織工具，以及針對效率而量身打造的作業結構。
 activity: use
 feature: Work Management
@@ -12,14 +12,14 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 9%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
 
-# 了解上層-下層任務
+# 瞭解父子任務關係
 
 此影片說明Workfront中的工作結構。 任務是專案的基本元件，代表完成所需的工作專案&#x200B;。 影片強調正確組織任務的重要性，因為這是專案規劃與管理的關鍵步驟。 它示範了如何開始處理任務，並說明了父子任務關係。
 &#x200B;URL父系任務會充當組織者，將專案分組為階段、階段或里程碑，且不會指派給個人。 子任務或子任務代表指派給專案團隊成員的可操作工作。

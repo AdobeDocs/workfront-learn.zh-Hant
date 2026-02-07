@@ -1,5 +1,5 @@
 ---
-title: 更新請求
+title: 在Workfront中更新請求
 description: 使用篩選器來尋找請求、有效率地更新狀態和詳細資訊、存取完整資訊，並促進集中式共同作業以簡化工作流程，藉此簡化Workfront中的請求管理。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 8%
+source-wordcount: '252'
+ht-degree: 5%
 
 ---
 
-# 更新請求
+# 在Workfront中更新請求
 
 影片說明如何在Adobe Workfront中尋找和更新請求。&#x200B;URL 提交請求後，您可以新增資訊或提出問題，以確保處理請求的人可以使用最新詳細資料。「&#x200B;&#x200B;」
 

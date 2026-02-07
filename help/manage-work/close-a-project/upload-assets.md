@@ -1,5 +1,5 @@
 ---
-title: 上傳資產
+title: 上傳和管理專案資產
 description: 在結束專案之前將文件和校訂上傳至專案，以確保所有相關資料都與專案相關聯。
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 87%
 
 ---
 
-# 上傳資產
+# 上傳和管理專案資產
 
 觀看這段影片，您將了解如何：
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 上傳文件
 * 尋找上傳校訂的培訓
 
->[!VIDEO](https://video.tv.adobe.com/v/3440381/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 

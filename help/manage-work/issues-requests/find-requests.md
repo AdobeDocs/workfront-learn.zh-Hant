@@ -1,5 +1,5 @@
 ---
-title: 尋找和管理請求
+title: 有效率地尋找及管理請求
 description: 瞭解如何使用篩選器、管理團隊指派、建立自訂報告和儀表板，以及釐清「我的」在不同內容中的含義，以實現有效的請求管理。
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 85%
+source-wordcount: '229'
+ht-degree: 80%
 
 ---
 
-# 尋找和管理請求
+# 有效率地尋找及管理請求
 
 此影片說明如何在 Workfront 中尋找和管理請求。影片涵蓋四個主要區域：
 
@@ -30,7 +30,7 @@ ht-degree: 85%
 * 自訂報告和儀表板
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441665/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 
