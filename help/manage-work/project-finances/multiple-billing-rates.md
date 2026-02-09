@@ -1,5 +1,5 @@
 ---
-title: 瞭解多種計費費率
+title: 自訂工作角色的計費率
 description: 自訂和管理專案層級工作角色的計費率。
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 11%
+source-wordcount: '173'
+ht-degree: 6%
 
 ---
 
 
-# 瞭解多種計費費率
+# 自訂工作角色的計費率
 
 影片說明如何管理和自訂專案中工作角色的計費率。&#x200B;URL它強調為相同工作角色設定多個收費率的彈性，並確保精確的時間調整。&#x200B;URL
 

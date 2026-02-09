@@ -1,5 +1,5 @@
 ---
-title: 瞭解現有的篩選器
+title: 為複雜報表建立「存在」篩選器
 description: 了解什麼是 EXISTS 篩選器，其有什麼功能，以及您要如何從頭開始建置一個。此外，還可以參閱許多 EXISTS 篩選器的實用範例。
 activity: use
 team: Technical Marketing
@@ -11,22 +11,22 @@ jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '688'
 ht-degree: 4%
 
 ---
 
-# 瞭解現有的篩選器
+# 為複雜報表建立「存在」篩選器
 
 「存在」篩選器是進階的文字模式篩選器，可讓我們在標準Report Builder中繞過2個表格/欄位跳轉限制。 或者，它們可用於透過NOTEXISTS識別系統中缺少特定關係條件的物件。
 
 在本影片中，您將瞭解如何建立存在篩選器，以在校訂核准報告中檢視「目前專案的校訂核准」。
 
-如需有關EXISTS函式的更深入逐步解說，請參閱[使用EXISTS陳述式建立複雜的文字模式篩選器](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)檔案。
+如需有關EXISTS函式的更深入逐步解說，請參閱[使用EXISTS陳述式建立複雜的文字模式篩選器](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471214/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## EXISTS篩選範例
 

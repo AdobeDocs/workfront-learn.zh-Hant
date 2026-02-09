@@ -1,5 +1,5 @@
 ---
-title: 了解內建的任務篩選器
+title: 探索內建任務篩選器
 description: 了解如何審閱內建的任務篩選器以查看其建置方式，並在 Workfront 中建立自己的任務篩選器。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 了解內建的任務篩選器
+# 探索內建任務篩選器
 
 觀看這段影片，您將：
 
@@ -27,7 +27,7 @@ ht-degree: 95%
 * 了解一些實用的任務報告元素
 * 了解如何建立您的任務篩選器
 
->[!VIDEO](https://video.tv.adobe.com/v/3469595/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
 
 ## 「了解內建的任務篩選器」活動
 

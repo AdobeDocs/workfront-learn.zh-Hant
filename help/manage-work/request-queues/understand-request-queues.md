@@ -1,5 +1,5 @@
 ---
-title: 了解請求佇列
+title: 探索Workfront中的請求佇列
 description: 透過集中化的提交請求佇列、有效的佇列管理以及輕鬆存取提交的請求，來簡化Workfront中的作業，進而改善專案工作流程。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 了解請求佇列
+# 探索Workfront中的請求佇列
 
 此影片說明Workfront中請求佇列的概念、其用途，以及如何提交和管理請求。&#x200B;URL 請求佇列可作為提交各種型別請求的集中位置。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3447021/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

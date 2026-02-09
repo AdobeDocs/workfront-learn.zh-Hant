@@ -1,5 +1,5 @@
 ---
-title: 了解內建的問題篩選器
+title: 探索內建問題篩選器
 description: 了解如何審閱內建的問題篩選器以查看其建置方式，並在 Workfront 中建立自己的問題篩選器。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 了解內建的問題篩選器
+# 探索內建問題篩選器
 
 觀看這段影片，您將：
 

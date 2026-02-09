@@ -1,5 +1,5 @@
 ---
-title: 將問題/請求轉換為任務
+title: 將問題或請求轉換為任務
 description: 使用可編輯的名稱、無縫的自訂表單附件、彈性的專案選擇、轉換選項和同步的狀態更新，輕鬆地將問題轉換為Workfront中的任務，以簡化工作流程。
 activity: use
 team: Technical Marketing
@@ -11,18 +11,18 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 23%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 將問題/請求轉換為任務
+# 將問題或請求轉換為任務
 
 影片示範如何將問題或請求轉換為任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445441/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

@@ -1,5 +1,5 @@
 ---
-title: 記錄和審閱時數
+title: 記錄並檢閱專案時數
 description: 在結束專案之前，記錄未完成的時數並審閱已記錄的時數。
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 記錄和審閱時數
+# 記錄並檢閱專案時數
 
 觀看這段影片，您將了解如何：
 
 * 審閱專案的記錄時數
 * 必要時核准專案時數
 
->[!VIDEO](https://video.tv.adobe.com/v/3441080/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 

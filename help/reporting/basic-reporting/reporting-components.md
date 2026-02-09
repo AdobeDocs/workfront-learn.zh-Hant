@@ -1,5 +1,5 @@
 ---
-title: 瞭解報告元件
+title: 探索Workfront中的報告元件
 description: Workfront的報表元件會使用物件式篩選器、動態檢視、結構化分組和萬用字元功能來調整資料視覺效果，以提供量身打造的深入分析。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 45%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 瞭解報告元件
+# 探索Workfront中的報告元件
 
 影片說明Workfront中報表元件的概念，這些元件對於建立篩選器、檢視和分組至關重要。 主要元件包括：
 
@@ -29,7 +29,7 @@ ht-degree: 45%
 * **篩選限定詞：**&#x200B;定義要在報告中包含或排除的值，例如顯示優先順序為「高」的工作&#x200B;。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447032/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## 關鍵重點
 
@@ -48,7 +48,7 @@ ht-degree: 45%
 欄位來源選項取決於選取的物件類型。通常，欄位來源是 Workfront 中某項資訊 (即欄位名稱) 所屬的項目。有時候欄位來源與物件類型相同。
 欄位來源決定可以使用的欄位名稱。
 
-例如：「[!UICONTROL &#x200B; 專案]」、「[!UICONTROL 任務]」、「[!UICONTROL 問題]」、「[!UICONTROL 指派至]」
+例如：「[!UICONTROL  專案]」、「[!UICONTROL 任務]」、「[!UICONTROL 問題]」、「[!UICONTROL 指派至]」
 
 **B - 欄位名稱**
 

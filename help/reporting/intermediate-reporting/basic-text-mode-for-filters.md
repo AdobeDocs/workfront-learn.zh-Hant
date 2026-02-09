@@ -1,5 +1,5 @@
 ---
-title: 瞭解篩選器的基本文字模式
+title: 探索Workfront中篩選器的基本文字模式
 description: 瞭解您可以在Workfront的報告篩選器中使用的文字模式、駝峰式大小寫和一些基本文字模式。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 了解篩選器的基本文字模式
+# 探索Workfront中篩選器的基本文字模式
 
 >[!PREREQUISITES]
 >
@@ -41,7 +41,7 @@ ht-degree: 90%
 * 駝峰式大小寫
 * 您可以用在報表篩選中的某些&#x200B;_文字模式程式碼區塊_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470329/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## 「了解篩選器的基本文字模式」活動
 

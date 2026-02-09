@@ -1,6 +1,6 @@
 ---
-title: 在畫布控制面板報表中使用OR篩選器
-description: 瞭解如何在畫布控制面板報告中使用OR篩選器。
+title: 在畫布控制面板報表中套用OR篩選器
+description: 了解如何在版面儀表板報告中使用 OR 篩選器。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,14 +11,15 @@ jira: KT-18770
 last-substantial-update: 2025-09-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+exl-id: 5be25b98-892e-4027-99fc-d03e2d6cc9cf
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 9%
+ht-degree: 18%
 
 ---
 
-# 在畫布控制面板報表中使用OR篩選器
+# 在畫布控制面板報表中套用OR篩選器
 
 >[!PREREQUISITES]
 >
@@ -31,11 +32,11 @@ ht-degree: 9%
 
 [畫布儀表板簡介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)會逐步說明如何做到這兩點。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475392/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops=1)
 
 **如需詳細資訊，請參閱下列說明文章：**
-[畫布儀表板概觀](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[在畫布儀表板中編輯報告篩選器](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[畫布儀表板概觀](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[在畫布儀表板中編輯報告篩選器](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## 有關此主題的推薦教學課程
 

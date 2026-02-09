@@ -1,5 +1,5 @@
 ---
-title: 建立附有圖表的報告
+title: 使用報表中的圖表視覺化資料
 description: 圖表透過可自訂的篩選器、分組和棧疊欄格式來組織資料深入分析，讓分析更清晰、更易於操作，藉此增強資料視覺化。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 39%
+source-wordcount: '599'
+ht-degree: 37%
 
 ---
 
-# 建立附有圖表的報告
+# 使用報表中的圖表視覺化資料
 
 影片說明如何使用圖表來有效地視覺化資料，尤其是追蹤專案任務時。&#x200B;URL 它示範如何在Workfront中建立兩種型別的報表：
 
@@ -38,7 +38,7 @@ ht-degree: 39%
 
 影片重點說明圓形圖和棧疊直條圖等圖表如何提供任務分佈和專案效能的深入分析，以協助使用者比較專案並以視覺化方式瞭解任務進度。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3450025/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## 關鍵重點
 

@@ -1,5 +1,5 @@
 ---
-title: 更新財務
+title: 更新使用者端專案的財務
 description: 透過定義費率、針對任務指派成本和收入類型、管理費用和建立計費記錄來簡化成本追蹤和計費。Workfront 不進行實際計費。
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '365'
 ht-degree: 11%
 
 ---
 
 
-# 更新財務
+# 更新使用者端專案的財務
 
 此影片提供追蹤時間、費用和建立使用者端專案計費記錄的詳細指南。&#x200B;URL 要點包括：
 

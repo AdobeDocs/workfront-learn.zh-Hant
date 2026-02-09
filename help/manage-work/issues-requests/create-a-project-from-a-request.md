@@ -1,5 +1,5 @@
 ---
-title: 將問題/請求轉換為專案
+title: 將問題或請求轉換為專案
 description: 透過使用範本將問題轉換為專案、自訂專案詳細資訊、管理問題解決選項以及確保能見度並存取順暢的工作流程，簡化Workfront中的專案管理。
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 15%
+source-wordcount: '235'
+ht-degree: 8%
 
 ---
 
-# 將問題/請求轉換為專案
+# 將問題或請求轉換為專案
 
 影片示範如何將問題或請求轉換為專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446633/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

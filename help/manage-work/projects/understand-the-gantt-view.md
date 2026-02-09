@@ -1,5 +1,5 @@
 ---
-title: 了解[!UICONTROL 甘特圖]視圖
+title: 探索專案管理的[!UICONTROL 甘特圖]檢視
 description: 使用甘特圖，提供大畫面檢視、進度追蹤、里程碑管理、前置任務分析和可自訂的選項，以簡化任務和資源管理，讓專案效率最大化。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 13%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 了解[!UICONTROL 甘特圖]視圖
+# 探索專案管理的[!UICONTROL 甘特圖]檢視
 
 影片說明如何使用專案甘特圖和任務甘特圖來有效地視覺化和管理任務和專案。&#x200B;URL 甘特圖提供任務、範本和專案的整體檢視，並常用於投資組合中以瞭解專案之間的關係，尤其是共用資源的專案。&#x200B;URL
 
@@ -40,7 +40,7 @@ ht-degree: 13%
 
 影片強調甘特圖的彈性，讓使用者能夠自訂檢視並同時顯示多個元素，以提升專案管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448017/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 您可以在線上閱讀文章「[開始使用甘特圖](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=zh-Hant)」了解更多資訊。
 

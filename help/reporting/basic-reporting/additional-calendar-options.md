@@ -1,5 +1,5 @@
 ---
-title: 了解其他行事曆報告選項
+title: 探索進階行事曆報告功能
 description: 了解如何複製、編輯、分享和刪除行事曆。
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 了解其他行事曆報告選項
+# 探索進階行事曆報告功能
 
 行事曆報告是動態報告，在行事曆檢視中顯示工作和休假時間。您可以在行事曆報告中顯示以下物件的日期資訊：
 
@@ -35,4 +35,4 @@ ht-degree: 100%
 * 共用行事曆
 * 刪除行事曆
 
->[!VIDEO](https://video.tv.adobe.com/v/3445067/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)

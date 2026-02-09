@@ -1,5 +1,5 @@
 ---
-title: 尋找財務資訊
+title: 存取和管理專案與任務的財務資訊
 description: 了解如何有效地存取、分析和管理專案和任務的財務資料，包括專案和任務層級的預算、收入、成本和績效量度。
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 21%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 尋找財務資訊
+# 存取和管理專案與任務的財務資訊
 
 影片說明如何存取和管理專案與工作的財務資訊。&#x200B;URL它提供在專案與作業層次瀏覽及瞭解財務資料的完整概觀。&#x200B;URL
 

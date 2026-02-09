@@ -1,5 +1,5 @@
 ---
-title: 了解和管理期間類型和任務限制
+title: 主要期間型別和任務限制
 description: 瞭解期間類型和任務限制，並瞭解如何確保在專案中進行正確設定。
 feature: Work Management
 thumbnail: 3420986.jpg
@@ -12,14 +12,14 @@ last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 100%
+source-wordcount: '138'
+ht-degree: 91%
 
 ---
 
-# 了解和管理期間類型和任務限制
+# 主要期間型別和任務限制
 
 觀看這段影片，您將瞭解有關期間類型和任務限制的下列事項：
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 使用這些設定的最佳實務
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422823/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
 關於如何建立「期間類型和任務限制」視圖的資訊，請參閱「[建立基本視圖](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hant)」中的「**期間類型和任務限制視圖**」活動。

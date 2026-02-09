@@ -1,5 +1,5 @@
 ---
-title: 了解請求流程設定
+title: 組織您的請求流程設定
 description: 透過定義佇列主題、使用主題群組、設定路由規則、提前規劃，以及確保提交時不會忽略以提高效率，最佳化Workfront請求管理。
 activity: delpoy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 11%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 了解請求流程設定
+# 組織您的請求流程設定
 
 影片說明Workfront中的請求流程程式，重點是佇列管理、路由規則、主題群組和佇列主題。&#x200B;URL 它透過回答三個關鍵問題來強調組織請求佇列的重要性：
 
@@ -30,7 +30,7 @@ ht-degree: 11%
 
 透過解決這些問題，使用者就能在Workfront中有效地規劃及設定要求佇列。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3441916/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

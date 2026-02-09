@@ -1,5 +1,5 @@
 ---
-title: Canvas儀表板簡介
+title: 探索Workfront中的畫布控制面板
 description: 了解如何導覽至 Canvas 儀表板並在其中導覽，以及如何使用現有報告建立簡單的儀表板。
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ last-substantial-update: 2025-09-09T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 18%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Canvas儀表板簡介
+# 探索Workfront中的畫布控制面板
 
 「畫布」儀表板功能是在Workfront中建立儀表板的另一種方式。 此功能目前在一般Beta中，這表示所有Workfront客戶都可以使用此功能（如果他們已註冊測試版）。 系統管理員需要執行註冊。 本影片將展示如何進行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474031/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-如需詳細資訊，請參閱[畫布控制面板概觀](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)文章。
+如需詳細資訊，請參閱[畫布控制面板概觀](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)文章。
 
 ## 有關此主題的推薦教學課程
 
