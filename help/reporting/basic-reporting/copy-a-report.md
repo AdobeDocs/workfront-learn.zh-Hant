@@ -23,4 +23,4 @@ ht-degree: 0%
 
 了解如何透過複製和編輯類似報告來快速建立新報告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437056/?captions=chi_hant&quality=12&learn=on&enablevpops=1)

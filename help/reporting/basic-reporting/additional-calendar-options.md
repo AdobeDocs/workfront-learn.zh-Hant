@@ -35,4 +35,4 @@ ht-degree: 0%
 * 共用行事曆
 * 刪除行事曆
 
->[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445067/?captions=chi_hant&quality=12&learn=on&enablevpops=1)

@@ -36,7 +36,7 @@ ht-degree: 0%
 * 相依性循環錯誤
 * 捷徑與最佳實務
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454541/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 有關使用前置任務的更多資訊，請參閱「[使用任務前置任務](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=zh-Hant)」。
 

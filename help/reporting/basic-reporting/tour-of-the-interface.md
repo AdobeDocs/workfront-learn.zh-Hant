@@ -35,4 +35,4 @@ ht-degree: 0%
 * 摘要資訊
 * 以及如何建立臨時的行事曆項目
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438777/?captions=chi_hant&quality=12&learn=on&enablevpops=1)

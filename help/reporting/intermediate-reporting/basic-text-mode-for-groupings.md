@@ -40,7 +40,7 @@ ht-degree: 0%
 * 什麼是駝峰式大小寫
 * 您可以用於報表群組的某些&#x200B;_文字模式程式碼區塊_
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470790/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 「了解分組的基本文字模式」活動
 

@@ -27,7 +27,7 @@ ht-degree: 58%
 * 如何與任何人共用報告
 * 收件者可以透過 Workfront 報告看到什麼資訊及執行哪些動作
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447823/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 關鍵重點
 

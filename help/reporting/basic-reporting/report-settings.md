@@ -27,4 +27,4 @@ ht-degree: 46%
 * 如何使用特定使用者的存取許可權執行報告
 * 如何設定及使用報告提示
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445874/?captions=chi_hant&quality=12&learn=on&enablevpops=1)

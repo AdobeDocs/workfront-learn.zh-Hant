@@ -26,4 +26,4 @@ ht-degree: 0%
 * 建立和編輯篩選器
 * 堆疊篩選器
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422814/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
