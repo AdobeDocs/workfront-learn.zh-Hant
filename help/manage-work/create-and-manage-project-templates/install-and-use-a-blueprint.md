@@ -23,7 +23,7 @@ ht-degree: 24%
 瞭解管理員如何安裝Blueprint，以及使用者如何將其放置使用。 在此範例中，我們將安裝「新使用者的Workfront培訓」藍圖，並將其建立的範本和檢視作為培訓檢查清單來協助啟用Workfront的使用者。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479846/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 關鍵重點
 
