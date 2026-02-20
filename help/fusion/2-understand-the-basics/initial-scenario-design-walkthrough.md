@@ -34,7 +34,7 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 * 使用情境設計工具
 * 建立基本情境
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3480096/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 **在測試磁碟機執行個體中建立OAuth應用程式整合時，以下是「重新導向URL」欄位中貼上的URL**
 
