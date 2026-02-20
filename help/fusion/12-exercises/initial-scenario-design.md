@@ -12,7 +12,7 @@ thumbnail: KT11038.png
 last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
+source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
 workflow-type: tm+mt
 source-wordcount: '1181'
 ht-degree: 77%
@@ -72,7 +72,7 @@ ht-degree: 77%
 
    ![初始情境設計影像4a](../12-exercises/assets/initial-scenario-design-4a.png)
 
-1. 使用您先前儲存的&#x200B;**使用者端識別碼**&#x200B;和&#x200B;**使用者端密碼**，在此填入。 針對&#x200B;**驗證URL**，最簡單的做法是複製欄位下方指定的預設驗證URL，並將`oauth.my`取代為`<domain name>.testdrive`，然後按一下[繼續]&#x200B;**&#x200B;**。
+1. 使用您先前儲存的&#x200B;**使用者端識別碼**&#x200B;和&#x200B;**使用者端密碼**，在此填入。 針對&#x200B;**驗證URL**，最簡單的做法是複製欄位下方指定的預設驗證URL，並將`oauth.my`取代為`<domain name>.testdrive`，然後按一下[繼續]****。
 
    ![初始情境設計影像5a](../12-exercises/assets/initial-scenario-design-5a.png)
 
