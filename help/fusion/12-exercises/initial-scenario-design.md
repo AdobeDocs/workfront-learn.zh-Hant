@@ -12,7 +12,7 @@ thumbnail: KT11038.png
 last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
+source-git-commit: be157b67df534e0be0f58e8aa04a6646950541d0
 workflow-type: tm+mt
 source-wordcount: '1181'
 ht-degree: 77%
@@ -50,19 +50,19 @@ ht-degree: 77%
 
 1. 您必須先在該Workfront執行個體中建立OAuth 2.0聯結器，才能連線到Workfront執行個體。 若要登入Workfront執行個體，請前往&#x200B;**設定>系統> OAuth2應用程式**，然後按一下&#x200B;**建立應用程式整合**。
 
-填寫表單的第一頁，如下所示，然後按一下&#x200B;**建立**。
+   填寫表單的第一頁，如下所示，然後按一下&#x200B;**建立**。
 
-![初始情境設計影像3a](../12-exercises/assets/initial-scenario-design-3a.png)
+   ![初始情境設計影像3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-當下一個畫面出現時，在&#x200B;**重新導向URL**&#x200B;欄位中填入下列URL：
+1. 當下一個畫面出現時，在&#x200B;**重新導向URL**&#x200B;欄位中填入下列URL：
 
-`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
+   `https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-![初始情境設計影像3b](../12-exercises/assets/initial-scenario-design-3b.png)
+   ![初始情境設計影像3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-然後按一下&#x200B;**新增使用者端密碼**&#x200B;按鈕。 將會顯示使用者端密碼。 複製檔案並儲存在可擷取檔案的位置，以供日後步驟使用。 您的Fusion案例中需要它。 同時複製並儲存&#x200B;**使用者端識別碼**，以供日後步驟使用。 當您完成複製時，請按一下應用程式底部的&#x200B;**儲存**。
+1. 然後按一下&#x200B;**新增使用者端密碼**&#x200B;按鈕。 將會顯示使用者端密碼。 複製檔案並儲存在可擷取檔案的位置，以供日後步驟使用。 您的Fusion案例中需要它。 同時複製並儲存&#x200B;**使用者端識別碼**，以供日後步驟使用。 當您完成複製時，請按一下應用程式底部的&#x200B;**儲存**。
 
-![初始情境設計影像3c](../12-exercises/assets/initial-scenario-design-3c.png)
+   ![初始情境設計影像3c](../12-exercises/assets/initial-scenario-design-3c.png)
 
 1. 返回Fusion，按一下「**新增**」按鈕以建立與Workfront的連線。
 
@@ -72,7 +72,7 @@ ht-degree: 77%
 
    ![初始情境設計影像4a](../12-exercises/assets/initial-scenario-design-4a.png)
 
-1. 使用您先前儲存的&#x200B;**使用者端識別碼**&#x200B;和&#x200B;**使用者端密碼**，在此填入。 針對&#x200B;**驗證URL**，最簡單的做法是複製欄位下方指定的預設驗證URL，並將`oauth.my`取代為`<domain name>.testdrive`，然後按一下[繼續]&#x200B;**&#x200B;**。
+1. 使用您先前儲存的&#x200B;**使用者端識別碼**&#x200B;和&#x200B;**使用者端密碼**，在此填入。 針對&#x200B;**驗證URL**，最簡單的做法是複製欄位下方指定的預設驗證URL，並將`oauth.my`取代為`<domain name>.testdrive`，然後按一下[繼續]****。
 
    ![初始情境設計影像5a](../12-exercises/assets/initial-scenario-design-5a.png)
 
