@@ -9,13 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-last-substantial-update: 2025-06-02T00:00:00Z
+last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
 workflow-type: tm+mt
-source-wordcount: '985'
-ht-degree: 97%
+source-wordcount: '1181'
+ht-degree: 77%
 
 ---
 
@@ -48,19 +48,37 @@ ht-degree: 97%
 
    **驗證模組與您的 Workfront 帳戶的連線。**
 
-1. 若要首次建立連線，按一下「新增」按鈕。
+1. 您必須先在該Workfront執行個體中建立OAuth 2.0聯結器，才能連線到Workfront執行個體。 若要登入Workfront執行個體，請前往&#x200B;**設定>系統> OAuth2應用程式**，然後按一下&#x200B;**建立應用程式整合**。
 
-   ![初始情境設計影像 3](../12-exercises/assets/initial-scenario-design-3.png)
+填寫表單的第一頁，如下所示，然後按一下&#x200B;**建立**。
 
-1. 為連線命名，例如「My Workfront 2020」
+![初始情境設計影像3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-   ![初始情境設計影像 4](../12-exercises/assets/initial-scenario-design-4.png)
+當下一個畫面出現時，在&#x200B;**重新導向URL**&#x200B;欄位中填入下列URL：
 
-1. 輸入&#x200B;**您的Workfront測試磁碟機帳戶**&#x200B;的URL，然後按[下一步]。
+`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-   ![初始情境設計影像 5](../12-exercises/assets/initial-scenario-design-5.png)
+![初始情境設計影像3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-1. 輸入您的密碼並按一下「登入」。
+然後按一下&#x200B;**新增使用者端密碼**&#x200B;按鈕。 將會顯示使用者端密碼。 複製檔案並儲存在可擷取檔案的位置，以供日後步驟使用。 您的Fusion案例中需要它。 同時複製並儲存&#x200B;**使用者端識別碼**，以供日後步驟使用。 當您完成複製時，請按一下應用程式底部的&#x200B;**儲存**。
+
+![初始情境設計影像3c](../12-exercises/assets/initial-scenario-design-3c.png)
+
+1. 返回Fusion，按一下「**新增**」按鈕以建立與Workfront的連線。
+
+   ![初始情境設計影像3d](../12-exercises/assets/initial-scenario-design-3d.png)
+
+1. 選取&#x200B;**Adobe Workfront auth**&#x200B;作為連線型別，並勾選&#x200B;**顯示進階設定**&#x200B;方塊。 然後按一下&#x200B;**繼續**。
+
+   ![初始情境設計影像4a](../12-exercises/assets/initial-scenario-design-4a.png)
+
+1. 使用您先前儲存的&#x200B;**使用者端識別碼**&#x200B;和&#x200B;**使用者端密碼**，在此填入。 針對&#x200B;**驗證URL**，最簡單的做法是複製欄位下方指定的預設驗證URL，並將`oauth.my`取代為`<domain name>.testdrive`，然後按一下[繼續]****。
+
+   ![初始情境設計影像5a](../12-exercises/assets/initial-scenario-design-5a.png)
+
+1. 您的連線應該要進行驗證。 您可能需要登入Workfront。 按一下&#x200B;**允許存取**。
+
+   ![初始情境設計影像5b](../12-exercises/assets/initial-scenario-design-5b.png)
 
    **連線已建立。現在輸入您要從 Workfront 下載的文件之文件 ID。**
 

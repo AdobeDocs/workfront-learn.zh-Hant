@@ -8,14 +8,15 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
+last-substantial-update: 2026-02-19T00:00:00Z
 jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 99%
+source-wordcount: '130'
+ht-degree: 82%
 
 ---
 
@@ -35,7 +36,12 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
+## 這是要在測試磁碟機執行個體中建立OAuth應用程式整合時，貼到&#x200B;**重新導向URL**&#x200B;欄位中的URL
 
-## 想要了解更多嗎？我們建議參閱以下資訊：
+```
+https://app.workfrontfusion.com/oauth/cb/workfront-workfront
+```
 
-[Workfront Fusion 文件](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+## 想要瞭解更多嗎？我們建議參閱以下資訊：
+
+[Workfront Fusion 文件](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
