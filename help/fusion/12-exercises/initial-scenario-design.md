@@ -72,7 +72,7 @@ ht-degree: 77%
 
    ![初始情境設計影像4a](../12-exercises/assets/initial-scenario-design-4a.png)
 
-1. 使用您先前儲存的&#x200B;**使用者端識別碼**&#x200B;和&#x200B;**使用者端密碼**，在此填入。 針對&#x200B;**驗證URL**，最簡單的做法是複製欄位下方指定的預設驗證URL，並將`oauth.my`取代為`<domain name>.testdrive`，然後按一下[繼續]****。
+1. 使用您先前儲存的&#x200B;**使用者端識別碼**&#x200B;和&#x200B;**使用者端密碼**，在此填入。 針對&#x200B;**驗證URL**，最簡單的做法是複製欄位下方指定的預設驗證URL，並將`oauth.my`取代為`<domain name>.testdrive`，然後按一下[繼續]&#x200B;**&#x200B;**。
 
    ![初始情境設計影像5a](../12-exercises/assets/initial-scenario-design-5a.png)
 
