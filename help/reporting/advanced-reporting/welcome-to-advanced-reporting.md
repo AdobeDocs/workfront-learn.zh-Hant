@@ -40,9 +40,9 @@ ht-degree: 100%
 * 熟悉如何使用自訂表單，特別是計算自訂欄位。
 * 「[!UICONTROL 計劃]」授權類型，並有建立報告和啟用篩選器的權限。
 * 您應該參加這些課程：
-   * [[!UICONTROL 基本報告元素]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
-   * [[!UICONTROL 建立自訂報告和儀表板]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
-   * [[!UICONTROL 建立中繼篩選器]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+   * [[!UICONTROL 基本報告元素]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=zh-Hant)
+   * [[!UICONTROL 建立自訂報告和儀表板]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=zh-Hant)
+   * [[!UICONTROL 建立中繼篩選器]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=zh-Hant)
 * 您還應該上這些教學課程：
    * [[!UICONTROL 瞭解視圖的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)
    * [[!UICONTROL 瞭解分組的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hant)
