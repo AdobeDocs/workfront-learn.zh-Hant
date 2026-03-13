@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 教學課程
-user-guide-description: 訓練影片和文章庫，旨在協助您更瞭解Workfront的功能與設定。
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+user-guide-description: 內含培訓影片與文章的資料庫，能協助您更加了解 Workfront 功能和設定。
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '2488'
+source-wordcount: '2485'
 ht-degree: 76%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 76%
       + [使用版本配置範本自訂報告清單](/help/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
 
 
-   + 電子郵件和應用程式內通知 {#email-and-in-app-notifications}
+   + 電子郵件和應用程式通知 {#email-and-in-app-notifications}
       + [管理應用程式內和電子郵件通知](/help/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
       + [設定事件通知](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
       + [傳送[!UICONTROL 公告中心]訊息](/help/administration-and-setup/email-and-in-app-notifications/admin-use-the-announcement-center.md)
@@ -89,7 +89,7 @@ ht-degree: 76%
       + [新增分區符號和邏輯至自訂表單](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [將自訂表單匯出為 PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
-   + 計算運算式 {#calculated-expressions}
+   + 計算的表達式 {#calculated-expressions}
       + [開始使用計算欄位和運算式](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
       + [瞭解資料運算式結構](/help/custom-data/calculated-expressions/data-expression-structure.md)
       + [瞭解日期和時間以及數學運算式](/help/custom-data/calculated-expressions/date-and-time-and-mathematical-expressions.md)
@@ -135,9 +135,9 @@ ht-degree: 76%
 
    + 問題/請求 {#issues-requests}
       + [有效處理計畫外工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
-      + [在Workfront中建立和管理請求](/help/manage-work/issues-requests/make-a-request.md)
-      + [有效率地尋找及管理請求](/help/manage-work/issues-requests/find-requests.md)
-      + [有效管理問題指派](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [在Workfront建立和管理請求](/help/manage-work/issues-requests/make-a-request.md)
+      + [高效地查找和管理請求](/help/manage-work/issues-requests/find-requests.md)
+      + [有效管理問題分配](/help/manage-work/issues-requests/manage-issue-assignments.md)
       + [有效地更新問題狀態](/help/manage-work/tasks/update-the-issue-status.md)
       + [在Workfront中更新請求](/help/manage-work/issues-requests/update-a-request.md)
       + [將問題或請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
@@ -153,12 +153,12 @@ ht-degree: 76%
       + [請求佇列常見問題的解答](/help/manage-work/request-queues/request-queue-faq.md)
 
    + 專案組合 {#portfolios}
-      + [探索產品組合管理和最佳化](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [探索產品組合管理和優化](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [建立全方位的業務案例](/help/portfolios-and-programs/introduction-to-the-business-case.md)
       + [使用Portfolio最佳化工具最佳化專案優先順序](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 核准程式和里程碑路徑 {#approval-processes-and-milestone-paths}
-      + [建立全域和單次使用的核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [建立及管理核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [在請求佇列中套用問題核准流程](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [審閱及核准數位工作](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [有效地委派任務、問題和核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
@@ -170,12 +170,12 @@ ht-degree: 76%
       + [安裝及使用Blueprint](/help/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint.md)
       + [直接使用範本建立專案](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [有效共用專案範本](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [有效率地複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [高效地複製現有項目](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [停用專案範本](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [在範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [在模板中編輯項目團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + 專案時間表  {#project-timelines}
-      + [探索Workfront中的專案時間表](/help/manage-work/project-timelines/understand-project-timelines.md)
+      + [探討Workfront項目時間表](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [了解日期類型和進度狀態](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [使用完成百分比和進度狀態追蹤進度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
@@ -220,13 +220,13 @@ ht-degree: 76%
       + [使用基於使用者的萬用字元建立篩選器](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [建立含有日期型萬用字元的篩選器](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [在篩選器中建立 OR 陳述式](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
-      + [探索內建專案篩選器](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-      + [探索內建任務篩選器](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
-      + [探索內建問題篩選器](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
-      + [探索Workfront中篩選器的基本文字模式](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
-      + [探索Workfront中檢視的基本文字模式](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
-      + [探索Workfront中分組的基本文字模式](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
-      + [使用文字模式建立自訂提示](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [瀏覽內置項目篩選器](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
+      + [瀏覽內置任務篩選器](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
+      + [瀏覽內置問題篩選器](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
+      + [在Workfront探索過濾器的基本文本模式](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [探索Workfront視圖的基本文本模式](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [探索Workfront分組的基本文本模式](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+      + [使用文本模式建立自定義提示](/help/reporting/intermediate-reporting/custom-prompts.md)
       + [為複雜報表建立「存在」篩選器](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + 進階報告 {#advanced-reporting}
@@ -239,12 +239,12 @@ ht-degree: 76%
       + [探索日曆報表介面](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [建立自訂行事曆報告](/help/reporting/basic-reporting/creating-custom-calendars.md)
       + [探索進階行事曆報告功能](/help/reporting/basic-reporting/additional-calendar-options.md)
-      + [活動 — 建立行事曆報告](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+      + [活動 — 建立日曆報表](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + 畫布儀表板 {#canvas-dashboards}
-      + [探索Workfront中的畫布控制面板](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [在Workfront瀏覽畫布儀表板](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [在 Canvas 儀表板上建立 KPI 報告](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
-      + [在畫布控制面板上建立圖表報告](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
+      + [在畫布儀表板上建立圖表報表](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [在畫布控制面板上建立表格報告](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [新增條件式格式至畫布控制面板報表](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
       + [在畫布控制面板報表中套用OR篩選器](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
@@ -336,10 +336,10 @@ ht-degree: 76%
       + [使用 Adobe Workfront 外掛程式與 Creative Cloud 整合](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [設定整合](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hant)
-      + [對應中繼資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=zh-Hant)
-      + [傳送文件和連結資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=zh-Hant)
-      + [維護版本歷史記錄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=zh-Hant)
+      + [設定整合](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [對應中繼資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [傳送文件和連結資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [維護版本歷史記錄](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [透過 G Suite 整合功能改進工作流程](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -351,13 +351,13 @@ ht-degree: 76%
       + [安裝 Microsoft Outlook 增益集](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront for Microsoft Teams 概觀](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=zh-Hant)
-      + [安裝 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=zh-Hant)
-      + [存取 Adobe Workfront from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=zh-Hant)
-      + [在 Microsoft Teams 中搜尋和共用 Adobe Workfront 項目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=zh-Hant)
-      + [從 Microsoft Teams 建立 Adobe Workfront 任務](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=zh-Hant)
-      + [從 Microsoft Teams 提交 Adobe Workfront 請求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=zh-Hant)
-      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=zh-Hant)
+      + [Adobe Workfront for Microsoft Teams 概觀](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [安裝 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [存取 Adobe Workfront from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [在 Microsoft Teams 中搜尋和共用 Adobe Workfront 項目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [從 Microsoft Teams 建立 Adobe Workfront 任務](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [從 Microsoft Teams 提交 Adobe Workfront 請求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [瞭解適用於 [!UICONTROL Slack] 的 Workfront](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -367,7 +367,7 @@ ht-degree: 76%
       + [透過 [!UICONTROL Slack] 進行核准](/help/integrations/slack/make-approvals-through-slack.md)
       + [透過 [!UICONTROL Slack] 搜尋 Workfront](/help/integrations/slack/search-workfront-through-slack.md)
 
-+ Fusion {#fusion}
++ 融合 {#fusion}
    + 歡迎使用 Workfront Fusion  {#welcome-to-workfront-fusion}
       + [簡介及技術策略](/help/fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [以新使用者身分登入](/help/fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
@@ -501,7 +501,7 @@ ht-degree: 76%
       + [使用拖放方式上傳](/help/workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
       + [將多個檔案合併為單一校訂](/help/workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
 
-   + 校訂工作流程 {#proof-workflows}
+   + 校樣工作流 {#proof-workflows}
       + [瞭解作為專案時間表一部分的校訂工作流程](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [編輯校訂工作流程](/help/workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [建立範本群組來整理自動化工作流程範本](/help/workfront-proof/administration-and-setup/create-template-groups.md)
