@@ -38,7 +38,7 @@ Workfront中的里程碑為專案規劃、監控和報告提供了一些真正�
 >
 >* 充分瞭解如何使用Workfront
 >* 已啟用建立專案許可權的標準授權型別
->* [管理工作 — 快速入門](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* [管理工作 — 快速入門](https://experienceleague.adobe.com/?lang=zh-hant&recommended=Workfront-U-1-2022.1.planners)
 
 
 ## 專案範本
