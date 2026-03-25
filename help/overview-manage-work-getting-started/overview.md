@@ -1,6 +1,6 @@
 ---
 title: 管理工作 — 入門
-description: 學習如何建立及規劃專案，開始您的Workfront歷程。 Workfront 會提出讓事情變簡單的建議。
+description: 學習如何建立和規劃專案，開始進行 Workfront 歷程。Workfront 會提出讓事情變簡單的建議。
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,22 +11,22 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '943'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
 # 管理工作 — 入門 {#overview}
 
-學習如何建立及規劃專案，開始您的Workfront歷程。 Workfront 會提出讓事情變簡單的建議。
+學習如何建立和規劃專案，開始進行 Workfront 歷程。Workfront 會提出讓事情變簡單的建議。
 
 在本教學課程中，您將瞭解如何建立專案、規劃專案、管理專案及關閉專案。
 
-完成本教學課程之後，我們建議[管理工作至中級階段](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=zh-Hant)，以進一步提升您的專案管理技能。
+完成本教學課程之後，我們建議[管理工作至中級階段](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)，以進一步提升您的專案管理技能。
 
 >[!PREREQUISITES]
 >
