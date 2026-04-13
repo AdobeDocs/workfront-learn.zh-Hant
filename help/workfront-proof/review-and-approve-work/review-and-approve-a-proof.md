@@ -32,7 +32,7 @@ ht-degree: 100%
 
 當資產準備好進行審閱和核准時，您會收到電子郵件通知。
 
-![影像顯示 [!DNL  Workfront] 中有一封新的校訂電子郵件請求進行兩份校訂的審閱與核准。](assets/new-proof-emails.png)
+![影像顯示 [!DNL &#x200B; Workfront] 中有一封新的校訂電子郵件請求進行兩份校訂的審閱與核准。](assets/new-proof-emails.png)
 
 請注意，此一校訂連結是唯一提供給您使用。如果您與他人共用連結，他們留下的任何註解和記號都會標記您的名稱。
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
 若您正使用 [!DNL Workfront] 並收到核准校訂的要求，您會在 [!DNL Workfront] [!UICONTROL 首頁]的「[!UICONTROL 我的核准]」小工具中看到指派。
 
-![[!DNL Workfront][!UICONTROL  首頁]上「[!UICONTROL 我的核准] 」小工具的影像。](assets/open-proof-from-home.png)
+![[!DNL Workfront]&#x200B;[!UICONTROL &#x200B; 首頁]上「[!UICONTROL 我的核准] 」小工具的影像。](assets/open-proof-from-home.png)
 
 值得注意的是，唯有在您被指派負責核准時，校訂才會出現在 [!DNL Workfront] [!UICONTROL 首頁]。若您僅需審閱校訂，便不會顯示在 [!DNL Workfront] [!UICONTROL 首頁]上。
 
@@ -63,7 +63,7 @@ ht-degree: 100%
 
 如果您通常在 [!DNL Workfront] 中處理專案、任務或問題，您可能偏好直接在該項目的「[!DNL Documents]」區段直接開啟校訂。
 
-![影像顯示在 [!DNL  Workfront] 任務中的「[!UICONTROL 文件]」區段，其中突顯標示「[!UICONTROL 開啟校訂]」連結。](assets/open-proof-from-documents.png)
+![影像顯示在 [!DNL &#x200B; Workfront] 任務中的「[!UICONTROL 文件]」區段，其中突顯標示「[!UICONTROL 開啟校訂]」連結。](assets/open-proof-from-documents.png)
 
 1. 按一下專案、任務或問題的名稱。
 2. 在項目頁面的左側面板選單中按一下「[!UICONTROL 文件]」。
