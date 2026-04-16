@@ -21,5 +21,5 @@ ht-degree: 0%
 
 瞭解如何使用進階顯示邏輯運算式來控制自訂表單欄位和區段的可見度，協助您建立更動態且自訂的表單、符合特定使用者需求，並改善工作流程效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483462/?captions=chi_hant&learn=on&enablevpops)
 
