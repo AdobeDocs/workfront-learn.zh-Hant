@@ -21,5 +21,5 @@ ht-degree: 7%
 
 瞭解如何使用版面配置範本量身打造專案標題以僅顯示最相關的資訊。 瞭解如何移除不必要的欄位、新增自訂欄位並有效組織它們。 這可確保團隊可以快速存取關鍵專案詳細資訊，從而提高清晰度和效率。 觀看以下影片，瞭解最佳化專案標題的逐步指引。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483474/?captions=chi_hant&learn=on&enablevpops)
 

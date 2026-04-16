@@ -20,5 +20,5 @@ ht-degree: 0%
 
 瞭解如何在自訂表單中新增驗證邏輯，以確保資料正確無誤，並引導使用者正確填寫表單。 實作驗證邏輯有助於避免錯誤、簡化流程，並提高團隊效率。 瞭解如何有效建立條件、設定錯誤訊息及測試驗證的逐步指示。 請觀看以下影片，瞭解這項基本功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483437/?captions=chi_hant&learn=on&enablevpops)
 
