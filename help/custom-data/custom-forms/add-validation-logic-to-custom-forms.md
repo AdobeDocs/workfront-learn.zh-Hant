@@ -20,5 +20,5 @@ ht-degree: 0%
 
 瞭解如何將驗證邏輯新增至自訂表單，以確保資料準確性。 透過實作驗證邏輯，您可以避免錯誤、簡化流程，並提升團隊效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483437/?captions=chi_hant&learn=on&enablevpops)
 

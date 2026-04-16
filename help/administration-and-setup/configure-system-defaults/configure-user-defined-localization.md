@@ -21,5 +21,5 @@ ht-degree: 0%
 
 瞭解如何設定使用者定義的本地化，以根據使用者偏好顯示多種語言的內容。 這可讓團隊以自己的母語工作，進而簡化跨區域的共同作業。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483450/?captions=chi_hant&learn=on&enablevpops)
 
