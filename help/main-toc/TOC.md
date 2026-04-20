@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 教學課程
 user-guide-description: 內含培訓影片與文章的資料庫，能協助您更加了解 Workfront 功能和設定。
-source-git-commit: 7d929d47386ce95aa82689117dcb1e4d204130cc
+source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
 workflow-type: tm+mt
-source-wordcount: '2485'
+source-wordcount: '2494'
 ht-degree: 76%
 
 ---
@@ -193,6 +193,7 @@ ht-degree: 76%
 
    + 中繼專案 {#intermediate-projects}
       + [主要期間型別和任務限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [使用基準線、快照和自動化報表進行主要專案追蹤](/help/manage-work/intermediate-projects/baselines-snapshots-and-automated-reports.md)
       + [建立與跨專案前置任務的相依性](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
       + [主進階任務相依性](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
