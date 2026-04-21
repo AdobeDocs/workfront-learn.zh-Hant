@@ -10,7 +10,7 @@ team: Technical Marketing
 last-substantial-update: 2026-04-20T00:00:00Z
 jira: KT-20256
 doc-type: video
-source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
+source-git-commit: e90a7ab4dcb8341ab1f942c50a018ad429550570
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 此影片著重說明使用基線、快照和已傳送報告的重要性，以便有效追蹤專案、進行歷史分析和與利害關係人溝通。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483628/?captions=chi_hant&quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
 
 ## 關鍵重點
 
@@ -31,4 +31,3 @@ ht-degree: 0%
 * **快照擷取所有專案資料：**&#x200B;與基準線不同，快照是手動建立的，可擷取所有專案、任務、問題和自訂欄位，並可隨時提供完整的記錄。
 * **彈性的比較和報告：**&#x200B;使用者可以使用自訂報告和檢視來比較目前的專案資料與基準線或跨快照，以詳細分析變更和進度。
 * **傳送報告的自動定期報告：**「傳送報告」功能可讓使用者排程並接收定期電子郵件報告，提供在一段時間內自動追蹤和封存專案資料的方式。
-
