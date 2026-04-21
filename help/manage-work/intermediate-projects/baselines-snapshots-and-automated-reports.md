@@ -22,7 +22,7 @@ ht-degree: 0%
 此影片著重說明使用基線、快照和已傳送報告的重要性，以便有效追蹤專案、進行歷史分析和與利害關係人溝通。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483628/?captions=chi_hant&quality=12&learn=on&enablevpops)
 
 ## 關鍵重點
 
