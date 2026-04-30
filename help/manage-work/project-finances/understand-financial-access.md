@@ -10,26 +10,26 @@ role: User
 level: Intermediate
 jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: 2026-04-29T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 6e171e980c41615686f73dd44a26dc47e4b5dcdf
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 12%
 
 ---
 
 # 瞭解財務資訊存取
 
-此影片說明系統管理員在管理Workfront中財務資訊的存取許可權時的角色。&#x200B;URL 管理員可透過存取層級控制存取&#x200B;。
+此影片說明系統管理員在管理Workfront中財務資訊的存取許可權時的角色。 管理員&#x200B;可透過存取層級控制存取&#x200B;。
 影片強調，使用者只能將其財務存取權用於其所建立的專案，或財務存取權已共用給他們的專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484939/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
-## 關鍵重點
+## 重點提要
 
-* **系統管理員的角色：**&#x200B;系統管理員透過設定和存取層級管理財務資訊的存取，以確保控制誰可以檢視或編輯財務資料。&#x200B;URL
+* **系統管理員的角色：**&#x200B;系統管理員透過設定和存取層級管理財務資訊的存取，以確保控制誰可以檢視或編輯財務資料。 &#x200B;
 * **建立存取層級：**&#x200B;可以建立存取層級，授予使用者編輯和檢視帳單、成本匯率、匯率和費用的許可權。
 * **專案層級財務存取權：**&#x200B;具有財務存取權的使用者可以編輯其所建立專案中的財務，但其他使用者需要明確存取權才能檢視或編輯財務。
 * **可自訂的存取共用：**&#x200B;財務存取許可權可與特定使用者共用，並搭配量身打造的許可權（例如，僅供檢視的存取許可權），即使他們擁有編輯財務資料的一般許可權亦然。
