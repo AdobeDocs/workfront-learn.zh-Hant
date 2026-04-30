@@ -25,7 +25,7 @@ ht-degree: 12%
 此影片說明系統管理員在管理Workfront中財務資訊的存取許可權時的角色。 管理員&#x200B;可透過存取層級控制存取&#x200B;。
 影片強調，使用者只能將其財務存取權用於其所建立的專案，或財務存取權已共用給他們的專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484939/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
