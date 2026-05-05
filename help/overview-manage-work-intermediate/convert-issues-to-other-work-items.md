@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-10069
 hide: true
 exl-id: db8bce2e-86fc-49b7-b3fd-8d2d431cfaa7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -23,11 +23,11 @@ ht-degree: 100%
 
 在本影片中，您將學習如何將問題或請求轉換為任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445441/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
->專案時間表上不能新增問題，因為問題代表「未規劃的工作」。專案時間表適用於「已規劃的工作」，即任務。
+>專案時間表上不能新增問題，因為問題代表「未規劃的工作」。 專案時間表適用於「已規劃的工作」，即任務。
 
 ## 有關此主題的推薦教學課程
 

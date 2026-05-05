@@ -12,22 +12,22 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '448'
 ht-degree: 100%
 
 ---
 
 # 建立全域和單次使用的核准流程
 
-專案、任務和問題的核准流程使專案經理人能夠在繼續下一步之前，獲得專家確認工作已完成。專案經理人可以針對每種情況建立一個核准流程 (稱為單次核准流程)，或從先前為滿足常見需求而建立、數量可能較多的核准流程清單中選擇 (這些稱為全域或現有核准流程)。
+專案、任務和問題的核准流程使專案經理人能夠在繼續下一步之前，獲得專家確認工作已完成。 專案經理人可以針對每種情況建立一個核准流程 (稱為單次核准流程)，或從先前為滿足常見需求而建立、數量可能較多的核准流程清單中選擇 (這些稱為全域或現有核准流程)。
 
-在任一情況下，當物件狀態變更為核准流程中指定的狀態時，核准者都會以各種方式收到通知，以便審閱工作並予以核准或拒絕。由於整個專案可能會因為等待核准而暫停，核准者應提前意識到可能輪到他們負責核准。如果核准者因任何原因不在辦公室，他們可以將核准工作委派給符合資格的替補人員。如需詳細資訊請參閱「[委派任務、問題和核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)」。
+在任一情況下，當物件狀態變更為核准流程中指定的狀態時，核准者都會以各種方式收到通知，以便審閱工作並予以核准或拒絕。 由於整個專案可能會因為等待核准而暫停，核准者應提前意識到可能輪到他們負責核准。 如果核准者因任何原因不在辦公室，他們可以將核准工作委派給符合資格的替補人員。 如需詳細資訊請參閱「[委派任務、問題和核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)」。
 
 在這部影片中，您將了解如何針對專案、任務或問題建立全域核准流程和單次核准流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434698/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
@@ -45,7 +45,7 @@ ht-degree: 100%
 
 ![影像顯示如何在佇列主題中選取預設核准流程](assets/automatic-issue-approval-1.png)
 
-您可能需要編輯問題核准流程，以確保「**[!UICONTROL 前一個狀態]**」不是核准遭拒絕時問題所設定的狀態。這是因為前一個狀態是「**[!UICONTROL 新]**」，而且這也是觸發核准流程的狀態，所以這是審核通過時系統將設定的狀態。為了避免問題核准遭拒絕時出現混亂，建議您將狀態設為「**[!UICONTROL 不會解決]**」等狀態，或針對此目的建立的自訂狀態。
+您可能需要編輯問題核准流程，以確保「**[!UICONTROL 前一個狀態]**」不是核准遭拒絕時問題所設定的狀態。 這是因為前一個狀態是「**[!UICONTROL 新]**」，而且這也是觸發核准流程的狀態，所以這是審核通過時系統將設定的狀態。 為了避免問題核准遭拒絕時出現混亂，建議您將狀態設為「**[!UICONTROL 不會解決]**」等狀態，或針對此目的建立的自訂狀態。
 
 ![影像顯示問題遭拒絕時變更要使用的狀態](assets/automatic-issue-approval-2.png)
 

@@ -1,5 +1,5 @@
 ---
-title: 瞭解日期類型和進度狀態
+title: 了解日期類型和進度狀態
 description: 瞭解如何檢視  [!DNL  Workfront]  中的不同日期類型以及使用進度狀態來追蹤工作進度。
 activity: use
 feature: Work Management
@@ -12,9 +12,9 @@ jira: KT-8782
 hide: true
 doc-type: video
 exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -26,11 +26,11 @@ ht-degree: 100%
 * 選取一種視圖來比較 [!DNL Workfront's] 不同的日期類型
 * 使用進度狀態協助您追蹤工作進度
 
->[!VIDEO](https://video.tv.adobe.com/v/3436618/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
->如影片所述，當人員想要開始任務時，必須把狀態從「**[!UICONTROL 新增]**」變為「**[!UICONTROL 進行中]**」，這樣一來「[!UICONTROL 實際開始日期]」才會正確。但是，如果他們在開始任務時忘記執行此操作，隨時可以返回並編輯「[!UICONTROL 實際開始日期]」。
+>如影片所述，當人員想要開始任務時，必須把狀態從「**[!UICONTROL 新增]**」變為「**[!UICONTROL 進行中]**」，這樣一來「[!UICONTROL 實際開始日期]」才會正確。 但是，如果他們在開始任務時忘記執行此操作，隨時可以返回並編輯「[!UICONTROL 實際開始日期]」。
 
 
 <!--

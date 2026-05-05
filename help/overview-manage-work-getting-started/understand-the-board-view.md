@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-13743
 hide: true
 exl-id: 5e9d7008-63a7-48df-8eba-b18da763c63c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
@@ -28,11 +28,11 @@ ht-degree: 100%
 * 如何使用[!UICONTROL 展示板]視圖
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423275/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 
 * [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [追蹤專案整體進度](/help/manage-work/projects/track-overall-project-progress.md)
 * [使用專案量度追蹤工作進度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [了解[!UICONTROL 甘特圖]視圖](/help/manage-work/projects/understand-the-gantt-view.md)
+* [瞭解[!UICONTROL 甘特圖]視圖](/help/manage-work/projects/understand-the-gantt-view.md)

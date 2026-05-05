@@ -1,6 +1,6 @@
 ---
 title: 提出請求
-description: 瞭解如何尋找「[!UICONTROL 請求]」區域並提出請求。然後瞭解如何檢視已提交的請求和請求草稿。
+description: 瞭解如何尋找「[!UICONTROL 請求]」區域並提出請求。 然後瞭解如何檢視已提交的請求和請求草稿。
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -14,7 +14,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 651312d5-c5ec-4c0b-83aa-f6723da110fd
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 # 提出請求
 
-在許多組織中，啟動新專案、開發新產品或建立可交付成果的第一步是在 Workfront 中提出請求。您可以追蹤請求的進度並在必要時提供其他資訊。
+在許多組織中，啟動新專案、開發新產品或建立可交付成果的第一步是在 Workfront 中提出請求。 您可以追蹤請求的進度並在必要時提供其他資訊。
 
 觀看這段影片，您將瞭解如何：
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 * 尋找請求的草稿
 * 查看最後三個請求路徑
 
->[!VIDEO](https://video.tv.adobe.com/v/3470920/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 

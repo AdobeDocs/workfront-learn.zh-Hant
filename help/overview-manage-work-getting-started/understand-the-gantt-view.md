@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-10144
 hide: true
 exl-id: dd1d0a8d-3093-4e46-ac0d-20ae79fee8a4
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 專案甘特圖
 * 任務甘特圖
 
->[!VIDEO](https://video.tv.adobe.com/v/3448017/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 您可以在線上閱讀文章「[開始使用甘特圖](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=zh-Hant)」了解更多資訊。
 

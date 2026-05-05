@@ -14,14 +14,14 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '380'
 ht-degree: 100%
 
 ---
 
-# 建立專案範本並了解 [!UICONTROL Blueprint]
+# 建立專案範本並瞭解[!UICONTROL 藍圖]
 
 學習從頭開始和從現有專案建立專案範本，並瞭解如何透過[!UICONTROL 藍圖]存取由 Workfront 專家建立的許多實用專案範本。
 
@@ -36,11 +36,11 @@ ht-degree: 100%
 
 ## 使用[!UICONTROL 藍圖]建立範本
 
-Workfront 使用者可以使用[!UICONTROL 藍圖]來協助建立專案範本。這項功能位在主選單，讓您可以存取預先建立、隨時可用的範本，是專為特定部門和特定成熟度等級提供的範本。這些範本讓使用者在重複建立專案時起步更快，並保持範圍以內各個專案之間的一致性。
+Workfront 使用者可以使用[!UICONTROL 藍圖]來協助建立專案範本。 這項功能位在主選單，讓您可以存取預先建立、隨時可用的範本，是專為特定部門和特定成熟度等級提供的範本。 這些範本讓使用者在重複建立專案時起步更快，並保持範圍以內各個專案之間的一致性。
 
 ![主選單中的藍圖](assets/pt-blueprints-01.png)
 
-任何已授權的使用者都可以瀏覽 Workfront 中可用的藍圖清單。建立新專案時 (例如將任務或請求轉換為專案)，您無法直接套用藍圖。藍圖和專案範本之間有一項重要差異，我們使用藍圖來建立範本，而使用專案範本來建立專案。**系統管理員必須安裝藍圖才能建立對應的範本。**
+任何已授權的使用者都可以瀏覽 Workfront 中可用的藍圖清單。 建立新專案時 (例如將任務或請求轉換為專案)，您無法直接套用藍圖。 藍圖和專案範本之間有一項重要差異，我們使用藍圖來建立範本，而使用專案範本來建立專案。 **系統管理員必須安裝藍圖才能建立對應的範本。**
 
 如果您發現看起來有趣的藍圖，可以按一下「**[!UICONTROL 詳細資訊]**」瞭解更多。
 

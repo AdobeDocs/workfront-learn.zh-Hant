@@ -14,9 +14,9 @@ last-substantial-update: 2024-03-05T00:00:00Z
 hide: true
 doc-type: video
 exl-id: 7a446016-d856-4a93-8c42-bbd5cb670828
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 100%
 * 複製現有專案
 * 匯入 [!DNL Microsoft Project] 檔案
 
->[!VIDEO](https://video.tv.adobe.com/v/3432167/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 
