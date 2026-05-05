@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10067
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: ded6b570-3e2a-4372-867d-a370de30dc31
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 95%
@@ -28,7 +29,7 @@ ht-degree: 95%
 
 例如，使用者可能在存取層級獲得檢視財務資料的權限，但是他們只能檢視某個任務與他們共用的財務資料，而且該任務的共用設定啟用財務資料檢視功能。
 
-因此，在[!UICONTROL 存取層級]擁有檢視財務資料權限的使用者，可能可以檢視其中某些物件的財務資料，根據那些物件個別的共用選項而定。但是，任何使用者均無法檢視任何物件上的財務資料，除非他們在[!UICONTROL 存取層級]獲授予相關權限。
+因此，在[!UICONTROL 存取層級]擁有檢視財務資料權限的使用者，可能可以檢視其中某些物件的財務資料，根據那些物件個別的共用選項而定。 但是，任何使用者均無法檢視任何物件上的財務資料，除非他們在[!UICONTROL 存取層級]獲授予相關權限。
 
 ## [!UICONTROL 存取層級]設定
 
@@ -47,15 +48,15 @@ ht-degree: 95%
 * 管理費用
 * 檢視財務資料
 
-**[!UICONTROL 檢閱]授權擁有以下權限：**
+**[!UICONTROL 審閱]授權擁有以下權限：**
 
 * 檢視財務資料
 
-**可以依據[!UICONTROL 存取層級]修改權限。財務資料存取的三個選項包括：**
+**可以依據[!UICONTROL 存取層級]修改權限。 財務資料存取的三個選項包括：**
 
 * [!UICONTROL 無存取權] — 使用者無法查看財務資訊。
-* [!UICONTROL 檢視] — 使用者可以檢閱和共用資訊。
-* [!UICONTROL 編輯] — 使用者可以建立、編輯、刪除和共用資訊。(僅適用於「計劃」授權。)
+* [!UICONTROL 檢視] — 使用者可以審閱和共用資訊。
+* [!UICONTROL 編輯] — 使用者可以建立、編輯、刪除和共用資訊。 (僅適用於「計劃」授權。)
 
 ![影像顯示在存取層級的一般財務資料選項](assets/setting-up-finances-8.png)
 

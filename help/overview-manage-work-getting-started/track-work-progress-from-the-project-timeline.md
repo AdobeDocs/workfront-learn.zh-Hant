@@ -12,23 +12,23 @@ level: Beginner
 jira: KT-10150
 hide: true
 exl-id: 3ac91981-ad48-4bb1-8817-1b9a91e476a4
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 # 根據專案時間表追蹤進度
 
-確保任務依照應有的進度，在專案截止期限前完成。
+確保任務保持應有的進度，以便在專案截止期限前完成。
 
 在這段影片中，您將了解以下內容：
 
 * 完成百分比
 * 進度狀態
 
->[!VIDEO](https://video.tv.adobe.com/v/3438219/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3438219/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 
 ## 有關這個主題的推薦教學課程

@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10048
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: 5b1ae2c4-43bd-4382-900f-078ef84408a5
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 93%
@@ -19,7 +20,7 @@ ht-degree: 93%
 
 # 瞭解多種計費費率
 
-在 [!DNL Workfront] 中，專案經理人可以覆寫特定專案內的系統計費費率。之前把新的計費費率套用到專案時，不但是未來的時數，連專案中已經記錄的時數也會受到影響。
+在 [!DNL Workfront] 中，專案經理人可以覆寫特定專案內的系統計費費率。 之前把新的計費費率套用到專案時，不但是未來的時數，連專案中已經記錄的時數也會受到影響。
 
 透過[!DNL Workfront]的新多重收費率功能，專案經理能夠決定應套用收費率的時間段。 這樣一來，若費率經過議定或有所變更，專案經理人可以決定該費率何時生效。
 
@@ -29,19 +30,19 @@ ht-degree: 93%
 
    ![影像顯示選取[!UICONTROL 計費費率]，位於 [!DNL Workfront]](assets/project-finances-1.png)
 
-1. 在「**[!UICONTROL 計費費率]**」標籤中，按一下「**[!UICONTROL 新增計費費率]**」按鈕。從下拉式選單選取「**[!UICONTROL 新增計費費率]**」。
+1. 在「**[!UICONTROL 計費費率]**」標籤中，按一下「**[!UICONTROL 新增計費費率]**」按鈕。 從下拉式選單選取「**[!UICONTROL 新增計費費率]**」。
 
    ![影像顯示選取[!UICONTROL 新增計費費率]，位於 [!DNL Workfront]](assets/project-finances-2.png)
 
-1. 接著顯示「[!UICONTROL 新增計費費率]」對話方塊。在「**[!UICONTROL 職務角色]**」下拉式選單中，選取將套用新計費費率的職務角色。
+1. 接著顯示「[!UICONTROL 新增計費費率]」對話方塊。 在「**[!UICONTROL 職務角色]**」下拉式選單中，選取將套用新計費費率的職務角色。
 
    ![影像顯示在新計費費率中選取職務角色，位於 [!DNL Workfront]](assets/project-finances-3.png)
 
-1. 選取職務角色之後，便會顯示「[!UICONTROL 預設計費費率]」和「[!UICONTROL 計費費率 1]」欄位。在「[!UICONTROL 計費費率 1]」欄位中輸入新的計費費率。如果該計費費率適用於整個專案 (過去、現在和未來所記錄的時數)，請按一下「**[!UICONTROL 儲存]**」按鈕。
+1. 選取職務角色之後，便會顯示「[!UICONTROL 預設計費費率]」和「[!UICONTROL 計費費率 1]」欄位。 在「[!UICONTROL 計費費率 1]」欄位中輸入新的計費費率。 如果該計費費率適用於整個專案 (過去、現在和未來所記錄的時數)，請按一下「**[!UICONTROL 儲存]**」按鈕。
 
    ![影像顯示儲存套用至整個專案的新計費費率，位於 [!DNL Workfront]](assets/project-finances-5.png)
 
-1. 如果新的計費費率僅適用於特定時段，請按一下「**[!UICONTROL 新增費率]**」按鈕。[!UICONTROL 「計費費率 1」的「結束日期」]和「[!UICONTROL 計費費率 2]」欄位出現。輸入「[!UICONTROL 計費費率 1]」的「結束日期」。您不能輸入「[!UICONTROL 計費費率 1]」的「開始日期」，因為系統假設它從專案開始時起算。
+1. 如果新的計費費率僅適用於特定時段，請按一下「**[!UICONTROL 新增費率]**」按鈕。 [!UICONTROL 「計費費率 1」的「結束日期」]和「[!UICONTROL 計費費率 2]」欄位出現。 輸入「[!UICONTROL 計費費率 1]」的「結束日期」。 您不能輸入「[!UICONTROL 計費費率 1]」的「開始日期」，因為系統假設它從專案開始時起算。
 
    ![影像顯示建立套用於特定時段的新計費費率，從專案開始時起算，位於[!DNL Workfront]](assets/project-finances-6.png)
 

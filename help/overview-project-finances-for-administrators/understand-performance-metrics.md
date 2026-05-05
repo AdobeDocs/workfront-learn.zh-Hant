@@ -10,16 +10,17 @@ role: User
 level: Intermediate
 jira: KT-10065
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: a7dbd937-0caa-4eb6-bb5d-bff6705e2972
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '445'
 ht-degree: 100%
 
 ---
 
 # 瞭解績效量度
 
-專案經理人使用的兩種績效量度包括[!UICONTROL 績效指數方法] ([!UICONTROL PIM]) 和[!UICONTROL 預估完工成本] ([!UICONTROL EAC])。在 [!DNL Workfront] 中可以設定全系統適用的預設值，並套用到新建立的專案。然後個別專案可以修改其 [!UICONTROL PIM]。
+專案經理人使用的兩種績效量度包括[!UICONTROL 績效指數方法] ([!UICONTROL PIM]) 和[!UICONTROL 預估完工成本] ([!UICONTROL EAC])。 在 [!DNL Workfront] 中可以設定全系統適用的預設值，並套用到新建立的專案。 然後個別專案可以修改其 [!UICONTROL PIM]。
 
 **[!UICONTROL PIM]**
 
@@ -27,15 +28,15 @@ ht-degree: 100%
 
 [!UICONTROL PIM] 的選項包含依小時計算和依成本計算。
 
-* **依小時計算** — Workfront 使用規劃時數來計算專案的 CPI 和 EAC。專案的 EAC 以小時數為單位顯示一個數字。
-* **依成本計算** — Workfront 使用規劃勞力成本來計算專案的 CPI 和 EAC。EAC 以貨幣價值的形式顯示。使用此選項時，請確保任務受指派者 (使用者和/或職務角色) 與成本費率相關聯。
+* **依小時計算** — Workfront 使用規劃時數來計算專案的 CPI 和 EAC。 專案的 EAC 以小時數為單位顯示一個數字。
+* **依成本計算** — Workfront 使用規劃勞力成本來計算專案的 CPI 和 EAC。 EAC 以貨幣價值的形式顯示。 使用此選項時，請確保任務受指派者 (使用者和/或職務角色) 與成本費率相關聯。
 
 **[!UICONTROL EAC]**
 
-[!UICONTROL EAC] 代表您的任務或專案完成時的預計總成本。選項包括在專案層級計算以及將任務/子任務的資料匯總。
+[!UICONTROL EAC] 代表您的任務或專案完成時的預計總成本。 選項包括在專案層級計算以及將任務/子任務的資料匯總。
 
-* **在專案層級計算** — 父系任務和專案的 [!UICONTROL EAC] 是使用 [!UICONTROL EAC] 公式中的實際時數/實際勞力成本計算出來。計算項目包含實際時數/成本以及直接新增到父系任務或專案的費用。
-* **將任務/子任務的資料匯總**  — 父系任務和專案的 [!UICONTROL EAC] 是把每個子系任務的 [!UICONTROL EAC] 加總起來。此計算不包含直接新增到父系任務或專案的實際時數/成本。
+* **在專案層級計算** — 父系任務和專案的 [!UICONTROL EAC] 是使用 [!UICONTROL EAC] 公式中的實際時數/實際勞力成本計算出來。 計算項目包含實際時數/成本以及直接新增到父系任務或專案的費用。
+* **將任務/子任務的資料匯總**  — 父系任務和專案的 [!UICONTROL EAC] 是把每個子系任務的 [!UICONTROL EAC] 加總起來。 此計算不包含直接新增到父系任務或專案的實際時數/成本。
 
 [!UICONTROL EAC] 計算方式請參閱「[計算預估完工成本 EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=zh-Hant)」。
 
@@ -45,7 +46,7 @@ ht-degree: 100%
 
 1. 在主選單中選取「**[!UICONTROL 設定]**」。
 1. 在左側面板選單中按一下「**[!UICONTROL 專案偏好設定]**」，再按一下「**[!UICONTROL 專案]**」
-1. 在「[!UICONTROL 專案狀態]」區段，尋找「[!UICONTROL 績效指數方法]」。選取「依小時計算」或「依成本計算」。
+1. 在「[!UICONTROL 專案狀態]」區段，尋找「[!UICONTROL 績效指數方法]」。 選取「依小時計算」或「依成本計算」。
 1. 對於「[!UICONTROL 預估完工成本]」，請選取「在專案層級計算」或「將任務/子任務的資料匯總」。
 1. 在視窗底部按一下「**[!UICONTROL 儲存]**」。
 

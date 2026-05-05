@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10145
 hide: true
 exl-id: 688e6c46-df3e-48e7-a949-d627c529e97c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 任務層級資訊
 * 問題層級資訊
 
->[!VIDEO](https://video.tv.adobe.com/v/3453077/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3453077/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 

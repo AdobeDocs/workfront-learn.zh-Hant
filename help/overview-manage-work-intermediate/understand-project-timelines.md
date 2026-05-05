@@ -1,6 +1,6 @@
 ---
 title: 瞭解專案時間表
-description: 瞭解如何從開始日期或完成日期開始進行專案排程。然後瞭解期間、前置任務和任務限制對專案計劃有何影響。
+description: 瞭解如何從開始日期或完成日期開始進行專案排程。 然後瞭解期間、前置任務和任務限制對專案計劃有何影響。
 activity: use
 feature: Work Management
 thumbnail: 335213.jpeg
@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8953
 hide: true
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 從開始或完成日期開始進行專案排程
 * 任務限制
 
->[!VIDEO](https://video.tv.adobe.com/v/3435846/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3435846/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

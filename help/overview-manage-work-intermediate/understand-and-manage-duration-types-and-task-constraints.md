@@ -13,9 +13,9 @@ jira: KT-13530
 doc-type: video
 hide: true
 exl-id: 00556e76-6646-412e-9aac-68eda7c75e02
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
@@ -32,10 +32,10 @@ ht-degree: 100%
 * 使用這些設定的最佳實務
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422823/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3422823/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 
-關於如何建立「期間類型和任務限制」視圖的資訊，請參閱「[建立基本視圖](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hant)」中的「期間類型和任務限制視圖」活動。
+關於如何建立「期間類型和任務限制」視圖的資訊，請參閱「[建立基本視圖](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-hant)」中的「期間類型和任務限制視圖」活動。
 
 有關期間類型的詳細資料，請參閱「[任務期間和期間類型](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=zh-Hant)」。
 

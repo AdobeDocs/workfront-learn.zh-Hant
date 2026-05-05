@@ -14,10 +14,10 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 56b8ea1a-d0cc-47ec-8d88-5f0ef204656f
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 98%
 
 ---
 
@@ -30,13 +30,13 @@ ht-degree: 100%
 * 如何估算規劃時數
 * 如何將規劃時數新增到任務中
 
->[!VIDEO](https://video.tv.adobe.com/v/3445344/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3445344/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 
 ## 有關此主題的推薦教學課程和文章
 
-* [了解任務期間](/help/manage-work/tasks/understand-task-durations.md)
-* [了解如何排定任務順序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
+* [瞭解如何排定任務順序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [了解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
-* [時程表概觀](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/timesheets/details/timesheets-overview)
+* [時程表總覽](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/timesheets/details/timesheets-overview)
 * [記錄時間](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

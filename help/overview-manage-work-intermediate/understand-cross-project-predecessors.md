@@ -13,16 +13,16 @@ jira: KT-13737
 doc-type: video
 hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '250'
 ht-degree: 100%
 
 ---
 
 # 了解跨專案前置任務
 
-跨專案前置任務是在不同專案的任務之間建立相依性的簡單方法。例如，建築公司可能有一個名為「**建造通往 Summerhill 住房開發區的道路**」的專案，以及另一個名為「**在 Summerhill 建造樣品屋**」的專案。透過在「**建造樣品屋**」中的第一個任務設定跨專案前置任務，將其與「**建造通路**」中的最後一個任務相連，您可以確保在開始建造樣品屋之前已有通路。由於任務是相互關聯的，如果「**建造通路**」專案出現延誤，「**建造樣品屋**」計畫開始日期會自動相應延期。
+跨專案前置任務是在不同專案的任務之間建立相依性的簡單方法。 例如，建築公司可能有一個名為「**建造通往 Summerhill 住房開發區的道路**」的專案，以及另一個名為「**在 Summerhill 建造樣品屋**」的專案。 透過在「**建造樣品屋**」中的第一個任務設定跨專案前置任務，將其與「**建造通路**」中的最後一個任務相連，您可以確保在開始建造樣品屋之前已有通路。 由於任務是相互關聯的，如果「**建造通路**」專案出現延誤，「**建造樣品屋**」計畫開始日期會自動相應延期。
 
 >[!PREREQUISITES]
 >
@@ -36,6 +36,6 @@ ht-degree: 100%
 * 如何建立跨專案前置任務
 * 如何在報告中追蹤跨專案前置任務
 
->[!VIDEO](https://video.tv.adobe.com/v/3422833/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3422833/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 要了解如何建立「**跨專案的前置任務和後續任務**」視圖以及影片中使用的「**跨專案的前置任務和後續任務**」報告，請參閱「[了解視圖的基本文字模式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)」教學課程，而且若要需要，請務必參加所列出的先修課程。

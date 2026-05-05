@@ -14,7 +14,7 @@ doc-type: video
 jira: KT-10143
 hide: true
 exl-id: 7655ce23-ee3a-4c66-b8fd-98c2c7a8517b
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
@@ -33,7 +33,7 @@ ht-degree: 100%
 * 在自訂儀表板中
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441665/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3441665/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 
 ## 有關此主題的推薦教學課程

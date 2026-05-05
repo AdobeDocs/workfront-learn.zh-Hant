@@ -12,18 +12,18 @@ jira: KT-10155
 recommendations: noDisplay,catalog
 hide: true
 exl-id: c2031f6c-e32c-4ea3-a4ae-0780ebd2a530
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
 
 # 複製現有專案
 
-有時候，反而不需要使用範本來建立專案，您只需要複製一個專案供另一次使用。為此，您必須擁有標準授權，以及專案的「編輯」和「建立」存取權。
+有時候，反而不需要使用範本來建立專案，您只需要複製一個專案供另一次使用。 為此，您必須擁有標準授權，以及專案的「編輯」和「建立」存取權。
 
-導覽到您要複製的專案並按一下專案名稱旁邊的三圓點選單。然後選取「複製」。
+導覽到您要複製的專案並按一下專案名稱旁邊的三圓點選單。 然後選取「複製」。
 
 ![複製專案選單選項](assets/copy-existing-01.png)
 

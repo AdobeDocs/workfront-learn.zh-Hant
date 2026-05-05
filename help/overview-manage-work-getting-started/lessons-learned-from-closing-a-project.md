@@ -13,7 +13,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 建立「經驗傳承」自訂報告
 * 建立「經驗傳承」專案
 
->[!VIDEO](https://video.tv.adobe.com/v/3441023/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3441023/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 
