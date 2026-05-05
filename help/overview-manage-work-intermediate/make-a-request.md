@@ -34,7 +34,7 @@ ht-degree: 100%
 * 尋找請求的草稿
 * 查看最後三個請求路徑
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3470920/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 

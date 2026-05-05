@@ -30,7 +30,7 @@ ht-degree: 100%
 * 未解決的問題
 * 狀況更新欄
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447421/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 
