@@ -34,7 +34,7 @@ ht-degree: 100%
 * [!DNL  Workfront] 中狀態的用途
 * 如何變更工作指派的狀態
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443441/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 「開始」與「開始處理」的不同
 

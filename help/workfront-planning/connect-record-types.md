@@ -38,4 +38,4 @@ ht-degree: 86%
 
 了解如何在 Workfront 規劃中連接記錄類型，簡化工作流程、提高清晰度並增強團隊責任感和效率。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3463809/?captions=chi_hant&learn=on&enablevpops=1)

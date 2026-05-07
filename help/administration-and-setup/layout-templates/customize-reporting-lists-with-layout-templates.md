@@ -38,7 +38,7 @@ ht-degree: 100%
 * 移除篩選器、視圖和分組
 * 新增篩選器、視圖和分組
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432914/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 設定清單預設值
 

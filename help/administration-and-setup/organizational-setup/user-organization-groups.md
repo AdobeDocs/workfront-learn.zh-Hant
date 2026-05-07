@@ -39,7 +39,7 @@ ht-degree: 100%
 * 關聯一個群組
 * 建立並關聯子群組
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432870/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 群組管理員
 

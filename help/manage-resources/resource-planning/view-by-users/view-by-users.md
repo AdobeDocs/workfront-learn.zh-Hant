@@ -36,4 +36,4 @@ ht-degree: 100%
 * 瞭解資源資訊在此視圖中如何顯示
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443817/?captions=chi_hant&quality=12&learn=on&enablevpops=1)

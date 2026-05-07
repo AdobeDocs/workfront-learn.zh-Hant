@@ -34,4 +34,4 @@ ht-degree: 77%
 
 了解如何在 Adobe Workfront 規劃中建立、匯入和管理自訂記錄類型，以便有效地組織和追蹤與工作相關的項目。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448095/?captions=chi_hant&learn=on&enablevpops=1)
