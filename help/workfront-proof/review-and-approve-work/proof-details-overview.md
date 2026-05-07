@@ -1,6 +1,6 @@
 ---
 title: 瞭解校訂詳細資料
-description: 在  [!DNL  Workfront]  中透過摘要面板和「[!UICONTROL 資料詳細資料]」頁面，深入瞭解校訂的相關細節。
+description: 在  [!DNL &#x200B; Workfront]  中透過摘要面板和「[!UICONTROL 資料詳細資料]」頁面，深入瞭解校訂的相關細節。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,11 +10,16 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:56:45.995Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -53,7 +58,7 @@ ht-degree: 97%
 
 此動作會將您帶往「[!UICONTROL 文件詳細資訊]」頁面，並在左側面板顯示其他各種選項。
 
-![影像顯示 [!DNL  Workfront] 中的校訂頁面。](assets/document-details.png)
+![影像顯示 [!DNL &#x200B; Workfront] 中的校訂頁面。](assets/document-details.png)
 
 需要注意的是，檢視校訂流程相關資訊的能力，取決於您在 [!DNL Workfront] 中的校訂權限。
 
@@ -73,7 +78,7 @@ ht-degree: 97%
 
 ![影像顯示校訂頁面的「[!UICONTROL 校訂檢視器設定]」，並突顯標示左側面板選單中的「[!UICONTROL 校訂檢視器設定]」選項](assets/proofing-settings-on-details-page.png)
 
-* **[!UICONTROL 需要登入。 此校訂無法與訪客使用者共用 ]—** 校訂僅可與擁有 [!DNL Workfront] 校訂授權的人員共用。
+* **[!UICONTROL 需要登入。 此校訂無法與訪客使用者共用 &#x200B;]—** 校訂僅可與擁有 [!DNL Workfront] 校訂授權的人員共用。
 * **[!UICONTROL 要求以電子形式簽署決策] —**&#x200B;共用校訂時，此選項要求收件者需擁有 [!DNL Workfront] 的校訂權限，並應於做出校訂決策時輸入校訂密碼，以「電子形式簽署」校訂。 (備註：校訂密碼與您的 [!DNL Workfront] 密碼不同。 驗證密碼不容易存取，因此大多數收件者不會知道此密碼。) Adobe建議在使用此功能之前先與您的[!DNL Workfront]顧問交談。
 * **[!UICONTROL 做出所有必要的決定後鎖定校訂] —** 在完成校訂的每一項決定之後，此選項會鎖定校訂，避免再做任何註解、回覆、決定等。 這樣會鎖定整個校訂版本，而不僅是校訂工作流程的特定階段。
 * **[!UICONTROL 允許下載原始檔案] —** 校訂收件者可以從校訂檢視器下載校訂的原始來源檔案。

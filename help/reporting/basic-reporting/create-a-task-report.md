@@ -12,11 +12,16 @@ last-substantial-update: '2025-06-11T00:00:00.000Z'
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:20:19.850Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -46,7 +51,7 @@ ht-degree: 77%
 
 >[!TIP]
 >
->拿出您的各種器具，準備好使用我們 [ Adobe Workfront 客戶報告逐步指南](/help/assets/workfront-customer-reporting-cookbook.pdf)內的秘方。 您將在指南中找到 10 份報告的逐步說明，可供您立即在您的環境中快速應用。
+>拿出您的各種器具，準備好使用我們 [&#x200B; Adobe Workfront 客戶報告逐步指南](/help/assets/workfront-customer-reporting-cookbook.pdf)內的秘方。 您將在指南中找到 10 份報告的逐步說明，可供您立即在您的環境中快速應用。
 >我們收集了客戶最喜歡的報告，並將這些內容整理成一套簡單易懂、易消化的秘方，您帶回後可在自己的 Workfront 環境中進行測試。
 >這 10 份報告來自與您類似的客戶。 我們的客戶分佈在不同的行業、部門、團隊、職位以及不同的公司，非常感謝這些最棒的客戶分享他們最喜歡的報告。 有些報告很簡單 (但非常有用)，有些則比較複雜，但都可讓您的報告提升到另一個全新境界。
 
