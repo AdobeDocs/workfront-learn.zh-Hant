@@ -12,9 +12,15 @@ jira: KT-8731
 recommendations: noDisplay,catalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:11:13.165Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: 237
 ht-degree: 100%
 
 ---
@@ -25,11 +31,11 @@ ht-degree: 100%
 
 * 了解如何根據已登入的使用者、任務狀態變更和已完成的任務來進行專案比較
 
->[!VIDEO](https://video.tv.adobe.com/v/3437447/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
 
 ## 比較專案工作
 
-您可以利用專案活動表來了解各種專案活動，包括已登入的使用者、任務狀態變更以及已完成的任務，並針對 Workfront 中其他專案進行這些活動的比較。專案活動用不同顏色顯示以便總結一段時間內的活動情況。
+您可以利用專案活動表來了解各種專案活動，包括已登入的使用者、任務狀態變更以及已完成的任務，並針對 Workfront 中其他專案進行這些活動的比較。 專案活動用不同顏色顯示以便總結一段時間內的活動情況。
 
 查看這些資訊可協助您判斷：
 

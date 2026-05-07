@@ -9,13 +9,19 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-last-substantial-update: 2025-05-29T00:00:00Z
+last-substantial-update: '2025-05-29T00:00:00.000Z'
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:18:44.706Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 58%
+source-wordcount: 354
+ht-degree: 59%
 
 ---
 
@@ -27,14 +33,14 @@ ht-degree: 58%
 * 如何與任何人共用報告
 * 收件者可以透過 Workfront 報告看到什麼資訊及執行哪些動作
 
->[!VIDEO](https://video.tv.adobe.com/v/3447823/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
-## 關鍵重點
+## 重點提要
 
-* **傳送報表給外部使用者：**&#x200B;您可以輸入非Workfront使用者的電子郵件地址，以便輕鬆在組織外部共用資料，藉此將報表傳送給非使用者。&#x200B;URL
-* **存取許可權控制可見性：**&#x200B;收件者的報告檢視視取決於您設定的存取許可權，以確保資料安全性及適當的可見性。&#x200B;URL
-* **快照的重複傳遞：**&#x200B;排程傳遞會在特定時間提供資料的凍結快照，有助於追蹤趨勢和維護專案資料的歷史記錄。&#x200B;URL
-* **與團隊共用報告：**&#x200B;可與個人、團隊或工作角色共用報告，並授與檢視或管理許可權。&#x200B;URL 共用報表會顯示在「與我共用」的使用者區段中。&#x200B;URL
+* **傳送報表給外部使用者：**&#x200B;您可以輸入非Workfront使用者的電子郵件地址，以便輕鬆在組織外部共用資料，藉此將報表傳送給非使用者。 &#x200B;
+* **存取許可權控制可見性：**&#x200B;收件者的報告檢視視取決於您設定的存取許可權，以確保資料安全性及適當的可見性。 &#x200B;
+* **快照的重複傳遞：**&#x200B;排程傳遞會在特定時間提供資料的凍結快照，有助於追蹤趨勢和維護專案資料的歷史記錄。 &#x200B;
+* **與團隊共用報告：**&#x200B;可與個人、團隊或工作角色共用報告，並授與檢視或管理許可權。 共&#x200B;用報表會顯示在「與我共用」的使用者區段中。 &#x200B;
 * **公開和全系統共用：**&#x200B;報告可透過公開連結供外部使用者共用，或供所有Workfront使用者在整個系統內顯示，提供資料共用的彈性。
 
 
@@ -42,7 +48,7 @@ ht-degree: 58%
 
 ### 活動 1：傳送報告
 
-每週一早上 5 點以 Excel 試算表格式發送一份報告給自己。這是自動收集每週報告的好方法，稍後您可以使用該報告來查看趨勢。
+每週一早上 5 點以 Excel 試算表格式發送一份報告給自己。 這是自動收集每週報告的好方法，稍後您可以使用該報告來查看趨勢。
 
 ### 解答 1
 
@@ -60,7 +66,7 @@ ht-degree: 58%
 
 >[!NOTE]
 >
->請注意在右側的[!UICONTROL 重複傳遞]面板中，您有新的「重複傳遞」內容。一份報告可以設為傳遞多份，這裡會顯示所有要傳遞的報告。
+>請注意在右側的[!UICONTROL 重複傳遞]面板中，您有新的「重複傳遞」內容。 一份報告可以設為傳遞多份，這裡會顯示所有要傳遞的報告。
 
 **刪除傳遞**
 

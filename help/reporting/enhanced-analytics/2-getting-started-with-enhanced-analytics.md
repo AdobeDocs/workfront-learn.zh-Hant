@@ -11,9 +11,15 @@ level: Beginner
 jira: KT-10027
 recommendations: noDisplay,catalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '280'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:09:48.727Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 280
 ht-degree: 100%
 
 ---
@@ -26,13 +32,13 @@ ht-degree: 100%
 
 若要充分利用 Workfront 的增強型分析，您的團隊必須盡可能準確地輸入資料並更新特定欄位。
 
-我們在「分析」中所稱的「團隊」是指「主團隊」。Workfront 使用者可以屬於多個團隊，但是他們只能參與一個主團隊。人員圖表中使用的團隊，僅包含把該團隊指定為主團隊的使用者。
+我們在「分析」中所稱的「團隊」是指「主團隊」。 Workfront 使用者可以屬於多個團隊，但是他們只能參與一個主團隊。 人員圖表中使用的團隊，僅包含把該團隊指定為主團隊的使用者。
 
 確認任何專案範本已經針對所有任務指派準確的規劃時數和期間，從一開始便要確認一切正確無誤。
 
-在建立報告和圖表時，將會使用下列資料進行分析。其中一些資料由 Workfront 自動填入，但是有些需要您的使用者填寫。
+在建立報告和圖表時，將會使用下列資料進行分析。 其中一些資料由 Workfront 自動填入，但是有些需要您的使用者填寫。
 
-* 任務規劃時數 (這是對「分析」而言最重要的欄位。如果您的團隊不使用規劃時數，您可以根據專案期間查看特定圖表。)
+* 任務規劃時數 (這是對「分析」而言最重要的欄位。 如果您的團隊不使用規劃時數，您可以根據專案期間查看特定圖表。)
 * 專案名稱
 * 專案狀況
 * 專案狀態

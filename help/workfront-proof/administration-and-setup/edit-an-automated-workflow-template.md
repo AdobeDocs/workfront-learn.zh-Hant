@@ -8,13 +8,19 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335131.png
-last-substantial-update: 2024-08-08T00:00:00Z
+last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:38.512Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: 578
 ht-degree: 100%
 
 ---
@@ -29,7 +35,7 @@ ht-degree: 100%
 1. 在那裡的左側面板選單中選取「**[!UICONTROL 工作流程]**」。
 1. 按一下範本名稱最右邊的三圓點選單，並選取「**[!UICONTROL 檢視範本詳細資料]**」。
 
-共用、複製和刪除範本的選項位在每個範本的範本詳細資料視窗的頂端。刪除範本不會影響已套用該範本的進行中校訂，但是該範本將無法再使用。
+共用、複製和刪除範本的選項位在每個範本的範本詳細資料視窗的頂端。 刪除範本不會影響已套用該範本的進行中校訂，但是該範本將無法再使用。
 
 ![範本詳細資料視窗](assets/proof-system-setup-edit-templates-details-area.png)
 
@@ -42,9 +48,9 @@ ht-degree: 100%
 
 自動化工作流程的每個階段均有專屬區段，可以獨立修改截止期限、隱私權、校訂收件者和其他資訊。
 
-這段影片會展示您在「[!UICONTROL 工作流程]」區域可做的一些變更。參閱本影片下方的項目符號清單來審閱這些設定。
+這段影片會展示您在「[!UICONTROL 工作流程]」區域可做的一些變更。 參閱本影片下方的項目符號清單來審閱這些設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432621/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 回顧以下這些在「[!UICONTROL 工作流程]」區段可以進行的校訂範本變更：
 
@@ -53,20 +59,20 @@ ht-degree: 100%
 * 在收件者清單中，按一下進入「[!UICONTROL 角色]」或者「[!UICONTROL 電子郵件提示]」欄位來選擇另一個選項。
 * 使用收件者名稱最右邊的三圓點選單，可刪除清單中的收件者、讓他們成為該工作流程階段的主要決策者，或是編輯校訂角色和電子郵件警報資訊。
 * 您有兩個新增收件者至清單的選項。
-   1. 在每個階段區段的右上角，前往「[!UICONTROL 更多]」選單並選取「[!UICONTROL 新增人員至階段]」。您開啟「[!UICONTROL 新增人員至階段]」視窗後，按一下想要新增人員的階段。接著在收件者清單中輸入他們的名稱或電子郵件地址，並指派校訂角色和電子郵件警報。執行完成時按一下「[!UICONTROL 新增人員]」按鈕。
+   1. 在每個階段區段的右上角，前往「[!UICONTROL 更多]」選單並選取「[!UICONTROL 新增人員至階段]」。 您開啟「[!UICONTROL 新增人員至階段]」視窗後，按一下想要新增人員的階段。 接著在收件者清單中輸入他們的名稱或電子郵件地址，並指派校訂角色和電子郵件警報。 執行完成時按一下「[!UICONTROL 新增人員]」按鈕。
    1. 在「[!UICONTROL 工作流程]」區域的頂端，選取「[!UICONTROL 新增人員至階段]」。
 
 ## 範本共用
 
-「[!UICONTROL 共用對象]」區域顯示可使用範本的校訂使用者。按一下人員名稱最右邊的三圓點選單並選取「[!UICONTROL 移除]」，將不再需要使用範本的人員移除。
+「[!UICONTROL 共用對象]」區域顯示可使用範本的校訂使用者。 按一下人員名稱最右邊的三圓點選單並選取「[!UICONTROL 移除]」，將不再需要使用範本的人員移除。
 
 ![[!UICONTROL 共用對象]清單](assets/proof-system-setups-edit-template-shared-with.png)
 
-但是，您在這個區段無法將人員新增到共用清單。若要新增，請返回範本詳細資料視窗的頂端並按一下「[!UICONTROL 共用範本]」按鈕。
+但是，您在這個區段無法將人員新增到共用清單。 若要新增，請返回範本詳細資料視窗的頂端並按一下「[!UICONTROL 共用範本]」按鈕。
 
 ## 其他資訊
 
-[!DNL Workfront] 保留範本所做變更的稽核歷史記錄。您可以查看日期、進行變更者以及關於所做變更的簡短資訊。
+[!DNL Workfront] 保留範本所做變更的稽核歷史記錄。 您可以查看日期、進行變更者以及關於所做變更的簡短資訊。
 
 本區段不記錄校訂何時使用範本的相關資訊。
 

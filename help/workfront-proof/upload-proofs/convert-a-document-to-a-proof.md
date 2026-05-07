@@ -11,9 +11,15 @@ thumbnail: 335134.png
 jira: KT-8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:52:27.954Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: 240
 ht-degree: 100%
 
 ---
@@ -26,12 +32,12 @@ ht-degree: 100%
 * 產生校訂同時新增工作流程
 * 建立校訂後新增或編輯工作流程
 
->[!VIDEO](https://video.tv.adobe.com/v/3443481/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
 
 
 ## 誰可以上傳文件？
 
-您的系統管理員決定您可以用什麼格式 (文件或校訂) 把檔案上傳到 [!DNL Workfront]。有些使用者可能僅可以上傳文件，有些僅可上傳校訂，或有些人可以上傳兩者。您的權限取決於您在校訂工作流程中的角色。
+您的系統管理員決定您可以用什麼格式 (文件或校訂) 把檔案上傳到 [!DNL Workfront]。 有些使用者可能僅可以上傳文件，有些僅可上傳校訂，或有些人可以上傳兩者。 您的權限取決於您在校訂工作流程中的角色。
 
 如果您發現這些設定需要調整，請與您的系統管理員聯繫。
 
@@ -41,10 +47,10 @@ ht-degree: 100%
 >
 >在進行 Workfront 培訓的過程中，請記得提醒您的同事，您會把校訂傳送給他們。
 
-1. 開啟專案、任務或問題並前往「文件」區段。上傳兩份或三份文件。
+1. 開啟專案、任務或問題並前往「文件」區段。 上傳兩份或三份文件。
 1. 現在把其中一份文件轉換成校訂，但是先不要新增校訂工作流程。
 1. 把第二份文件轉換成校訂，新增基本工作流程並把截止時間訂為今天下午 4 點。
-1. 返回您在這次練習步驟 2 所建立的校訂，然後新增一個校訂工作流程範本。如果您的組織尚未有任何工作流程，請從頭開始設定二階段校訂工作流程。
+1. 返回您在這次練習步驟 2 所建立的校訂，然後新增一個校訂工作流程範本。 如果您的組織尚未有任何工作流程，請從頭開始設定二階段校訂工作流程。
 
 
 <!--

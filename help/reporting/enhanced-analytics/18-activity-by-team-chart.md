@@ -11,16 +11,22 @@ level: Beginner
 jira: KT-10045
 recommendations: noDisplay,catalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '314'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:09:15.287Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 316
 ht-degree: 100%
 
 ---
 
 # 了解「依團隊檢視活動」圖表
 
-您可以利用「團隊活動」圖表了解組織的主團隊在 Workfront 中如何使用時間。Workfront 使用者可以屬於多個團隊，但是他們只能參與一個主團隊。「人員」圖表中使用的團隊，僅包含把該團隊指定為主團隊的使用者。
+您可以利用「團隊活動」圖表了解組織的主團隊在 Workfront 中如何使用時間。 Workfront 使用者可以屬於多個團隊，但是他們只能參與一個主團隊。 「人員」圖表中使用的團隊，僅包含把該團隊指定為主團隊的使用者。
 
 以不同顏色顯示各種活動 (使用者登入、任務狀態變更和任務已完成)，總結篩選時段內發生的這些事件。
 

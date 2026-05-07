@@ -8,20 +8,26 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-07-21T00:00:00Z
+last-substantial-update: '2023-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:45:21.983Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: 357
 ht-degree: 5%
 
 ---
 
 # 在Workfront中有效共用專案
 
-影片說明如何在Workfront中有效共用專案，以確保利害關係人和共同作業人員擁有必要的可見度和存取權。&#x200B;URL Workfront會根據角色自動指派適當的存取許可權，以簡化共用作業：
+影片說明如何在Workfront中有效共用專案，以確保利害關係人和共同作業人員擁有必要的可見度和存取權。 &#x200B;會根據角色自動指派適當的存取許可權，以簡化共用作業：
 
 **自動共用：**
 
@@ -36,8 +42,8 @@ ht-degree: 5%
 
 **大量和範本共用：**
 
-* 大量編輯允許共用多個專案的調整。&#x200B;URL
-* 共用設定可在專案範本中預先設定，以節省時間。&#x200B;URL
+* 大量編輯允許共用多個專案的調整。 &#x200B;
+* 共用設定可在專案範本中預先設定，以節省時間。 &#x200B;
 
 **系統預設值：**
 
@@ -45,15 +51,15 @@ ht-degree: 5%
 
 影片強調使用團隊和範本來有效率地管理共用，並強調管理員在自訂共用偏好設定方面的作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423146/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
-## 關鍵重點
+## 重點提要
 
-* **自動存取許可權：** Workfront會根據角色（例如專案建立者、背景工作者、贊助者和資源管理員）自動指派適當的存取許可權，以簡化共用。&#x200B;URL
-* **彈性共用選項：**&#x200B;專案可與個人、團隊、工作角色、群組或公司共用，且許可權可透過投資組合或方案繼承。&#x200B;URL
-* **有效率的團隊管理：**&#x200B;新增或移除團隊中的成員會自動更新其跨共用物件的存取許可權，讓以團隊為基礎的共用成為最簡單的方法。&#x200B;URL
-* **範本共用：**&#x200B;在專案範本中預先設定共用設定，可確保使用範本建立的所有專案都有一致的存取權，節省時間。&#x200B;URL
-* **可自訂的系統預設值：**&#x200B;系統管理員可以修改預設共用設定，例如將參與者許可權授與指派給工作的團隊成員，以符合組織的偏好設定。&#x200B;URL
+* **自動存取許可權：** Workfront會根據角色（例如專案建立者、背景工作者、贊助者和資源管理員）自動指派適當的存取許可權，以簡化共用。 &#x200B;
+* **彈性共用選項：**&#x200B;專案可與個人、團隊、工作角色、群組或公司共用，且許可權可透過投資組合或方案繼承。 &#x200B;
+* **有效率的團隊管理：**&#x200B;新增或移除團隊中的成員會自動更新其跨共用物件的存取許可權，讓以團隊為基礎的共用成為最簡單的方法。 &#x200B;
+* **範本共用：**&#x200B;在專案範本中預先設定共用設定，可確保使用範本建立的所有專案都有一致的存取權，節省時間。 &#x200B;
+* **可自訂的系統預設值：**&#x200B;系統管理員可以修改預設共用設定，例如將參與者許可權授與指派給工作的團隊成員，以符合組織的偏好設定。 &#x200B;
 
 
 ## 有關此主題的推薦教學課程

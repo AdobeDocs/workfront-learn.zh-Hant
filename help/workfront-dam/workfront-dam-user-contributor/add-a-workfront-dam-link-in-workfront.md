@@ -9,9 +9,15 @@ role: User
 level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:28:30.227Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: 268
 ht-degree: 100%
 
 ---
@@ -35,10 +41,10 @@ ht-degree: 100%
    ![影像顯示「[!UICONTROL 新增]」下拉式選單中的「[!UICONTROL 從 Workfront DAM]」選項](assets/01-contributor-from-workfront-dam.png)
 1. 視窗中出現您在 [!UICONTROL Workfront DAM] 中可以存取的檔案和資料夾清單。
 
-1. 尋找您想要的資產並勾選旁邊的方塊。預設視圖是一份清單，但您可以使用視窗右上角的圖示切換成縮圖視圖。
+1. 尋找您想要的資產並勾選旁邊的方塊。 預設視圖是一份清單，但您可以使用視窗右上角的圖示切換成縮圖視圖。
 
    ![影像顯示在快顯視窗中已選取資產](assets/02-contributor-select-files-in-dam.png)
 
-1. 按一下「**[!UICONTROL 連結]**」按鈕。文件清單中出現與 [!UICONTROL Workfront DAM] 檔案的連結。有一個圖示表示這個連結。
+1. 按一下「**[!UICONTROL 連結]**」按鈕。 文件清單中出現與 [!UICONTROL Workfront DAM] 檔案的連結。 有一個圖示表示這個連結。
 
    ![影像顯示 [!DNL Workfront] 的文件清單中出現 [!UICONTROL Workfront DAM] 檔案的連結。](assets/03-contributor-linked-in-wf.png)

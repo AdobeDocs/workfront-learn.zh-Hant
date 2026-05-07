@@ -11,9 +11,15 @@ jira: KT-11047
 thumbnail: KT11047.png
 recommendations: noDisplay,catalog
 exl-id: 4626b623-8b05-41be-9cfc-917e28222855
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '302'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:46:06.511Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 302
 ht-degree: 100%
 
 ---
@@ -33,7 +39,7 @@ ht-degree: 100%
 **新增篩選器並將規劃時數加總 (SUM)。**
 
 1. 原地複製您在之前練習時建立的「疊代簡介」情境，並命名為「彙總簡介」。
-1. 在「讀取專案的任務」模組和「計算任務數量」模組之間新增篩選器。將篩選器命名為「限工作任務」。
+1. 在「讀取專案的任務」模組和「計算任務數量」模組之間新增篩選器。 將篩選器命名為「限工作任務」。
 1. 設定條件為「子系數量 [數值運算子：等於] 0」。
 
    ![彙總影像 2](../12-exercises/assets/aggregation-walkthrough-2.png)
@@ -55,10 +61,10 @@ ht-degree: 100%
 1. 在數值彙總計算器之後，新增來自電子郵件應用程式的「傳送電子郵件」模組。
 1. 傳送電子郵件給自己。
 1. 主旨行是「專案詳細資料」。
-1. 在「內容」欄位中，寫入「有一個專案名為 [專案名稱]，擁有總共 [結果] 個規劃時數。」「[專案名稱]」取自「讀取一筆記錄」模組，而「[結果]」取自彙總計算器模組。
+1. 在「內容」欄位中，寫入「有一個專案名為 [專案名稱]，擁有總共 [結果] 個規劃時數。」 「[專案名稱]」取自「讀取一筆記錄」模組，而「[結果]」取自彙總計算器模組。
 
    ![彙總影像 5](../12-exercises/assets/aggregation-walkthrough-5.png)
 
-1. 按一下「儲存」，然後「執行一次」。在您的收件匣中尋找電子郵件。
+1. 按一下「儲存」，然後「執行一次」。 在您的收件匣中尋找電子郵件。
 
-在疊代內可以存取個別套件。但在疊代之外，在「傳送電子郵件」模組中，只能存取彙總的欄位。
+在疊代內可以存取個別套件。 但在疊代之外，在「傳送電子郵件」模組中，只能存取彙總的欄位。

@@ -7,13 +7,19 @@ feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2025-06-23T00:00:00Z
+last-substantial-update: '2025-06-23T00:00:00.000Z'
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: c6584858-4838-4ce3-ab7f-7292f37179f4
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:16:18.343Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: 362
 ht-degree: 81%
 
 ---
@@ -26,7 +32,7 @@ ht-degree: 81%
 
 選取紅色作為這些項目的顏色。
 
-包含另一個名為「未完成問題」的行事曆群組，顯示目前專案中指派給您的所有未完成問題。選取藍色作為這些項目的顏色。
+包含另一個名為「未完成問題」的行事曆群組，顯示目前專案中指派給您的所有未完成問題。 選取藍色作為這些項目的顏色。
 
 ## 解答
 
@@ -38,7 +44,7 @@ ht-degree: 81%
 1. 將「日期欄位」變更為「規劃日期」。
 1. 將「在行事曆上顯示」欄位設為「只有結束日期」。
 1. 將「可用時切換至實際日期」欄位設為「否」。
-1. 在「您希望向行事曆新增甚麽？」區段，選取工作。 然後按一下「新增工作」按鈕。
+1. 在「您希望向行事曆新增甚麽？」 區段，選取工作。 然後按一下「新增工作」按鈕。
 1. 新增三個篩選規則：
 
    * 「專案」>「狀態等同於」>「等於」>「目前」
@@ -55,7 +61,7 @@ ht-degree: 81%
 1. 將「日期欄位」變更為「規劃日期」。
 1. 將「在行事曆上顯示」欄位設為「只有結束日期」。
 1. 將「可用時切換至實際日期」欄位設為「否」。
-1. 在「您希望向行事曆新增甚麽？」區段，選取問題。 然後按一下「新增問題」按鈕。
+1. 在「您希望向行事曆新增甚麽？」 區段，選取問題。 然後按一下「新增問題」按鈕。
 1. 新增以下三個篩選規則：
 
    * 「專案」>「狀態等同於」>「等於」>「目前」

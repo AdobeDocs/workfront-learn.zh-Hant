@@ -12,9 +12,15 @@ jira: KT-8735
 recommendations: noDisplay,catalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:10:25.040Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: 247
 ht-degree: 100%
 
 ---
@@ -26,11 +32,11 @@ ht-degree: 100%
 * 如何存取飛行圖中的任務
 * 如何快速查看專案中有哪些任務尚未完成
 
->[!VIDEO](https://video.tv.adobe.com/v/3437011/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
 
 ## 任務層級資料
 
-您可以利用飛行圖中的任務深入探究特定專案的任務，查看每項進行中任務已完成的工作量，以及該任務是否符合排程的進度。該圖表讓您了解專案中有哪些任務需要完成，以及這些任務的完成百分比是多少。
+您可以利用飛行圖中的任務深入探究特定專案的任務，查看每項進行中任務已完成的工作量，以及該任務是否符合排程的進度。 該圖表讓您了解專案中有哪些任務需要完成，以及這些任務的完成百分比是多少。
 
 此資訊可協助您確定：
 

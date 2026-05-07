@@ -11,23 +11,29 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:28:11.136Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: 466
 ht-degree: 100%
 
 ---
 
 # 對視圖新增基本條件式格式設定
 
-建立欄規則便可以進行條件式格式設定。欄規則允許您根據自己設定的條件，用特定方式將欄格式化。
+建立欄規則便可以進行條件式格式設定。 欄規則允許您根據自己設定的條件，用特定方式將欄格式化。
 
 觀看這段影片，您將會瞭解：
 
 * 視圖中有哪些條件式格式設定
 * 如何建立和修改條件式格式設定
 
->[!VIDEO](https://video.tv.adobe.com/v/3445452/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
 
 
 ## 條件式格式概要
@@ -61,16 +67,16 @@ ht-degree: 100%
 1. 在任務清單報告中，前往「**[!UICONTROL 視圖]**」下拉式選單並選取「**[!UICONTROL 新增視圖]**」。
 1. 將您的視圖命名為「標準 + 進度」。
 1. 使用所提供的預設欄。
-1. 選取「[!UICONTROL 任務名稱]」欄。這就是您想要套用條件式格式設定的欄，以便在任務的進度狀態不是「準時」的時候顯示紅色或黃色。
+1. 選取「[!UICONTROL 任務名稱]」欄。 這就是您想要套用條件式格式設定的欄，以便在任務的進度狀態不是「準時」的時候顯示紅色或黃色。
 1. 按一下 Report Builder 視窗右上角的「**[!UICONTROL 進階選項]**」。
 1. 按一下「**[!UICONTROL 為此欄新增一項規則]**」。
-1. 把視窗上方的「[!UICONTROL 任務]」>「[!UICONTROL 名稱]」變更為「[!UICONTROL 任務]」>「[!UICONTROL 進度狀態]」，啟動欄規則。按一下「[!UICONTROL 任務]」>「[!UICONTROL 名稱]」旁邊的 **[!UICONTROL X]** 圖示，把規則從欄位中刪除。
+1. 把視窗上方的「[!UICONTROL 任務]」>「[!UICONTROL 名稱]」變更為「[!UICONTROL 任務]」>「[!UICONTROL 進度狀態]」，啟動欄規則。 按一下「[!UICONTROL 任務]」>「[!UICONTROL 名稱]」旁邊的 **[!UICONTROL X]** 圖示，把規則從欄位中刪除。
 1. 在欄位中輸入「進度」，然後在「[!UICONTROL 任務]」欄位來源之下選取「[!UICONTROL 進度狀態]」。
 1. 在「[!UICONTROL 等於]」限定詞右邊的欄位中選取「**[!UICONTROL 延遲]**」。
 1. 在「[!UICONTROL 文字顏色]」列選擇紅色的背景。
 1. 按一下「**[!UICONTROL 新增規則]**」來儲存欄規則。
 1. 現在再次按一下「**[!UICONTROL 新增欄規則]**」，新增另一條規則。
-1. 和之前一樣，從條件欄位中刪除「[!UICONTROL 任務]」>「[!UICONTROL 名稱]」。使用「[!UICONTROL 任務]」欄位來源之下的「[!UICONTROL 進度狀態]」來取代。
+1. 和之前一樣，從條件欄位中刪除「[!UICONTROL 任務]」>「[!UICONTROL 名稱]」。 使用「[!UICONTROL 任務]」欄位來源之下的「[!UICONTROL 進度狀態]」來取代。
 1. 在「等於」限定詞右邊的欄位中選取「[!UICONTROL 有風險]」及「[!UICONTROL 落後]」。
 1. 在「[!UICONTROL 文字顏色]」列選擇黃色的背景。
 1. 按一下「**[!UICONTROL 新增規則]**」來儲存欄規則。

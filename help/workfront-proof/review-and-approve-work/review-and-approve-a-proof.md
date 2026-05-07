@@ -11,20 +11,26 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:55:03.417Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: 727
 ht-degree: 100%
 
 ---
 
 # 審閱及核准校訂
 
-在開始審閱校訂之前，請確保您知道別人對於這項工作的預期。您在校訂工作流程中扮演什麼角色？審閱校訂、核准校訂，或是兩者皆有？
+在開始審閱校訂之前，請確保您知道別人對於這項工作的預期。 您在校訂工作流程中扮演什麼角色？ 審閱校訂、核准校訂，或是兩者皆有？
 
-作為文案編輯，您的重點可能是審閱校訂是否有語法錯誤和拼寫錯誤。行銷和創意團隊可能著重於資產的設計並確保符合企業品牌。法務團隊可以確認服務合約的用字遣詞是否嚴謹。而專案經理人可能要確認所審閱的內容符合相關專案的目的與目標。
+作為文案編輯，您的重點可能是審閱校訂是否有語法錯誤和拼寫錯誤。 行銷和創意團隊可能著重於資產的設計並確保符合企業品牌。 法務團隊可以確認服務合約的用字遣詞是否嚴謹。 而專案經理人可能要確認所審閱的內容符合相關專案的目的與目標。
 
-您可能也要負責核准校訂。核准校訂表示您認為「這份作品沒問題，已準備好發佈」。或者您可能認為「這份作品需要變更，請送回去進行修改」。
+您可能也要負責核准校訂。 核准校訂表示您認為「這份作品沒問題，已準備好發佈」。 或者您可能認為「這份作品需要變更，請送回去進行修改」。
 
 您知道工作的相關預期之後，便可以開始審閱校訂。
 
@@ -32,9 +38,9 @@ ht-degree: 100%
 
 當資產準備好進行審閱和核准時，您會收到電子郵件通知。
 
-![影像顯示 [!DNL &#x200B; Workfront] 中有一封新的校訂電子郵件請求進行兩份校訂的審閱與核准。](assets/new-proof-emails.png)
+![影像顯示 [!DNL  Workfront] 中有一封新的校訂電子郵件請求進行兩份校訂的審閱與核准。](assets/new-proof-emails.png)
 
-請注意，此一校訂連結是唯一提供給您使用。如果您與他人共用連結，他們留下的任何註解和記號都會標記您的名稱。
+請注意，此一校訂連結是唯一提供給您使用。 如果您與他人共用連結，他們留下的任何註解和記號都會標記您的名稱。
 
 「[!UICONTROL 新增校訂]」電子郵件亦包含關於校訂的重要資訊：
 
@@ -49,13 +55,13 @@ ht-degree: 100%
 
 若您正使用 [!DNL Workfront] 並收到核准校訂的要求，您會在 [!DNL Workfront] [!UICONTROL 首頁]的「[!UICONTROL 我的核准]」小工具中看到指派。
 
-![[!DNL Workfront]&#x200B;[!UICONTROL &#x200B; 首頁]上「[!UICONTROL 我的核准] 」小工具的影像。](assets/open-proof-from-home.png)
+![[!DNL Workfront][!UICONTROL  首頁]上「[!UICONTROL 我的核准] 」小工具的影像。](assets/open-proof-from-home.png)
 
-值得注意的是，唯有在您被指派負責核准時，校訂才會出現在 [!DNL Workfront] [!UICONTROL 首頁]。若您僅需審閱校訂，便不會顯示在 [!DNL Workfront] [!UICONTROL 首頁]上。
+值得注意的是，唯有在您被指派負責核准時，校訂才會出現在 [!DNL Workfront] [!UICONTROL 首頁]。 若您僅需審閱校訂，便不會顯示在 [!DNL Workfront] [!UICONTROL 首頁]上。
 
 按一下「[!UICONTROL 前往校訂]」連結以在校訂檢視器內開啟。
 
-根據貴組織的校訂和專案工作流程，您可能會在 [!DNL Workfront] [!UICONTROL 首頁]看到任務指派而不是校訂核准請求。在這種情況下，您會在任務本身的「[!UICONTROL 文件]」區段開啟校訂 (請參閱下方指示)。
+根據貴組織的校訂和專案工作流程，您可能會在 [!DNL Workfront] [!UICONTROL 首頁]看到任務指派而不是校訂核准請求。 在這種情況下，您會在任務本身的「[!UICONTROL 文件]」區段開啟校訂 (請參閱下方指示)。
 
 您也可能在團隊或組織為了協助管理校訂工作流程而特別建立的 [!DNL Workfront] 儀表板上，看到要審閱的校訂。
 
@@ -63,7 +69,7 @@ ht-degree: 100%
 
 如果您通常在 [!DNL Workfront] 中處理專案、任務或問題，您可能偏好直接在該項目的「[!DNL Documents]」區段直接開啟校訂。
 
-![影像顯示在 [!DNL &#x200B; Workfront] 任務中的「[!UICONTROL 文件]」區段，其中突顯標示「[!UICONTROL 開啟校訂]」連結。](assets/open-proof-from-documents.png)
+![影像顯示在 [!DNL  Workfront] 任務中的「[!UICONTROL 文件]」區段，其中突顯標示「[!UICONTROL 開啟校訂]」連結。](assets/open-proof-from-documents.png)
 
 1. 按一下專案、任務或問題的名稱。
 2. 在項目頁面的左側面板選單中按一下「[!UICONTROL 文件]」。
@@ -72,11 +78,11 @@ ht-degree: 100%
 
 ## 如何核准校訂
 
-開啟校訂後，您將看到上方的「**做出決策**」按鈕，位在「**新增註解**」旁邊。如果您不是此校訂的核准者，您不會看到這個按鈕。
+開啟校訂後，您將看到上方的「**做出決策**」按鈕，位在「**新增註解**」旁邊。 如果您不是此校訂的核准者，您不會看到這個按鈕。
 
 ![第一個「做出決定」按鈕的影像。](assets/make-decision-1.png)
 
-當您準備好做出決策時，請按一下「**做出決定**」按鈕查看您的決策選項。選取您的選擇，然後按一下以下其他「**做出決策**」按鈕。
+當您準備好做出決策時，請按一下「**做出決定**」按鈕查看您的決策選項。 選取您的選擇，然後按一下以下其他「**做出決策**」按鈕。
 
 ![第二個「做出決定」按鈕的影像。](assets/make-decision-2.png)
 

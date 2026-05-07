@@ -8,31 +8,37 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
-last-substantial-update: 2025-06-11T00:00:00Z
+last-substantial-update: '2025-06-11T00:00:00.000Z'
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:19.850Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '1121'
-ht-degree: 76%
+source-wordcount: 1158
+ht-degree: 77%
 
 ---
 
 # 為延遲指派建立任務報告
 
-影片逐步說明如何建立自訂報表，以追蹤指派給登入使用者的延遲任務。 首先，說明當現有的篩選器、檢視或內建報表不符合特定需求時，需要自訂報表。&#x200B;URL 該報表命名為「指派給我的最晚任務」，並新增說明以更明確說明。&#x200B;URL
+影片逐步說明如何建立自訂報表，以追蹤指派給登入使用者的延遲任務。 首先，說明當現有的篩選器、檢視或內建報表不符合特定需求時，需要自訂報表。 該報&#x200B;告命名為「指派給我的延遲任務」，並新增說明以更明確說明。 &#x200B;
 
-產生的報表可幫助使用者專注於後期任務、提供相依性的深入分析，並簡化主機專案的導覽。&#x200B;URL
+產生的報表可幫助使用者專注於後期任務、提供相依性的深入分析，並簡化主機專案的導覽。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448353/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
-## 關鍵重點
+## 重點提要
 
-* **自訂報告建立：**&#x200B;當現有的篩選器和內建報告不符合您的需求時，您可以從頭開始建立自訂報告，以聚焦於特定資料，例如指派給您的延遲工作。&#x200B;URL
-* **篩選器設定：**&#x200B;使用篩選器來定義報告條件，包括延遲任務、未完成任務、目前專案和指派給登入使用者的任務。&#x200B;URL
-* 內容：**欄：**&#x200B;新增「可以開始」之類的欄以識別相依性問題，以及含有超連結的「專案名稱」，以輕鬆導覽至相關專案。&#x200B;URL
-* **排序優先順序：**&#x200B;依「到期日」欄遞增順序排序工作，以在報告頂端優先處理最逾期的工作。&#x200B;URL
+* **自訂報告建立：**&#x200B;當現有的篩選器和內建報告不符合您的需求時，您可以從頭開始建立自訂報告，以聚焦於特定資料，例如指派給您的延遲工作。 &#x200B;
+* **篩選器設定：**&#x200B;使用篩選器來定義報告條件，包括延遲任務、未完成任務、目前專案和指派給登入使用者的任務。 &#x200B;
+* 內容：**欄：**&#x200B;新增「可以開始」之類的欄以識別相依性問題，以及含有超連結的「專案名稱」，以輕鬆導覽至相關專案。 &#x200B;
+* **排序優先順序：**&#x200B;依「到期日」欄遞增順序排序工作，以在報告頂端優先處理最逾期的工作。 &#x200B;
 * **協助工具：**&#x200B;儲存報告、釘選報告或將其標示為最愛以快速存取，確保有效率地追蹤和管理延遲工作。
 
 
@@ -40,16 +46,16 @@ ht-degree: 76%
 
 >[!TIP]
 >
->拿出您的各種器具，準備好使用我們 [&#x200B; Adobe Workfront 客戶報告逐步指南](/help/assets/workfront-customer-reporting-cookbook.pdf)內的秘方。您將在指南中找到 10 份報告的逐步說明，可供您立即在您的環境中快速應用。
+>拿出您的各種器具，準備好使用我們 [ Adobe Workfront 客戶報告逐步指南](/help/assets/workfront-customer-reporting-cookbook.pdf)內的秘方。 您將在指南中找到 10 份報告的逐步說明，可供您立即在您的環境中快速應用。
 >我們收集了客戶最喜歡的報告，並將這些內容整理成一套簡單易懂、易消化的秘方，您帶回後可在自己的 Workfront 環境中進行測試。
->這 10 份報告來自與您類似的客戶。我們的客戶分佈在不同的行業、部門、團隊、職位以及不同的公司，非常感謝這些最棒的客戶分享他們最喜歡的報告。有些報告很簡單 (但非常有用)，有些則比較複雜，但都可讓您的報告提升到另一個全新境界。
+>這 10 份報告來自與您類似的客戶。 我們的客戶分佈在不同的行業、部門、團隊、職位以及不同的公司，非常感謝這些最棒的客戶分享他們最喜歡的報告。 有些報告很簡單 (但非常有用)，有些則比較複雜，但都可讓您的報告提升到另一個全新境界。
 
 
 ### 活動 1：建立附帶提示的備註報告
 
-建立備註報告，方便您根據備註內容、作者、輸入日期、專案名稱或稽核類型來搜尋使用者備註 (即註解或更新) 或系統備註。將報告命名為「備註搜尋」。
+建立備註報告，方便您根據備註內容、作者、輸入日期、專案名稱或稽核類型來搜尋使用者備註 (即註解或更新) 或系統備註。 將報告命名為「備註搜尋」。
 
-使用「備註文字」提示時，這份報告將搜尋更新執行緒，以便迅速擷取符合提示中指定條件的任何內容。執行報告時不需要填寫每個提示，只需填寫您關心的即可。系統會自動忽略空白的提示。
+使用「備註文字」提示時，這份報告將搜尋更新執行緒，以便迅速擷取符合提示中指定條件的任何內容。 執行報告時不需要填寫每個提示，只需填寫您關心的即可。 系統會自動忽略空白的提示。
 
 該視圖應包含以下欄：
 
@@ -97,7 +103,7 @@ ht-degree: 76%
 
 1. 讓「[!UICONTROL 篩選器]」留白。
 1. 開啟「**[!UICONTROL 報告設定]**」並將報告命名為「備註搜尋」。
-1. 在「[!UICONTROL 說明]」欄位中，請輸入例如「根據所選稽核類型和其他提示來搜尋系統或使用者備註。系統備註出現在「稽核文字」欄而使用者備註出現在「備註文字」欄」。
+1. 在「[!UICONTROL 說明]」欄位中，請輸入例如「根據所選稽核類型和其他提示來搜尋系統或使用者備註。 系統備註出現在「稽核文字」欄而使用者備註出現在「備註文字」欄」。
 
    ![影像顯示建立備註報告設定的畫面](assets/note-report-report-options.png)
 
@@ -119,9 +125,9 @@ ht-degree: 76%
 
 ### 活動 2：建立管理團隊意見回饋報告
 
-這是一份問題報告，主要是顯示為系統管理員所建立意見回饋請求佇列的所有問題。您可以在「[建立系統管理員意見回饋請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=zh-Hant)」教學課程中查看如何建立此請求佇列。
+這是一份問題報告，主要是顯示為系統管理員所建立意見回饋請求佇列的所有問題。 您可以在「[建立系統管理員意見回饋請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html)」教學課程中查看如何建立此請求佇列。
 
-此報告也使用自訂表單。若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hant)」教學課程。
+此報告也使用自訂表單。 若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)」教學課程。
 
 此自訂表單應使用物件型別「專案和問題」，並應按如下方式建立：
 

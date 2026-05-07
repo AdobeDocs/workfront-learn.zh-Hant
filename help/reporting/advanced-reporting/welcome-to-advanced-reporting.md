@@ -10,10 +10,16 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: d378ca77-2da1-4f39-ad92-1917fe974a38
+autotag-review: '2026-05-06T14:27:36.353Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 100%
+source-wordcount: 512
+ht-degree: 99%
 
 ---
 
@@ -21,7 +27,7 @@ ht-degree: 100%
 
 瞭解如何使用 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/) 和文字模式來建立進階篩選器、視圖和分組，這些都是「[!UICONTROL 報告 UI]」無法提供的功能。
 
-「進階報告」有三個教學課程，其中包括進階報告第 1、2 和 3 部分。培訓時間總計 5 小時 33 分鐘。
+「進階報告」有三個教學課程， 其中包括進階報告第 1、2 和 3 部分。 培訓時間總計 5 小時 33 分鐘。
 
 除了影片以外，您將需要下載「[進階報告手冊](/help/assets/advanced-reporting-manual.pdf)」以供參考和練習。
 
@@ -35,16 +41,16 @@ ht-degree: 100%
 
 在觀看這些教學課程之前，您應做好以下準備：
 
-* 熟悉使用 Workfront。這表示您是正式的 Workfront 使用者至少 3 至 6 個月。
+* 熟悉使用 Workfront。 這表示您是正式的 Workfront 使用者至少 3 至 6 個月。
 * 熟悉您要在報告中加入的物件。
 * 熟悉如何使用自訂表單，特別是計算自訂欄位。
 * 「[!UICONTROL 計劃]」授權類型，並有建立報告和啟用篩選器的權限。
 * 您應該參加這些課程：
-   * [[!UICONTROL 基本報告元素]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=zh-Hant)
-   * [[!UICONTROL 建立自訂報告和儀表板]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=zh-Hant)
-   * [[!UICONTROL 建立中繼篩選器]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=zh-Hant)
+   * [[!UICONTROL 基本報告元素]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
+   * [[!UICONTROL 建立自訂報告和儀表板]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
+   * [[!UICONTROL 建立中繼篩選器]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
 * 您還應該上這些教學課程：
-   * [[!UICONTROL 瞭解視圖的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)
+   * [[!UICONTROL 了解視圖的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)
    * [[!UICONTROL 瞭解分組的基本文字模式]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hant)
 
 ## 目標客群
@@ -53,6 +59,6 @@ ht-degree: 100%
 
 ## 這些教學課程的來源是哪裡？
 
-這些教學課程是 2018 年 2 月為期三天的現場課程錄影。您可能發現影片中使用舊版的 UI，但這並不影響內容的準確性與相關性。
+這些教學課程是 2018 年 2 月為期三天的現場課程錄影。 您可能發現影片中使用舊版的 UI，但這並不影響內容的準確性與相關性。
 
-您也會聽到一些關於取得產品試用帳戶來進行練習的說法。Adobe Experience League 不提供產品試用帳戶，但請別擔心。您可以在生產帳戶中進行練習。畢竟，報告只是用來檢視 Workfront 中的物件，而不是建立或刪除任何物件。當然，自行建立的報告除外。但除了系統管理員之外，只有您可以看到自己建立的報告，除非您決定要共用。
+您也會聽到一些關於取得產品試用帳戶來進行練習的說法。 Adobe Experience League 不提供產品試用帳戶，但請別擔心。 您可以在生產帳戶中進行練習。 畢竟，報告只是用來檢視 Workfront 中的物件，而不是建立或刪除任何物件。 當然，自行建立的報告除外。 但除了系統管理員之外，只有您可以看到自己建立的報告，除非您決定要共用。

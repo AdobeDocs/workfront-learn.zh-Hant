@@ -10,26 +10,31 @@ role: User
 level: Intermediate
 jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-last-substantial-update: 2025-08-11T00:00:00Z
+last-substantial-update: '2025-08-11T00:00:00.000Z'
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T02:11:54.379Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: 318
 ht-degree: 31%
 
 ---
 
 # 在篩選器中建立 OR 陳述式
 
-影片說明如何在Workfront中建立和使用具備多個規則的篩選器。&#x200B;URL 依預設，Workfront在篩選規則之間使用「AND」，這表示所有條件都必須為True，專案才會出現在清單中。
+影片說明如何在Workfront中建立和使用具備多個規則的篩選器。 依&#x200B;預設，Workfront在篩選規則之間使用「AND」，這表示所有條件都必須為真，專案才會出現在清單中。
 或者，您也可以將篩選邏輯變更為「OR」，以顯示符合任何條件的專案。
-此影片也會示範如何使用篩選器群組來建立任務的篩選器。&#x200B;URL 例如，您可以建立兩個群組：一個用於指派給延遲創意團隊的未完成任務，另一個用於指派給未指派創意團隊的未完成任務。&#x200B;URL 在每個群組中，「AND」邏輯適用，這表示必須符合群組中的所有條件。&#x200B;URL 群組之間的「OR」邏輯可確保顯示符合任一群組條件的任務。
+此影片也會示範如何使用篩選器群組來建立任務的篩選器。 例&#x200B;如，您可以建立兩個群組：一個用於指派給延遲創意團隊的未完成任務，另一個用於指派給未指派創意團隊的未完成任務。 在每個群組&#x200B;內，「AND」邏輯適用，這表示必須符合群組中的所有條件。 群組之間&#x200B;的「OR」邏輯可確保顯示符合任一群組條件的任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470704/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
 
 ## OR 篩選活動
 
-您想要尋找指派給您的或是未指派給任何人的未完成任務。您設定一個類似以下內容的篩選器。這個篩選器會產生您想要的結果嗎？為什麼會或不會？
+您想要尋找指派給您的或是未指派給任何人的未完成任務。 您設定一個類似以下內容的篩選器。 這個篩選器會產生您想要的結果嗎？ 為什麼會或不會？
 
 ![影像顯示未正確建立的 OR 陳述式，位於 [!DNL Workfront]](assets/or-statement-your-turn-1.png)
 
@@ -43,6 +48,6 @@ ht-degree: 31%
 * **PLUS (OR)**
 * 所有未指派的任務，無論狀態如何。
 
-篩選器應如下所示。請注意，此篩選器在OR兩側都有任務完整度的篩選規則。
+篩選器應如下所示。 請注意，此篩選器在OR兩側都有任務完整度的篩選規則。
 
 ![影像顯示正確建立的 OR 陳述式，位於 [!DNL Workfront]](assets/or-statement-your-turn-2.png)

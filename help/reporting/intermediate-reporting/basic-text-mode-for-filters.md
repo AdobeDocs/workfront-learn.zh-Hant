@@ -8,14 +8,20 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-last-substantial-update: 2025-07-30T00:00:00Z
+last-substantial-update: '2025-07-30T00:00:00.000Z'
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T13:59:16.164Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 501
+ht-degree: 87%
 
 ---
 
@@ -41,14 +47,14 @@ ht-degree: 0%
 * 駝峰式大小寫
 * 您可以用在報表篩選中的某些&#x200B;_文字模式程式碼區塊_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470329/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## 「了解篩選器的基本文字模式」活動
 
 
 ### 任務 - 將我已標記為「已完成我的部分」的工作篩除
 
-以下文字模式將會排除使用者已標記為「已完成我的部分」的任務。您只需要建立一個任務篩選器，新增任何想要的篩選規則，然後切換到文字模式，並把下列程式碼貼到您在篩選器中看到的任何文字模式之後。
+以下文字模式將會排除使用者已標記為「已完成我的部分」的任務。 您只需要建立一個任務篩選器，新增任何想要的篩選規則，然後切換到文字模式，並把下列程式碼貼到您在篩選器中看到的任何文字模式之後。
 
 
 >[!WARNING]
@@ -74,7 +80,7 @@ currentUserApproversMM_Join=allowingnull
 
 ### 任務 - 顯示所有我已核准的任務
 
-使用任何您想要的篩選器來建立任務報告，然後前往「篩選器」標籤並按一下「切換到文字模式」。把這段程式碼新增到任何原有內容之中：
+使用任何您想要的篩選器來建立任務報告，然後前往「篩選器」標籤並按一下「切換到文字模式」。 把這段程式碼新增到任何原有內容之中：
 
 ```
 approvalProcessID_Mod=notblank
@@ -92,7 +98,7 @@ predecessorsMM:projectID_Mod=ne
 
 ### 任務 - 顯示我指派給其他人的任務
 
-使用任何您想要的篩選器來建立任務報告，然後前往「篩選器」標籤並按一下「切換到文字模式」。把這段程式碼新增到任何原有內容之中：
+使用任何您想要的篩選器來建立任務報告，然後前往「篩選器」標籤並按一下「切換到文字模式」。 把這段程式碼新增到任何原有內容之中：
 
 >[!WARNING]
 > 
@@ -104,7 +110,7 @@ EXISTS:1:taskID=FIELD:ID
 EXISTS:1:assignedByID=$$USER.ID
 ```
 
-這樣將會顯示已登入使用者至少指派其中一位目前受指派者的所有任務。如果受指派者由多名人員指派，只有進行指派的第一個人的名稱會在任務登陸頁面中顯示為「請求者」。
+這樣將會顯示已登入使用者至少指派其中一位目前受指派者的所有任務。 如果受指派者由多名人員指派，只有進行指派的第一個人的名稱會在任務登陸頁面中顯示為「請求者」。
 
 ### 任務 - 顯示所有已完成 - 待核准的任務
 
