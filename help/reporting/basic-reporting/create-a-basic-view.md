@@ -36,7 +36,7 @@ ht-degree: 71%
 
 影片強調Workfront檢視的彈性，並提供建立、自訂及管理檢視的逐步指示。
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450249/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 重點提要
 

@@ -37,7 +37,7 @@ ht-degree: 100%
 * 如何存取飛行圖中的任務
 * 如何快速查看專案中有哪些任務尚未完成
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437011/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 任務層級資料
 

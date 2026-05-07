@@ -36,7 +36,7 @@ ht-degree: 77%
 
 產生的報表可幫助使用者專注於後期任務、提供相依性的深入分析，並簡化主機專案的導覽。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448353/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 重點提要
 

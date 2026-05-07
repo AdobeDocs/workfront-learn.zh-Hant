@@ -44,7 +44,7 @@ ht-degree: 13%
 
 影片重點說明Workfront如何簡化通訊、任務管理和報告，確保所有專案相關資訊都可存取且井然有序。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436155/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

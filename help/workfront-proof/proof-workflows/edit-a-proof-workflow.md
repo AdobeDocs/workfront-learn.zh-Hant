@@ -38,7 +38,7 @@ ht-degree: 100%
 * 新增使用者到現有工作流程
 * 將現有工作流程切換成自動化工作流程
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445463/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 換您來操作
 

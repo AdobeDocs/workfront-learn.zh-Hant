@@ -36,7 +36,7 @@ ht-degree: 100%
 
 * 如何閱讀飛行計劃圖
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439026/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 飛行計劃圖
 

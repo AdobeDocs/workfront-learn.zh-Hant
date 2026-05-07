@@ -36,4 +36,4 @@ ht-degree: 100%
 
 * 如何從飛行圖中的任務內進行更新
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436876/?captions=chi_hant&quality=12&learn=on&enablevpops=1)

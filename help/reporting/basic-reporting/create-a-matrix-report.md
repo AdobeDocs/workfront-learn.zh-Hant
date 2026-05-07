@@ -37,7 +37,7 @@ ht-degree: 63%
 * 矩陣報告的適用時機
 * 以及如何建立矩陣報告
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448194/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 重點提要
 

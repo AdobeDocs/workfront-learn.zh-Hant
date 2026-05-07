@@ -37,7 +37,7 @@ ht-degree: 100%
 * 下載校訂的所有版本
 * 刪除校訂版本
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438653/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

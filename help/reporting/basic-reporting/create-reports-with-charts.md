@@ -49,7 +49,7 @@ ht-degree: 38%
 
 影片重點說明圓形圖和棧疊直條圖等圖表如何提供任務分佈和專案效能的深入分析，以協助使用者比較專案並以視覺化方式瞭解任務進度。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450025/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 重點提要
 

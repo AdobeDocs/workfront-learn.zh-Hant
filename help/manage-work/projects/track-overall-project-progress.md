@@ -36,7 +36,7 @@ ht-degree: 14%
 
 影片強調團隊成員定期更新及主動問題管理的重要性，以確保準確追蹤並及時完成專案。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447421/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 

@@ -40,7 +40,7 @@ ht-degree: 46%
 * **篩選限定詞：**&#x200B;定義要在報告中包含或排除的值，例如顯示優先順序為「高」的工作。 &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447032/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 重點提要
 

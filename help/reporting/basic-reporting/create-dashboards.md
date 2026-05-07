@@ -35,7 +35,7 @@ ht-degree: 45%
 影片提供全面指南，讓您瞭解並使用Workfront中的控制面板。
 它說&#x200B;明，儀表板是報表的集合，可讓使用者在一個位置整理和顯示相關資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449133/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 重點提要
 

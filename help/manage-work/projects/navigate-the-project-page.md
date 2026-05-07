@@ -44,7 +44,7 @@ ht-degree: 56%
 * **檔案區段：**&#x200B;啟用上傳和管理專案相關的檔案和校樣。 附加到任務的&#x200B;檔案會彙總到專案層級，以便輕鬆存取。 &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449737/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 

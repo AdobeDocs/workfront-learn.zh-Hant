@@ -37,7 +37,7 @@ ht-degree: 100%
 * 自行更新核准請求
 * 尋找 Workfront 通知
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440158/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

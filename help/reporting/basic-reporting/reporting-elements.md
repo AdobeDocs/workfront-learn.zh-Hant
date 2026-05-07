@@ -35,7 +35,7 @@ ht-degree: 0%
 
 影片也會示範如何自訂報表元素並與他人共用。 這&#x200B;些工具可讓使用者根據自己的需求量身打造清單報告，以提升可見度及管理性。
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447799/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 

@@ -37,4 +37,4 @@ ht-degree: 100%
 * 在「[!UICONTROL 更新]」區段檢視校訂註解
 * 回應來自「[!UICONTROL 更新]」區段的校訂註解
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438664/?captions=chi_hant&quality=12&learn=on&enablevpops=1)

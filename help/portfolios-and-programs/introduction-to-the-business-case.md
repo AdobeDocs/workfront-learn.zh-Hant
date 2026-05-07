@@ -34,7 +34,7 @@ ht-degree: 7%
 
 影片說明業務案例在專案管理中的重要性。 它強調完整填寫業務案例有助於經理分析並優先處理競爭相同資源的專案。 完成&#x200B;後，提交業務案例會將專案狀態變更為「已要求」，並計算其整體分數，以便在Portfolio最佳化工具中進行比較。 雖然&#x200B;這些欄位都不是必填欄位，但更詳細的資訊可改善決策。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442855/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 

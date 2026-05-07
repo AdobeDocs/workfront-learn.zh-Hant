@@ -44,7 +44,7 @@ ht-degree: 4%
 
 影片強調自訂，並提供教學課程的連結，以供您進一步學習。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453077/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 

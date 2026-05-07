@@ -36,7 +36,7 @@ ht-degree: 100%
 
 * 如何快速查看員工對每個專案投注多少時間
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437810/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 審閱在各個專案上花費的時間
 

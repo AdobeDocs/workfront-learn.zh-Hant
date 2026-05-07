@@ -36,7 +36,7 @@ ht-degree: 100%
 * 在影片中新增具有時間戳記的註解
 * 調整檢視器設定
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444233/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

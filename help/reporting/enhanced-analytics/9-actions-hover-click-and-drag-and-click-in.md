@@ -38,7 +38,7 @@ ht-degree: 100%
 * 在圖表上建立時間範圍
 * 如何顯示更多圖表
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438576/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 按一下圖表以取得更多資訊
 
