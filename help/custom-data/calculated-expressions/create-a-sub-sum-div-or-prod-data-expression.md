@@ -11,9 +11,12 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/tR2rrepkXCZXLuqsLj7ljh377g26f-RQXdE-TMlFkyk
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: 378
 ht-degree: 89%
 
 ---
@@ -47,13 +50,13 @@ ROUND 運算式將任何數字四捨五入到一定的小數位數。
 
 ![附帶使用情況報告的工作負載平衡器](assets/round01.png)
 
-但是，如果建立自訂表單時欄位格式為「文字」，則在視圖中無法輕易變更格式。您必須使用 ROUND 運算式，避免在專案中看到類似這樣的數字：
+但是，如果建立自訂表單時欄位格式為「文字」，則在視圖中無法輕易變更格式。 您必須使用 ROUND 運算式，避免在專案中看到類似這樣的數字：
 
 ![附帶使用情況報告的工作負載平衡器](assets/round02.png)
 
 <b>在計算欄位中使用 ROUND 資料運算式</b>
 
-ROUND 運算式包含運算式名稱 (ROUND) 以及兩個資料點，這是指一般情況。這些資料點可能是運算式或是 Workfront 中的欄位，後面帶有數字，表示您想要有多少個小數位數。
+ROUND 運算式包含運算式名稱 (ROUND) 以及兩個資料點，這是指一般情況。 這些資料點可能是運算式或是 Workfront 中的欄位，後面帶有數字，表示您想要有多少個小數位數。
 
 運算式的結構如下：ROUND(data point, #)
 

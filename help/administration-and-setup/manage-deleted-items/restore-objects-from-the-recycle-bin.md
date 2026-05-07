@@ -10,18 +10,24 @@ level: Beginner
 thumbnail: 10100.jpeg
 jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/FH5-fqz-u62W04-Cm8x4nU6cYSb2bKhrZ27No-yScG8
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: 255
 ht-degree: 100%
 
 ---
 
 # 把放入資源回收筒的物件還原
 
-專案工作經歷許多變更。您可以刪除某個項目，卻在 30 分鐘後才發現自己需要那個任務，或是該文件對於您要解決的問題至關緊要。
+專案工作經歷許多變更。 您可以刪除某個項目，卻在 30 分鐘後才發現自己需要那個任務，或是該文件對於您要解決的問題至關緊要。
 
-Workfront 會把被刪除的物件放在資源回收筒中最多 30 天。系統管理員可以把物件以及其所有資訊 (更新、登入時間、文件等) 還原到其在 Workfront 的原始位置。
+Workfront 會把被刪除的物件放在資源回收筒中最多 30 天。 系統管理員可以把物件以及其所有資訊 (更新、登入時間、文件等) 還原到其在 Workfront 的原始位置。
 
 ## 還原物件
 
@@ -39,7 +45,7 @@ Workfront 會把被刪除的物件放在資源回收筒中最多 30 天。系統
 
 ![在資源回收中選取的項目](assets/admin-fund-recycle-bin-2.png)
 
-所還原的物件會短暫快顯在「[!UICONTROL 進行中]」區段。一旦畫面重新整理，物件因為已經還原，畫面上便不會再顯示。這些項目會出現在其之前位在 [!DNL Workfront] 的位置，您可以在「[!UICONTROL 最近還原]」畫面上確認。
+所還原的物件會短暫快顯在「[!UICONTROL 進行中]」區段。 一旦畫面重新整理，物件因為已經還原，畫面上便不會再顯示。 這些項目會出現在其之前位在 [!DNL Workfront] 的位置，您可以在「[!UICONTROL 最近還原]」畫面上確認。
 
 ![「設定」區域中「資源回收筒」的「最近還原」區段](assets/admin-fund-recycle-bin-3.png)
 

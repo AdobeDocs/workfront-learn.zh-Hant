@@ -6,9 +6,13 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+TQID: https://experienceleague.adobe.com/0m7HL1cXKtWUA6-cEOYgOvd3Z-WIQi7V39qPZjjxnng
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: 488
 ht-degree: 100%
 
 ---
@@ -19,13 +23,13 @@ ht-degree: 100%
 
 最佳實務是代表有效果、有效率之行動方針的準則；您和公司的使用者可以輕鬆採用；並且可以成功複製到整個組織。
 
-當您檢閱這些建議時，請記住，有一些 Workfront 最佳實務是通用的，而其他做法可能針對特定主題。將這些最佳實務視為框架，作為設定和使用 Workfront 系統時的指引。
+當您審閱這些建議時，請記住，有一些 Workfront 最佳實務是通用的，而其他做法可能針對特定主題。 將這些最佳實務視為框架，作為設定和使用 Workfront 系統時的指引。
 
 ## 導覽此頁面
 
-當您捲動瀏覽此頁面時，您會先找到該主題所有最佳實務的高層次清單。這樣您便可以檢視建議而無需深入了解詳細的「原因」。
+當您捲動瀏覽此頁面時，您會先找到該主題所有最佳實務的高層次清單。 這樣您便可以審閱建議而無需深入了解詳細的「原因」。
 
-「為什麼這些是最佳實務？」區域，位在高層次清單之後，詳細說明一部分的最佳實務，以及為什麼這些實務被認定為您的 Workfront 執行個體應該考慮執行的流程、工具等。
+「為什麼這些是最佳實務？」 區域，位在高層次清單之後，詳細說明一部分的最佳實務，以及為什麼這些實務被認定為您的 Workfront 執行個體應該考慮執行的流程、工具等。
 
 </br>
 </br>
@@ -51,7 +55,7 @@ ht-degree: 100%
 
 您也可以藉此機會向利害關係人說明您的專案對於部門、區域和/或公司目標將有哪些貢獻。
 
-有關如何使用業務案例的說明，請參閱「[了解業務案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=zh-Hant)」。
+有關如何使用業務案例的說明，請參閱「[了解業務案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)」。
 
 </br>
 </br>
@@ -62,9 +66,9 @@ ht-degree: 100%
 
 **原因說明**
 
-確保這些資訊與「真實的」專案所涵蓋的事項極為相近，您才可以準確利用專案組合最佳化工具中的分數功能來確定清單中各項專案的優先順序。專案組合最佳化工具是很好的工具，可以確保專案優先執行的效率，而且符合公司的策略和價值。
+確保這些資訊與「真實的」專案所涵蓋的事項極為相近，您才可以準確利用專案組合最佳化工具中的分數功能來確定清單中各項專案的優先順序。 專案組合最佳化工具是很好的工具，可以確保專案優先執行的效率，而且符合公司的策略和價值。
 
-有關如何使用業務案例的說明，請參閱「[了解業務案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=zh-Hant)」。
+有關如何使用業務案例的說明，請參閱「[了解業務案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)」。
 
-有關如何使用專案組合最佳化工具的說明，請參閱「[使用專案組合最佳化工具來確認工作的優先順序並進行管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=zh-Hant)」。
+有關如何使用專案組合最佳化工具的說明，請參閱「[使用專案組合最佳化工具來確認工作的優先順序並進行管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)」。
 

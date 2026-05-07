@@ -11,9 +11,15 @@ thumbnail: 335071.png
 jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/sR3ziCHBY4B3QItNQA4mjHQweEztyyeh3eyvAj9HHOg
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: 294
 ht-degree: 100%
 
 ---
@@ -26,7 +32,7 @@ ht-degree: 100%
 * 如何使用跨職能團隊
 * 如何建立團隊並相互關聯
 
->[!VIDEO](https://video.tv.adobe.com/v/3432882/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
 
 ## 建立團隊
 
@@ -44,13 +50,13 @@ ht-degree: 100%
 
 建立團隊後，從清單中選取團隊並按一下視窗右側的「[!UICONTROL 團隊設定]」，即可編輯設定。
 
-調整設定，例如指派版面範本，或新增更多團隊成員。此外，您可以自訂團隊在其任務和問題的工作指派中會看到的「[!UICONTROL 開始處理]」按鈕和「完成」按鈕。
+調整設定，例如指派版面範本，或新增更多團隊成員。 此外，您可以自訂團隊在其任務和問題的工作指派中會看到的「[!UICONTROL 開始處理]」按鈕和「完成」按鈕。
 
 ![[!UICONTROL 編輯團隊]視窗](assets/admin-fund-team-settings.png)
 
-依預設，「[!UICONTROL 開始處理]」按鈕只會告訴 [!DNL Workfront] 您會開始處理任務，但不會把任務狀態變更為「進行中」(或同等的狀態)。要讓 [!DNL Workfront] 自動變更狀態，請把「[!UICONTROL 開始處理]」按鈕變更為「[!UICONTROL 開始]」按鈕。只需勾選團隊設定中的方塊。
+依預設，「[!UICONTROL 開始處理]」按鈕只會告訴 [!DNL Workfront] 您會開始處理任務，但不會把任務狀態變更為「進行中」(或同等的狀態)。 要讓 [!DNL Workfront] 自動變更狀態，請把「[!UICONTROL 開始處理]」按鈕變更為「[!UICONTROL 開始]」按鈕。 只需勾選團隊設定中的方塊。
 
-按一下「[!UICONTROL 開始]」按鈕之後，任務或問題的狀態會從「新增」變更為團隊設定中選取的狀態。[!DNL Workfront] 也會記錄任務的實際開始日期。
+按一下「[!UICONTROL 開始]」按鈕之後，任務或問題的狀態會從「新增」變更為團隊設定中選取的狀態。 [!DNL Workfront] 也會記錄任務的實際開始日期。
 
 ![[!UICONTROL 開始處理]區段，位於[!UICONTROL 編輯團隊]視窗](assets/admin-fund-start-button-team.png)
 

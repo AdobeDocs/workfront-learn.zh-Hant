@@ -9,9 +9,15 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/twVXujg-A2HhqTJAPyGB4E7ER59CcV7Prubge9OV2Cs
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: 323
 ht-degree: 100%
 
 ---
@@ -20,16 +26,16 @@ ht-degree: 100%
 
 ## 預設問題類型重新命名
 
-[!DNL Workfront]提供四種類型的問題來幫助您的使用者將所建立的問題分類。預設類型包括：
+[!DNL Workfront]提供四種類型的問題來幫助您的使用者將所建立的問題分類。 預設類型包括：
 
 * [!UICONTROL 錯誤報告]
 * [!UICONTROL 變更順序]
 * [!UICONTROL 問題]
 * [!UICONTROL 請求]
 
-如果現有的問題類型不符合您組織的問題管理需求，該怎麼辦？或者您的組織可能使用不同的術語？
+如果現有的問題類型不符合您組織的問題管理需求，該怎麼辦？ 或者您的組織可能使用不同的術語？
 
-例如，有一個團隊希望使用問題來追蹤專案風險。作為系統管理員，您知道您的組織不會追蹤錯誤報告。因此您可以把未使用的問題類型的名稱，例如「[!UICONTROL 錯誤報告]」變更為「專案風險」。
+例如，有一個團隊希望使用問題來追蹤專案風險。 作為系統管理員，您知道您的組織不會追蹤錯誤報告。 因此您可以把未使用的問題類型的名稱，例如「[!UICONTROL 錯誤報告]」變更為「專案風險」。
 
 問題類型重新命名是全系統層級的變更，因此該變更將適用於所有使用者。
 
@@ -38,7 +44,7 @@ ht-degree: 100%
 1. 選取「**[!UICONTROL 狀態]**」。
 1. 選取「**[!UICONTROL 問題]**」標籤。
 1. 確認右上角的選單設定為「[!UICONTROL 系統狀態]」。
-1. 將游標懸停在清單頂端的某個問題類型旁邊。按一下鉛筆圖示來啟用欄位編輯。
+1. 將游標懸停在清單頂端的某個問題類型旁邊。 按一下鉛筆圖示來啟用欄位編輯。
 1. 將問題類型重新命名。
 1. 按一下欄位外面進行儲存。
 
@@ -55,7 +61,8 @@ Customize default issue types
 
 ## 在 Workfront 中變更「問題」這個用語
 
-有些組織使用「問題」以外的其他用語來指涉計劃外的工作項目。「問題」是預設用語並在出現在整個軟體當中，包括選單、報告、欄位名稱等。Workfront 管理員可以使用版面範本功能將問題項目重新命名，以便符合組織的術語。獲指派使用該版面範本的使用者接著便會在 [!DNL Workfront] 當中看到新用語。
+有些組織使用「問題」以外的其他用語來指涉計劃外的工作項目。 「問題」是預設用語並在出現在整個軟體當中，包括選單、報告、欄位名稱等。
+Workfront 管理員可以使用版面範本功能將問題項目重新命名，以便符合組織的術語。 獲指派使用該版面範本的使用者接著便會在 [!DNL Workfront] 當中看到新用語。
 
 ![[!UICONTROL 術語]視窗，其中突顯標示[!UICONTROL 問題]](assets/admin-fund-issue-custom-terminology.png)
 

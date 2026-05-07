@@ -10,9 +10,13 @@ team: Technical Marketing
 jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2: id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 1f0dff02462d4c11075064f6ad7e2adb8b97c40b
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: 300
 ht-degree: 100%
 
 ---
@@ -27,11 +31,11 @@ ht-degree: 100%
 
 ## 篩選 Pulse 資料流中的資料
 
-您可能注意到，有時候 [!UICONTROL Pulse] 資料流提供太多資訊，或可能不是正確的資訊。篩選摘要中的資訊，找出您想要或需要的東西。
+您可能注意到，有時候 [!UICONTROL Pulse] 資料流提供太多資訊，或可能不是正確的資訊。 篩選摘要中的資訊，找出您想要或需要的東西。
 
 1. 按一下左側面板上的「[!UICONTROL **Pulse**]」。
 1. 按一下右上角的「[!UICONTROL **篩選器**]」圖示。
-1. 選取作為篩選依據的選項：依預設套用「全部」篩選器並顯示系統中所有目標。您可以進行下列任一項作業：
+1. 選取作為篩選依據的選項： 依預設套用「全部」篩選器並顯示系統中所有目標。 您可以進行下列任一項作業：
 
    * 在篩選器面板的「[!UICONTROL 已儲存]」區段之下，選取任何預先定義的篩選器，依所有者來顯示目標 (即「[!UICONTROL 全部]」、「[!UICONTROL 個人]」、「[!UICONTROL 我的團隊]」、「[!UICONTROL 我的群組]」和「[!UICONTROL 公司]」)。
    * 將游標懸停在篩選器名稱上方，然後按一下名稱旁邊的「**編輯**」圖示進行自訂以及新增特定的使用者、團隊、群組或是貴組織的名稱。
@@ -39,11 +43,11 @@ ht-degree: 100%
 
    ![影像顯示[!UICONTROL 篩選器]面板，位於 [!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)
 
-**備註：**&#x200B;您所做的篩選選項將會保留，而 [!DNL Goals] 的其他區段中的資訊會根據這項資訊顯示。您可以在 [!DNL Workfront] 的 [!DNL Goals] 區域中的各個區段尋找和篩選目標。
+**備註：**&#x200B;您所做的篩選選項將會保留，而 [!DNL Goals] 的其他區段中的資訊會根據這項資訊顯示。 您可以在 [!DNL Workfront] 的 [!DNL Goals] 區域中的各個區段尋找和篩選目標。
 
 * [!UICONTROL 目標清單]
 * [!UICONTROL 圖表]
 * [!UICONTROL Pulse]
-* [!UICONTROL 目標一致性]。在此區段中，您可以暫時顯示與所套用篩選器不相符的目標，以便能夠全盤瞭解所有保持一致的目標。按一下「[!UICONTROL **顯示一個/顯示多個**]」選項，若有目標因為所選篩選器而隱藏起來的話。
+* [!UICONTROL 目標一致性]。 在此區段中，您可以暫時顯示與所套用篩選器不相符的目標，以便能夠全盤瞭解所有保持一致的目標。 按一下「[!UICONTROL **顯示一個/顯示多個**]」選項，若有目標因為所選篩選器而隱藏起來的話。
 
   ![](assets/19-workfront-goals-filter-show-it.png)

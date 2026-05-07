@@ -9,22 +9,28 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10098
 exl-id: afc02878-e72e-4707-9a9b-94f1dc4694aa
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/qMUsOWywOvf46kP-8sy5v8-wJd-iAiLItw-BeHsRri8
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: 421
 ht-degree: 100%
 
 ---
 
 # 訂閱工作項目
 
-事件通知會告訴您關於您受指派之工作的最新資訊。但是，有時您可能想要追蹤未指派給您的工作項目，因為其可能會影響您所做的工作。訂閱特定項目是理想的解決方案。
+事件通知會告訴您關於您受指派之工作的最新資訊。 但是，有時您可能想要追蹤未指派給您的工作項目，因為其可能會影響您所做的工作。 訂閱特定項目是理想的解決方案。
 
-例如，您有興趣瞭解「初始副本」任務的進度。您並未獲得指派至這項任務，但您負責編輯該初始副本並想知道其情況。您可以訂閱該任務，並在任務有所更新時收到電子郵件通知，即時瞭解該工作的進展。
+例如，您有興趣瞭解「初始副本」任務的進度。 您並未獲得指派至這項任務，但您負責編輯該初始副本並想知道其情況。 您可以訂閱該任務，並在任務有所更新時收到電子郵件通知，即時瞭解該工作的進展。
 
 ![來自任務訂閱的電子郵件](assets/admin-fund-user-notifications-10.png)
 
-請務必注意，唯有項目上有人留下註解時才會發送訂閱電子郵件和應用程式內通知。若是發生其他動作，例日到期日修改或指派變更，並不會傳送電子郵件和通知。
+請務必注意，唯有項目上有人留下註解時才會發送訂閱電子郵件和應用程式內通知。 若是發生其他動作，例日到期日修改或指派變更，並不會傳送電子郵件和通知。
 
 若要訂閱工作項目，您必須至少擁有該項目的「視圖共用」權限。
 
@@ -50,13 +56,13 @@ ht-degree: 100%
 
 ![[!UICONTROL 訂閱]視窗](assets/admin-fund-user-notifications-15.png)
 
-您所訂閱的人員並不會收到訂閱通知。所有訂閱者均獲得該項目的「檢視」權限。但是，如果訂閱者已經擁有該項目的「[!UICONTROL 貢獻]」或「[!UICONTROL 管理]」權限，那些權限維持不變。
+您所訂閱的人員並不會收到訂閱通知。 所有訂閱者均獲得該項目的「檢視」權限。 但是，如果訂閱者已經擁有該項目的「[!UICONTROL 貢獻]」或「[!UICONTROL 管理]」權限，那些權限維持不變。
 
-個別項目的「[!UICONTROL 更新]」標籤上也會有輸入項目指出訂閱的人員及時間。「[!UICONTROL 更新]」標籤也會記錄使用者被他人訂閱的情況。
+個別項目的「[!UICONTROL 更新]」標籤上也會有輸入項目指出訂閱的人員及時間。 「[!UICONTROL 更新]」標籤也會記錄使用者被他人訂閱的情況。
 
 ![[!UICONTROL 更新]頁面 (在任務內)，顯示訂閱情況](assets/admin-fund-user-notifications-16.png)
 
-要將使用者取消訂閱，再按一下泡泡來開啟「[!UICONTROL 訂閱者]」視窗。接著按一下人員名稱旁邊的 X。使用者不會收到已取消訂閱的通知。
+要將使用者取消訂閱，再按一下泡泡來開啟「[!UICONTROL 訂閱者]」視窗。 接著按一下人員名稱旁邊的 X。 使用者不會收到已取消訂閱的通知。
 
 ![[!UICONTROL 取消訂閱]選單選項，在專案內](assets/admin-fund-user-notifications-14.png)
 
