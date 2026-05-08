@@ -60,7 +60,7 @@ ht-degree: 100%
 
 若您正使用 [!DNL Workfront] 並收到核准校訂的要求，您會在 [!DNL Workfront] [!UICONTROL 首頁]的「[!UICONTROL 我的核准]」小工具中看到指派。
 
-![[!DNL Workfront][!UICONTROL  首頁]上「[!UICONTROL 我的核准] 」小工具的影像。](assets/open-proof-from-home.png)
+![[!DNL Workfront]​[!UICONTROL  首頁]上「[!UICONTROL 我的核准] 」小工具的影像。](assets/open-proof-from-home.png)
 
 值得注意的是，唯有在您被指派負責核准時，校訂才會出現在 [!DNL Workfront] [!UICONTROL 首頁]。 若您僅需審閱校訂，便不會顯示在 [!DNL Workfront] [!UICONTROL 首頁]上。
 
