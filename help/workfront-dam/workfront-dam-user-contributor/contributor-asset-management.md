@@ -10,9 +10,20 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:28:05.016Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: 462
 ht-degree: 100%
 
 ---
@@ -34,21 +45,22 @@ ht-degree: 100%
 
 ## 資產版本如何運作
 
-您的工作流程可能包括管理資料的多個版本，或是回合、校訂、疊代，無論您使用哪種名稱。您可以透過 [!UICONTROL Workfront DAM] 管理所有版本。
+您的工作流程可能包括管理資料的多個版本，或是回合、校訂、疊代，無論您使用哪種名稱。 您可以透過 [!UICONTROL Workfront DAM] 管理所有版本。
 
-當與現有檔案同名的檔案上傳到同一資料夾時，系統允許進行自動資產版本控制。請諮詢您的系統管理員確認這項功能是否開啟。
+當與現有檔案同名的檔案上傳到同一資料夾時，系統允許進行自動資產版本控制。 請諮詢您的系統管理員確認這項功能是否開啟。
 
-如果已開啟自動版本控制，唯有資產載入到保存原始資產的資料夾時，才會進行版本控制。兩個資源必須具有相同的檔名。若是資產載入到不同的資料夾，便會成為新檔案。如果未開啟版本控制，無論檔案放在哪個資料夾，與現有檔案同名的檔案將視為新檔案上傳。這可能造成同一資料夾中出現兩個同名的資產。
+如果已開啟自動版本控制，唯有資產載入到保存原始資產的資料夾時，才會進行版本控制。 兩個資源必須具有相同的檔名。 若是資產載入到不同的資料夾，便會成為新檔案。
+如果未開啟版本控制，無論檔案放在哪個資料夾，與現有檔案同名的檔案將視為新檔案上傳。 這可能造成同一資料夾中出現兩個同名的資產。
 
-您也可以手動上傳特定資產的版本。按一下資產上的編輯圖示，然後選取「**[!UICONTROL 上傳新版本]**」。
+您也可以手動上傳特定資產的版本。 按一下資產上的編輯圖示，然後選取「**[!UICONTROL 上傳新版本]**」。
 
 如果您將含有多個版本的資產發佈到 Brand Connect，則 Brand Connect 使用者只會看到該資產的最新版本。
 
 ## 資料夾和資產狀態與期限
 
-狀態是管理 [!UICONTROL Workfront DAM] 資料夾與資產之存取權的另一種方式。您可以使用狀態來隱藏某些資產或資料夾，避免 [!UICONTROL Brand Connect] 使用者看見，或是讓一個資產或資料夾過期，使得唯有系統管理員才能存取。
+狀態是管理 [!UICONTROL Workfront DAM] 資料夾與資產之存取權的另一種方式。 您可以使用狀態來隱藏某些資產或資料夾，避免 [!UICONTROL Brand Connect] 使用者看見，或是讓一個資產或資料夾過期，使得唯有系統管理員才能存取。
 
-* **[!UICONTROL 使用中]** — 用於資產和資料夾。在「[!UICONTROL 使用中]」狀態的資產和資料夾，具有權限的全部使用者皆可看見，而且可以發佈到 [!UICONTROL Brand Connect]。「[!UICONTROL 使用中]」的資產或資料夾會用綠色圓點表示。
-* **[!UICONTROL 非使用中]** — 用於資產和資料夾。[!UICONTROL Workfront DAM] 使用者可以看到，但是 [!UICONTROL Brand Connect] 的使用者看不到「[!UICONTROL 非使用中]」狀態的資產和資料夾。「[!UICONTROL 非使用中]」的資產或資料夾會用紅色圓點表示。
-* **[!UICONTROL 未過期]** — 僅用於資產。這是所有資產的預設狀態。同時具有「[!UICONTROL 使用中]」狀態的未過期資產，也可以在 [!UICONTROL Brand Connect] 中看到。
-* **[!UICONTROL 已過期]** — 僅用於資產。除了系統管理員以外，任何使用者皆無法下載具有「[!UICONTROL 已過期]」狀態的資產。已過期的資產在 [!UICONTROL Brand Connect] 中可見/不可見，取決於系統設定。
+* **[!UICONTROL 使用中]** — 用於資產和資料夾。 在「[!UICONTROL 使用中]」狀態的資產和資料夾，具有權限的全部使用者皆可看見，而且可以發佈到 [!UICONTROL Brand Connect]。 「[!UICONTROL 使用中]」的資產或資料夾會用綠色圓點表示。
+* **[!UICONTROL 非使用中]** — 用於資產和資料夾。 [!UICONTROL Workfront DAM] 使用者可以看到，但是 [!UICONTROL Brand Connect] 的使用者看不到「[!UICONTROL 非使用中]」狀態的資產和資料夾。 「[!UICONTROL 非使用中]」的資產或資料夾會用紅色圓點表示。
+* **[!UICONTROL 未過期]** — 僅用於資產。 這是所有資產的預設狀態。 同時具有「[!UICONTROL 使用中]」狀態的未過期資產，也可以在 [!UICONTROL Brand Connect] 中看到。
+* **[!UICONTROL 已過期]** — 僅用於資產。 除了系統管理員以外，任何使用者皆無法下載具有「[!UICONTROL 已過期]」狀態的資產。 已過期的資產在 [!UICONTROL Brand Connect] 中可見/不可見，取決於系統設定。

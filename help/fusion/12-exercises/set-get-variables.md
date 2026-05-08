@@ -11,9 +11,20 @@ jira: KT-11045
 thumbnail: KT11045.png
 recommendations: noDisplay,catalog
 exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '641'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:58.796Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 642
 ht-degree: 100%
 
 ---
@@ -60,16 +71,16 @@ ht-degree: 100%
 
    **要避免發生這個錯誤，請建立兩條路徑：一條用於擁有發起人 ID 的專案，另一條用於沒有發起人 ID 的專案。**
 
-1. 按一下路由器與「讀取一筆記錄」模組之間的扳手圖示，在兩個模組之間新增一個路由器。設定名為「發起人存在」的篩選器，並把「條件」設為「發起人 ID 存在」。
+1. 按一下路由器與「讀取一筆記錄」模組之間的扳手圖示，在兩個模組之間新增一個路由器。 設定名為「發起人存在」的篩選器，並把「條件」設為「發起人 ID 存在」。
 
    ![Set Get 變數影像 5](../12-exercises/assets/set-get-variables-walkthrough-5.png)
 
-1. 按一下路由器來建立另一條路徑。新增來自電子郵件應用程式的「傳送電子郵件」模組。
+1. 按一下路由器來建立另一條路徑。 新增來自電子郵件應用程式的「傳送電子郵件」模組。
 
    + 將您的電子郵件地址填入「收件者」欄位。
    + 在「主旨」欄位中，輸入「目前專案資訊」。
    + 在「內容」欄位中，填入專案名稱、說明與發起人。
-   + 您不能從「讀取一筆記錄」模組提取發起人名稱輸出。您只能從路由器之前的搜尋模組中存取發起人 ID。您必須找到方法從其他路由路徑存取發起人名稱。
+   + 您不能從「讀取一筆記錄」模組提取發起人名稱輸出。 您只能從路由器之前的搜尋模組中存取發起人 ID。 您必須找到方法從其他路由路徑存取發起人名稱。
 
    ![Set Get 變數影像 6](../12-exercises/assets/set-get-variables-walkthrough-6.png)
 
@@ -87,12 +98,12 @@ ht-degree: 100%
 
    ![Set Get 變數影像 7](../12-exercises/assets/set-get-variables-walkthrough-7.png)
 
-1. 接著，在路由器和「傳送電子郵件」模組之間按一下右鍵，新增「Get 變數」工具模組。在「變數名稱」欄位輸入「發起人名稱」。
-1. 按一下「確定」。將模組重新命名為「Get 發起人名稱」。
+1. 接著，在路由器和「傳送電子郵件」模組之間按一下右鍵，新增「Get 變數」工具模組。 在「變數名稱」欄位輸入「發起人名稱」。
+1. 按一下「確定」。 將模組重新命名為「Get 發起人名稱」。
 
    ![Set Get 變數影像 8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
 
-1. 返回「傳送電子郵件」模組並把來自「Get 發起人名稱」模組的值對應到內容欄位。按一下「確定」。
+1. 返回「傳送電子郵件」模組並把來自「Get 發起人名稱」模組的值對應到內容欄位。 按一下「確定」。
 
    ![Set Get 變數影像 8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
 
@@ -100,12 +111,12 @@ ht-degree: 100%
    >
    >在測試情境之前，我們建議限制您處理的專案數量，以避免收到大量電子郵件。
 
-1. 前往 Workfront 產品試用並找到「Northstar Fashion Exhibitors Booth」專案。這個目前的專案擁有發起人。從 URL 複製專案 ID。
+1. 前往 Workfront 產品試用並找到「Northstar Fashion Exhibitors Booth」專案。 這個目前的專案擁有發起人。 從 URL 複製專案 ID。
 
    ![Set Get 變數影像 10](../12-exercises/assets/set-get-variables-walkthrough-10.png)
 
-1. 在您的情境中，按一下「尋找目前專案」模組。按一下綠色的「新增 AND 規則」按鈕，在搜尋條件中新增另一個條件。指定 ID 必須等於您複製的專案 ID。按一下「確定」。
+1. 在您的情境中，按一下「尋找目前專案」模組。 按一下綠色的「新增 AND 規則」按鈕，在搜尋條件中新增另一個條件。 指定 ID 必須等於您複製的專案 ID。 按一下「確定」。
 1. 請儲存您的情境並按一下「執行一次」。
-1. 檢閱執行檢查程式和您收到的電子郵件。
+1. 審閱執行檢查程式和您收到的電子郵件。
 
    ![Set Get 變數影像 11](../12-exercises/assets/set-get-variables-walkthrough-11.png)

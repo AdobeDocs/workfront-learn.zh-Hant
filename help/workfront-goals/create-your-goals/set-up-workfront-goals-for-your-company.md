@@ -9,9 +9,20 @@ role: User
 level: Beginner
 jira: KT-10125
 exl-id: 7890db2c-21a7-4549-8d46-34f1d334e3d2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:19:31.722Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: 352
 ht-degree: 100%
 
 ---
@@ -20,22 +31,22 @@ ht-degree: 100%
 
 *本區段內容適用於負責為使用者設定 Workfront Goals 的 [!DNL Workfront] 系統管理員。*
 
-為了確保您的組織能快速向前發展，您必須確保工作執行情況與公司策略的方向一致。[!DNL   Goals] 協調策略、目標和工作，在整個組織推動執行並交付可衡量的業務成果。
+為了確保您的組織能快速向前發展，您必須確保工作執行情況與公司策略的方向一致。 [!DNL   Goals] 協調策略、目標和工作，在整個組織推動執行並交付可衡量的業務成果。
 
-目標最佳實務從最高的企業目標開始，然後逐層傳遞到群組、團隊和個人層級。由此產生的目標必須與公司的優先事項保持一致、有助於並支持完成公司的優先事項。在 [!DNL Workfront] 中，指出您如何達成目標的結果或活動均能支持實現目標。
+目標最佳實務從最高的企業目標開始，然後逐層傳遞到群組、團隊和個人層級。 由此產生的目標必須與公司的優先事項保持一致、有助於並支持完成公司的優先事項。 在 [!DNL Workfront] 中，指出您如何達成目標的結果或活動均能支持實現目標。
 
 ## [!DNL Workfront Goals] 檢查清單
 
 您必須滿足以下條件才可以存取 [!DNL   Goals]：
 
 * 除了[!DNL Workfront] 授權以外，您的組織必須購買 [!DNL Workfront Goals] 授權。
-* 您的組織必須使用新的 [!DNL Workfront] 體驗界面。經典 [!DNL Workfront] 介面無法使用 [!DNL Workfront Goals]。
+* 您的組織必須使用新的 [!DNL Workfront] 體驗界面。 經典 [!DNL Workfront] 介面無法使用 [!DNL Workfront Goals]。
 * 您的 [!DNL Workfront Goals] 使用者必須在其存取層級擁有 [!DNL Workfront Goals] 的存取權。
 * 您必須指派一個在主選單包含 [!DNL Workfront Goals] 區域的版面範本，使用者才能存取該功能。
 
 ## 誰可以使用 [!DNL Workfront Goals]
 
-儘管個人貢獻者通常有個人目標，但我們建議使用 [!DNL Workfront Goals] 來支援貴組織實現策略目標的工作。應鼓勵組織中每個人設定與公司整體策略一致而且與其日常活動相關的目標。
+儘管個人貢獻者通常有個人目標，但我們建議使用 [!DNL Workfront Goals] 來支援貴組織實現策略目標的工作。 應鼓勵組織中每個人設定與公司整體策略一致而且與其日常活動相關的目標。
 
 閱讀下面的角色說明並決定您在 [!DNL Workfront Goals] 中的角色。
 
@@ -43,7 +54,7 @@ ht-degree: 100%
 
 * 建立可逐層傳遞到整個企業的策略目標階層。
 * 用統一、明確的願景敘述成功的樣貌及其衡量標準。
-* 深入分析應做哪些策略調整來加速目標進展。
+* 洞察應做哪些策略調整來加速目標進展。
 
 個人貢獻者可以使用 [!DNL Workfront Goals] 進行以下動作：
 

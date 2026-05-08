@@ -8,14 +8,25 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-02-07T00:00:00Z
+last-substantial-update: '2024-02-07T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:42:45.518Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: 217
 ht-degree: 12%
 
 ---
@@ -24,19 +35,19 @@ ht-degree: 12%
 
 在本影片中，您將瞭解專案團隊可用於什麼以及如何維護它。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444600/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3444600/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
-## 關鍵重點
+## 重點提要
 
-* **自動團隊填入：**&#x200B;當使用者被指派任務或指定為專案所有者時，專案團隊會自動填入。&#x200B;URL 但是，移除使用者的指派時不會自動移除使用者；這必須手動完成。&#x200B;URL
-* **手動更新：**&#x200B;您可以手動新增或移除專案團隊中的人員，即使他們沒有指派，確保團隊清單保持正確且最新。&#x200B;URL
-* **集中式通訊：**&#x200B;[人員]索引標籤可讓您傳送更新給專案層級的所有團隊成員，使其成為整個團隊通訊的便利工具。&#x200B;URL
-* **電子郵件通知：**&#x200B;系統管理員可以啟用專案團隊的電子郵件通知，例如新增檔案、完成的里程碑任務或問題的警示，以確保團隊成員隨時瞭解最新資訊。&#x200B;URL
-* **專案參與追蹤：** Workfront會使用專案團隊來識別使用者參與哪些專案，並啟用依使用者參與來篩選專案等功能，以更輕鬆導覽。&#x200B;URL
+* **自動團隊填入：**&#x200B;當使用者被指派任務或指定為專案所有者時，專案團隊會自動填入。 但&#x200B;是，在移除使用者的指派時，不會自動移除使用者；這必須手動完成。 &#x200B;
+* **手動更新：**&#x200B;您可以手動新增或移除專案團隊中的人員，即使他們沒有指派，確保團隊清單保持正確且最新。 &#x200B;
+* **集中式通訊：**&#x200B;[人員]索引標籤可讓您傳送更新給專案層級的所有團隊成員，使其成為整個團隊通訊的便利工具。 &#x200B;
+* **電子郵件通知：**&#x200B;系統管理員可以啟用專案團隊的電子郵件通知，例如新增檔案、完成的里程碑任務或問題的警示，以確保團隊成員隨時瞭解最新資訊。 &#x200B;
+* **專案參與追蹤：** Workfront會使用專案團隊來識別使用者參與哪些專案，並啟用依使用者參與來篩選專案等功能，以更輕鬆導覽。 &#x200B;
 
 ## 有關此主題的推薦教學課程
 
 * [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [尋找專案](/help/manage-work/projects/find-projects.md)
 * [共用專案](/help/manage-work/projects/share-a-project.md)
-* [了解專案溝通](/help/manage-work/projects/understand-project-communication.md)
+* [瞭解專案溝通](/help/manage-work/projects/understand-project-communication.md)

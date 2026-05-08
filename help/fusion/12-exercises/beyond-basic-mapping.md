@@ -11,9 +11,20 @@ jira: KT-11039
 thumbnail: KT11039.png
 recommendations: noDisplay,catalog
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '314'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:44:57.573Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 314
 ht-degree: 100%
 
 ---
@@ -32,18 +43,18 @@ ht-degree: 100%
 
 **原地複製您的初始情境設計情境。**
 
-1. 在情境區段中，選取初始情境設計右邊的「原地複製」選項，如下所示：將其命名為「超越基本對應」。
+1. 在情境區段中，選取初始情境設計右邊的「原地複製」選項，如下所示： 將其命名為「超越基本對應」。
 
    ![超越基本對應影像 2](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
 
    **我們現在將使用「建立 Workfront 專案」模組中的對應面板來設定專案名稱、規劃開始日期和優先順序欄位。**
 
-1. 按一下「建立 Workfront 專案」模組來編輯設定。使用對應面板，把「名稱」欄位變更為「[我的專案名稱]，依[發起人]」。
+1. 按一下「建立 Workfront 專案」模組來編輯設定。 使用對應面板，把「名稱」欄位變更為「[我的專案名稱]，依[發起人]」。
 
-   + 「[我的專案名稱]」是來自剖析 CSV 模組的第 1 欄，而「[發起人]」是第 6 欄。在兩者之間輸入字詞「依」。
+   + 「[我的專案名稱]」是來自剖析 CSV 模組的第 1 欄，而「[發起人]」是第 6 欄。 在兩者之間輸入字詞「依」。
 
 1. 接著前往「規劃開始日期」並使用「addDays」公式讓欄位增加 15 天，如「超越基本對應」操作示範影片所述。
-1. 找到「優先順序」欄位並切換欄位右上角的「對應」按鈕。選項清單的選單變更為數字。如果 CSV 檔案的信賴等級小於 100，請建立 IF 陳述式把專案標記為「高 (4)」優先順序，否則的話它會是「一般 (2)」。
+1. 找到「優先順序」欄位並切換欄位右上角的「對應」按鈕。 選項清單的選單變更為數字。 如果 CSV 檔案的信賴等級小於 100，請建立 IF 陳述式把專案標記為「高 (4)」優先順序，否則的話它會是「一般 (2)」。
 
    + 第 4 欄的信賴等級。
 

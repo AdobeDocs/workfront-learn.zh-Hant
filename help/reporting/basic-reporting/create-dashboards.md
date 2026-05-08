@@ -9,37 +9,48 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-last-substantial-update: 2025-05-28T00:00:00Z
+last-substantial-update: '2025-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: caabbe77-a670-4ba9-8190-faf649b1f84a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:51.376Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 689
+ht-degree: 45%
 
 ---
 
 # 在Workfront中建立儀表板
 
 影片提供全面指南，讓您瞭解並使用Workfront中的控制面板。
-&#x200B;URL說明儀表板是報表的集合，可讓使用者在一處整理和顯示相關資料。
+它說&#x200B;明，儀表板是報表的集合，可讓使用者在一個位置整理和顯示相關資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449133/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
-## 關鍵重點
+## 重點提要
 
-* **Workfront中的儀表板：**&#x200B;儀表板是報表的集合，可讓使用者在一個集中檢視中組織和顯示相關資料，例如專案、任務和問題。&#x200B;URL
-* **建立儀表板：**&#x200B;您可以透過選取版面配置、新增報告、自訂行事曆或外部頁面，以及安排儀表板以最佳化顯示，來自訂儀表板。&#x200B;URL 使用者也可以自訂哪些欄要顯示在控制面板內的並排報表中。&#x200B;URL
-* **存取儀表板：**&#x200B;儀表板可在儀表板區域的「我的儀表板」、「共用儀表板」或「所有儀表板」下找到。&#x200B;URL 您可以將經常使用的儀表板釘選或新增到我的最愛中，以便快速存取。&#x200B;URL
-* **共用控制面板：**&#x200B;控制面板可以透過「控制面板動作」功能表與其他Workfront使用者共用，包括控制面板內的所有報表。&#x200B;URL
-* **列印儀表板：**&#x200B;儀表板可以直接從[儀表板動作]功能表列印，因此可以輕鬆共用資料的實體復本。&#x200B;URL
+* **Workfront中的儀表板：**&#x200B;儀表板是報表的集合，可讓使用者在一個集中檢視中組織和顯示相關資料，例如專案、任務和問題。 &#x200B;
+* **建立儀表板：**&#x200B;您可以透過選取版面配置、新增報告、自訂行事曆或外部頁面，以及安排儀表板以最佳化顯示，來自訂儀表板。 使用&#x200B;者也可以自訂哪些欄要顯示在控制面板內的並排報表中。 &#x200B;
+* **存取儀表板：**&#x200B;儀表板可在儀表板區域的「我的儀表板」、「共用儀表板」或「所有儀表板」下找到。 常&#x200B;用儀表板可以釘選或新增到我的最愛中以快速存取。 &#x200B;
+* **共用控制面板：**&#x200B;控制面板可以透過「控制面板動作」功能表與其他Workfront使用者共用，包括控制面板內的所有報表。 &#x200B;
+* **列印儀表板：**&#x200B;儀表板可以直接從[儀表板動作]功能表列印，因此可以輕鬆共用資料的實體復本。 &#x200B;
 
 
 ## 「建立儀表板」活動
 
 ### 活動 1：建立儀表板
 
-建立僅包含一份報告的[!UICONTROL 儀表板]—「此專案的搜尋備註」。這樣可以快速找到專案上的任何更新，即使要搜尋的更新多達數千。它會搜尋更新資料串，以利快速擷取符合您在提示中指定之條件的任何更新。
+建立僅包含一份報告的[!UICONTROL 儀表板]—「此專案的搜尋備註」。 這樣可以快速找到專案上的任何更新，即使要搜尋的更新多達數千。 它會搜尋更新資料串，以利快速擷取符合您在提示中指定之條件的任何更新。
 
 建立此報表的方式為複製您在「建立備註報表」活動中建立的「搜尋備註報表」。 尚未建立嗎？ 按一下這裡以在[建立任務報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教學課程中檢視活動。
 
@@ -51,20 +62,20 @@ ht-degree: 0%
 ### 解答 1
 
 1. 執行您在「建立備註報表」活動中建立的報表。 尚未建立嗎？ 按一下這裡以在[建立任務報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教學課程中檢視活動。
-1. 按一下「**[!UICONTROL 報告動作]**」並選取「**[!UICONTROL 複製]**」。[!DNL Workfront] 建立一個名為「備註搜尋 (副本)」的新報告。
-1. 前往「**[!UICONTROL 報告動作]**」並選取「**[!UICONTROL 編輯]**」。按一下「**[!UICONTROL 報告設定]**」，並將名稱變更為「此專案的搜尋備註」。
+1. 按一下「**[!UICONTROL 報告動作]**」並選取「**[!UICONTROL 複製]**」。 [!DNL Workfront] 建立一個名為「備註搜尋 (副本)」的新報告。
+1. 前往「**[!UICONTROL 報告動作]**」並選取「**[!UICONTROL 編輯]**」。 按一下「**[!UICONTROL 報告設定]**」，並將名稱變更為「此專案的搜尋備註」。
 1. 按一下「[!UICONTROL 報告提示]」並刪除清單中的「[!UICONTROL 專案]」>「[!UICONTROL 名稱]」提示。
 
    ![影像顯示建立新儀表板的畫面](assets/edit-report-prompts.png)
 
 1. 勾選「**[!UICONTROL 在儀表板中顯示提示]**」方塊。
-1. 按一下「**[!UICONTROL 完成]**」，然後「**[!UICONTROL 儲存並關閉]**」。您現在看到的是報告的「[!UICONTROL 提示]」畫面。
+1. 按一下「**[!UICONTROL 完成]**」，然後「**[!UICONTROL 儲存並關閉]**」。 您現在看到的是報告的「[!UICONTROL 提示]」畫面。
 
    接下來，您將使用快速鍵建立新儀表板，並將這份報告新增至儀表板。
 
 1. 按一下&#x200B;**[!UICONTROL 報告動作]**&#x200B;並選取&#x200B;**[!UICONTROL 新增到傳統儀表板]** > **[!UICONTROL 新儀表板]**。
 1. 將「此專案的搜尋備註」報告拖曳至「**[!UICONTROL 版面]**」面板。
-1. 請注意，此報告的名稱將成為儀表板的名稱。將名稱編輯為「搜尋備註」。
+1. 請注意，此報告的名稱將成為儀表板的名稱。 將名稱編輯為「搜尋備註」。
 
    ![影像顯示建立新儀表板的畫面](assets/create-dashboard.png)
 
@@ -74,7 +85,7 @@ ht-degree: 0%
 
    ![影像顯示建立新儀表板的畫面](assets/add-custom-section.png)
 
-1. 前往任何專案。從左側面板功能表，按一下&#x200B;**[!UICONTROL 新增儀表板]**&#x200B;按鈕。
+1. 前往任何專案。 從左側面板功能表，按一下&#x200B;**[!UICONTROL 新增儀表板]**&#x200B;按鈕。
 1. 在「**[!UICONTROL 選擇儀表板]**」欄位中，輸入「搜尋備註」並從清單中選取[!UICONTROL 儀表板]。
 1. 在&#x200B;**[!UICONTROL 快速連結名稱]**&#x200B;欄位中，輸入「搜尋備註」。
 1. 按一下&#x200B;**[!UICONTROL 新增]**。

@@ -10,9 +10,20 @@ level: Intermediate
 thumbnail: setupautoreminds.png
 jira: KT-10092
 exl-id: 69d5b383-af3a-4414-92fe-32c8cf869d25
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/-Mc-U8EahSe13Cwms3wrbSEIjrJhTR7SEtZ55RFmhoc
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: 197
 ht-degree: 100%
 
 ---
@@ -33,13 +44,13 @@ this has the same content as the system administrator notification setup and man
 
 雖然不常用，但如果您的組織有準時完成工作的問題並想要讓使用者承擔準時完成工作的責任，則自動提醒會是實用的功能。
 
-您可以在「[!UICONTROL 設定]」區域的「[!UICONTROL 電子郵件]」區段設定自動提醒。您只需要確定：
+您可以在「[!UICONTROL 設定]」區域的「[!UICONTROL 電子郵件]」區段設定自動提醒。 您只需要確定：
 
 * 誰需要收到自動提醒。
 * 在工作到期之前或之後的多長時間要傳送通知。
 
 ![[!UICONTROL 自動提醒]視窗，位於[!UICONTROL 設定]](assets/admin-fund-automatic-reminders-1.png)
 
-此時已經套用自動提醒，並會在滿足條件時盡快傳送提醒。此外，使用者無法在「[!UICONTROL 我的設定]」視窗中停用自動提醒。
+此時已經套用自動提醒，並會在滿足條件時盡快傳送提醒。 此外，使用者無法在「[!UICONTROL 我的設定]」視窗中停用自動提醒。
 
 ![[!UICONTROL 自動提醒]電子郵件訊息](assets/admin-fund-automatic-reminders-2.png)

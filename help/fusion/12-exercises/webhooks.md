@@ -11,9 +11,20 @@ jira: KT-11053
 thumbnail: KT11053.png
 recommendations: noDisplay,catalog
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '654'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:44.091Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 670
 ht-degree: 100%
 
 ---
@@ -24,7 +35,7 @@ ht-degree: 100%
 
 ## 練習概觀
 
-這個情境的用途是建立一個銷售給便利商店的應用程式，讓他們可以輕鬆判斷客戶是否符合購買酒類的年齡限制。收銀員只需將客戶的姓名和出生日期發佈到所提供的 URL 上即可。該貼文將觸發情境來計算答案並傳回給請求者。
+這個情境的用途是建立一個銷售給便利商店的應用程式，讓他們可以輕鬆判斷客戶是否符合購買酒類的年齡限制。 收銀員只需將客戶的姓名和出生日期發佈到所提供的 URL 上即可。 該貼文將觸發情境來計算答案並傳回給請求者。
 
 1. 情境由三個 Webhook 組成。
 1. 觸發模組是偵聽貼文的自訂 Webhook。
@@ -47,10 +58,10 @@ ht-degree: 100%
 
    ![Webhook 影像 2](../12-exercises/assets/webhooks-walkthrough-2.png)
 
-1. 回到 Webhook 對應面板，這個特定 Webhook 的 URL 已建立完成。按一下「複製地址到剪貼簿」來複製該 URL。
+1. 回到 Webhook 對應面板，這個特定 Webhook 的 URL 已建立完成。 按一下「複製地址到剪貼簿」來複製該 URL。
 1. 按一下「確定」。
 1. 按一下「執行一次」。
-1. 使用 Postman 中的 URL 將姓名和出生日期傳送到您的自訂 Webhook。有關設定 Postman 的指示，請參閱 [Webhooks 操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=zh-Hant)教學課程。
+1. 使用 Postman 中的 URL 將姓名和出生日期傳送到您的自訂 Webhook。 有關設定 Postman 的指示，請參閱 [Webhooks 操作示範](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=zh-Hant)教學課程。
 
    **Webhook 模組面板應如下所示：**
 
@@ -58,8 +69,8 @@ ht-degree: 100%
 
    **Webhook 現在處於偵聽資料以確認資料結構的狀態。**
 
-1. 您可以定義預期取得的承載之資料結構 (稍後會討論資料結構)。如果您未定義資料結構，Fusion 將在傳送貼文時自動確認資料結構。
-1. 在 Postman 端，您想要傳送到複製的 URL。該貼文應包括基本表單資料。在這個範例中，您需要三個欄位：「姓名」、「出生日期」和「clientToken」。
+1. 您可以定義預期取得的承載之資料結構 (稍後會討論資料結構)。 如果您未定義資料結構，Fusion 將在傳送貼文時自動確認資料結構。
+1. 在 Postman 端，您想要傳送到複製的 URL。 該貼文應包括基本表單資料。 在這個範例中，您需要三個欄位：「姓名」、「出生日期」和「clientToken」。
 
    ![Webhook 影像 4](../12-exercises/assets/webhooks-walkthrough-4.png)
 
@@ -72,24 +83,24 @@ ht-degree: 100%
    **設定用戶端語彙基元的路由。**
 
 1. 新增路由器到觸發模組。
-1. 在上面的路徑中，新增 Webhook 回應模組。當用戶端語彙基元不相符時，我們會依循這個路徑。
+1. 在上面的路徑中，新增 Webhook 回應模組。 當用戶端語彙基元不相符時，我們會依循這個路徑。
 1. 將狀態設定為「401」。
-1. 將正文設定為 {&quot;錯誤&quot;：&quot;無法驗證請求。請檢查您的用戶端語彙基元&quot;}。
+1. 將正文設定為 {&quot;錯誤&quot;：&quot;無法驗證請求。 請檢查您的用戶端語彙基元&quot;}。
 
    ![Webhook 影像 6](../12-exercises/assets/webhooks-walkthrough-6.png)
 
-1. 在路由器和 Webhook 回應模組之間建立篩選器。將其命名為「用戶端語彙基元不相符」。
+1. 在路由器和 Webhook 回應模組之間建立篩選器。 將其命名為「用戶端語彙基元不相符」。
 1. 至於「條件」，請使用觸發模組的「clientToken」欄位，並針對數字「5121933」進行「不等於」的數值比較。
 
    ![Webhook 影像 7](../12-exercises/assets/webhooks-walkthrough-7.png)
 
-1. 在下面的路徑中，新增另一個 Webhook 回應模組。當用戶端語彙基元相符時，我們會依循這個路徑。
+1. 在下面的路徑中，新增另一個 Webhook 回應模組。 當用戶端語彙基元相符時，我們會依循這個路徑。
 1. 將狀態設定為「200」。
-1. 在設定「正文」時，使用對應面板函數來測試該名人員是否年滿 21 歲。若是，則傳回「您已經到了可以喝酒的年紀了！」，否則便傳回「您運氣不好...」
+1. 在設定「正文」時，使用對應面板函數來測試該名人員是否年滿 21 歲。 若是，則傳回「您已經到了可以喝酒的年紀了！」，否則便傳回「您運氣不好...」
 
    ![Webhook 影像 9](../12-exercises/assets/webhooks-walkthrough-9.png)
 
-1. 在下面路徑的路由器和 Webhook 回應模組之間建立篩選器。將其命名為「用戶端語彙基元相符」。
+1. 在下面路徑的路由器和 Webhook 回應模組之間建立篩選器。 將其命名為「用戶端語彙基元相符」。
 1. 至於「條件」，請使用觸發模組的「clientToken」欄位，並針對數字「5121933」進行「等於」的數值比較。
 
 

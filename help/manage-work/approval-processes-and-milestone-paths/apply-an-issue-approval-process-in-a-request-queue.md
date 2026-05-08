@@ -9,14 +9,26 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-17578
-last-substantial-update: 2025-03-26T00:00:00Z
+last-substantial-update: '2025-03-26T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T15:58:59.618Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 11%
+source-wordcount: 426
+ht-degree: 23%
 
 ---
 
@@ -28,12 +40,12 @@ ht-degree: 11%
 >* [建立全域和單次使用的核准流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
-此影片說明建立請求佇列時，套用預設核准程式的程式。&#x200B;URL 建立請求時，其狀態會從「新增 — 未決核准」開始，並傳送核准通知給指定的核准者。&#x200B;URL 如果核准，狀態會變更為「新增」，允許指派的個人開始工作。&#x200B;URL 如果遭拒絕，由於核准流程設定中的常見錯誤，狀態可能會錯誤地恢復為「新」。&#x200B;URL
-影片重點說明當狀態設為「新增」（新請求的預設值）時，會觸發核准流程。&#x200B;URL 若遭拒絕，系統預設會將狀態變更為上一個狀態，對於新請求而言並不理想。&#x200B;URL 相反地，應該選擇不同的狀態，例如「將不會解析」。&#x200B;URL 影片還指出，預設不會提供「已拒絕」狀態，但系統管理員可視需要建立一個狀態。&#x200B;URL
+此影片說明建立請求佇列時，套用預設核准程式的程式。 建立請求&#x200B;時，其狀態會從「新增 — 未決核准」開始，並傳送核准通知給指定的核准者。 如&#x200B;果核准，狀態會變更為「新增」，允許指派的個人開始工作。 如&#x200B;果被拒絕，由於核准流程設定的常見錯誤，狀態可能會錯誤地恢復為「新」。 &#x200B;
+影片重點說明當狀態設為「新增」（新請求的預設值）時，會觸發核准流程。 如&#x200B;果遭拒，系統預設會將狀態變回先前的狀態，但這並不適合新請求。 應&#x200B;改為選擇其他狀態，例如「將不會解析」。 影片&#x200B;也指出，預設不會提供「已拒絕」狀態，但系統管理員可視需要建立一個狀態。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455035/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3455035/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
-## 關鍵重點
+## 重點提要
 
 * **預設核准流程：**&#x200B;建立請求佇列時，您可以套用預設核准流程，自動指派核准工作流程給每個請求。
 * **核準時狀態變更：**&#x200B;已核准的請求會將其狀態從「新增 — 未決核准」變更為「新增」，允許指派的個人開始處理這些請求。

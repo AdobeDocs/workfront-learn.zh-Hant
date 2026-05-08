@@ -8,14 +8,25 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-06-15T00:00:00Z
+last-substantial-update: '2024-06-15T00:00:00.000Z'
 jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:37:58.078Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: 218
 ht-degree: 7%
 
 ---
@@ -24,17 +35,17 @@ ht-degree: 7%
 
 此影片說明如何使用前置任務和持續時間在Workfront中排序任務，以有效管理專案時間表。
 影片會示範如何為新任務設定前置任務，以確保順序和準確的開始日期。
-&#x200B;URL它強調與前置任務練習的重要性，以瞭解其對專案時間表的影響，並建議使用持續時間和前置任務以實現有效的專案規劃。
+它&#x200B;強調了與前置任務練習以瞭解其對專案時間表的影響的重要性，並建議使用持續時間和前置任務以實現有效的專案規劃。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447331/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
-## 關鍵重點
+## 重點提要
 
-* **前置任務定義任務順序：**&#x200B;前置任務會建立任務順序，確保某些任務在其他任務開始之前完成，這對專案成功至關重要。&#x200B;URL
-* **持續時間影響時間表：**&#x200B;任務持續時間會設定工作的時間範圍，並調整開始和完成日期，對相依任務產生階層式影響。&#x200B;URL
-* **範本簡化設定：**&#x200B;可在專案範本中預先設定前置任務和限制，簡化管理工作順序的程式。&#x200B;URL
-* **手動調整影響限制：**&#x200B;手動設定特定日期會覆寫由持續時間或前置任務變更所導致的階層式更新。&#x200B;URL
+* **前置任務定義任務順序：**&#x200B;前置任務會建立任務順序，確保某些任務在其他任務開始之前完成，這對專案成功至關重要。 &#x200B;
+* **持續時間影響時間表：**&#x200B;任務持續時間會設定工作的時間範圍，並調整開始和完成日期，對相依任務產生階層式影響。 &#x200B;
+* **範本簡化設定：**&#x200B;可在專案範本中預先設定前置任務和限制，簡化管理工作順序的程式。 &#x200B;
+* **手動調整影響限制：**&#x200B;手動設定特定日期會覆寫由持續時間或前置任務變更所導致的階層式更新。 &#x200B;
 * **練習改善技能：**&#x200B;練習前置任務與工期，有助於改善專案管理技能，並確保更好地控制時間表。
 
 ## 有關此主題的推薦教學課程

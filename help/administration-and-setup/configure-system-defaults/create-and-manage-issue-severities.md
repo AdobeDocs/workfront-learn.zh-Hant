@@ -9,9 +9,21 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10020
 exl-id: a5a9280b-0d48-413d-92de-f6a949e6b210
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/Ox5zZ29nZxPd801bzB5A8nu-PHDrS4OuaD-3E--tkRs
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: 369
 ht-degree: 100%
 
 ---
@@ -24,7 +36,7 @@ ht-degree: 100%
 
 ![[!UICONTROL 嚴重程度]選單，位於[!UICONTROL 問題詳細資料]視窗](assets/admin-fund-severity-issue-details.png)
 
-您可以在「[!UICONTROL 問題詳細資料]」中存取「[!UICONTROL 嚴重程度]」欄位。在各種清單和自訂報告的欄視圖中也可以包含這個欄位。
+您可以在「[!UICONTROL 問題詳細資料]」中存取「[!UICONTROL 嚴重程度]」欄位。 在各種清單和自訂報告的欄視圖中也可以包含這個欄位。
 
 [!DNL Workfront] 有五種預設嚴重程度：
 
@@ -49,9 +61,9 @@ ht-degree: 100%
 1. 選取「**[!UICONTROL 嚴重程度]**」。
 1. 按一下「**[!UICONTROL 新增一項嚴重程度]**」。
 1. 為嚴重程度指定名稱，須與其預定用途相符。
-1. 「**[!UICONTROL 重要性]**」的數字與問題的嚴重程度相符。最高的數字對應於最高的嚴重程度。「[!UICONTROL 重要性]」數字必須是唯一的。
-1. 選取優先順序的顏色。在圖表報告和 [!DNL Workfront] 的其他地方可以使用這個顏色。
-1. 將其中一個嚴重程度選項指定為「**[!UICONTROL 預設嚴重程度]**」。這會自動套用 Workfront 中的所有新問題。
+1. 「**[!UICONTROL 重要性]**」的數字與問題的嚴重程度相符。 最高的數字對應於最高的嚴重程度。 「[!UICONTROL 重要性]」數字必須是唯一的。
+1. 選取優先順序的顏色。 在圖表報告和 [!DNL Workfront] 的其他地方可以使用這個顏色。
+1. 將其中一個嚴重程度選項指定為「**[!UICONTROL 預設嚴重程度]**」。 這會自動套用 Workfront 中的所有新問題。
 1. 提供嚴重程度的描述，例如如何使用。
 1. 按一下欄位以外的地方來儲存。
 
@@ -61,11 +73,11 @@ ht-degree: 100%
 
 如果嚴重程度與您的問題工作流程不再相關，您可以將嚴重程度重新命名、隱藏或刪除。
 
-若是不再需要某個嚴重程度，[!DNL Workfront] 建議隱藏該嚴重程度 (按一下「設定」區域中嚴重程度旁邊的「[!UICONTROL 隱藏]」方塊)。這樣一來，問題的下拉式選單便會移除該嚴重程度選項，但是會保留歷史記錄上的嚴重程度，以供報告用途使用。
+若是不再需要某個嚴重程度，[!DNL Workfront] 建議隱藏該嚴重程度 (按一下「設定」區域中嚴重程度旁邊的「[!UICONTROL 隱藏]」方塊)。 這樣一來，問題的下拉式選單便會移除該嚴重程度選項，但是會保留歷史記錄上的嚴重程度，以供報告用途使用。
 
 ![[!UICONTROL 隱藏]欄突顯標示，位於[!UICONTROL 嚴重程度]頁面，而此頁面位於[!UICONTROL 設定]](assets/admin-fund-severity-hide.png)
 
-[!DNL Workfront] 建議&#x200B;**不要**&#x200B;刪除過去問題中使用過的嚴重程度。當您刪除一個嚴重程度時，它會要求您用另一個嚴重程度替換。這樣做可能會變更歷史資料並影響報告。
+[!DNL Workfront] 建議&#x200B;**不要**&#x200B;刪除過去問題中使用過的嚴重程度。 當您刪除一個嚴重程度時，它會要求您用另一個嚴重程度替換。 這樣做可能會變更歷史資料並影響報告。
 
 ![刪除嚴重程度視窗](assets/admin-fund-severity-delete.png)
 

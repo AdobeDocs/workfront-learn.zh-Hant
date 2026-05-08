@@ -11,16 +11,27 @@ jira: KT-11052
 thumbnail: KT11052.png
 recommendations: noDisplay,catalog
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '327'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:26.747Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 327
 ht-degree: 100%
 
 ---
 
 # 切換模組練習
 
-了解在必須執行比較複雜或動態的資料轉換時，如何使用「切換」模組。
+了解在必須執行比較複雜或動態的資料轉換時，如何使用切換模組。
 
 ## 練習概觀
 
@@ -43,13 +54,13 @@ ht-degree: 100%
 
    ![切換模組影像 3](../12-exercises/assets/switch-module-walkthrough-3.png)
 
-1. 接著針對來自「通路」自訂欄位的每個可能值新增案例。可能的值會存入「模式」欄位。您希望輸出欄位包含特定的 3 個字母代碼，而後面接著是專案參考編號和專案名稱。
+1. 接著針對來自「通路」自訂欄位的每個可能值新增案例。 可能的值會存入「模式」欄位。 您希望輸出欄位包含特定的 3 個字母代碼，而後面接著是專案參考編號和專案名稱。
 
    **您的對應面板應如下所示：**
 
    ![切換模組影像 4](../12-exercises/assets/switch-module-walkthrough-4.png)
 
-1. 您可以根據需要新增更多案例，數量不限。請注意底部的「否則」欄位。若輸入值不符合任一案例時便會使用此欄位。
+1. 您可以根據需要新增更多案例，數量不限。 請注意底部的「否則」欄位。 若輸入值不符合任一案例時便會使用此欄位。
 
    **更新 Workfront 中的專案名稱。**
 
@@ -59,4 +70,4 @@ ht-degree: 100%
 1. 在「ID」欄位中，對應到來自觸發模組的 ID。
 1. 將「記錄類型」設為「專案」。
 1. 從「選取對應欄位」區段選取「名稱」欄位，然後對應到來自「切換」模組的輸出。
-1. 請儲存您的情境並按一下「執行一次」。在您的產品試用中檢視已更新的專案名稱。
+1. 請儲存您的情境並按一下「執行一次」。 在您的產品試用中檢視已更新的專案名稱。

@@ -1,6 +1,6 @@
 ---
 title: 資料儲存練習
-description: 了解如何讓兩個系統之間的公司名稱同步。(應該介於 60 到 160 個字元之間，但有 59 個字元)
+description: 了解如何讓兩個系統之間的公司名稱同步。 (應該介於 60 到 160 個字元之間，但有 59 個字元)
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,20 @@ jira: KT-11055
 thumbnail: KT11055.png
 recommendations: noDisplay,catalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '904'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:45:21.347Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 909
 ht-degree: 100%
 
 ---
@@ -24,7 +35,7 @@ ht-degree: 100%
 
 ## 練習概觀
 
-這是 Workfront 和另一個系統中多家公司進行單向同步的第一部分。目前只會在 Fusion 資料儲存區與 Workfront 之間進行同步。資料儲存區中有一個表格追蹤記錄 Workfront ID (WFID) 以及每家公司以 CSV 檔案儲存的公司 ID (CID)。在未來某個時間點可以利用此表格進行雙向同步。
+這是 Workfront 和另一個系統中多家公司進行單向同步的第一部分。 目前只會在 Fusion 資料儲存區與 Workfront 之間進行同步。 資料儲存區中有一個表格追蹤記錄 Workfront ID (WFID) 以及每家公司以 CSV 檔案儲存的公司 ID (CID)。 在未來某個時間點可以利用此表格進行雙向同步。
 
 ![資料儲存區影像 1](../12-exercises/assets/data-stores-walkthrough-1.png)
 
@@ -81,12 +92,12 @@ ht-degree: 100%
 1. 在 Workfront 搜尋記錄模組的右側新增一個路由器模組。
 1. 將 Workfront 建立記錄模組新增到頂部路徑。
 1. 將記錄類型設定為「公司」。
-1. 從欄位選取要對應的名稱。將名稱欄位對應到剖析 CSV 模組 (欄 2) 的輸出。
+1. 從欄位選取要對應的名稱。 將名稱欄位對應到剖析 CSV 模組 (欄 2) 的輸出。
 1. 將這個模組重新命名為「建立公司」。
 
    ![資料儲存區影像 5](../12-exercises/assets/data-stores-walkthrough-5.png)
 
-1. 在路由器之後新增篩選器，唯有 Workfront 中尚未有該家公司時才建立一個公司。將其命名為「不在 Workfront 中」。
+1. 在路由器之後新增篩選器，唯有 Workfront 中尚未有該家公司時才建立一個公司。 將其命名為「不在 Workfront 中」。
 1. 把「狀況」設為來自 Workfront 搜尋模組的 ID 以及「不存在」。
 
    ![資料儲存區影像 6](../12-exercises/assets/data-stores-walkthrough-6.png)
@@ -100,7 +111,7 @@ ht-degree: 100%
 
    **路由路徑 2 - 更新資料儲存區。**
 
-1. 在路由路徑 2 建立篩選器。將其命名為「不在資料儲存區」。
+1. 在路由路徑 2 建立篩選器。 將其命名為「不在資料儲存區」。
 
 1. 把「狀況」設為來自資料儲存區模組的索引鍵以及「不存在」。
 
@@ -110,7 +121,7 @@ ht-degree: 100%
 1. 把變數名稱設為「Workfront ID」。
 1. 把這個模組重新命名為「取得 Workfront ID」。
 1. 新增另一個來自資料儲存區應用程式的模組：新增/取代一筆記錄。
-1. 在資料儲存欄位中選擇「公司同步」。這是您稍早前建立的資料儲存區。
+1. 在資料儲存欄位中選擇「公司同步」。 這是您稍早前建立的資料儲存區。
 1. 把「索引鍵」欄位留白。
 1. 對應剖析 CSV 模組中欄 1 的 CID 欄位。
 1. 對應剖析 CSV 模組中欄 2 的公司名稱欄位。
@@ -123,15 +134,15 @@ ht-degree: 100%
 
    **路由路徑 3 - 將系統之間的資料儲存區同步。**
 
-1. 首先在路由路徑 3 建立一個篩選器。將其命名為「公司存在但不在資料儲存區」。
+1. 首先在路由路徑 3 建立一個篩選器。 將其命名為「公司存在但不在資料儲存區」。
 1. 把「條件」設為來自資料儲存區搜尋記錄模組的索引鍵以及「不存在」。
 1. 按一下「新增 AND 規則」按鈕並指定來自 CSV 檔案 (欄 2) 的公司名稱等於在 Workfront 搜尋模組中找到的公司名稱。
 
    ![資料儲存區影像 9](../12-exercises/assets/data-stores-walkthrough-9.png)
 
 1. 現在原地複製路由路徑 2 末端的模組來新增另一個「新增/取代一筆記錄」模組。
-1. 拖曳原地複製的模組到路由路徑 3 末端的位置。刪除原本位在那裡的空白模組。
-1. 按一下原地複製的模組。所有欄位應維持不變，但 WFID 欄位除外。從「相符的公司」搜尋模組中把資料對應出來。
+1. 拖曳原地複製的模組到路由路徑 3 末端的位置。 刪除原本位在那裡的空白模組。
+1. 按一下原地複製的模組。 所有欄位應維持不變，但 WFID 欄位除外。 從「相符的公司」搜尋模組中把資料對應出來。
 
    ![資料儲存區影像 10](../12-exercises/assets/data-stores-walkthrough-10.png)
 

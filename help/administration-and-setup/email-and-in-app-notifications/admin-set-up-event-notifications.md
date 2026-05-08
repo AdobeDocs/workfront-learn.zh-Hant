@@ -10,9 +10,20 @@ level: Intermediate
 thumbnail: 10093.jpeg
 jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/VpeDSuAKqWlXviBhwNl8oV2LJ8LRQCjfhu0-XqIRZ6k
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: 625
 ht-degree: 100%
 
 ---
@@ -29,13 +40,13 @@ add URL link in the note at the top of the LP
 
 >[!NOTE]
 >
->因為採取分階段推行的方式，有些 [!DNL Workfront] 使用者暫時無法使用允許系統和群組管理員管理事件通知的功能。關於功能發佈的最新消息，請關注本文章：開放使用群組事件通知設定
+>因為採取分階段推行的方式，有些 [!DNL Workfront] 使用者暫時無法使用允許系統和群組管理員管理事件通知的功能。 關於功能發佈的最新消息，請關注本文章：開放使用群組事件通知設定
 
 系統管理員會決定使用者應該收到 [!DNL Workfront] 的哪些通知。
 
 ![[!UICONTROL 電子郵件通知]視窗，位於[!UICONTROL 設定]區域](assets/admin-fund-notifications-1.png)
 
-「[!UICONTROL 事件通知]」清單依類型分組。所列出的每一個事件通知均有五項資訊：
+「[!UICONTROL 事件通知]」清單依類型分組。 所列出的每一個事件通知均有五項資訊：
 
 * **[!UICONTROL 進行中] —**&#x200B;您可以利用「[!UICONTROL 進行中]」欄來關閉或開啟適用於全系統的通知。
 * **[!UICONTROL 名稱] —**&#x200B;這是 [!DNL Workfront] 內通知的名稱。
@@ -47,7 +58,7 @@ add URL link in the note at the top of the LP
 
 若要管理全域系統層級的通知，請確認搜尋列顯示「[!UICONTROL 系統事件通知]」。
 
-按一下切換按鈕使其顯示藍色，即可開啟特定通知，讓所有使用者均會收到通知。若未顯示藍色，則通知是關閉狀態。
+按一下切換按鈕使其顯示藍色，即可開啟特定通知，讓所有使用者均會收到通知。 若未顯示藍色，則通知是關閉狀態。
 
 ![[!UICONTROL 進行中]欄，位於[!UICONTROL 電子郵件通知]頁面](assets/admin-fund-notifications-2.png)
 
@@ -71,16 +82,16 @@ add URL link in the note at the top of the LP
 
 ![[!UICONTROL 群組存取]欄，位於[!UICONTROL 電子郵件通知]頁面](assets/ganotifications_02.png)
 
-按一下切換按鈕使其顯示灰色，把開放傳送的通知鎖定。選取多個核取方塊並按一下工具列的解鎖圖示，同時鎖定多個通知。
+按一下切換按鈕使其顯示灰色，把開放傳送的通知鎖定。 選取多個核取方塊並按一下工具列的解鎖圖示，同時鎖定多個通知。
 
 ![[!UICONTROL 群組存取]欄，位於[!UICONTROL 電子郵件通知]頁面](assets/ganotifications_03.png)
 
-最高層級的群組管理員會看到開放傳送的通知，並決定其群組和子群組是否也需要收到該通知。子群組繼承最上層父系群組的通知設定。﻿
+最高層級的群組管理員會看到開放傳送的通知，並決定其群組和子群組是否也需要收到該通知。 子群組繼承最上層父系群組的通知設定。 ﻿
 
 
 ## 管理群組通知
 
-系統管理員開放通知選項之後，群組管理員便可以在個人的「群組」頁面上按一下左側面板選單的「事件通知」，管理群組的各項通知。接著您可以啟用或停用通知選項。
+系統管理員開放通知選項之後，群組管理員便可以在個人的「群組」頁面上按一下左側面板選單的「事件通知」，管理群組的各項通知。 接著您可以啟用或停用通知選項。
 
 ![[!UICONTROL 群組存取]欄，位於[!UICONTROL 電子郵件通知]頁面](assets/managegroupnotifications_01.png)
 

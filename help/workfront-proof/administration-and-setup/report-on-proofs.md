@@ -10,20 +10,32 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 jira: KT-10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:01.017Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: 454
 ht-degree: 100%
 
 ---
 
 # 關於校訂的報告
 
-您可以利用 [!DNL Workfront] 的數位校訂功能來管理專案和相關的檢閱工作流程，全部都有 [!DNL Workfront] 中完成。利用報告類型、欄位來源以及顯示檢閱與核准資訊的欄位名稱，取得有關所做校訂工作的重要分析。
+您可以利用 [!DNL Workfront] 的數位校訂功能來管理專案和相關的審閱工作流程，全部都有 [!DNL Workfront] 中完成。 利用報告類型、欄位來源以及顯示審閱與核准資訊的欄位名稱，取得有關所做校訂工作的重要洞察。
 
-我們建議與您的 [!DNL Workfront] 顧問一起合作，建立符合組織需求的報告。有些報告必須熟悉 [!DNL Workfront] 文字模式報告功能方能使用。
+我們建議與您的 [!DNL Workfront] 顧問一起合作，建立符合組織需求的報告。 有些報告必須熟悉 [!DNL Workfront] 文字模式報告功能方能使用。
 
-從這些基本的標準報告開始，幫助您的團隊管理在 [!DNL Workfront] 中進行檢閱與核准流程的校訂。
+從這些基本的標準報告開始，幫助您的團隊管理在 [!DNL Workfront] 中進行審閱與核准流程的校訂。
 
 ## [!UICONTROL 校訂核准]
 
@@ -31,15 +43,15 @@ ht-degree: 100%
 
 ![從「[!UICONTROL 新增報告]」下拉式選單選取「[!UICONTROL 校訂核准]」](assets/proof-system-setups-proof-approval-report.png)
 
-檢視和篩選選項包括「[!UICONTROL 決定日期]」、「[!UICONTROL 校訂核准]」、「[!UICONTROL 核准者階段]」、「[!UICONTROL 工作流程範本]」和「[!UICONTROL 請求者資訊]」。您可以利用文字模式報告來建立分組，依文件名稱來整理清單。請參閱「[瞭解分組的基本文字模式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hant)」。
+檢視和篩選選項包括「[!UICONTROL 決定日期]」、「[!UICONTROL 校訂核准]」、「[!UICONTROL 核准者階段]」、「[!UICONTROL 工作流程範本]」和「[!UICONTROL 請求者資訊]」。 您可以利用文字模式報告來建立分組，依文件名稱來整理清單。 請參閱「[瞭解分組的基本文字模式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hant)」。
 
-在編寫校訂核准報告時，請確認您取得的資訊與最新版本的校訂相關。[!DNL Workfront] 建議篩選器應包含這個欄位來源和欄位名稱：
+在編寫校訂核准報告時，請確認您取得的資訊與最新版本的校訂相關。 [!DNL Workfront] 建議篩選器應包含這個欄位來源和欄位名稱：
 
 「**[!UICONTROL 校訂核准] >> [!UICONTROL 是目前文件版本]**」
 
 ![報告建立工具的篩選器標籤](assets/proof-system-setups-proof-approval-report-is-current-version.png)
 
-當您所要報告的校訂含有多個版本時，這項功能十分實用，報告僅列出需要核准的每份校訂的最新版本。這樣便會把您不再需要處理的早期版本篩除。
+當您所要報告的校訂含有多個版本時，這項功能十分實用，報告僅列出需要核准的每份校訂的最新版本。 這樣便會把您不再需要處理的早期版本篩除。
 
 ## [!UICONTROL 文件版本]
 
@@ -63,7 +75,7 @@ ht-degree: 100%
 
 在報告中也可以使用這個「欄位來源 >> 欄位名稱」作為篩選器。
 
-使用「[!UICONTROL 校訂建立者]」欄位來源，報告關於建立校訂之使用者的資訊。選擇「[!UICONTROL 名稱]」欄位來源，在視圖中顯示校訂建立者的名稱。
+使用「[!UICONTROL 校訂建立者]」欄位來源，報告關於建立校訂之使用者的資訊。 選擇「[!UICONTROL 名稱]」欄位來源，在視圖中顯示校訂建立者的名稱。
 
 「**[!UICONTROL 校訂建立者] >> [!UICONTROL 名稱]**」
 

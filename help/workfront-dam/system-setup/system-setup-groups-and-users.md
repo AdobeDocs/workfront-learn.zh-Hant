@@ -1,6 +1,6 @@
 ---
 title: 設定群組和使用者
-description: 了解如何在 [!UICONTROL Workfront DAM] 中建立資料夾、群組和使用者。了解使用者角色類型並授予資料夾權限。
+description: 了解如何在 [!UICONTROL Workfront DAM] 中建立資料夾、群組和使用者。 了解使用者角色類型並授予資料夾權限。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,10 +10,21 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:28:55.491Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 100%
+source-wordcount: 416
+ht-degree: 95%
 
 ---
 
@@ -34,30 +45,30 @@ ht-degree: 100%
 
 當您設定 [!UICONTROL Workfront DAM] 系統時，一定要用宏觀角度考慮使用者和群組所扮演的角色。
 
-群組控制對於 [!UICONTROL Workfront DAM] 資產資料夾的存取權。群組設定也控制使用者可以使用資產執行哪些操作 (檢視、下載、編輯等) 他們有權限可進行存取。
+群組控制對於 [!UICONTROL Workfront DAM] 資產資料夾的存取權。 群組設定也可控制使用者可以對資產執行的動作（檢視、下載、編輯等） 他們具有存取許可權。
 
 建立群組時，一定要記得該群組的成員需要存取 [!UICONTROL Workfront DAM] 哪些資產資料夾。
 
-使用者是指具有 [!UICONTROL Workfront DAM] 登入權限的個人。使用者無法存取 [!UICONTROL Workfront DAM] 中任何內容，除非他們被指派至一個群組。使用者可以屬於一個以上的群組，依他們的需求決定。
+使用者是指具有 [!UICONTROL Workfront DAM] 登入權限的個人。 使用者無法存取 [!UICONTROL Workfront DAM] 中任何內容，除非他們被指派至一個群組。 使用者可以屬於一個以上的群組，依他們的需求決定。
 
 ## 預設群組
 
-[!UICONTROL Workfront DAM] 有兩個預設群組。所有使用者會自動納入這些群組，根據其是否具有 [!UICONTROL Workfront DAM] 登入憑證而定。這些群組無法新增或移除使用者：
+[!UICONTROL Workfront DAM] 有兩個預設群組。 所有使用者會自動納入這些群組，根據其是否具有 [!UICONTROL Workfront DAM] 登入憑證而定。 這些群組無法新增或移除使用者：
 
-* **訪客群組** — 用來控制匿名使用者的存取權。這可能是沒有登入憑據的人或目前並未登入的使用者。
+* **訪客群組** — 用來控制匿名使用者的存取權。 這可能是沒有登入憑據的人或目前並未登入的使用者。
 * **已登入**&#x200B;群組 — 已登入的所有使用者屬於這個群組。
 
-管理員群組及其設定均是預設存在。您可以將使用者新增到這個群組但是無法調整設定。
+管理員群組及其設定均是預設存在。 您可以將使用者新增到這個群組但是無法調整設定。
 
 ## 角色類型
 
-所建立的群組會被指派一個角色類型。角色類型決定使用者登入時可以存取 [!UICONTROL Workfront DAM] 系統的哪個部分：[!UICONTROL Workfront DAM] 本身或是 [!UICONTROL Brand Connect]。
+所建立的群組會被指派一個角色類型。 角色類型決定使用者登入時可以存取 [!UICONTROL Workfront DAM] 系統的哪個部分：[!UICONTROL Workfront DAM] 本身或是 [!UICONTROL Brand Connect]。
 
 [!UICONTROL Workfront DAM] 授權可以使用三種角色類型：
 
 * **[!UICONTROL Brand Portal]** — 這類使用者僅可存取 [!UICONTROL Brand Connect]，並且檢視及下載已核准的資產。
-* **[!UICONTROL 貢獻者]** — 這類使用者可以存取 [!UICONTROL Workfront DAM] 和 [!UICONTROL Brand Connect]。他們擁有資產和資料夾的完整存取權，可以檢視、下載、上傳、編輯、移動和刪除。
-* **[!UICONTROL 管理員]** — 系統管理員可以存取 [!UICONTROL Brand Connect] 和 [!UICONTROL Workfront DAM] 中所有內容，並可以建立個別的全域系統設定。他們也可以存取已經過期或被設定為非使用的資產。
+* **[!UICONTROL 貢獻者]** — 這類使用者可以存取 [!UICONTROL Workfront DAM] 和 [!UICONTROL Brand Connect]。 他們擁有資產和資料夾的完整存取權，可以檢視、下載、上傳、編輯、移動和刪除。
+* **[!UICONTROL 管理員]** — 系統管理員可以存取 [!UICONTROL Brand Connect] 和 [!UICONTROL Workfront DAM] 中所有內容，並可以建立個別的全域系統設定。 他們也可以存取已經過期或被設定為非使用的資產。
 
 <!-- 
 Learn more graphic & documentation article link, below

@@ -11,9 +11,16 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/22KjuMtDdhm9A6JohWlThfOHwKcegLwT3nuFO--70N4
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: 275
 ht-degree: 97%
 
 ---
@@ -33,11 +40,11 @@ ht-degree: 97%
 
 **應該完成的期限**
 
-客戶想要知道，根據「實際開始日期」和「規劃期間」，任務應該何時完成。在這種情況下，「預計完成日期」並不適用，因為如果任務延遲，這個日期可能會變動，而如果之前的任務有所延遲，則「規劃完成日期」亦無法派上用場。
+客戶想要知道，根據「實際開始日期」和「規劃期間」，任務應該何時完成。 在這種情況下，「預計完成日期」並不適用，因為如果任務延遲，這個日期可能會變動，而如果之前的任務有所延遲，則「規劃完成日期」亦無法派上用場。
 
 建立的運算式為ADDDAYS({actualStartDate}，{durationMinutes}/480)
 
-儲存在「期間」欄位的時間以分鐘為單位。因此，在此運算式中，如果時間要以天數為單位，則「期間」不能是獨立的欄位。因此，「期間」必須除以 480 分鐘 (480 分鐘 = 8 小時 = 1 天)
+儲存在「期間」欄位的時間以分鐘為單位。 因此，在此運算式中，如果時間要以天數為單位，則「期間」不能是獨立的欄位。 因此，「期間」必須除以 480 分鐘 (480 分鐘 = 8 小時 = 1 天)
 
 這就是第二個值槽包含 (Duration/480) 的原因。
 
@@ -48,6 +55,6 @@ ht-degree: 97%
 
 客戶透過標題為「發票提交日期」的自訂日期欄位取得發票提交的日期。
 
-發票提交後，必須在 30 天內完成並歸檔。為了自動產生完成和歸檔日期，ADDDAYS 計算欄位與「發票提交日期」自訂欄位一起使用。運算式如下所示：
+發票提交後，必須在 30 天內完成並歸檔。 為了自動產生完成和歸檔日期，ADDDAYS 計算欄位與「發票提交日期」自訂欄位一起使用。 運算式如下所示：
 
 ADDDAYS({DE:Invoice Submission Date}，30)

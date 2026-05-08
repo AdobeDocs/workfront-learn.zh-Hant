@@ -11,10 +11,21 @@ jira: KT-11048
 thumbnail: KT11048.png
 recommendations: noDisplay,catalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '493'
-ht-degree: 100%
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:45:52.312Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 493
+ht-degree: 94%
 
 ---
 
@@ -48,8 +59,8 @@ ht-degree: 100%
 
    **您需要收集每個國家/地區的子區域資訊，因此您必須提出額外的 HTTP 請求。**
 
-1. 新增另一項請求來取得子區域資訊。此請求只會回傳第一個國家，但是目前不成問題。新增另一個 HTTP 提出請求模組並使用 URL `https://restcountries.com/v2/name/{country name}`。
-1. 要取得第一個國家的名稱，請前往對應面板並按一下「資料」，然後按一下陣列中的「名稱」。資料欄位中的 [1] 表示將會傳回陣列中第一個項目。
+1. 新增另一項請求來取得子區域資訊。 此請求只會回傳第一個國家，但是目前不成問題。 新增另一個 HTTP 提出請求模組並使用 URL `https://restcountries.com/v2/name/{country name}`。
+1. 要取得第一個國家的名稱，請前往對應面板並按一下「資料」，然後按一下陣列中的「名稱」。 資料欄位中的 [1] 表示將會傳回陣列中第一個項目。
 
    + 按一下數字，必要時可以變更索引，但是這個情況下您只需要第一個項目。
 
@@ -61,7 +72,7 @@ ht-degree: 100%
 
    + 輸出是單一國家的資訊。
 
-1. 要取得其他國家的資訊，您必須在整個陣列中進行疊代。新增一個疊代器，輸入清單上的多個物件然後在清單中輸出每個項目的套件。
+1. 要取得其他國家的資訊，您必須在整個陣列中進行疊代。 新增一個疊代器，輸入清單上的多個物件然後在清單中輸出每個項目的套件。
 
    **新增疊代器和彙總計算器。**
 
@@ -77,8 +88,8 @@ ht-degree: 100%
 1. 在「擷取國家詳細資料」之後新增數值彙總計算器，把人口分組並計算總和。
 1. 來源模組是疊代器模組。
 1. 彙總函數是 SUM。
-1. 數值是來自「擷取國家詳細資料」模組的 [data:population]。
-1. 按一下底部的「顯示進階設定」選項，並根據取自「擷取國家詳細資料」模組的 [data:subregion] 進行分組。
+1. 取得國家詳細資料模組的值為[資料:population]。
+1. 按一下底部的[顯示進階設定]選項，然後從[取得國家/地區詳細資訊]模組依[資料:subregion]分組。
 
    ![進階彙總影像 7](../12-exercises/assets/advanced-aggregation-walkthrough-7.png)
 
@@ -92,4 +103,4 @@ ht-degree: 100%
 
 1. 按一下「儲存」，然後「執行一次」。
 
-   + 檢閱最後模組的輸出。
+   + 審閱最後模組的輸出。

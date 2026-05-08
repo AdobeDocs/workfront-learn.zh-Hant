@@ -12,9 +12,20 @@ jira: KT-8722
 recommendations: noDisplay,catalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T02:04:46.969Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: 308
 ht-degree: 100%
 
 ---
@@ -27,7 +38,7 @@ ht-degree: 100%
 * 在圖表上建立時間範圍
 * 如何顯示更多圖表
 
->[!VIDEO](https://video.tv.adobe.com/v/3438576/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3438576/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 按一下圖表以取得更多資訊
 
@@ -40,15 +51,15 @@ ht-degree: 100%
 
 ## 在團隊活動中，顏色的深淺分別有什麼意義？
 
-**已登入使用者：**&#x200B;紫色方塊顯示在那一天登入的主團隊人員。顏色越深表示登入人數越多。
+**已登入使用者：**&#x200B;紫色方塊顯示在那一天登入的主團隊人員。 顏色越深表示登入人數越多。
 
 ![影像顯示紫色色調方塊](assets/purple-shaded-boxes.png)
 
-**任務狀態變化：**&#x200B;粉紅方塊顯示主團隊的人員在那一天變更某個任務的狀態。顏色深表示發生狀態變更的任務數量較多。
+**任務狀態變化：**&#x200B;粉紅方塊顯示主團隊的人員在那一天變更某個任務的狀態。 顏色深表示發生狀態變更的任務數量較多。
 
 ![影像顯示粉紅色調方塊](assets/pink-shaded-boxes.png)
 
-**任務已完成：**&#x200B;藍色方塊顯示主團隊的人員在那一天完成一項任務。顏色深表示完成的任務數量較多。
+**任務已完成：**&#x200B;藍色方塊顯示主團隊的人員在那一天完成一項任務。 顏色深表示完成的任務數量較多。
 
 ![影像顯示藍色色調方塊](assets/blue-shaded-boxes.png)
 

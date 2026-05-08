@@ -5,13 +5,24 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2025-09-03T00:00:00Z
+last-substantial-update: '2025-09-03T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:37:42.333Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: 195
 ht-degree: 14%
 
 ---
@@ -22,10 +33,10 @@ ht-degree: 14%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3472976/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
-## 關鍵重點
+## 重點提要
 
-* **問題與任務有何不同？**&#x200B;問題與任務不同，因為問題代表未計畫的工作。 如果需要將問題納入計畫工作，則應將其轉換為任務或專案。
-* **快速檢閱專案中的問題為何重要？**&#x200B;當您專案中有未完成的問題時，這些問題對專案排程或預算來說代表潛在風險，應快速指派給可以調查這些問題並採取或建議適當行動的人。
+* **問題與任務有何不同？** 問題與任務不同，因為問題代表未計畫的工作。 如果需要將問題納入計畫工作，則應將其轉換為任務或專案。
+* **為什麼快速檢閱專案中的問題很重要？** 當專案中有未完成的問題時，這些問題對專案排程或預算來說代表潛在風險，應快速指派給可以調查這些問題並採取或建議適當行動的人。
 * **要求佇列中的問題呢？：**&#x200B;在要求佇列中，問題可能會更像是待辦事項清單專案。 將狀態轉換為任務或專案的需求可能有所不同，但及時更新狀態的作法仍非常重要。
 
 

@@ -12,9 +12,20 @@ jira: KT-8733
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:10:55.122Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: 224
 ht-degree: 100%
 
 ---
@@ -25,11 +36,11 @@ ht-degree: 100%
 
 * 如何快速查看員工對每個專案投注多少時間
 
->[!VIDEO](https://video.tv.adobe.com/v/3437810/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3437810/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 審閱在各個專案上花費的時間
 
-您可以利用專案樹狀圖了解使用者對一個專案投注多少時間。方塊代表專案。方塊的大小表示相對於其他專案，在此專案上所花費的時間。方塊越大，花費的時間越多。
+您可以利用專案樹狀圖了解使用者對一個專案投注多少時間。 方塊代表專案。 方塊的大小表示相對於其他專案，在此專案上所花費的時間。 方塊越大，花費的時間越多。
 
 查看這些資訊可協助您判斷：
 

@@ -11,9 +11,20 @@ jira: KT-11042
 thumbnail: KT11042.png
 recommendations: noDisplay,catalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '602'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:43:07.393Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 604
 ht-degree: 100%
 
 ---
@@ -34,7 +45,7 @@ ht-degree: 100%
 
 1. 在 Workfront「Fusion Exercise Files」資料夾中，選取「_Fusion2020_Shipping Manifest.csv」，然後按一下「文件詳細資料」。
 1. 複製 URL 網址中第一個 ID 號碼。
-1. 在 Workfront Fusion 中建立新情境。將其命名為「使用通用連接器」。
+1. 在 Workfront Fusion 中建立新情境。 將其命名為「使用通用連接器」。
 1. 從 Workfront 應用程式中的「下載文件」模組開始。
 1. 設定 Workfront 連線並包含從 Workfront URL 複製而來的文件 ID。
 1. 將此模組重新命名為「下載貨運清單」。
@@ -44,7 +55,7 @@ ht-degree: 100%
    **剖析貨運清單資料。**
 
 1. 新增另一個模組，選取「剖析 CSV」。
-1. 設定對 11 欄執行「剖析 CSV」。勾選「CSV 包含標題」方塊。「分隔符號類型」請選擇「逗號」，並把取自「下載文件」模組的資料放入「CSV」欄位。
+1. 設定對 11 欄執行「剖析 CSV」。 勾選「CSV 包含標題」方塊。 「分隔符號類型」請選擇「逗號」，並把取自「下載文件」模組的資料放入「CSV」欄位。
 
    ![通用連接器簡介影像 2](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-2.png)
 
@@ -65,8 +76,8 @@ ht-degree: 100%
 
    **在這一部分的練習中，您只想處理 CSV 檔案中的第 1 列。**
 
-1. 在「取得寶可夢資訊」模組之前新增篩選器。將其命名為「僅第 1 列」。
-1. 設定條件為僅允許 ID 號碼 1 通過。ID 號碼 1 在第 1 列，而「ID」欄位在 CSV 檔案的第 1 欄。
+1. 在「取得寶可夢資訊」模組之前新增篩選器。 將其命名為「僅第 1 列」。
+1. 設定條件為僅允許 ID 號碼 1 通過。 ID 號碼 1 在第 1 列，而「ID」欄位在 CSV 檔案的第 1 欄。
 
    ![通用連接器簡介影像 4](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-4.png)
 
@@ -75,7 +86,7 @@ ht-degree: 100%
 
    >[!IMPORTANT]
    >
-   >請注意，在輸入資料 URL 欄位中，角色名稱均是大寫。這並不適用於 API 呼叫，因為字元名稱必須使用小寫。
+   >請注意，在輸入資料 URL 欄位中，角色名稱均是大寫。 這並不適用於 API 呼叫，因為字元名稱必須使用小寫。
 
    ![通用連接器簡介影像 5](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-5.png)
 
@@ -85,7 +96,7 @@ ht-degree: 100%
 
    **使用「設定多個變數」模組把 API 的資訊對應回來。**
 
-1. 在「取得寶可夢資訊」之後新增「設定多個變數」模組。對應名稱、身高、體重和能力。
+1. 在「取得寶可夢資訊」之後新增「設定多個變數」模組。 對應名稱、身高、體重和能力。
 1. 由於「能力」欄位是一個陣列，請記得使用對應函數來存取陣列中每個能力的名稱。
 
    ![通用連接器簡介影像 7](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-7.png)
@@ -100,7 +111,7 @@ ht-degree: 100%
    + 按一下「確定」。
 
 1. 請儲存情境並按一下「執行一次」。
-1. 「取得寶可夢資訊」模組發生錯誤。您看到一個超級英雄角色傳遞到寶可夢 API。
+1. 「取得寶可夢資訊」模組發生錯誤。 您看到一個超級英雄角色傳遞到寶可夢 API。
 
    >[!NOTE]
    >

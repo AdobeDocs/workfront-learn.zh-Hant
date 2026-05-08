@@ -10,9 +10,19 @@ team: Technical Marketing
 thumbnail: settings-to-consider.png
 jira: KT-10189
 exl-id: d9cf1309-c994-4a4e-89e2-030b67e2f57d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/9wqffuyCRztBZCBI1kTssGbACTr-qlwbRgWlVBLLhNg
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 325
 ht-degree: 100%
 
 ---
@@ -32,7 +42,7 @@ ht-degree: 100%
 
 ## 包括問題的時數
 
-依預設，工作負載平衡器僅顯示任務。然而，使用者可能會被指派要處理需要滿足或解決的請求和問題，這會佔用他們在專案工作上花費的時間。
+依預設，工作負載平衡器僅顯示任務。 然而，使用者可能會被指派要處理需要滿足或解決的請求和問題，這會佔用他們在專案工作上花費的時間。
 
 要詳細瞭解使用者全部的工作負載，Workfront 建議把問題包含在使用者指派工作清單中。
 
@@ -62,7 +72,7 @@ ht-degree: 100%
 
 ### 已完成的任務
 
-已完成的任務連同目前進行中或即將開始的任務一起顯示在工作負載平衡器中。若要詳細瞭解使用者還可以處理哪些其他工作，您可能想要排除已完成的工作。
+已完成的任務連同目前進行中或即將開始的任務一起顯示在工作負載平衡器中。 若要詳細瞭解使用者還可以處理哪些其他工作，您可能想要排除已完成的工作。
 
 在工作負載平衡器設定中取消勾選「顯示完成的工作」選項。
 

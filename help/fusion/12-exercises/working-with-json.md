@@ -11,9 +11,20 @@ jira: KT-11056
 thumbnail: KT11056.png
 recommendations: noDisplay,catalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '496'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:11.405Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 497
 ht-degree: 100%
 
 ---
@@ -24,7 +35,7 @@ ht-degree: 100%
 
 ## 練習概觀
 
-本練習的目的在於用概念性的方式說明如何使用以 JSON 格式傳送到情境中的資訊，將資訊剖析成為多個欄位和項目，以便對應到整個情境中。接著，您便可以從那些對應的陣列中擷取資訊，或是把資訊彙總成為 JSON 檔再傳送到另一個預期接受 JSON 輸入的系統。
+本練習的目的在於用概念性的方式說明如何使用以 JSON 格式傳送到情境中的資訊，將資訊剖析成為多個欄位和項目，以便對應到整個情境中。 接著，您便可以從那些對應的陣列中擷取資訊，或是把資訊彙總成為 JSON 檔再傳送到另一個預期接受 JSON 輸入的系統。
 
 ![使用 JSON 影像 1](../12-exercises/assets/working-with-json-walkthrough-1.png)
 
@@ -46,7 +57,7 @@ ht-degree: 100%
 
    ![使用 JSON 影像 3](../12-exercises/assets/working-with-json-walkthrough-3.png)
 
-1. 按一下「儲存」把資料結構命名為「甜甜圈資料」。然後按一下「儲存」。
+1. 按一下「儲存」把資料結構命名為「甜甜圈資料」。 然後按一下「儲存」。
 1. 把「Set 變數」模組的「甜甜圈資料」對應到「JSON 字串」欄位中。
 
    ![使用 JSON 影像 4](../12-exercises/assets/working-with-json-walkthrough-4.png)
@@ -75,7 +86,7 @@ ht-degree: 100%
 
 1. 在下方的路由路徑中，新增「彙總成 JSON」模組。
 1. 對於來源模組，請選擇疊代器「剖析 JSON 模組」。
-1. 對於資料結構，請建立或選擇任何資料結構。這個範例請使用「甜甜圈資料」。
+1. 對於資料結構，請建立或選擇任何資料結構。 這個範例請使用「甜甜圈資料」。
 1. 直接對應這個範例中各個欄位，如下所示。
 1. 當您到達「麵糊」和「餡料」區段，請注意這些都是陣列，所以您必須按一下「新增項目」才能對應。
 
@@ -83,6 +94,6 @@ ht-degree: 100%
 
 1. 請儲存情境並按一下「執行一次」。
 
-查看「彙總成 JSON」模組的執行檢查程式，注意您是如何把三個套件彙總成為單一 JSON 字串。接著您可以把這個字串傳送到預期接收 JSON 的其他系統。
+查看「彙總成 JSON」模組的執行檢查程式，注意您是如何把三個套件彙總成為單一 JSON 字串。 接著您可以把這個字串傳送到預期接收 JSON 的其他系統。
 
 ![使用 JSON 影像 9](../12-exercises/assets/working-with-json-walkthrough-9.png)

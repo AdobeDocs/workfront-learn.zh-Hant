@@ -12,9 +12,20 @@ jira: KT-8734
 recommendations: noDisplay,catalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:10:10.755Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: 295
 ht-degree: 100%
 
 ---
@@ -26,11 +37,11 @@ ht-degree: 100%
 * 如何存取燃盡圖
 * 如何理解專案的剩餘時間、專案狀況和速度之間的關係
 
->[!VIDEO](https://video.tv.adobe.com/v/3438895/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3438895/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 追蹤專案速度
 
-您可以藉由燃盡圖理解剩餘時間、專案狀況和速度之間的關係。實線表示專案在一段時間內花費的時數，以及專案每天的狀況。虛線表示從開始日期到規劃完成日期的規劃速度，會隨著任務日期變更進行調整。
+您可以藉由燃盡圖理解剩餘時間、專案狀況和速度之間的關係。 實線表示專案在一段時間內花費的時數，以及專案每天的狀況。 虛線表示從開始日期到規劃完成日期的規劃速度，會隨著任務日期變更進行調整。
 
 查看這些資訊可協助您判斷：
 

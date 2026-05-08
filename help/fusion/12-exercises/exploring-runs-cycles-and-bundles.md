@@ -11,9 +11,20 @@ jira: KT-11050
 thumbnail: KT1101.png
 recommendations: noDisplay,catalog
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '342'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:43:39.670Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 344
 ht-degree: 100%
 
 ---
@@ -30,10 +41,10 @@ ht-degree: 100%
 
 ## 執行步驟
 
-1. 原地複製名為「在路由路徑之間共用變數」的情境。把新情境命名為「在路由路徑之間共用變數 - 週期測試」。
+1. 原地複製名為「在路由路徑之間共用變數」的情境。 把新情境命名為「在路由路徑之間共用變數 - 週期測試」。
 1. 移除「傳送電子郵件」模組，因為這項測試不需要此模組。
 
-   **設定您的情境處理每次執行 3 個週期。每個週期處理 5 個專案。**
+   **設定您的情境處理每次執行 3 個週期。 每個週期處理 5 個專案。**
 
 1. 按一下觸發模組，把「最大」欄位變更為「5」，讓每個週期僅處理 5 個專案。
 1. 在「搜尋」條件中，移除限制搜尋一個專案的第二個篩選器。
@@ -51,15 +62,15 @@ ht-degree: 100%
 
    ![探索執行、週期和套件影像 2](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
 
-1. 接下來，將「執行一次」之下的「排程」按鈕切換為開啟。儲存您的情境。
+1. 接下來，將「執行一次」之下的「排程」按鈕切換為開啟。 儲存您的情境。
 
    ![探索執行、週期和套件影像 3](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
 
-1. 前往情境的「執行歷史記錄」並看到在下一分鐘出現新的歷史記錄。您可能需要重新整理頁面。
+1. 前往情境的「執行歷史記錄」並看到在下一分鐘出現新的歷史記錄。 您可能需要重新整理頁面。
 
    ![探索執行、週期和套件影像 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-4.png)
 
-1. 按一下執行的「詳細資料」按鈕。點進右側面板中的「簡易記錄」，與您之前在 Workfront Fusion 培訓的執行歷史記錄部分所做的動作類似。
+1. 按一下執行的「詳細資料」按鈕。 點進右側面板中的「簡易記錄」，與您之前在 Workfront Fusion 培訓的執行歷史記錄部分所做的動作類似。
 1. 已處理操作的記錄被分成多個週期。
 
    ![探索執行、週期和套件影像 5](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
