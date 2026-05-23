@@ -35,7 +35,7 @@ ht-degree: 13%
 影片說明如何建立工作角色和費率卡，以及如何從專案附加和移除費率卡。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3486517/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486529/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
