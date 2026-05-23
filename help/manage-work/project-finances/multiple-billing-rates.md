@@ -36,7 +36,7 @@ ht-degree: 4%
 影片說明如何管理和自訂專案中工作角色的計費率。 它&#x200B;強調為相同工作角色設定多個收費率的彈性，並確保精確的時間調整。 &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3489646/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
