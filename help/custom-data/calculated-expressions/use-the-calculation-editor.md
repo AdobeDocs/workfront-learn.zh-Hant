@@ -34,4 +34,4 @@ ht-degree: 100%
 * 計算編輯器的功能
 * 如何使用計算編輯器在計算欄位中建立 ADDWEEKDAYS 資料運算式
 
->[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3491508/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
