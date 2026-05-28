@@ -12,11 +12,16 @@ jira: KT-8862
 last-substantial-update: '2026-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2: id: caabbe77-a670-4ba9-8190-faf649b1f84a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: caabbe77-a670-4ba9-8190-faf649b1f84a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:20:51.376Z'
 source-git-commit: f6c4afc6e1984ef0af8f80e052766f90de7a8655
 workflow-type: tm+mt
@@ -132,7 +137,7 @@ ht-degree: 29%
 1. 新報告將會出現，並在標題中附加名稱&#x200B;**&quot;（副本）&quot;**。
 1. 按一下&#x200B;**[!UICONTROL 報告動作] > [!UICONTROL 編輯]**。 然後變更篩選器和報告標題以將焦點放在Orion團隊（或您的任何其他團隊）。
 1. 按一下[!UICONTROL 篩選器]標籤，然後變更篩選器規則
-   **[!UICONTROL 任務] > [!UICONTROL 團隊識別碼] > [!UICONTROL 相等] > &quot;Creative&quot;**至
+   **[!UICONTROL 任務] > [!UICONTROL 團隊識別碼] > [!UICONTROL 相等] > &quot;Creative&quot;**&#x200B;至
    **[!UICONTROL 任務] > [!UICONTROL 團隊識別碼] > [!UICONTROL 等於] > &quot;Orion&quot;**
 1. 在「報表標題」欄位中，將&#x200B;**[!UICONTROL &quot;Creative&quot;]**&#x200B;一詞變更為&#x200B;**[!UICONTROL &quot;Orion&quot;]**，並刪除&#x200B;**&quot;（複製）&quot;**。
 1. 按一下&#x200B;**[!UICONTROL 儲存+關閉]**&#x200B;按鈕以儲存並關閉您的報告。
