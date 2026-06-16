@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:42:45.518Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 12%
+source-wordcount: 208
+ht-degree: 7%
 
 ---
 
@@ -37,17 +37,17 @@ ht-degree: 12%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444600/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
-## 重點提要
+## 關鍵重點
 
-* **自動團隊填入：**&#x200B;當使用者被指派任務或指定為專案所有者時，專案團隊會自動填入。 但&#x200B;是，在移除使用者的指派時，不會自動移除使用者；這必須手動完成。 &#x200B;
-* **手動更新：**&#x200B;您可以手動新增或移除專案團隊中的人員，即使他們沒有指派，確保團隊清單保持正確且最新。 &#x200B;
-* **集中式通訊：**&#x200B;[人員]索引標籤可讓您傳送更新給專案層級的所有團隊成員，使其成為整個團隊通訊的便利工具。 &#x200B;
-* **電子郵件通知：**&#x200B;系統管理員可以啟用專案團隊的電子郵件通知，例如新增檔案、完成的里程碑任務或問題的警示，以確保團隊成員隨時瞭解最新資訊。 &#x200B;
-* **專案參與追蹤：** Workfront會使用專案團隊來識別使用者參與哪些專案，並啟用依使用者參與來篩選專案等功能，以更輕鬆導覽。 &#x200B;
+* **自動團隊填入：**&#x200B;當使用者被指派任務或指定為專案所有者時，專案團隊會自動填入。但&#x200B;是，在移除使用者的指派時，不會自動移除使用者；這必須手動完成。&#x200B;URL
+* **手動更新：**&#x200B;您可以手動新增或移除專案團隊中的人員，即使他們沒有指派，確保團隊清單保持正確且最新。&#x200B;URL
+* **集中式通訊：**&#x200B;[人員]索引標籤可讓您傳送更新給專案層級的所有團隊成員，使其成為整個團隊通訊的便利工具。&#x200B;URL
+* **電子郵件通知：**&#x200B;系統管理員可以啟用專案團隊的電子郵件通知，例如新增檔案、完成的里程碑任務或問題的警示，以確保團隊成員隨時瞭解最新資訊。&#x200B;URL
+* **專案參與追蹤：** Workfront會使用專案團隊來識別使用者參與哪些專案，並啟用依使用者參與來篩選專案等功能，以更輕鬆導覽。&#x200B;URL
 
 ## 有關此主題的推薦教學課程
 
-* [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [尋找專案](/help/manage-work/projects/find-projects.md)
-* [共用專案](/help/manage-work/projects/share-a-project.md)
-* [瞭解專案溝通](/help/manage-work/projects/understand-project-communication.md)
+* [管理具有目前狀態的專案](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [有效地尋找專案](/help/manage-work/projects/find-projects.md)
+* [在Workfront中有效共用專案](/help/manage-work/projects/share-a-project.md)
+* [透過有效溝通提升專案成功率](/help/manage-work/projects/understand-project-communication.md)

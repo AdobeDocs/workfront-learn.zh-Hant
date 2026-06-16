@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:58:59.618Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 23%
+source-wordcount: 291
+ht-degree: 24%
 
 ---
 
@@ -36,12 +36,12 @@ ht-degree: 23%
 
 >[!PREREQUISITES]
 >
->* [建立請求流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [建立全域和單次使用的核准流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [在Workfront中建立請求流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [建立和管理核准流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
-此影片說明建立請求佇列時，套用預設核准程式的程式。 建立請求&#x200B;時，其狀態會從「新增 — 未決核准」開始，並傳送核准通知給指定的核准者。 如&#x200B;果核准，狀態會變更為「新增」，允許指派的個人開始工作。 如&#x200B;果被拒絕，由於核准流程設定的常見錯誤，狀態可能會錯誤地恢復為「新」。 &#x200B;
-影片重點說明當狀態設為「新增」（新請求的預設值）時，會觸發核准流程。 如&#x200B;果遭拒，系統預設會將狀態變回先前的狀態，但這並不適合新請求。 應&#x200B;改為選擇其他狀態，例如「將不會解析」。 影片&#x200B;也指出，預設不會提供「已拒絕」狀態，但系統管理員可視需要建立一個狀態。 &#x200B;
+此影片說明建立請求佇列時，套用預設核准程式的程式。建立請求&#x200B;時，其狀態會從「新增 — 未決核准」開始，並傳送核准通知給指定的核准者。如&#x200B;果核准，狀態會變更為「新增」，允許指派的個人開始工作。如&#x200B;果被拒絕，由於核准流程設定的常見錯誤，狀態可能會錯誤地恢復為「新」。&#x200B;URL
+影片重點說明當狀態設為「新增」（新請求的預設值）時，會觸發核准流程。如&#x200B;果遭拒，系統預設會將狀態變回先前的狀態，但這並不適合新請求。應&#x200B;改為選擇其他狀態，例如「將不會解析」。影片&#x200B;也指出，預設不會提供「已拒絕」狀態，但系統管理員可視需要建立一個狀態。&#x200B;URL
 
 >[!VIDEO](https://video.tv.adobe.com/v/3455035/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
@@ -56,7 +56,7 @@ ht-degree: 23%
 
 ## 有關此主題的推薦教學課程
 
-* [委派任務、問題與核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [有效地委派任務、問題和核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [瞭解特定群組的核准流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
-* [建立全域和單次使用的核准流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [在Workfront中建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
+* [建立及管理核准流程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

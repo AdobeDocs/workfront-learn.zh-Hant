@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:59:23.948Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: 82
-ht-degree: 82%
+ht-degree: 68%
 
 ---
 
@@ -42,6 +42,6 @@ ht-degree: 82%
 
 ## 有關此主題的推薦教學課程
 
-* [建立專案範本並瞭解藍圖](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [共用專案範本](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [建立專案範本並探索藍圖](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [有效共用專案範本](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
 * [停用專案範本](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)

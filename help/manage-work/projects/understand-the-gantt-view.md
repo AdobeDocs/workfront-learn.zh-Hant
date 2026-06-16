@@ -23,16 +23,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 393
-ht-degree: 15%
+source-wordcount: 370
+ht-degree: 13%
 
 ---
 
 # 探索專案管理的[!UICONTROL 甘特圖]檢視
 
-影片說明如何使用專案甘特圖和任務甘特圖來有效地視覺化和管理任務和專案。 甘特圖&#x200B;提供任務、範本和專案的整體檢視，並常用於投資組合中以瞭解專案之間的關係，尤其是共用資源的專案。 &#x200B;
+影片說明如何使用專案甘特圖和任務甘特圖來有效地視覺化和管理任務和專案。甘特圖&#x200B;提供任務、範本和專案的整體檢視，並常用於投資組合中以瞭解專案之間的關係，尤其是共用資源的專案。&#x200B;URL
 
 **專案甘特圖的主要功能包括：**
 
@@ -57,16 +57,16 @@ ht-degree: 15%
 
 ## 關鍵重點
 
-* **大圖片檢視：**&#x200B;甘特圖提供任務、專案和產品組合的完整概觀，讓您輕鬆瞭解跨專案的關係和資源共用。 &#x200B;
-* **進度追蹤：**&#x200B;進度狀態指標（綠色、黃色、紅色和淺藍色）可協助監視專案和任務時間表，強調準時、有風險、落後或延遲狀態。 &#x200B;
-* **里程碑管理：**&#x200B;里程碑菱形和線條會以視覺化方式標示關鍵完成日期，協助追蹤專案中的里程碑進度。 &#x200B;
-* **前置任務深入分析：**&#x200B;可以輕鬆檢查跨專案和特定任務的前置任務，確保相依性清晰且易於管理。 &#x200B;
+* **大圖片檢視：**&#x200B;甘特圖提供任務、專案和產品組合的完整概觀，讓您輕鬆瞭解跨專案的關係和資源共用。&#x200B;URL
+* **進度追蹤：**&#x200B;進度狀態指標（綠色、黃色、紅色和淺藍色）可協助監視專案和任務時間表，強調準時、有風險、落後或延遲狀態。&#x200B;URL
+* **里程碑管理：**&#x200B;里程碑菱形和線條會以視覺化方式標示關鍵完成日期，協助追蹤專案中的里程碑進度。&#x200B;URL
+* **前置任務深入分析：**&#x200B;可以輕鬆檢查跨專案和特定任務的前置任務，確保相依性清晰且易於管理。&#x200B;URL
 * **自訂選項：**&#x200B;使用者可以顯示實際日期、預計日期、基準線、指派等等，根據他們的特定需求量身打造甘特圖檢視。
 
 
 ## 有關此主題的推薦教學課程
 
-* [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [管理具有目前狀態的專案](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [追蹤專案整體進度](/help/manage-work/projects/track-overall-project-progress.md)
 * [使用專案量度追蹤工作進度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [了解[!UICONTROL 展示板]視圖](/help/manage-work/projects/understand-the-board-view.md)
+* [探索任務管理的面板檢視](/help/manage-work/projects/understand-the-board-view.md)

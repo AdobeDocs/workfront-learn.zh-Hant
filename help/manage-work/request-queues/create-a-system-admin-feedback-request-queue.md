@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 28%
+source-wordcount: 373
+ht-degree: 30%
 
 ---
 
@@ -35,8 +35,8 @@ ht-degree: 28%
 
 >[!PREREQUISITES]
 >
->* [建立請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=zh-Hant)
->* [建立請求流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=zh-Hant)
+>* [在Workfront中建立請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=zh-Hant)
+>* [在Workfront中建立請求流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=zh-Hant)
 >* 或者，您已經熟悉建立使用路由規則和自訂表單的請求佇列。
 
 影片提供逐步指南，說明如何為系統管理員建立意見要求佇列。

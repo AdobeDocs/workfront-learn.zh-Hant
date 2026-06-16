@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:00:48.755Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 629
-ht-degree: 59%
+source-wordcount: 519
+ht-degree: 67%
 
 ---
 
@@ -38,19 +38,19 @@ ht-degree: 59%
 
 ## 建立專案範本
 
-* 這部影片提供步驟化的指南，說明如何建立及運用範本製作行銷影片。 首先說明如何從頭開始建立新範本、命名並儲存。 此程式&#x200B;包含三個主要步驟：建立任務、使用持續期間及前置任務設定時間表，以及指派工作角色而非個別使用者。 影片&#x200B;會強調使用父子關係來組織工作，以獲得更好的摘要和效率。 &#x200B;
-* 範本建立後，即可用以建立新專案。 影片示範如何從範本建立新專案、進行必要調整，以及視需要新增任務或修改持續時間。 它也&#x200B;會說明如何使用資源排程和計畫功能將工作角色指派給作業。 &#x200B;
-* 影片說明如何將現有專案儲存為新範本，以允許在工作流程中進行更新和改進。 它突顯&#x200B;了管理範本以避免混淆並確保簡化專案執行的重要性。 &#x200B;
+* 影片提供建立和使用行銷影片製作範本的逐步指南。首先說明如何從頭開始建立新範本、命名並儲存。此程式&#x200B;包含三個主要步驟：建立任務、使用持續期間及前置任務設定時間表，以及指派工作角色而非個別使用者。影片&#x200B;會強調使用父子關係來組織工作，以獲得更好的摘要和效率。&#x200B;URL
+* 建立範本後，即可用於產生新專案。影片示範如何從範本建立新專案、進行必要調整，以及視需要新增任務或修改持續時間。它也&#x200B;會說明如何使用資源排程和計畫功能將工作角色指派給作業。&#x200B;URL
+* 影片說明如何將現有專案儲存為新範本，以允許在工作流程中進行更新和改進。它突顯&#x200B;了管理範本以避免混淆並確保簡化專案執行的重要性。&#x200B;URL
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
-## 重點提要
+## 關鍵重點
 
-* **建立範本：**&#x200B;瞭解如何從頭開始建立新範本，方法為命名範本、設定工作、時間表及指派工作角色。 &#x200B;
-* **任務組織：**&#x200B;使用父子任務關係來有效地組織任務，為專案提供清晰的摘要和結構。 &#x200B;
-* **時間表設定：**&#x200B;使用持續時間和前置任務來設定任務時間表，以準確估計時間範圍和任務順序。 &#x200B;
-* **以角色為基礎的指派：**&#x200B;將任務指派給工作角色，而不是個別使用者，以有效利用資源排程和規劃功能。 &#x200B;
-* **範本管理：**&#x200B;將現有的專案儲存為新範本，以納入改善和管理範本，以避免混淆並確保有效的專案執行。 &#x200B;
+* **建立範本：**&#x200B;瞭解如何從頭開始建立新範本，方法為命名範本、設定工作、時間表及指派工作角色。&#x200B;URL
+* **任務組織：**&#x200B;使用父子任務關係來有效地組織任務，為專案提供清晰的摘要和結構。&#x200B;URL
+* **時間表設定：**&#x200B;使用持續時間和前置任務來設定任務時間表，以準確估計時間範圍和任務順序。&#x200B;URL
+* **以角色為基礎的指派：**&#x200B;將任務指派給工作角色，而不是個別使用者，以有效利用資源排程和規劃功能。&#x200B;URL
+* **範本管理：**&#x200B;將現有專案儲存為新範本，以進行改善並管理範本，進而避免混淆並確保高效的專案執行。
 
 
 ## 使用[!UICONTROL 藍圖]建立範本
@@ -78,7 +78,7 @@ Workfront 使用者可以使用[!UICONTROL 藍圖]來協助建立專案範本。
 ## 有關此主題的推薦教學課程
 
 * [直接使用範本建立專案](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [共用專案範本](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [有效共用專案範本](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [有效率地複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [停用專案範本](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [在專案範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [在範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

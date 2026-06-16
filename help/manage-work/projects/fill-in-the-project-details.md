@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:36.241Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 27%
+source-wordcount: 201
+ht-degree: 21%
 
 ---
 
@@ -37,10 +37,10 @@ ht-degree: 27%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
-## 重點提要
+## 關鍵重點
 
-* **使用描述性專案名稱：**&#x200B;避免混淆，請以描述性方式命名專案，而不使用一般標題。 將專案&#x200B;組織到投資組合和方案中可增強報告和一致性。 &#x200B;
-* **設定適當的專案狀態：**&#x200B;在建立專案時從「計畫」狀態開始，然後在專案上線時切換到「目前」。 非&#x200B;「目前」狀態為暫停通知，允許在不中斷的情況下重新計畫。 &#x200B;
+* **使用描述性專案名稱：**&#x200B;避免混淆，請以描述性方式命名專案，而不使用一般標題。將專案&#x200B;組織到投資組合和方案中可增強報告和一致性。&#x200B;URL
+* **設定適當的專案狀態：**&#x200B;在建立專案時從「計畫」狀態開始，然後在專案上線時切換到「目前」。非&#x200B;「目前」狀態為暫停通知，允許在不中斷的情況下重新計畫。&#x200B;URL
 * **利用範本和自訂Forms：**&#x200B;使用專案範本以保持一致性，並使用自訂表單來儲存唯一的專案資料。 這&#x200B;些工具可簡化設定，並確保擷取重要資訊。
 * **使用資源集區與排程：**&#x200B;將資源集區指派給專案，以進行有效的資源管理，並套用正確的排程以反映工作天、時數與假日。 這&#x200B;可確保順利執行專案及配置資源。
 
@@ -48,8 +48,8 @@ ht-degree: 27%
 
 ## 有關此主題的推薦教學課程和文章
 
-* [瞭解建立專案的基本操作](/help/manage-work/projects/understand-basic-project-creation.md)
+* [從頭開始建立和管理專案](/help/manage-work/projects/understand-basic-project-creation.md)
 * [導覽專案頁面](/help/manage-work/projects/navigate-the-project-page.md)
-* [瞭解建立專案的四種方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [開始規劃專案](/help/manage-work/projects/getting-started-plan-a-project.md)
+* [探索四種建立專案的方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [在Workfront中有效計畫專案](/help/manage-work/projects/getting-started-plan-a-project.md)
 * [編輯專案](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)

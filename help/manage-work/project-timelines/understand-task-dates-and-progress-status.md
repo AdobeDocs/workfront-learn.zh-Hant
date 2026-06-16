@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:49:07.603Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 121
-ht-degree: 100%
+source-wordcount: 123
+ht-degree: 84%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 ## 有關這個主題的推薦教學課程
 
-* [瞭解專案時間軸](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [根據專案時間軸追蹤進度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
-* [了解和管理期限類型和任務限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+* [探索Workfront中的專案時間表](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [使用完成百分比和進度狀態追蹤進度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [主要期間型別和任務限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 

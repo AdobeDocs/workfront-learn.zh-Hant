@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:14.617Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 58
-ht-degree: 82%
+source-wordcount: 67
+ht-degree: 61%
 
 ---
 
@@ -43,6 +43,6 @@ ht-degree: 82%
 ## 有關此主題的推薦教學課程
 
 * [變更專案狀態來完成專案](/help/manage-work/projects/change-the-project-status.md)
-* [完成核准](/help/manage-work/close-a-project/complete-approvals.md)
-* [上傳資產](/help/manage-work/close-a-project/upload-assets.md)
-* [記錄學習到的經驗](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [解決任務和問題核准](/help/manage-work/close-a-project/complete-approvals.md)
+* [上傳和管理專案資產](/help/manage-work/close-a-project/upload-assets.md)
+* [紀錄未來專案的經驗教訓](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

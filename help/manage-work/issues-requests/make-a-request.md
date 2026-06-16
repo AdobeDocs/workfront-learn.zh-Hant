@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 257
-ht-degree: 12%
+source-wordcount: 253
+ht-degree: 2%
 
 ---
 
@@ -37,18 +37,18 @@ ht-degree: 12%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470920/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
-## 重點提要
+## 關鍵重點
 
-* **簡化請求建立：**&#x200B;使用者可以從主功能表選取[請求]、選擇請求型別、填寫必填欄位以及附加相關檔案，輕鬆建立請求。 &#x200B;
+* **簡化請求建立：**&#x200B;使用者可以從主功能表選取[請求]、選擇請求型別、填寫必填欄位以及附加相關檔案，輕鬆建立請求。&#x200B;URL
 * **可自訂的工作流程：**&#x200B;請求佇列和表單會根據組織工作流程量身打造，讓使用者指定詳細資訊（例如店內、戶外、社群媒體）和優先順序。
-* **草稿自動儲存功能：**&#x200B;草稿會在使用者填寫主旨欄位時自動儲存，確保使用者暫停或離開時不會遺失任何資料。 您稍後可以存取草稿&#x200B;以便完成，或者如有需要也可以捨棄草稿。 &#x200B;
-* **追蹤與篩選要求：**&#x200B;可以在[已提交]頁面上追蹤已提交的要求，篩選條件可用來檢視未結、未解決或所有以使用者許可權為依據的要求。 &#x200B;
+* **草稿自動儲存功能：**&#x200B;草稿會在使用者填寫主旨欄位時自動儲存，確保使用者暫停或離開時不會遺失任何資料。您稍後可以存取草稿&#x200B;以便完成，或者如有需要也可以捨棄草稿。&#x200B;URL
+* **追蹤與篩選要求：**&#x200B;可以在[已提交]頁面上追蹤已提交的要求，篩選條件可用來檢視未結、未解決或所有以使用者許可權為依據的要求。&#x200B;URL
 * **複製及重複使用請求：**&#x200B;使用者可以複製現有請求以建立新請求，這樣就可以更輕鬆地提交類似請求，而不需要從頭開始。
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解請求佇列](/help/manage-work/request-queues/understand-request-queues.md)
-* [尋找和管理請求](/help/manage-work/issues-requests/find-requests.md)
-* [更新請求](/help/manage-work/issues-requests/update-a-request.md)
-* [將問題/請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [將問題/請求轉換為任務](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [探索Workfront中的請求佇列](/help/manage-work/request-queues/understand-request-queues.md)
+* [有效率地尋找及管理請求](/help/manage-work/issues-requests/find-requests.md)
+* [在Workfront中更新請求](/help/manage-work/issues-requests/update-a-request.md)
+* [將問題或請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [將問題或請求轉換為任務](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

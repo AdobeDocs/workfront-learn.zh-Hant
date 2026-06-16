@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:54.364Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 700
-ht-degree: 76%
+source-wordcount: 643
+ht-degree: 80%
 
 ---
 
@@ -47,11 +47,11 @@ ht-degree: 76%
 
 ## 關鍵重點
 
-* **任務管理與指派：**&#x200B;父系任務會將數個子任務分組，這些子任務會指派給工作角色，並稍後再指派給具有必要技能的使用者。 前置任務&#x200B;表示循序關係，而沒有前置任務的工作可以並行完成。 &#x200B;
-* **甘特圖與關鍵路徑：**&#x200B;甘特圖提供專案的視覺時間表，而關鍵路徑功能會醒目顯示可能延遲專案的工作（如果發生滑動）。 &#x200B;
-* **視圖和監控：** Workfront 中的不同視圖，例如用於規劃的標準視圖以及用於監控進度的狀態視圖，其中包括進度、評論、文件、問題、核准、關鍵路徑和里程碑的標幟。 也可以追蹤最近的活動。 &#x200B;
-* **排程選項：**&#x200B;專案可從開始日期或完成日期排程，Workfront會根據任務持續期間和前置任務計算對應的日期。 建議從開始日期開始排&#x200B;程重要完成日期，以允許一些寬限。 &#x200B;
-* **任務限制：**&#x200B;如「儘快」和「儘可能遲」等任務限制會影響任務排程。 在專&#x200B;案建立後變更排程模式可能會影響任務限制和計畫日期。 可以建立&#x200B;自訂檢視來顯示任務限制。 &#x200B;
+* **任務管理與指派：**&#x200B;父系任務會將數個子任務分組，這些子任務會指派給工作角色，並稍後再指派給具有必要技能的使用者。前置任務&#x200B;表示循序關係，而沒有前置任務的工作可以並行完成。&#x200B;URL
+* **甘特圖和關鍵路徑：**&#x200B;甘特圖提供了視覺化的專案時間軸，而關鍵路徑功能則可以強調顯示可能造成專案進度延誤的任務。
+* **檢視和監視：** Workfront中的不同檢視，例如規劃的標準檢視和監視的狀態檢視，包括進度、評論、檔案、問題、核准、關鍵路徑和里程碑的旗標。也可以追蹤最近的活動。&#x200B;URL
+* **排程選項：**&#x200B;專案可從開始日期或完成日期排程，Workfront會根據任務持續期間和前置任務計算對應的日期。建議從開始日期開始排&#x200B;程重要完成日期，以允許一些寬限。&#x200B;URL
+* **任務限制：**&#x200B;如「儘快」和「儘可能遲」等任務限制會影響任務排程。在專&#x200B;案建立後變更排程模式可能會影響任務限制和計畫日期。可以建立&#x200B;自訂檢視來顯示任務限制。&#x200B;URL
 
 
 ## 是否要更改專案時間軸上的日期…
@@ -63,7 +63,7 @@ ht-degree: 76%
 
 ## 有關此主題的推薦教學課程
 
-* [根據專案時間表追蹤進度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
-* [了解日期類型和進度狀態](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-* [了解和管理期限類型和任務限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+* [使用完成百分比和進度狀態追蹤進度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [瞭解日期類型和進度狀態](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+* [主要期間型別和任務限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 

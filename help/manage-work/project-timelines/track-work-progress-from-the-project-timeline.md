@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:39.713Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 73
-ht-degree: 78%
+source-wordcount: 75
+ht-degree: 72%
 
 ---
 
@@ -43,8 +43,8 @@ ht-degree: 78%
 >[!VIDEO](https://video.tv.adobe.com/v/3438219/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 
-## 有關此主題的推薦教學課程
+## 有關這個主題的推薦教學課程
 
-* [瞭解專案時間軸](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [探索Workfront中的專案時間表](/help/manage-work/project-timelines/understand-project-timelines.md)
 * [瞭解日期類型和進度狀態](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
 

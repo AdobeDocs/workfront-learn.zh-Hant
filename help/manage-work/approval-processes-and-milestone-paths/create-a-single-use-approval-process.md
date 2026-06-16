@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:05:30.420Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 297
-ht-degree: 20%
+source-wordcount: 267
+ht-degree: 17%
 
 ---
 
@@ -61,8 +61,8 @@ ht-degree: 20%
 
 ## 有關此主題的推薦教學課程
 
-* [委派任務、問題與核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [瞭解特定群組的核准流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
+* [有效地委派任務、問題和核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [建立及管理核准流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+* [在Workfront中建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
 * [在請求佇列中套用問題核准流程](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 

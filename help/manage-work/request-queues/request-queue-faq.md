@@ -1,6 +1,6 @@
 ---
 title: 請求佇列常見問題的解答
-description: 針對  [!DNL  Workfront] 中請求佇列的常見問題獲得解答。
+description: 針對  [!DNL &#x200B; Workfront] 中請求佇列的常見問題獲得解答。
 feature: Work Management
 type: Tutorial
 role: Admin, User
@@ -21,10 +21,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:40:23.244Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 709
-ht-degree: 100%
+source-wordcount: 714
+ht-degree: 96%
 
 ---
 
@@ -95,8 +95,8 @@ ht-degree: 100%
 
 ## 有關此主題的推薦教學課程
 
-* [瞭解請求佇列](/help/manage-work/request-queues/understand-request-queues.md)
-* [建立請求佇列](/help/manage-work/request-queues/create-a-request-queue.md)
-* [了解請求流程設定](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
+* [探索Workfront中的請求佇列](/help/manage-work/request-queues/understand-request-queues.md)
+* [在Workfront中建立請求佇列](/help/manage-work/request-queues/create-a-request-queue.md)
+* [組織您的請求流程設定](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [在Workfront中建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
 * [建立系統管理員意見回饋請求佇列](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)

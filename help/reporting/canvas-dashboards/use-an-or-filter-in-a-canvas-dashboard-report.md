@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:13:43.440Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 161
-ht-degree: 15%
+source-wordcount: 164
+ht-degree: 10%
 
 ---
 
@@ -34,14 +34,14 @@ ht-degree: 15%
 
 >[!PREREQUISITES]
 >
->* [Canvas 儀表板簡介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+>* [探索Workfront中的畫布控制面板](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 建立畫布控制面板&#x200B;**報告**&#x200B;之前，您必須先執行下列動作：
 
 * 註冊Canvas Dashboard Beta版，以及
 * 建立畫布控制面板
 
-[畫布儀表板簡介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)會逐步說明如何做到這兩點。
+[在Workfront中探索畫布控制面板](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)會逐步說明如何做到這兩點。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475392/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
@@ -51,7 +51,7 @@ ht-degree: 15%
 
 ## 有關此主題的推薦教學課程
 
-* [Canvas 儀表板簡介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [探索Workfront中的畫布控制面板](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [在畫布控制面板上建立KPI報告](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [在畫布控制面板上建立圖表報告](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [在畫布控制面板上建立表格報告](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)

@@ -20,10 +20,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:34:43.851Z'
-source-git-commit: 082aa48e99d6c772c973f9bbbc90b0544103e0d5
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 159
-ht-degree: 16%
+source-wordcount: 161
+ht-degree: 14%
 
 ---
 
@@ -42,5 +42,5 @@ ht-degree: 16%
 
 ## 有關此主題的推薦教學課程
 
-* [處理任務](/help/manage-work/tasks/work-with-tasks.md)
+* [在Workfront中有效率地管理任務](/help/manage-work/tasks/work-with-tasks.md)
 * [指派專案計劃的任務](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

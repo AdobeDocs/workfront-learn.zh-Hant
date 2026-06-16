@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:53:40.935Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 372
-ht-degree: 13%
+source-wordcount: 355
+ht-degree: 11%
 
 ---
 
@@ -40,17 +40,17 @@ ht-degree: 13%
 * **校訂核准：**&#x200B;導覽至校訂以檢閱並新增特定評論。 核&#x200B;準選項包括「核准」、「已核准變更」、「需要變更」或「不相關」。
 * **檔案核准：**&#x200B;沒有校訂的檔案仍可核准或拒絕。 如&#x200B;果需要變更，請在評論中說明這些變更，類似於校訂核准中的「已核准變更」。
 
-影片強調稽核和核准工作的靈活性，並視需要提供新增註釋和指定變更的選項。 &#x200B;
+影片強調稽核和核准工作的靈活性，並視需要提供新增註釋和指定變更的選項。&#x200B;URL
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444957/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
-## 重點提要
+## 關鍵重點
 
-* **集中式核准管理：**&#x200B;所有等待核准的專案都可以在[首頁]區域的[等待我核准]小工具中存取。 &#x200B;
-* **彈性檢閱選項：**&#x200B;您可以直接從[首頁]區域核准或拒絕，或按一下專案名稱以在決定之前檢閱詳細資訊。 &#x200B;
-* **註解選項：**&#x200B;新增註解是選擇性的，但建議您清楚明瞭。 在首頁區域所做的&#x200B;核准會提示輸入評論，而在專案內所做的核准則不會。 &#x200B;
-* **校訂核准細節：**&#x200B;校訂核准提供多個選項，包括「已核准變更」、「需要變更」和「不相關」，允許詳細回饋。 &#x200B;
-* **處理變更：**&#x200B;對於需要變更的檔案或校訂，您可以在註解中指定變更，以確保重新提交或更新的明確通訊。 &#x200B;
+* **集中式核准管理：**&#x200B;所有等待核准的專案都可以在[首頁]區域的[等待我核准]小工具中存取。&#x200B;URL
+* **彈性檢閱選項：**&#x200B;您可以直接從[首頁]區域核准或拒絕，或按一下專案名稱以在決定之前檢閱詳細資訊。&#x200B;URL
+* **註解選項：**&#x200B;新增註解是選擇性的，但建議您清楚明瞭。在首頁區域所做的&#x200B;核准會提示輸入評論，而在專案內所做的核准則不會。&#x200B;URL
+* **校訂核准細節：**&#x200B;校訂核准提供多個選項，包括「已核准變更」、「需要變更」和「不相關」，允許詳細回饋。&#x200B;URL
+* **處理變更：**&#x200B;對於需要變更的檔案或校訂，您可以在註解中指定變更，以確保重新提交或更新的明確通訊。&#x200B;URL
 
 
 >[!NOTE]
@@ -59,8 +59,8 @@ ht-degree: 13%
 
 ## 有關此主題的推薦教學課程
 
-* [建立單次使用的核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [委派任務、問題與核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [建立及管理核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [有效地委派任務、問題和核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!--
