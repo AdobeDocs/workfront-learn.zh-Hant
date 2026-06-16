@@ -9,21 +9,16 @@ last-substantial-update: '2025-09-03T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:42.333Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 195
-ht-degree: 14%
+source-wordcount: 199
+ht-degree: 3%
 
 ---
 
@@ -31,7 +26,7 @@ ht-degree: 14%
 
 在本影片中，您將瞭解問題狀態和使用它們的最佳實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3472976/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
@@ -42,7 +37,7 @@ ht-degree: 14%
 
 ## 有關此主題的推薦教學課程
 
-* [處理未規劃的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [將問題/請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [將問題/請求轉換為任務](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [尋找和管理請求](/help/manage-work/issues-requests/find-requests.md)
+* [有效處理計畫外工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [將問題或請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [將問題或請求轉換為任務](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [有效率地尋找及管理請求](/help/manage-work/issues-requests/find-requests.md)

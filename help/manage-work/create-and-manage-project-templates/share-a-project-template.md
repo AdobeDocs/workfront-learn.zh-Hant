@@ -12,21 +12,16 @@ recommendations: noDisplay,catalog
 jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:58:34.198Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 79
-ht-degree: 87%
+source-wordcount: 78
+ht-degree: 62%
 
 ---
 
@@ -41,8 +36,8 @@ ht-degree: 87%
 
 ## 有關此主題的推薦教學課程
 
-* [建立專案範本並瞭解藍圖](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [建立專案範本並探索藍圖](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [直接使用範本建立專案](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [有效率地複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [停用專案範本](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [在專案範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [在範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

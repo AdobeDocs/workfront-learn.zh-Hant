@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:11.134Z'
-source-git-commit: 46fe121a9e8bc6855146ed88db8de6ff6cc37940
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: 169
-ht-degree: 27%
+ht-degree: 20%
 
 ---
 
@@ -36,7 +31,7 @@ ht-degree: 27%
 此影片說明如何從頭開始建立和管理專案。首先&#x200B;要建立新專案、重新命名專案，並使用說明、開始日期和目標完成日期來設定目標。專案可以劃分為任務，這些任務為具有估計持續時間和指派的計畫工作。任&#x200B;務可以使用前置任務進行排序，並且專案狀態可以設定為「當前」以通知團隊並將其包含在報表中。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432339/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
@@ -50,6 +45,6 @@ ht-degree: 27%
 ## 有關此主題的推薦教學課程
 
 * [導覽專案頁面](/help/manage-work/projects/navigate-the-project-page.md)
-* [瞭解建立專案的四種方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [填寫專案詳細資料](/help/manage-work/projects/fill-in-the-project-details.md)
+* [探索四種建立專案的方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [填寫基本專案詳細資訊](/help/manage-work/projects/fill-in-the-project-details.md)
 

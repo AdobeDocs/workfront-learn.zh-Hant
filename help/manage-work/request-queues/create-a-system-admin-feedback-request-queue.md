@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 28%
+source-wordcount: 373
+ht-degree: 30%
 
 ---
 
@@ -35,8 +30,8 @@ ht-degree: 28%
 
 >[!PREREQUISITES]
 >
->* [建立請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=zh-Hant)
->* [建立請求流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=zh-Hant)
+>* [在Workfront中建立請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
+>* [在Workfront中建立請求流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* 或者，您已經熟悉建立使用路由規則和自訂表單的請求佇列。
 
 影片提供逐步指南，說明如何為系統管理員建立意見要求佇列。
@@ -56,9 +51,9 @@ ht-degree: 28%
 * **測試與協助工具：**&#x200B;佇列已使用範例要求進行測試，以確保功能性。 它會發佈為說明請求佇列，可供所有使用者存取，預設完成時間為10天。
 
 
-若要瞭解如何建立影片中使用的&#x200B;**管理員團隊意見報告**，請參閱[建立任務報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report)教學課程中的&#x200B;**建立管理員團隊意見報告**&#x200B;活動。
+若要瞭解如何建立影片中使用的&#x200B;**管理員團隊意見報告**，請參閱[建立任務報告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report)教學課程中的&#x200B;**建立管理員團隊意見報告**&#x200B;活動。
 
-若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hant)」教學課程。
+若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)」教學課程。
 
 ## 有關此主題的推薦教學課程
 
