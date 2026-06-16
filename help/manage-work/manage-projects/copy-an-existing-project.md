@@ -38,7 +38,7 @@ ht-degree: 11%
 在此過程中，無法直接複製問題，因為這些問題不被視為計畫工作。若要&#x200B;複製問題，請前往問題標籤，選取所需的問題，並使用「複製到」選項以將其轉移到新專案。&#x200B;URL
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456049/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 

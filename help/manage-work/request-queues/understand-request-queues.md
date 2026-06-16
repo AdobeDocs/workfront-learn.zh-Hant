@@ -36,7 +36,7 @@ ht-degree: 5%
 
 此影片說明Workfront中請求佇列的概念、其用途，以及如何提交和管理請求。請&#x200B;求佇列可作為提交各種型別請求的集中位置。&#x200B;URL
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447021/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
