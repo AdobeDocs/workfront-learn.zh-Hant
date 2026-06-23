@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:13:43.440Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 164
 ht-degree: 10%
@@ -56,3 +56,4 @@ ht-degree: 10%
 * [在畫布控制面板上建立圖表報告](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [在畫布控制面板上建立表格報告](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [新增條件式格式至畫布控制面板報表](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+

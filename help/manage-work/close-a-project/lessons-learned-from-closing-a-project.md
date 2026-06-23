@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:29.285Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 82
 ht-degree: 67%
@@ -48,3 +48,4 @@ ht-degree: 67%
 * [解決任務和問題核准](/help/manage-work/close-a-project/complete-approvals.md)
 * [上傳和管理專案資產](/help/manage-work/close-a-project/upload-assets.md)
 * [記錄並檢閱專案時數](/help/manage-work/close-a-project/log-and-review-hours.md)
+
