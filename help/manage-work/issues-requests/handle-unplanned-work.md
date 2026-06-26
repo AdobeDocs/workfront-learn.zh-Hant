@@ -35,7 +35,7 @@ ht-degree: 2%
 影片強調溝通在專案管理中的重要性，並強調問題作為促進溝通的關鍵工具的作用。 本文&#x200B;說明了更新與問題之間的差異，並指出問題更適合在專案完成之前需要指派、追蹤和解決的工作。 影片提供&#x200B;如何記錄問題的逐步指南。 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446577/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
