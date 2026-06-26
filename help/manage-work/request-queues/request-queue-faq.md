@@ -1,6 +1,6 @@
 ---
 title: 請求佇列常見問題的解答
-description: 針對  [!DNL &#x200B; Workfront] 中請求佇列的常見問題獲得解答。
+description: 針對  [!DNL  Workfront] 中請求佇列的常見問題獲得解答。
 feature: Work Management
 type: Tutorial
 role: Admin, User
@@ -9,19 +9,13 @@ last-substantial-update: '2024-09-16T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:40:23.244Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
 source-wordcount: 714
 ht-degree: 96%
@@ -36,7 +30,7 @@ ht-degree: 96%
 
 如需詳細資訊，請觀看這部影片：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434167/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
 
 **我授予使用者存取佇列的權限，但現在他們也可以看見請求佇列專案。 為什麼？**
 
@@ -74,7 +68,7 @@ ht-degree: 96%
 
 如需詳細資訊，請觀看這部影片：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434187/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
 
 
 **在報告中篩選請求佇列的最佳方法是什麼？**
@@ -85,7 +79,7 @@ ht-degree: 96%
 
 如需詳細資訊，請觀看這部影片：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434341/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
 
 **建立請求佇列的自訂狀態是適當作法嗎？**
 
@@ -100,3 +94,4 @@ ht-degree: 96%
 * [組織您的請求流程設定](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [在Workfront中建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
 * [建立系統管理員意見回饋請求佇列](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
+
