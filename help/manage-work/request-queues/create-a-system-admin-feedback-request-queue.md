@@ -35,8 +35,8 @@ ht-degree: 25%
 
 >[!PREREQUISITES]
 >
->* [在Workfront中建立請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
->* [在Workfront中建立請求流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
+>* [在Workfront中建立請求佇列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=zh-Hant)
+>* [在Workfront中建立請求流程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=zh-Hant)
 >* 或者，您已經熟悉建立使用路由規則和自訂表單的請求佇列。
 
 影片提供逐步指南，說明如何為系統管理員建立意見要求佇列。佇列的&#x200B;目的是收集使用者對系統管理員建立的流程和工作流程的意見回饋，以啟用改進和最佳化。影片強調使用者參與和透明度在流程改進中的重要性，鼓勵管理員與使用者分享意見反應報表。建立報告和自訂表單的教學課程連&#x200B;結已提供進一步指導。
@@ -53,9 +53,9 @@ ht-degree: 25%
 * **測試與協助工具：**&#x200B;佇列已使用範例要求進行測試，以確保功能性。 它會發佈為說明請求佇列，可供所有使用者存取，預設完成時間為10天。
 
 
-若要瞭解如何建立影片中使用的&#x200B;**管理員團隊意見報告**，請參閱[建立任務報告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report)教學課程中的&#x200B;**建立管理員團隊意見報告**&#x200B;活動。
+若要瞭解如何建立影片中使用的&#x200B;**管理員團隊意見報告**，請參閱[建立任務報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report)教學課程中的&#x200B;**建立管理員團隊意見報告**&#x200B;活動。
 
-若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)」教學課程。
+若要了解如何建立自訂表單，請參閱「[建立和共用自訂表單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hant)」教學課程。
 
 ## 有關此主題的推薦教學課程
 
