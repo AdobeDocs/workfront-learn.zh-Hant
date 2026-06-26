@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:58:34.198Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 78
 ht-degree: 62%
@@ -46,3 +46,4 @@ ht-degree: 62%
 * [有效率地複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [停用專案範本](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [在範本中編輯專案團隊](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:57:33.461Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 257
 ht-degree: 74%
@@ -49,3 +49,4 @@ ht-degree: 74%
 >[!VIDEO](https://video.tv.adobe.com/v/3422833/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 若要瞭解如何建立視訊中使用的&#x200B;**跨專案前置任務和後置任務**&#x200B;檢視以及&#x200B;**跨專案前置任務和後置任務**&#x200B;報告，請參閱[在Workfront中探索基本文字模式的檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hant)教學課程，並務必參閱這裡列出的先決條件教學課程（如有需要）。
+

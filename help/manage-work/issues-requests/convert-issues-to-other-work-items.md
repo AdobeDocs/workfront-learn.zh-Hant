@@ -22,10 +22,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 230
-ht-degree: 12%
+source-wordcount: 243
+ht-degree: 11%
 
 ---
 
@@ -35,16 +35,16 @@ ht-degree: 12%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445441/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
-## 關鍵重點
+## 重點提要
 
-* **簡單轉換程式：**&#x200B;若要將問題/請求轉換為任務，請開啟問題，按一下三點功能表，然後選取[轉換為任務]。預設會複製&#x200B;任務名稱和說明，但可以編輯。&#x200B;URL
-* **目標專案選擇：**&#x200B;您可以選擇任務的目標專案，可以是問題所在的預設專案，也可以是您有權存取的其他專案。&#x200B;URL
-* **自動錶單附件：**&#x200B;連結至問題的自訂表單會自動新增至工作，確保所有欄位值都能順暢地轉移。&#x200B;URL
+* **簡單轉換程式：**&#x200B;若要將問題/請求轉換為任務，請開啟問題，按一下三個點的功能表，然後選取[轉換為任務]。 預設會複製&#x200B;工作名稱和說明，但可以編輯。 
+* **目標專案選擇：**&#x200B;您可以選擇任務的目標專案，可以是問題所在的預設專案，也可以是您有權存取的其他專案。 &#x200B;
+* **自動錶單附件：**&#x200B;連結至問題的自訂表單會自動新增至工作，確保所有欄位值都能順暢地轉移。 &#x200B;
 * **轉換選項：**&#x200B;主要選項包括：
-   * 將原始問題與任務一起保持作用中。&#x200B;URL
-   * 允許要求者存取工作。&#x200B;URL
-   * 保留問題的任務計畫完成日期。&#x200B;URL
-* **連結狀態更新：**&#x200B;如果保留原始問題，其狀態將根據任務的進度自動更新，以確保問題和任務之間的同步。&#x200B;URL
+   * 將原始問題與任務一起保持作用中。 &#x200B;
+   * 允許要求者存取工作。 &#x200B;
+   * 保留問題的任務計畫完成日期。 &#x200B;
+* **連結狀態更新：**&#x200B;如果保留原始問題，其狀態將根據任務的進度自動更新，以確保問題和任務之間的同步。 &#x200B;
 
 
 >[!NOTE]
@@ -56,4 +56,5 @@ ht-degree: 12%
 * [有效率地尋找及管理請求](/help/manage-work/issues-requests/find-requests.md)
 * [將問題或請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [有效處理計畫外工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+
 

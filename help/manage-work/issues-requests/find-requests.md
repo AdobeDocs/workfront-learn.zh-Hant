@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:56:55.448Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 219
-ht-degree: 51%
+source-wordcount: 232
+ht-degree: 10%
 
 ---
 
@@ -43,13 +43,13 @@ ht-degree: 51%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441665/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
-## 關鍵重點
+## 重點提要
 
-* **在 Workfront 首頁尋找請求：**&#x200B;使用者可以根據各自的角色，檢視指派給他們的請求，或是等待他們核准的請求。
-* **在請求區域中使用篩選器：**「我的請求」和「我的未解決請求」等篩選器讓使用者能查看他們建立的請求。
-* **在團隊頁面上管理請求：**&#x200B;使用者可以檢視尚未指派的團隊要求，並指派給自己或其他人，還可以利用工作負載平衡器，根據當前的工作負載狀況來管理團隊成員指派。
-* **自訂報告和儀表板：**&#x200B;使用者可以建立自訂報告來追蹤請求，並自訂名稱、篩選器、視圖和分組，有效地管理並排定請求的優先順序。
-* **瞭解篩選器中的「My」：**&#x200B;首頁中的術語「my」是指指派給我的問題。請求區域中的「我的」一詞是指我請求的問題。&#x200B;URL
+* **在Workfront首頁尋找請求：**&#x200B;使用者可以檢視指派給他們的請求或等待核准的請求（視其角色而定）。 &#x200B;
+* **在請求區域中使用篩選器：**&#x200B;如「我的請求」和「我的未完成請求」的篩選器可讓使用者檢視他們建立的請求。 &#x200B;
+* **管理團隊頁面上的請求：**&#x200B;使用者可以檢視未指派的團隊請求，並使用工作負載平衡器根據其目前的工作量管理團隊成員指派，將其指派給自己或其他人。 &#x200B;
+* **自訂報表和控制面板：**&#x200B;使用者可以建立自訂報表來追蹤請求，允許個人化的命名、篩選器、檢視和群組，這有助於有效管理和排定請求的優先順序。 &#x200B;
+* **了解篩選器中的「我的」：**&#x200B;首頁上「我的」一詞，指的是指派給我的問題。 請求區域中的「我的」一詞是指我請求的問題。 
 
 
 ## 有關此主題的推薦教學課程
@@ -59,4 +59,5 @@ ht-degree: 51%
 * [在Workfront中更新請求](/help/manage-work/issues-requests/update-a-request.md)
 * [將問題或請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [將問題或請求轉換為任務](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+
 
