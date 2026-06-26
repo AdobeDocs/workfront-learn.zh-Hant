@@ -36,7 +36,7 @@ ht-degree: 18%
 影片說明計畫時數的概念，這是完成任務所需時間的預估值。規劃時數對Workfront中的資源管理而言至關重要，可協助識別資源分配過多或不足的情況。它們也有助於追蹤任務所花費的時間、改善未來的估計，以及澄清工作者的期望。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445344/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 
 ## 重點提要

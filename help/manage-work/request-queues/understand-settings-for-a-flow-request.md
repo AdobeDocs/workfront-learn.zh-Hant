@@ -42,7 +42,7 @@ ht-degree: 5%
 
 透過解決這些問題，使用者就能在Workfront中有效地規劃及設定要求佇列。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441916/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 

@@ -36,7 +36,7 @@ ht-degree: 6%
 此影片說明Workfront中的任務持續時間，及其對任務開始和完成日期的影響、專案時間表，以及有效使用持續時間的最佳實務。Workfront建議使用持續時間和前置任務來建立任務時間表，而不是手動設定限制，因為限制可以防止自動調整。準&#x200B;確的工期對於有效的專案規劃和資源管理至關重要。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449354/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 

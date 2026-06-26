@@ -36,7 +36,7 @@ ht-degree: 6%
 此影片說明如何使用前置任務和持續時間在Workfront中排序任務，以有效管理專案時間表。影片會示範如何為新任務設定前置任務，以確保順序和準確的開始日期。它&#x200B;強調了與前置任務練習以瞭解其對專案時間表的影響的重要性，並建議使用持續時間和前置任務以實現有效的專案規劃。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447331/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
