@@ -25,26 +25,26 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:40:08.316Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 198
+source-wordcount: 220
 ht-degree: 5%
 
 ---
 
 # 探索Workfront中的請求佇列
 
-此影片說明Workfront中請求佇列的概念、其用途，以及如何提交和管理請求。請&#x200B;求佇列可作為提交各種型別請求的集中位置。&#x200B;URL
+此影片說明Workfront中請求佇列的概念、其用途，以及如何提交和管理請求。 請&#x200B;求佇列可作為提交各種型別請求的集中位置。 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447021/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
 * **要求佇列的用途：** Workfront中的要求佇列提供提交各種要求型別的集中位置，例如PTO、軟體升級、使用者端建議和訓練需求。
-* **提交請求：**&#x200B;使用者可以瀏覽至「請求」區域、選取請求型別、填寫「主旨」、「說明」、「選用欄位（例如「檔案」）等欄位，並完成自訂表格，以提交請求。&#x200B;URL
-* **要求當作問題：**&#x200B;在Workfront中，每個要求都會被視為問題，且必須與專案相關聯。專用於請求的專&#x200B;案稱為請求佇列。&#x200B;URL
-* **佇列管理：**&#x200B;有效的佇列管理涉及依型別組織請求，這會自訂所需的資訊和指派，進而提高效率。&#x200B;URL
-* **尋找已提交的請求：**&#x200B;您可以導覽至[專案]區域並選取相關專案，在相關請求佇列的[問題]索引標籤中找到已提交的請求。&#x200B;URL
+* **提交請求：**&#x200B;使用者可以瀏覽至「請求」區域、選取請求型別、填寫「主旨」、「說明」、「選用欄位（例如「檔案」）等欄位，並完成自訂表格，以提交請求。 &#x200B;
+* **要求當作問題：**&#x200B;在Workfront中，每個要求都會被視為問題，且必須與專案相關聯。 專用於請求的專&#x200B;案稱為請求佇列。 
+* **佇列管理：**&#x200B;有效的佇列管理涉及依型別組織請求，這會自訂所需的資訊和指派，進而提高效率。 &#x200B;
+* **尋找已提交的請求：**&#x200B;您可以導覽至[專案]區域並選取相關專案，在相關請求佇列的[問題]索引標籤中找到已提交的請求。 &#x200B;
 
 
 ## 有關此主題的推薦教學課程
@@ -52,4 +52,5 @@ ht-degree: 5%
 * [建立請求佇列](/help/manage-work/request-queues/create-a-request-queue.md)
 * [在Workfront中建立請求佇列](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [在Workfront中建立請求流程](/help/manage-work/request-queues/create-a-request-flow.md)
+
 
