@@ -12,38 +12,33 @@ last-substantial-update: '2024-06-26T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:57:12.678Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 223
-ht-degree: 3%
+source-wordcount: 266
+ht-degree: 2%
 
 ---
 
 # 有效處理計畫外工作
 
-影片強調溝通在專案管理中的重要性，並強調問題作為促進溝通的關鍵工具的作用。本文&#x200B;說明了更新與問題之間的差異，並指出問題更適合在專案完成之前需要指派、追蹤和解決的工作。影片提供&#x200B;如何記錄問題的逐步指南。&#x200B;URL
+影片強調溝通在專案管理中的重要性，並強調問題作為促進溝通的關鍵工具的作用。 本文&#x200B;說明了更新與問題之間的差異，並指出問題更適合在專案完成之前需要指派、追蹤和解決的工作。 影片提供&#x200B;如何記錄問題的逐步指南。 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446577/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
-## 關鍵重點
+## 重點提要
 
-* **問題與更新：**&#x200B;專案完成前需要指派、追蹤和解決的任務使用問題，因為與更新相比，這些任務更容易監控和組織。&#x200B;URL
+* **問題與更新：**&#x200B;專案完成前需要指派、追蹤和解決的任務使用問題，因為與更新相比，這些任務更容易監控和組織。 &#x200B;
 * **記錄問題：**&#x200B;可以透過[問題]索引標籤在任務或專案層級記錄問題。 您可以設定優&#x200B;先順序，也可以為指派和更新設定電子郵件通知。
-* **問題管理的最佳實務：**&#x200B;經常監視問題、建立自訂報告以提高效率，並提供未解決問題的明確解釋，以避免重複的問題並建立歷史記錄。&#x200B;URL
-* **鼓勵溝通：**&#x200B;在回應中表示感謝，鼓勵團隊成員記錄問題並有效溝通，確保更順暢的專案管理。&#x200B;URL
-* **將問題轉換為任務：**&#x200B;可以將問題轉換為任務並整合到專案時間表，以更好地規劃和執行。&#x200B;URL
+* **問題管理的最佳實務：**&#x200B;經常監視問題、建立自訂報告以提高效率，並提供未解決問題的明確解釋，以避免重複的問題並建立歷史記錄。 &#x200B;
+* **鼓勵溝通：**&#x200B;在回應中表示感謝，鼓勵團隊成員記錄問題並有效溝通，確保更順暢的專案管理。 &#x200B;
+* **將問題轉換為任務：**&#x200B;可以將問題轉換為任務並整合到專案時間表，以更好地規劃和執行。 &#x200B;
 
 
 ## 有關此主題的推薦教學課程
@@ -52,3 +47,4 @@ ht-degree: 3%
 * [透過有效溝通提升專案成功率](/help/manage-work/projects/understand-project-communication.md)
 * [將問題或請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [將問題或請求轉換為任務](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+
