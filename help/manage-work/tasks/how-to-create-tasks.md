@@ -6,7 +6,7 @@ thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-15T00:00:00.000Z'
+last-substantial-update: '2026-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 8c436898c1fe507bafb41dfefba4727cf52e9f1a
 workflow-type: tm+mt
 source-wordcount: 204
 ht-degree: 6%
@@ -38,9 +38,9 @@ ht-degree: 6%
 ## 關鍵重點
 
 * **任務建立方法：**&#x200B;使用[新增任務]按鈕以建立詳細的任務，或使用[新增更多工]按鈕以快速內嵌編輯。
-* **必填欄位：**&#x200B;只&#x200B;有任務名稱是必填欄位；其他欄位（例如說明、持續時間和指派）是選用欄位，可以稍後新增。 &#x200B;
+* **必填欄位：**&#x200B;只&#x200B;有任務名稱是必填欄位；其他欄位（例如說明、持續時間和指派）是選用欄位，可以稍後新增。&#x200B;URL
 * **重新定位任務：**&#x200B;任務已新增至清單底部，但可以拖曳或使用「凸排」選項調整階層來重新定位。
-* **自訂檢視：**&#x200B;可以選取不同的檢視，以便在新增任務時包含其他欄位，例如說明。 &#x200B;
+* **自訂檢視：**&#x200B;可以選取不同的檢視，以便在新增任務時包含其他欄位，例如說明。&#x200B;URL
 * **在特定位置插入任務：**&#x200B;在現有任務之間按&#x200B;一下滑鼠右鍵，然後選取[在下方插入任務]，將新任務置於特定位置。
 
 
