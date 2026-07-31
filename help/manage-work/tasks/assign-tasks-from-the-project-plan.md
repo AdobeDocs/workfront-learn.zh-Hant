@@ -36,7 +36,7 @@ ht-degree: 16%
 影片說明指派專案計畫中任務的各種方法。 它強調使用篩選器、範本和資源管理功能等工具來簡化任務指派並最佳化專案工作流程。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445755/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 
