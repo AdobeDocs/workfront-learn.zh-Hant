@@ -38,7 +38,7 @@ ht-degree: 100%
 
 * 在 [!DNL Workfront] 專案中如何建構任務
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445607/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 
