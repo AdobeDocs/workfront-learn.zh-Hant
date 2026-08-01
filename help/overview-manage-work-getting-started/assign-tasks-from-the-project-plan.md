@@ -43,7 +43,7 @@ ht-degree: 100%
 * 了解專案範本在指派任務時的價值
 * 了解向團隊指派任務的價值
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445755/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more urls:

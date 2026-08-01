@@ -36,7 +36,7 @@ ht-degree: 7%
 此影片說明Workfront中的工作結構。任務是專案的重要元件，代表完成所需的工作專案。&#x200B;影片強調正確組織任務的重要性，是專案規劃與管理的重要步驟。它示範了如何開始處理任務，並說明了父子任務關係。
 父系&#x200B;任務會充當組織者，將專案分組為階段、階段或里程碑，且不會指派給個人。子任務或子任務代表指派給專案團隊成員的可操作工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445607/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 關鍵重點
 
