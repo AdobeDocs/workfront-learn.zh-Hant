@@ -35,7 +35,7 @@ ht-degree: 3%
 此影片說明如何在Workfront中建立和使用篩選器，以根據特定條件自訂清單報表。 篩選&#x200B;器可讓使用者藉由定義條件來縮小清單（例如任務、專案或檔案）的範圍。 只有符&#x200B;合篩選條件且登入使用者可存取的專案才會出現在清單中。 &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431671/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
