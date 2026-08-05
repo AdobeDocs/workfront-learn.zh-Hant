@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8777
-last-substantial-update: '2024-06-19T00:00:00.000Z'
+last-substantial-update: '2026-08-04T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:33.224Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
 workflow-type: tm+mt
 source-wordcount: 243
 ht-degree: 18%
@@ -33,7 +33,9 @@ ht-degree: 18%
 
 # 了解規劃時數
 
-影片說明計畫時數的概念，這是完成任務所需時間的預估值。規劃時數對Workfront中的資源管理而言至關重要，可協助識別資源分配過多或不足的情況。它們也有助於追蹤任務所花費的時間、改善未來的估計，以及澄清工作者的期望。
+影片說明計畫時數的概念，這是完成任務所需時間的預估值。
+規劃時數對Workfront中的資源管理而言至關重要，可協助識別資源分配過多或不足的情況。
+它們也有助於追蹤任務所花費的時間、改善未來的估計，以及澄清工作者的期望。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445344/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
@@ -45,7 +47,7 @@ ht-degree: 18%
 * **精確的預估提示：**&#x200B;將較長的任務分成較小的子任務、有效追蹤時間，並記錄變更或問題以調整計畫時數預估。 &#x200B;
 * **資源管理：** Workfront會使用計畫時數來識別資源配置過多或不足的情況，以確保有效率的任務指派。 &#x200B;
 * **歷史參考：**&#x200B;完成的專案應保留為未來計畫的參考，尤其是指派給新工作者的任務。 &#x200B;
-* **使用便利性：**&#x200B;計畫時數可使用內嵌編輯新增或編輯，而父系任務時數則透過加總子任務自動計算。 建議在專案範本中&#x200B;包含計畫時數。 
+* **使用便利性：**&#x200B;計畫時數可使用內嵌編輯新增或編輯，而父系任務時數則透過加總子任務自動計算。 建議在專案範本中&#x200B;包含計畫時數。 &#x200B;
 
 
 ## 有關此主題的推薦教學課程和文章
