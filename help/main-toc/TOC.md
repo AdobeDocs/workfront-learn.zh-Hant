@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 教學課程
 user-guide-description: 內含培訓影片與文章的資料庫，能協助您更加了解 Workfront 功能和設定。
-source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: '2657'
+source-wordcount: '2659'
 ht-degree: 74%
 
 ---
@@ -525,7 +525,7 @@ ht-degree: 74%
     + [自訂  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
   + 中繼資料和關鍵字 {#metadata-and-keywords}
-    + [瞭解中繼資料](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
+    + [中繼資料和關鍵字簡介](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
     + [啟用並強制執行關鍵字分類法](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
     + [審閱中繼資料術語](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
     + [使用中繼資料與關鍵字搜尋資產](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)

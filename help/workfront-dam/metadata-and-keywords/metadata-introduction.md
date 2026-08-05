@@ -1,6 +1,6 @@
 ---
-title: 了解中繼資料
-description: 了解「[!UICONTROL Workfront DAM] 管理員第 2 部分 中繼資料與關鍵字」課程所涵蓋的內容。
+title: 中繼資料和關鍵字介紹
+description: 中繼資料是用來描述一項資產的所有資料。 關鍵字是中繼資料的子集，並包含有關資產內容的描述性詞語。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -21,14 +21,14 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T01:57:17.963Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: 125
-ht-degree: 100%
+source-wordcount: 139
+ht-degree: 82%
 
 ---
 
-# 了解中繼資料
+# 中繼資料和關鍵字介紹
 
 中繼資料是用來描述一項資產的所有資料。 中繼資料欄位均有名稱，而使用者可以編輯或變更那些許多欄位當中的資訊。 有些中繼資料欄位是由應用程式或提供資產的裝置填入，因此無法編輯。
 
