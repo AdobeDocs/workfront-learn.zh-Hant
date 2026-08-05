@@ -8,23 +8,18 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-06-15T00:00:00.000Z'
+last-substantial-update: '2026-08-04T00:00:00.000Z'
 jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
 workflow-type: tm+mt
 source-wordcount: 213
 ht-degree: 6%
@@ -33,10 +28,12 @@ ht-degree: 6%
 
 # 在Workfront中有效地排序任務
 
-此影片說明如何使用前置任務和持續時間在Workfront中排序任務，以有效管理專案時間表。影片會示範如何為新任務設定前置任務，以確保順序和準確的開始日期。它&#x200B;強調了與前置任務練習以瞭解其對專案時間表的影響的重要性，並建議使用持續時間和前置任務以實現有效的專案規劃。
+此影片說明如何使用前置任務和持續時間在Workfront中排序任務，以有效管理專案時間表。
+影片會示範如何為新任務設定前置任務，以確保順序和準確的開始日期。
+它&#x200B;強調了與前置任務練習以瞭解其對專案時間表的影響的重要性，並建議使用持續時間和前置任務以實現有效的專案規劃。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447331/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 
