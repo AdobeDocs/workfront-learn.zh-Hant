@@ -1,18 +1,18 @@
 ---
-title: 存取和管理專案與任務的財務資訊
-description: 了解如何有效地存取、分析和管理專案和任務的財務資料，包括專案和任務層級的預算、收入、成本和績效量度。
+title: 存取和管理專案財務的財務資訊
+description: 瞭解如何存取、分析和管理專案與任務的財務資料，包括預算、收入、成本和績效指標。
 activity: use
 feature: Work Management
 thumbnail: 335208.png
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
-last-substantial-update: '2025-04-16T00:00:00.000Z'
+last-substantial-update: '2025-04-16'
 recommendations: noDisplay,catalog
-doc-type: video
+doc-type: Feature Video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
 feature_v2:
@@ -24,16 +24,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: ecdbfe97f711f985c41a40ff6d37cd748c765f8e
 workflow-type: tm+mt
-source-wordcount: 220
-ht-degree: 15%
+source-wordcount: 211
+ht-degree: 3%
 
 ---
 
-# 存取和管理專案與任務的財務資訊
+# 存取和管理專案財務的財務資訊
 
-影片說明如何存取和管理專案與工作的財務資訊。 它&#x200B;提供在專案與作業層次瀏覽及瞭解財務資料的完整概觀。 
+影片說明如何存取和管理專案與工作的財務資訊。 它&#x200B;提供在專案與作業層次瀏覽及瞭解財務資料的完整概觀。 &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 

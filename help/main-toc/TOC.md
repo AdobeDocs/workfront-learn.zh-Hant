@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 教學課程
 user-guide-description: 內含培訓影片與文章的資料庫，能協助您更加了解 Workfront 功能和設定。
-source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
+source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
 workflow-type: tm+mt
-source-wordcount: '2659'
+source-wordcount: '2658'
 ht-degree: 74%
 
 ---
@@ -191,7 +191,7 @@ ht-degree: 74%
     + [記錄並檢閱專案時數](/help/manage-work/close-a-project/log-and-review-hours.md)
 
   + 適用於用戶的專案財務 {#project-finances-users}
-    + [存取和管理專案與任務的財務資訊](/help/manage-work/project-finances/find-financial-information.md)
+    + [存取和管理專案財務的財務資訊](/help/manage-work/project-finances/find-financial-information.md)
     + [更新使用者端專案的財務](/help/manage-work/project-finances/update-and-review-finances.md)
     + [自訂工作角色的計費率](/help/manage-work/project-finances/multiple-billing-rates.md)
 
