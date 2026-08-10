@@ -22,7 +22,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:45:52.312Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
 workflow-type: tm+mt
 source-wordcount: 493
 ht-degree: 94%
@@ -47,7 +47,7 @@ ht-degree: 94%
 
 1. 建立一個新情境並命名為「進階彙總」。
 1. 將觸發模組設定為 HTTP - 提出請求模組。
-1. 使用這個 URL `https://restcountries.com/v2/lang/es`，提供使用西班牙語的所有國家清單。
+1. 使用這個 URL `https://countries.dev/lang/es`，提供使用西班牙語的所有國家清單。
 1. 「方法」仍維持是「Get」。
 1. 按一下「剖析回應」核取方塊。
 1. 將這個模組重新命名為「擷取國家資料」。
@@ -59,7 +59,7 @@ ht-degree: 94%
 
    **您需要收集每個國家/地區的子區域資訊，因此您必須提出額外的 HTTP 請求。**
 
-1. 新增另一項請求來取得子區域資訊。 此請求只會回傳第一個國家，但是目前不成問題。 新增另一個 HTTP 提出請求模組並使用 URL `https://restcountries.com/v2/name/{country name}`。
+1. 新增另一項請求來取得子區域資訊。 此請求只會回傳第一個國家，但是目前不成問題。 新增另一個 HTTP 提出請求模組並使用 URL `https://countries.dev/name/{country name}`。
 1. 要取得第一個國家的名稱，請前往對應面板並按一下「資料」，然後按一下陣列中的「名稱」。 資料欄位中的 [1] 表示將會傳回陣列中第一個項目。
 
    + 按一下數字，必要時可以變更索引，但是這個情況下您只需要第一個項目。
