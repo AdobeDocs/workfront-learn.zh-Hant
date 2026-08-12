@@ -9,23 +9,19 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:39:17.503Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 4b419797e3014599bffd64f576d8eeb196c8c153
 workflow-type: tm+mt
 source-wordcount: 280
-ht-degree: 93%
+ht-degree: 72%
 
 ---
 
@@ -43,7 +39,8 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 >[!NOTE]
 >
->儲存您的情境之後，在三圓點選單下方即提供新版本，方便您未來存取使用。 之前儲存的情境版本只能保留 60 天。 若您基於稽核目的必須存取超過 60 天的之前版本，Workfront 建議儲存情境的藍圖並封存至議定的位置。
+>儲存您的案例後，Workfront Fusion會保留上一個案例版本60天。 版本的保留期間從該版本被較新版本取代時開始，而不是最初建立版本時。
+>若要保留超過60天的案例版本歷史記錄以供稽核之用，請將案例藍圖儲存並封存至同意的位置。
 
 
 ## 新增到您的術語
@@ -68,4 +65,4 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 ## 想要瞭解更多嗎？ 我們建議參閱以下資訊：
 
-[Workfront Fusion 文件](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 文件](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
