@@ -30,11 +30,11 @@ ht-degree: 100%
 * 設定全域專案偏好設定
 * 建立和使用排程
 
->[!VIDEO](https://video.tv.adobe.com/v/3423346/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3423346/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 全域和群組專案、任務和問題設定
 
-當您開啟 [!DNL Workfront] 中的「[!UICONTROL 專案]」設定時，您會注意到視窗頂端的搜尋列顯示「[!UICONTROL 系統專案偏好設定]」。您可以藉此知道這些設定對 [!DNL Workfront] 系統中每個人均有影響，因為這是全域設定。
+當您開啟 [!DNL Workfront] 中的「[!UICONTROL 專案]」設定時，您會注意到視窗頂端的搜尋列顯示「[!UICONTROL 系統專案偏好設定]」。 您可以藉此知道這些設定對 [!DNL Workfront] 系統中每個人均有影響，因為這是全域設定。
 
 ![[!UICONTROL 專案偏好設定]頁面，位於[!UICONTROL 設定]](assets/admin-fund-system-project-preferences-1.png)
 
@@ -42,9 +42,9 @@ ht-degree: 100%
 
 ![[!UICONTROL 任務和問題偏好設定]，位於[!UICONTROL 設定]](assets/admin-fund-task-issue-preferences-2.png)
 
-然而，有可能 [!DNL Workfront] 中並不是每個群組都需要相同的專案、任務和問題偏好設定。例如，行銷群組想把新專案的狀態設為「規劃」，而專案經理人群組想設為「請求」狀態。
+然而，有可能 [!DNL Workfront] 中並不是每個群組都需要相同的專案、任務和問題偏好設定。 例如，行銷群組想把新專案的狀態設為「規劃」，而專案經理人群組想設為「請求」狀態。
 
-[!DNL Workfront] 允許群組管理員為其群組調整某些專案、任務和問題偏好設定。[!DNL Workfront] 系統管理員會使用鎖定/解鎖切換按鈕來決定可以調整哪些偏好設定。
+[!DNL Workfront] 允許群組管理員為其群組調整某些專案、任務和問題偏好設定。 [!DNL Workfront] 系統管理員會使用鎖定/解鎖切換按鈕來決定可以調整哪些偏好設定。
 
 首先導覽到「[!UICONTROL 設定]」區域：
 
@@ -66,7 +66,7 @@ ht-degree: 100%
 
 ### 設定群組和子群組偏好設定
 
-對於系統管理員解鎖的任何設定，群組管理員可為所管理的群組以及群組之下的任何巢狀子群組進行調整。此外，群組管理員可以控制其子群組管理員可以修改哪些設定。
+對於系統管理員解鎖的任何設定，群組管理員可為所管理的群組以及群組之下的任何巢狀子群組進行調整。 此外，群組管理員可以控制其子群組管理員可以修改哪些設定。
 
 1. 在&#x200B;**[!UICONTROL 主選單]**&#x200B;中選取「**[!UICONTROL 設定]**」。
 1. 按一下左側選單中的「**[!DNL Groups]**」。
