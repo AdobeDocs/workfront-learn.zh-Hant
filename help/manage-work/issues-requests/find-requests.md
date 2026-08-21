@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2025-02-26T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:56:55.448Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
 workflow-type: tm+mt
 source-wordcount: 232
 ht-degree: 10%
@@ -49,7 +49,7 @@ ht-degree: 10%
 * **在請求區域中使用篩選器：**&#x200B;如「我的請求」和「我的未完成請求」的篩選器可讓使用者檢視他們建立的請求。 &#x200B;
 * **管理團隊頁面上的請求：**&#x200B;使用者可以檢視未指派的團隊請求，並使用工作負載平衡器根據其目前的工作量管理團隊成員指派，將其指派給自己或其他人。 &#x200B;
 * **自訂報表和控制面板：**&#x200B;使用者可以建立自訂報表來追蹤請求，允許個人化的命名、篩選器、檢視和群組，這有助於有效管理和排定請求的優先順序。 &#x200B;
-* **了解篩選器中的「我的」：**&#x200B;首頁上「我的」一詞，指的是指派給我的問題。 請求區域中的「我的」一詞是指我請求的問題。 
+* **了解篩選器中的「我的」：**&#x200B;首頁上「我的」一詞，指的是指派給我的問題。 請求區域中的「我的」一詞是指我請求的問題。 &#x200B;
 
 
 ## 有關此主題的推薦教學課程

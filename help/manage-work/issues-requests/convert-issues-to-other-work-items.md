@@ -7,7 +7,7 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: '2024-02-28T00:00:00.000Z'
+last-substantial-update: '2026-08-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
@@ -22,10 +22,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
 workflow-type: tm+mt
-source-wordcount: 243
-ht-degree: 11%
+source-wordcount: 214
+ht-degree: 9%
 
 ---
 
@@ -37,13 +37,13 @@ ht-degree: 11%
 
 ## 重點提要
 
-* **簡單轉換程式：**&#x200B;若要將問題/請求轉換為任務，請開啟問題，按一下三個點的功能表，然後選取[轉換為任務]。 預設會複製&#x200B;工作名稱和說明，但可以編輯。 
+* **簡單轉換程式：**&#x200B;若要將問題/請求轉換為任務，請開啟問題，按一下三個點的功能表，然後選取[轉換為任務]。 預設會複製&#x200B;工作名稱和說明，但可以編輯。 &#x200B;
 * **目標專案選擇：**&#x200B;您可以選擇任務的目標專案，可以是問題所在的預設專案，也可以是您有權存取的其他專案。 &#x200B;
 * **自動錶單附件：**&#x200B;連結至問題的自訂表單會自動新增至工作，確保所有欄位值都能順暢地轉移。 &#x200B;
 * **轉換選項：**&#x200B;主要選項包括：
-   * 將原始問題與任務一起保持作用中。 &#x200B;
-   * 允許要求者存取工作。 &#x200B;
-   * 保留問題的任務計畫完成日期。 &#x200B;
+  * 將原始問題與任務一起保持作用中。 &#x200B;
+  * 允許要求者存取工作。 &#x200B;
+  * 保留問題的任務計畫完成日期。 &#x200B;
 * **連結狀態更新：**&#x200B;如果保留原始問題，其狀態將根據任務的進度自動更新，以確保問題和任務之間的同步。 &#x200B;
 
 
