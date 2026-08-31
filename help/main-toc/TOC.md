@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 教學課程
 user-guide-description: 內含培訓影片與文章的資料庫，能協助您更加了解 Workfront 功能和設定。
-source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
+source-git-commit: 71fb13f139ceffafa58845488f865c5287093273
 workflow-type: tm+mt
-source-wordcount: '2658'
+source-wordcount: '2670'
 ht-degree: 74%
 
 ---
@@ -563,6 +563,10 @@ ht-degree: 74%
 
 + 首頁 {#home}
   + [刪除、新增和重新排列首頁中的小工具](/help/workfront-home/remove-add-and-rearrange-widgets.md)
+
++ 優先順序 {#priorities}
+  + [使用「優先順序」專注您的每一天](/help/priorities/focus-your-day-using-priorities.md)
+  + [採取行動並顯示您的工作](/help/priorities/taking-action-and-showing-your-work.md)
 
 
 + 敏捷 {#agile}
