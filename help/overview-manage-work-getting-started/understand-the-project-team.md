@@ -14,35 +14,19 @@ jira: KT-14781
 doc-type: video
 hide: true
 exl-id: bcaaccdf-ccf8-4bbf-8344-bd55a655c510
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:24:57.327Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 59
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # 了解專案團隊
 
-觀看這段影片，您將會了解：
-
-* 專案團隊的用途以及如何維護
-
->[!VIDEO](https://video.tv.adobe.com/v/3444600/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-## 有關此主題的推薦教學課程
-
-* [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [尋找專案](/help/manage-work/projects/find-projects.md)
-* [共用專案](/help/manage-work/projects/share-a-project.md)
-* [瞭解專案溝通](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/understand-the-project-team.md}}

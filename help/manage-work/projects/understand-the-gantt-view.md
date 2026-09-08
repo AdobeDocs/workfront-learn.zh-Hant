@@ -12,62 +12,19 @@ last-substantial-update: '2023-05-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 397
-ht-degree: 12%
+source-wordcount: 39
+ht-degree: 0%
 
 ---
 
 # 探索專案管理的[!UICONTROL 甘特圖]檢視
 
-影片說明如何使用專案甘特圖和任務甘特圖來有效地視覺化和管理任務和專案。 甘特圖&#x200B;提供任務、範本和專案的整體檢視，並常用於投資組合中以瞭解專案之間的關係，尤其是共用資源的專案。 
-
-**專案甘特圖的主要功能包括：**
-
-* 檢視實際日期（綠色三角形）、完成百分比、里程碑菱形、里程碑線條和跨專案前置任務&#x200B;。
-* 進度狀態指示器：綠色（準時）、黃色（有風險）和紅色（存在問題）。
-* 顯示預計開始與完成日期以及計畫日期。
-* 顯示專案中的任務以快速概覽。
-
-**任務甘特圖的主要功能包括：**
-
-* 檢視實際日期、指派（作業擁有者與配置百分比）、基準、認可日期及完成百分比。
-* 反白關鍵路徑（紅色）並以菱形或線條標示里程碑任務。
-* 檢查專案內和跨專案的前置任務&#x200B;。
-* 進度狀態指示器：綠色（準時）、黃色（滯後）、淺藍色（有風險）和紅色（延遲）。
-* 顯示任務的預計日期。
-
-影片強調甘特圖的彈性，讓使用者能夠自訂檢視並同時顯示多個元素，以提升專案管理。
-
->[!VIDEO](https://video.tv.adobe.com/v/3448017/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-您可以在線上閱讀文章「[開始使用甘特圖](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=zh-Hant)」了解更多資訊。
-
-## 關鍵重點
-
-* **大圖片檢視：**&#x200B;甘特圖提供任務、專案和產品組合的完整概觀，讓您輕鬆瞭解跨專案的關係和資源共用。 &#x200B;
-* **進度追蹤：**&#x200B;進度狀態指標（綠色、黃色、紅色和淺藍色）可協助監視專案和任務時間表，強調準時、有風險、落後或延遲狀態。 &#x200B;
-* **里程碑管理：**&#x200B;里程碑菱形和線條會以視覺化方式標示關鍵完成日期，協助追蹤專案中的里程碑進度。 &#x200B;
-* **前置任務深入分析：**&#x200B;可以輕鬆檢查跨專案和特定任務的前置任務，確保相依性清晰且易於管理。 &#x200B;
-* **自訂選項：**&#x200B;使用者可以顯示實際日期、預計日期、基準線、指派等等，根據他們的特定需求量身打造甘特圖檢視。
-
-
-## 有關此主題的推薦教學課程
-
-* [管理具有目前狀態的專案](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [追蹤專案整體進度](/help/manage-work/projects/track-overall-project-progress.md)
-* [使用專案量度追蹤工作進度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [探索任務管理的面板檢視](/help/manage-work/projects/understand-the-board-view.md)
-
+{{$include /help/_includes/understand-the-gantt-view.md}}
