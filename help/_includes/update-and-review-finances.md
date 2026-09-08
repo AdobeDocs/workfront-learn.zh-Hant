@@ -31,7 +31,7 @@ Workfront會追蹤可記帳專案，但不處理實際帳單；使用者必須�
 
 此影片強調正確設定和追蹤以簡化使用者端計費流程的重要性。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486199/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 

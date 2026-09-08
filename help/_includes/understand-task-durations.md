@@ -12,7 +12,7 @@ Workfront建議使用持續時間和前置任務來建立任務時間表，而�
 準&#x200B;確的工期對於有效的專案規劃和資源管理至關重要。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449354/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 

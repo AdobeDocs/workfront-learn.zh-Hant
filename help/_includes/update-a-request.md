@@ -9,7 +9,7 @@ ht-degree: 3%
 
 影片說明如何在Adobe Workfront中尋找和更新請求。 提交請求後&#x200B;，您可以新增資訊或提出問題，以確保處理請求的人可以使用最新詳細資料。 &#x200B;  &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497601/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 重點提要
 

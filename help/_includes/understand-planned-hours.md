@@ -12,7 +12,7 @@ ht-degree: 18%
 它們也有助於追蹤花費在任務上的時間、改善未來的估計，以及澄清團隊成員的期望。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445344/?captions=chi_hant&learn=on)
 
 
 ## 重點提要
