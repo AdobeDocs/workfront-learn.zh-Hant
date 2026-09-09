@@ -25,24 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:35:43.807Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 81
-ht-degree: 97%
+source-wordcount: 22
+ht-degree: 100%
 
 ---
 
 # 填寫專案詳細資料
 
-在本影片中，您將了解建立專案時所需的最常見專案設定。
-
->[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
-
-
-## 有關此主題的推薦教學課程和文章
-
-* [瞭解建立專案的基本操作](/help/manage-work/projects/understand-basic-project-creation.md)
-* [導覽專案頁面](/help/manage-work/projects/navigate-the-project-page.md)
-* [瞭解建立專案的四種方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [開始規劃專案](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [編輯專案](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+{{$include /help/_includes/fill-in-the-project-details.md}}

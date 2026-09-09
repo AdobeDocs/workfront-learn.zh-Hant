@@ -23,26 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:29:57.735Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 69
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
 # 根據專案時間表追蹤進度
 
-確保任務保持應有的進度，以便在專案截止期限前完成。
-
-在這段影片中，您將了解以下內容：
-
-* 完成百分比
-* 進度狀態
-
->[!VIDEO](https://video.tv.adobe.com/v/3438219/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-
-## 有關此主題的推薦教學課程
-
-* [瞭解專案時間軸](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [瞭解日期類型和進度狀態](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+{{$include /help/_includes/track-work-progress-from-the-project-timeline.md}}

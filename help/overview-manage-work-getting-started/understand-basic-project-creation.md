@@ -25,26 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:29:36.461Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: 34
 ht-degree: 100%
 
 ---
 
 # 了解建立專案的基本操作
 
-觀看這段影片，您將會了解：
-
-* Workfront 中對專案的定義
-* 啟動並運作專案的基本步驟
-* 關於任務和問題的一些資訊
-* 開始建立專案的最佳實務
-
->[!VIDEO](https://video.tv.adobe.com/v/3432339/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-## 有關此主題的推薦教學課程
-
-* [導覽專案頁面](/help/manage-work/projects/navigate-the-project-page.md)
-* [瞭解建立專案的四種方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [填寫專案詳細資料](/help/manage-work/projects/fill-in-the-project-details.md)
+{{$include /help/_includes/understand-basic-project-creation.md}}

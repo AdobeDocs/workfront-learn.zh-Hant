@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:29.285Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
-ht-degree: 67%
+source-wordcount: 23
+ht-degree: 47%
 
 ---
 
 # 紀錄未來專案的經驗教訓
 
-在本影片中，您會了解以下操作的好處：
-
-* 建立「經驗傳承」任務
-* 將「經驗傳承」自訂表單附加到您的專案中
-* 建立「經驗傳承」自訂報告
-* 建立「經驗傳承」專案
-
->[!VIDEO](https://video.tv.adobe.com/v/3441023/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-## 有關此主題的推薦教學課程
-
-* [變更專案狀態來完成專案](/help/manage-work/projects/change-the-project-status.md)
-* [解決任務和問題核准](/help/manage-work/close-a-project/complete-approvals.md)
-* [上傳和管理專案資產](/help/manage-work/close-a-project/upload-assets.md)
-* [記錄並檢閱專案時數](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/lessons-learned-from-closing-a-project.md}}

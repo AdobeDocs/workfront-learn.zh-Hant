@@ -25,25 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:23:39.556Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 70
+source-wordcount: 26
 ht-degree: 100%
 
 ---
 
 # 處理任務
 
-觀看這段影片，您將會瞭解：
-
-* 如何編輯專案中的現有任務
-* 新增和刪除任務的方式
-* 如何變更任務順序
-
->[!VIDEO](https://video.tv.adobe.com/v/3448567/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-## 有關此主題的推薦教學課程
-
-* [瞭解上層-下層任務](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [指派專案計劃的任務](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
+{{$include /help/_includes/work-with-tasks.md}}

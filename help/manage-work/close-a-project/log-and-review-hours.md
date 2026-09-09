@@ -24,26 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:14.617Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 67
-ht-degree: 61%
+source-wordcount: 21
+ht-degree: 52%
 
 ---
 
 # 記錄並檢閱專案時數
 
-觀看這段影片，您將了解如何：
-
-* 審閱專案的記錄時數
-* 必要時核准專案時數
-
->[!VIDEO](https://video.tv.adobe.com/v/3441080/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-## 有關此主題的推薦教學課程
-
-* [變更專案狀態來完成專案](/help/manage-work/projects/change-the-project-status.md)
-* [解決任務和問題核准](/help/manage-work/close-a-project/complete-approvals.md)
-* [上傳和管理專案資產](/help/manage-work/close-a-project/upload-assets.md)
-* [紀錄未來專案的經驗教訓](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-
+{{$include /help/_includes/log-and-review-hours.md}}

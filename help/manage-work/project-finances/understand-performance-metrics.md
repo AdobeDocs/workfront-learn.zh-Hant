@@ -24,44 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:49:39.708Z'
-source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 425
-ht-degree: 7%
+source-wordcount: 34
+ht-degree: 17%
 
 ---
 
 # 瞭解績效量度
 
-影片會討論專案管理的財務效能度量和設定。 關&#x200B;鍵包括：
-
-**績效度量總覽：**&#x200B;如成本績效指數、排程績效指數、成本排程績效指數以及預估完成等度量，可在[專案詳細資料]索引標籤與財務區段下取得。 計算的&#x200B;檔案可透過資訊泡泡連結來存取。
-
-**績效指數方法(PIM)：**&#x200B;專案經理可以選取計算成本績效指數(CPI)和預估完成成本(EAC)的方法，以小時為基準（以小時為單位的完成成本）或以成本為基準（以貨幣為單位的完成成本）。 系統&#x200B;管理員可以全域設定預設方法，但專案經理可以針對個別專案調整該預設方法。 &#x200B;
-
-**預估完成時間(EAC)計算：**&#x200B;系統管理員可以設定預設的全域計算方法，有兩個選項：
-* **從任務/子任務累計：**&#x200B;新增子任務的預估完成值，但排除直接新增到父任務或專案層級的小時。 &#x200B;
-* **在專案層級計算：**&#x200B;包含子系任務的預估完成值，以及直接新增至父系任務或專案層級的小時。 這是建議的預設值。 &#x200B;
-
-影片強調系統管理員和專案經理在管理效能度量和計算時可使用的彈性和控制能力。 &#x200B;
-
->[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
-
-## 重點提要
-
-
-* **績效量度存取：**&#x200B;成本績效指數(CPI)、排程績效指數(SPI)和預估完成成本(EAC)等關鍵量度可在「財務」區段的「專案詳細資料」標籤下找到，其檔案可透過資訊泡泡連結取得。 &#x200B;
-* **績效指數方法：**&#x200B;專案經理可以選擇以小時或成本為基礎的方法來計算度量，而系統管理員則可以設定全域預設值。
-* **預估完成計算選項：**&#x200B;有兩種可用方法：
-   * 從任務/子任務累計（不包括直接新增到父任務或專案層級的小時）。 &#x200B;
-   * 在專案層級計算（包括直接新增到父級任務或專案層級的小時）。 建議使用後者。 &#x200B;
-* **全域與專案層級設定：**&#x200B;系統管理員可以設定績效指數方法的全域預設值，並在完成計算時進行預估，但專案管理員可以覆寫個別專案的績效指數方法設定。 &#x200B;
-* **量度管理的彈性：**&#x200B;系統提供工具，讓管理員和專案經理都能有效自訂及管理績效量度，確保符合專案特定需求。
-
-## 有關此主題的推薦教學課程
-
-* [設定任務的預設收入與成本](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-* [設定匯率](/help/manage-work/project-finances/set-up-exchange-rates.md)
-* [設定費用類型](/help/manage-work/project-finances/set-up-expense-types.md)
-* [瞭解財務資訊存取](/help/manage-work/project-finances/understand-financial-access.md)
-* [建立職位角色和費率卡](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
+{{$include /help/_includes/understand-performance-metrics.md}}

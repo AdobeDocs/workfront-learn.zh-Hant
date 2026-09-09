@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:59:23.948Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
-ht-degree: 68%
+source-wordcount: 34
+ht-degree: 58%
 
 ---
 
 # 在範本中編輯專案團隊
 
-觀看這段影片，您將會了解：
-
-* 如何避免不小心將&#x200B;**非**&#x200B;專案團隊成員納入範本專案團隊。
-* 如何編輯範本專案團隊。
-
->[!VIDEO](https://video.tv.adobe.com/v/3441561/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-## 有關此主題的推薦教學課程
-
-* [建立專案範本並探索藍圖](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [有效共用專案範本](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [停用專案範本](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-
+{{$include /help/_includes/edit-the-project-team-in-a-project-template.md}}

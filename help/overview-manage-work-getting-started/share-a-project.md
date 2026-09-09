@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:31:33.943Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 93
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # 共用專案
 
-觀看這段影片，您將會瞭解：
-
-* Workfront 自動共用的運作方式
-* 如何與人共用專案
-* 如何與團隊共用專案
-* 如何把專案放入專案組合以利共用
-* 共用專案的最佳實務
-
->[!VIDEO](https://video.tv.adobe.com/v/3423146/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-## 有關此主題的推薦教學課程
-
-* [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [尋找專案](/help/manage-work/projects/find-projects.md)
-* [瞭解專案團隊](/help/manage-work/projects/understand-the-project-team.md)
-* [瞭解專案溝通](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/share-a-project.md}}

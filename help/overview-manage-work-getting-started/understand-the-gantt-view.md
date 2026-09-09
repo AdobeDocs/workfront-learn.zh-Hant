@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:26:09.573Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 32
 ht-degree: 100%
 
 ---
 
-# 了解[!UICONTROL 甘特圖]視圖
+# 瞭解[!UICONTROL 甘特圖]視圖
 
-觀看這段影片，您將了解如何使用：
-
-* 專案甘特圖
-* 任務甘特圖
-
->[!VIDEO](https://video.tv.adobe.com/v/3448017/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-您可以在線上閱讀文章「[開始使用甘特圖](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=zh-Hant)」了解更多資訊。
-
-## 有關此主題的推薦教學課程
-
-* [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [追蹤專案整體進度](/help/manage-work/projects/track-overall-project-progress.md)
-* [使用專案量度追蹤工作進度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [了解[!UICONTROL 展示板]視圖](/help/manage-work/projects/understand-the-board-view.md)
+{{$include /help/_includes/understand-the-gantt-view.md}}

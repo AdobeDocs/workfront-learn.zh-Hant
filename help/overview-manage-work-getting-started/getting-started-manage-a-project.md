@@ -25,27 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:34:47.354Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: 28
 ht-degree: 100%
 
 ---
 
 # 開始管理專案
 
-觀看這段影片，您將會瞭解：
-
-* 如何監控專案進度
-* 如何深入查看任務詳細資料
-* 如何與您的利害關係人溝通
-
->[!VIDEO](https://video.tv.adobe.com/v/3445178/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-## 有關此主題的推薦教學課程
-
-* [專案上線](/help/manage-work/projects/take-a-project-live.md)
-* [尋找專案](/help/manage-work/projects/find-projects.md)
-* [共用專案](/help/manage-work/projects/share-a-project.md)
-* [瞭解專案團隊](/help/manage-work/projects/understand-the-project-team.md)
-* [瞭解專案溝通](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/getting-started-manage-a-project.md}}

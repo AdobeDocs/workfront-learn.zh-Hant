@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:30:48.728Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 67
+source-wordcount: 17
 ht-degree: 100%
 
 ---
 
 # 追蹤專案整體進度
 
-在本影片中，您將學習如何使用以下方法追蹤專案進度：
-
-* 完成百分比
-* 預計日期
-* 情況及進展狀況
-* 未解決的問題
-* 狀況更新欄
-
->[!VIDEO](https://video.tv.adobe.com/v/3447421/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-## 有關此主題的推薦教學課程
-
-* [開始管理專案](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [使用專案量度追蹤工作進度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [瞭解[!UICONTROL 甘特圖]視圖](/help/manage-work/projects/understand-the-gantt-view.md)
-* [了解[!UICONTROL 展示板]視圖](/help/manage-work/projects/understand-the-board-view.md)
+{{$include /help/_includes/track-overall-project-progress.md}}

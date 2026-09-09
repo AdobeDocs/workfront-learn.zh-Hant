@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:25:17.227Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 97
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
-# 瞭解[!UICONTROL 工作投入]
+# 了解[!UICONTROL 工作投入]
 
-觀看這段影片，您將會了解：
-
-* 什麼是工作投入以及它如何幫助您管理專案
-* 如何利用工作投入
-* 如何建立工作投入任務視圖
-
->[!VIDEO](https://video.tv.adobe.com/v/3447410/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-如需「[!UICONTROL 工作投入]」的更多資訊，請參閱文章「[工作投入概觀](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=zh-Hant)」。
-
-## 有關此主題的推薦教學課程
-
-* [了解任務期間](/help/manage-work/tasks/understand-task-durations.md)
-* [了解規劃時數](/help/manage-work/tasks/understand-planned-hours.md)
-* [建立基本視圖](/help/reporting/basic-reporting/create-a-basic-view.md)
+{{$include /help/_includes/understand-work-effort.md}}

@@ -26,29 +26,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:28:28.496Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 106
-ht-degree: 98%
+source-wordcount: 27
+ht-degree: 100%
 
 ---
 
 # 了解規劃時數
 
-觀看這段影片，您將會了解：
-
-* Workfront 中的規劃時數是什麼
-* 規劃時數為什麼對您的專案很重要
-* 如何估算規劃時數
-* 如何將規劃時數新增到任務中
-
->[!VIDEO](https://video.tv.adobe.com/v/3445344/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-
-## 有關此主題的推薦教學課程和文章
-
-* [瞭解任務期間](/help/manage-work/tasks/understand-task-durations.md)
-* [瞭解如何排定任務順序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [了解[!UICONTROL 工作投入]](/help/manage-work/tasks/understand-work-effort.md)
-* [時程表總覽](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/timesheets/details/timesheets-overview)
-* [記錄時間](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+{{$include /help/_includes/understand-planned-hours.md}}

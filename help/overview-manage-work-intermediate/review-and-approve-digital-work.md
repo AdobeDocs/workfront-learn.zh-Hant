@@ -24,40 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:12:05.478Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 90
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # 審閱及核准數位工作
 
-觀看這段影片，您將了解如何：
-
-* 在 [!DNL Workfront Home]尋找核准資訊
-* 核准專案、任務和問題
-* 核准文件
-* 核准校訂
-
->[!VIDEO](https://video.tv.adobe.com/v/3444957/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-
->[!NOTE]
->
->除了 [!DNL Workfront Home]以外，需要核准的文件、校訂和工作項目 (專案、任務和問題) 也可以在專案和自訂報告中找到相關資訊。
-
-## 有關此主題的推薦教學課程
-
-* [建立單次使用的核准流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [委派任務、問題與核准](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-
-
-<!--
-learn more URLS
-Approving work
-Home area for Reviewers
-Guides
-Home overview for Reviewers
-Issue page overview
--->
+{{$include /help/_includes/review-and-approve-digital-work.md}}

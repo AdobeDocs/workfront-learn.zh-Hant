@@ -23,25 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:18.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # 將問題/請求轉換為任務
 
-在本影片中，您將學習如何將問題或請求轉換為任務。
-
->[!VIDEO](https://video.tv.adobe.com/v/3445441/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->專案時間表上不能新增問題，因為問題代表「未規劃的工作」。 專案時間表適用於「已規劃的工作」，即任務。
-
-## 有關此主題的推薦教學課程
-
-* [尋找和管理請求](/help/manage-work/issues-requests/find-requests.md)
-* [將問題/請求轉換為專案](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [處理未規劃的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+{{$include /help/_includes/convert-issues-to-other-work-items.md}}

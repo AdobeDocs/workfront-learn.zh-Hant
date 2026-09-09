@@ -1,0 +1,28 @@
+---
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+workflow-type: tm+mt
+source-wordcount: '172'
+ht-degree: 7%
+
+---
+# 在Workfront中有效率地建立任務 — 共用
+
+此影片提供在Workfront專案中建立任務的相關教學課程，說明長方法與實用捷徑。 它強調建立工作的彈性，並提供有效管理工作的秘訣。
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3496187/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+
+## 關鍵重點
+
+* **任務建立方法：**&#x200B;使用[新增任務]按鈕以建立詳細的任務，或使用[新增更多工]按鈕以快速內嵌編輯。
+* **必填欄位：**&#x200B;只&#x200B;有任務名稱是必填欄位；其他欄位（例如說明、持續時間和指派）是選用欄位，可以稍後新增。 &#x200B;
+* **重新定位任務：**&#x200B;任務已新增至清單底部，但可以拖曳或使用「凸排」選項調整階層來重新定位。
+* **自訂檢視：**&#x200B;可以選取不同的檢視，以便在新增任務時包含其他欄位，例如說明。 &#x200B;
+* **在特定位置插入任務：**&#x200B;在現有任務之間按&#x200B;一下滑鼠右鍵，然後選取[在下方插入任務]，將新任務置於特定位置。
+
+
+## 有關此主題的推薦教學課程
+
+* [瞭解父子任務關係](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [在Workfront中有效率地管理任務](/help/manage-work/tasks/work-with-tasks.md)
+* [指派專案計劃的任務](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

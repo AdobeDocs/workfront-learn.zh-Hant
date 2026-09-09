@@ -24,35 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 159
-ht-degree: 96%
+source-wordcount: 23
+ht-degree: 100%
 
 ---
 
 # 進階前置任務
 
-
->[!PREREQUISITES]
->
->* [在Workfront中有效地排序工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=zh-Hant)
->* 或者您已經適應在專案中使用前置任務
-
-
-觀看這段影片，您將會了解以下資訊：
-
-* 任務相依性
-* 延遲類型
-* 強制執行的前置任務
-* 相依性循環錯誤
-* 捷徑與最佳實務
-
->[!VIDEO](https://video.tv.adobe.com/v/3454541/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-有關使用前置任務的更多資訊，請參閱「[使用任務前置任務](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=zh-Hant)」。
-
-有關任務限制的更多資訊，請參閱「[了解和管理期間類型和任務限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=zh-Hant)」。
-
-有關跨專案前置任務的更多資訊，請參閱「[了解跨專案前置任務](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=zh-Hant)」。
-
+{{$include /help/_includes/advanced-predecessors.md}}

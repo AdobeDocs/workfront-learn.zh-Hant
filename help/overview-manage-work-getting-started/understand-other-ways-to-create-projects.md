@@ -26,26 +26,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:29:12.110Z'
-source-git-commit: b332feac9c0d553ae5bf0acd52d95e2724d7ffe5
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 79
+source-wordcount: 35
 ht-degree: 100%
 
 ---
 
 # 瞭解建立專案的四種方法
 
-觀看這段影片，您將瞭解如何：
-
-* 使用範本建立專案
-* 從頭開始建立專案
-* 複製現有專案
-* 匯入 [!DNL Microsoft Project] 檔案
-
->[!VIDEO](https://video.tv.adobe.com/v/3432167/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
-
-## 有關此主題的推薦教學課程
-
-* [瞭解建立專案的基本操作](/help/manage-work/projects/understand-basic-project-creation.md)
-* [導覽專案頁面](/help/manage-work/projects/navigate-the-project-page.md)
-* [填寫專案詳細資料](/help/manage-work/projects/fill-in-the-project-details.md)
+{{$include /help/_includes/understand-other-ways-to-create-projects.md}}
