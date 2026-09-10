@@ -6,10 +6,10 @@ breadcrumb-title: 管理工作 — 中繼
 solution: Workfront
 sub-product: Work Management
 index: true
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 64%
+source-wordcount: '221'
+ht-degree: 12%
 
 ---
 
@@ -18,36 +18,39 @@ ht-degree: 64%
 
 + [管理工作 — 中繼](overview.md)
 + 管理工作 — 中繼 {#manage-work-intermediate}
-   + 專案範本 {#project-templates}
-      + [建立專案範本並瞭解藍圖](create-a-project-template.md)
-      + [直接使用範本建立專案](create-a-project-directly-from-a-template.md)
-      + [共用專案範本](share-a-project-template.md)
-      + [複製現有專案](copy-an-existing-project.md)
-      + [停用專案範本](deactivate-a-project-template.md)
-      + [在專案範本中編輯專案團隊](edit-the-project-team-in-a-project-template.md)
+  + 專案範本 {#project-templates}
+    + [建立專案範本並探索藍圖](create-a-project-template.md)
+    + [安裝及使用Blueprint](install-and-use-a-blueprint.md)
+    + [直接使用範本建立專案](create-a-project-directly-from-a-template.md)
+    + [有效共用專案範本](share-a-project-template.md)
+    + [有效率地複製現有專案](copy-an-existing-project.md)
+    + [停用專案範本](deactivate-a-project-template.md)
+    + [在範本中編輯專案團隊](edit-the-project-team-in-a-project-template.md)
 
-   + 如何建立及使用核准流程 {#how-to-create-and-use-approval-processes}
-      + [建立全域和單次使用的核准流程](create-a-single-use-approval-process.md)
-      + [瞭解群組特定的核准流程](group-specific-approval-processes.md)
-      + [審閱及核准數位工作](review-and-approve-digital-work.md)
-      + [委派任務、問題與核准](delegate-approvals.md)
+  + 如何建立及使用核准流程 {#how-to-create-and-use-approval-processes}
+    + [建立及管理核准流程](create-a-single-use-approval-process.md)
+    + [瞭解特定群組的核准流程](group-specific-approval-processes.md)
+    + [在請求佇列中套用問題核准流程](apply-an-issue-approval-process-in-a-request-queue.md)
+    + [審閱及核准數位工作](review-and-approve-digital-work.md)
+    + [委派任務、問題與核准](delegate-approvals.md)
 
-   + 如何建立和使用里程碑 {#how-to-create-and-use-milestones}
-      + [建立里程碑](creating-milestones.md)
-      + [套用里程碑](apply-milestones.md)
-      + [檢視里程碑](view-milestones.md)
+  + 如何建立和使用里程碑 {#how-to-create-and-use-milestones}
+    + [建立里程碑路徑和步驟](creating-milestones.md)
+    + [將里程碑路徑套用至專案和任務](apply-milestones.md)
+    + [檢視專案中的里程碑](view-milestones.md)
 
-   + 如何處理問題 {#how-to-work-with-issues}
-      + [處理未規劃的工作](handle-unplanned-work.md)
-      + [提出請求](make-a-request.md)
-      + [尋找和管理請求](find-requests.md)
-      + [管理問題指派](manage-issue-assignments.md)
-      + [更新請求](update-a-request.md)
-      + [將問題/請求轉換為專案](create-a-project-from-a-request.md)
-      + [將問題/請求轉換為任務](convert-issues-to-other-work-items.md)
-      + [報告問題](report-on-issues.md)
+  + 如何處理問題 {#how-to-work-with-issues}
+    + [有效處理計畫外工作](handle-unplanned-work.md)
+    + [在Workfront中建立和管理請求](make-a-request.md)
+    + [有效率地尋找及管理請求](find-requests.md)
+    + [有效管理問題指派](manage-issue-assignments.md)
+    + [在Workfront中更新請求](update-a-request.md)
+    + [將問題或請求轉換為專案](create-a-project-from-a-request.md)
+    + [將問題或請求轉換為任務](convert-issues-to-other-work-items.md)
+    + [建立問題管理的自訂報告](report-on-issues.md)
 
-   + 深入挖掘 {#digging-deeper}
-      + [瞭解和管理期限類型和任務限制](understand-and-manage-duration-types-and-task-constraints.md)
-      + [瞭解跨專案前置任務](understand-cross-project-predecessors.md)
-      + [進階前置任務](advanced-predecessors.md)
+  + 深入挖掘 {#digging-deeper}
+    + [主要期間型別和任務限制](understand-and-manage-duration-types-and-task-constraints.md)
+    + [使用基準線、快照和自動化報表進行主要專案追蹤](baselines-snapshots-and-automated-reports.md)
+    + [建立與跨專案前置任務的相依性](understand-cross-project-predecessors.md)
+    + [主進階任務相依性](advanced-predecessors.md)
