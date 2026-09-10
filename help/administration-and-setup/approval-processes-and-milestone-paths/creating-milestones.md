@@ -21,23 +21,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 65
-ht-degree: 84%
+source-wordcount: 26
+ht-degree: 61%
 
 ---
 
 # 建立里程碑路徑和步驟
 
-觀看這段影片，您將會瞭解：
-
-* 什麼是里程碑路徑
-* 如何建立里程碑路徑
-* 如何將里程碑步驟新增到里程碑路徑
-
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->系統管理員可以授予權限給具有「計劃」授權的使用者，讓他們建立自己的里程碑路徑。
+{{$include /help/_includes/creating-milestones.md}}

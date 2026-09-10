@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:33:40.172Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 777
+source-wordcount: 863
 ht-degree: 1%
 
 ---
@@ -56,19 +56,21 @@ Workfront中的里程碑為專案規劃、監控和報告提供了一些真正�
 
 瞭解如何建立和使用專案範本。
 
-* [建立專案範本並瞭解藍圖](create-a-project-template.md) — 瞭解如何從頭開始並從現有範本建立專案範本。
+* [建立專案範本並探索Blueprint](create-a-project-template.md) — 瞭解如何從頭開始並從現有範本建立專案範本。
+* [安裝及使用Blueprint](install-and-use-a-blueprint.md) — 瞭解管理員如何安裝Blueprint以及使用者如何將其投入使用。
 * [直接從範本建立專案](create-a-project-directly-from-a-template.md) — 瞭解如何從Adobe Workfront中已建置的範本開始建立專案。
-* [共用專案範本](share-a-project-template.md) — 瞭解如何共用專案範本以及從範本建立的專案。
-* [複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md) — 瞭解如何在Adobe Workfront中製作現有專案的副本。
+* [有效地共用專案範本](share-a-project-template.md) — 瞭解如何共用專案範本以及從範本建立的專案。
+* [有效率地複製現有專案](/help/manage-work/manage-projects/copy-an-existing-project.md) — 瞭解如何在Adobe Workfront中製作現有專案的副本。
 * [停用專案範本](deactivate-a-project-template.md) — 瞭解如何啟用和停用專案範本。
-* [在專案範本中編輯專案團隊](edit-the-project-team-in-a-project-template.md) — 瞭解如何避免在範本專案團隊中無意地加入&#x200B;**非**&#x200B;專案團隊成員，以及如何編輯範本專案團隊。
+* [在範本中編輯專案團隊](edit-the-project-team-in-a-project-template.md) — 瞭解如何避免在範本專案團隊中無意地加入&#x200B;**非**&#x200B;專案團隊成員，以及如何編輯範本專案團隊。
 
 ## 如何建立及使用核准流程
 
 瞭解如何建立核准流程、將其附加到工作流程、稽核數位工作和委派核准。
 
-* [建立全域和單次使用的核准程式](create-a-single-use-approval-process.md) — 瞭解如何針對專案、任務或問題建立全域和單次使用的核准程式。
+* [建立和管理核准流程](create-a-single-use-approval-process.md) — 瞭解如何針對專案、任務或問題建立全域和單一使用核准流程。
 * [瞭解群組特定的核准流程](group-specific-approval-processes.md) — 瞭解群組管理員如何為其管理的群組建立或編輯核准流程。
+* [在請求佇列中套用問題核准流程](apply-an-issue-approval-process-in-a-request-queue.md) — 實作預設核准流程以簡化請求工作流程。
 * [檢閱及核准數位工作](review-and-approve-digital-work.md) — 瞭解如何尋找、檢閱及核准專案、任務、問題、檔案和校訂。
 * [委派任務、問題和核准](delegate-approvals.md) — 瞭解如何將專案、任務、問題和時間表的核准委派給其他Adobe Workfront使用者。
 
@@ -76,27 +78,28 @@ Workfront中的里程碑為專案規劃、監控和報告提供了一些真正�
 
 瞭解如何建立里程碑路徑、將里程碑套用至任務，以及檢視里程碑報告。
 
-* [建立里程碑](creating-milestones.md) — 瞭解什麼是里程碑路徑、如何建立里程碑路徑，以及如何將里程碑步驟新增至專案。
-* [套用里程碑](apply-milestones.md) — 瞭解如何將里程碑路徑套用至專案，並將關鍵任務建立為專案中里程碑步驟的關聯。
-* [檢視里程碑](view-milestones.md) — 瞭解如何在Adobe Workfront專案中檢視里程碑，以及使用專案區域中的里程碑檢視。
+* [建立里程碑路徑和步驟](creating-milestones.md) — 瞭解什麼是里程碑路徑、如何建立里程碑路徑，以及如何將里程碑步驟新增到專案。
+* [將里程碑路徑套用至專案和任務](apply-milestones.md) — 瞭解如何將里程碑路徑套用至專案，並將關鍵任務關聯為專案內的里程碑步驟。
+* [檢視您專案中的里程碑](view-milestones.md) — 瞭解如何檢視Adobe Workfront專案中的里程碑，以及使用專案區域中的里程碑檢視。
 
 ## 如何處理問題
 
 瞭解如何處理有關問題的計畫外工作、將問題轉換為其他工作專案、管理問題指派及報告問題。
 
-* [處理非計畫工作](handle-unplanned-work.md) — 瞭解如何處理組織中的非計畫工作。
-* [提出請求](make-a-request.md) — 瞭解如何導覽至請求區域、提出請求、檢視已提交的請求、複製請求、尋找請求草稿，以及檢視最後三個請求路徑。
-* [尋找及管理要求](find-requests.md) — 瞭解如何尋找指派給您的要求、您建立的要求以及您管理的要求。
-* [管理問題指派](manage-issue-assignments.md) — 瞭解如何將問題指派給個別使用者、多位使用者或團隊，以便問題得以解決。
-* [更新請求](update-a-request.md) — 瞭解如何尋找您已提交的請求並進行更新。
-* [將問題/請求轉換為專案](create-a-project-from-a-request.md) — 瞭解如何啟動從請求到專案的轉換，並選取適當的專案範本。
-* [將問題/請求轉換為任務](convert-issues-to-other-work-items.md) — 瞭解如何將問題轉換為任務。
-* [問題報告](report-on-issues.md) — 瞭解如何建立顯示解析物件的問題報告，以及顯示轉換的問題資訊的專案報告。
+* [有效處理非計畫工作](handle-unplanned-work.md) — 瞭解如何在組織中處理非計畫工作。
+* [在Workfront中建立和管理請求](make-a-request.md) — 瞭解如何導覽至請求區域、提出請求、檢視已提交的請求、複製請求、尋找請求草稿，以及檢視最後三個請求路徑。
+* [有效率地尋找及管理要求](find-requests.md) — 瞭解如何尋找指派給您的要求、您建立的要求以及您管理的要求。
+* [有效管理問題指派](manage-issue-assignments.md) — 瞭解如何將問題指派給個別使用者、多位使用者或團隊，以便問題得以解決。
+* [在Workfront中更新請求](update-a-request.md) — 瞭解如何尋找您已提交的請求並進行更新。
+* [將問題或請求轉換為專案](create-a-project-from-a-request.md) — 瞭解如何啟動從請求到專案的轉換，並選取適當的專案範本。
+* [將問題或請求轉換為任務](convert-issues-to-other-work-items.md) — 瞭解如何將問題轉換為任務。
+* [建立問題管理的自訂報告](report-on-issues.md) — 瞭解如何建立顯示解析物件的問題報告，以及顯示轉換的問題資訊的專案報告。
 
 ## 深入挖掘
 
 深入瞭解Workfront中的各種專案管理工具，以及一些專業秘訣和最佳實務。    
 
-* [瞭解並管理期間型別和任務限制](understand-and-manage-duration-types-and-task-constraints.md) — 瞭解期間型別和任務限制，並瞭解如何確定已在專案中正確設定它們。
-* [瞭解跨專案前置任務](understand-cross-project-predecessors.md) — 瞭解如何在2個或多個專案中使用和追蹤前置任務。
-* [進階前置任務](advanced-predecessors.md) — 瞭解前置任務相依性型別、延遲型別、強制前置任務、相依性回圈錯誤，以及一些捷徑和最佳實務。
+* [主要期間型別和任務限制](understand-and-manage-duration-types-and-task-constraints.md) — 瞭解期間型別和任務限制，並瞭解如何確定已在專案中正確設定它們。
+* [使用基準線、快照和自動化報表進行主要專案追蹤](baselines-snapshots-and-automated-reports.md) — 瞭解如何使用基準線追蹤歷史工作資料、擷取快照和設定自動化工作報告電子郵件。
+* [建立與跨專案前置任務的相依性](understand-cross-project-predecessors.md) — 瞭解如何在2個或多個專案中使用和追蹤前置任務。
+* [主進階任務相依性](advanced-predecessors.md) — 瞭解前置任務相依性型別、延遲型別、強制前置任務、相依性回圈錯誤，以及一些捷徑和最佳實務。

@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 146
-ht-degree: 26%
+source-wordcount: 154
+ht-degree: 24%
 
 ---
 
@@ -43,6 +43,6 @@ Adobe Workfront的用途並非取代您目前使用的任何財務追蹤或計�
 >* 有權編輯財務資料的標準授權型別
 
 
-* [更新及稽核財務](update-and-review-finances.md) — 瞭解如何稽核與專案相關的財務資訊。
-* [尋找財務資訊](find-financial-information.md) — 瞭解如何尋找專案的財務資訊，並瞭解其來源。
-* [瞭解多重收費率](multiple-billing-rates.md) — 瞭解如何覆寫特定專案中的系統收費率。
+* [存取和管理專案財務的財務資訊](find-financial-information.md) — 瞭解如何尋找專案的財務資訊，並瞭解其來源。
+* [更新使用者端專案的財務](update-and-review-finances.md) — 瞭解如何檢閱與專案相關的財務資訊。
+* [自訂工作角色的收費率](multiple-billing-rates.md) — 瞭解如何在特定專案中覆寫系統收費率。
