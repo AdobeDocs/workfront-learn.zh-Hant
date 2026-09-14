@@ -16,7 +16,7 @@ ht-degree: 55%
 * 範本建立後，即可用以建立新專案。 影片示範如何從範本建立新專案、進行必要調整，以及視需要新增任務或修改持續時間。 它也&#x200B;會說明如何使用資源排程和計畫功能將工作角色指派給作業。 &#x200B;
 * 影片說明如何將現有專案儲存為新範本，以允許在工作流程中進行更新和改進。 它突顯&#x200B;了管理範本以避免混淆並確保簡化專案執行的重要性。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3451036/?captions=chi_hant&quality=12&learn=on&enablevpops=0)
 
 ## 重點提要
 
