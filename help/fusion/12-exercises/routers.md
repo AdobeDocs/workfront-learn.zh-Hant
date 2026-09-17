@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 760
-ht-degree: 100%
-
+source-wordcount: '762'
+ht-degree: 96%
 ---
-
 # 路由器練習
 
 了解路由器的重要性以及如何使用路由器按照條件處理不同的模組。
@@ -64,14 +68,14 @@ ht-degree: 100%
 
    **接下來，您將要變更原地複製的新模組中的對應值。**
 
-1. 前往 <https://www.superheroapi.com/> 並使用您的 Facebook 帳戶取得存取語彙基元。
+1. 移至<https://superheroapi.com/>並按一下&#x200B;**使用GitHub登入**&#x200B;以取得存取權杖。
 
    >[!NOTE]
    >
    >若您無法存取自己的超級英雄語彙基元，您可以使用這個共用語彙基元：10110256647253588。 關於呼叫超級英雄 API 的次數，請多考慮他人的權益，讓這個共用的語彙基元可以供所有人使用。
 
-1. 開啟「取得超級英雄外型」的設定並把 URL 變更為 `https://www.superheroapi.com/api/[access- token]/332/appearance`。 請務必在 URL 中包含您的存取語彙基元。 按一下「確定」。
-1. 開啟「取得超級英雄能力」的設定並把 URL 變更為 `https://www.superheroapi.com/api/[access- token]/332/powerstats`。 請務必在 URL 中包含您的存取語彙基元。 按一下「確定」。
+1. 開啟「取得超級英雄外型」的設定並把 URL 變更為 `https://superheroapi.com/api/[access- token]/332/appearance`。 請務必在 URL 中包含您的存取語彙基元。 按一下「確定」。
+1. 開啟「取得超級英雄能力」的設定並把 URL 變更為 `https://superheroapi.com/api/[access- token]/332/powerstats`。 請務必在 URL 中包含您的存取語彙基元。 按一下「確定」。
 1. 在每個超級英雄模組上按一下右鍵並選取「僅執行這個模組」。 這樣會產生您在對應時需要查看的資料結構。
 1. 執行兩者後，將每個 URL 欄位中的數字「332」變更為從剖析 CSV 模組對應而來的第 4 欄。
 
@@ -79,7 +83,7 @@ ht-degree: 100%
 
    **現在，您可以按一下超級英雄路徑中的設定多個變數模組，並更新名稱、身高、體重和能力。**
 
-1. 更新取自「取得超級英雄能力」模組 (模組 8) 的「名稱」和「能力」欄位。
+1. 更新「取得超級英雄能力模組 — 模組8」中的「名稱」欄位和「能力」欄位。
 
    ![路由器影像 5](../12-exercises/assets/routers-walkthrough-5.png)
 
