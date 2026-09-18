@@ -1,6 +1,6 @@
 ---
 title: 路由器操作示範
-description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何使用路由器讓寶可夢與超級英雄的套件循正確的路徑傳遞。
+description: 瞭解如何使用路由器將Pokémon與Superheroes組合傳遞到[!DNL Adobe Workfront Fusion]中的正確路徑。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 doc-type: video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:35:48.709Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 873
-ht-degree: 98%
-
+source-wordcount: '873'
+ht-degree: 96%
 ---
-
 # 路由器操作示範
 
 使用路由器將寶可夢與超級英雄套件依正確路徑傳遞，並為每個角色建立一項任務。
@@ -43,9 +47,9 @@ Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自�
 
 ## 練習 URL
 
-* 超級英雄 API 網站：`https://www.superheroapi.com/`
-* 練習用的第一個 URL：`https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
-* 練習用的第二個 URL：`https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
+* 超級英雄 API 網站：`https://superheroapi.com/`
+* 練習用的第一個 URL：`https://superheroapi.com/api/{access-token}/{character-id}/appearance`
+* 練習用的第二個 URL：`https://superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 若您無法存取自己的超級英雄語彙基元，您可以使用這個共用語彙基元：10110256647253588。 關於呼叫超級英雄 API 的次數，請多考慮他人的權益，讓這個共用的語彙基元可以供所有人使用。
 
