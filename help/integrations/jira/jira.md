@@ -1,6 +1,6 @@
 ---
-title: 利用  [!DNL Jira]  整合功能建立可見度
-description: 快速瞭解  [!DNL Jira]  整合功能如何讓您的團隊工作情況擁有可見度。
+title: 利用 [!DNL Jira] 整合功能建立可見度
+description: 快速瞭解[!DNL Jira]整合如何建立您團隊正在做什麼的可見度。
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,24 +9,29 @@ level: Beginner
 team: Technical Marketing
 jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
+autotag-review: '2026-05-06T16:03:35.649Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+  - id: a1f87682-0525-5459-aa06-3560bb4c3b2a
+    internal-label: Workfront Integrations and Apps
 subfeature_v2:
   - id: b8ea32d4-f1fe-4c71-8871-afe5a702a009
+    internal-label: Adobe Workfront for Jira
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:03:35.649Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 100%
-
+source-wordcount: '374'
+ht-degree: 95%
 ---
-
 # 利用 [!DNL Jira] 整合功能建立可見度
 
 [!DNL Jira] 是協助開發和技術支援團隊追蹤專案和問題的產品。 雖然許多團隊使用 Jira 來追蹤任務層級的進度，但他們使用 [!DNL Workfront] 進行真正的專案管理，因為後者能夠從高層次檢視進度。 藉由 [!DNL Jira] 原生整合，這項資訊可以在兩個應用程式之間自動轉移。

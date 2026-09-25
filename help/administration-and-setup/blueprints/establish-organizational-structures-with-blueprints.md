@@ -8,23 +8,35 @@ team: Technical Marketing
 role: Admin
 level: Beginner, Intermediate
 jira: KT-10102
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
-
 ---
-
 
 
 # 使用藍圖建立組織結構
 
-Workfront 管理員可以使用藍圖來協助建置組織結構。這項功能位在主選單，可以協助您簡化在環境中建立公司、群組、角色和團隊的過程。
+Workfront 管理員可以使用藍圖來協助建置組織結構。 這項功能位在主選單，可以協助您簡化在環境中建立公司、群組、角色和團隊的過程。
 
 ![組織結構與[!UICONTROL 藍圖]](assets/BP_orgstructure_01.png)
 
-要在生產或沙箱環境中安裝組織結構藍圖，請在主選單中選取「藍圖」。瀏覽目錄或使用右側篩選選單中的「依類型篩選」選項來尋找並安裝正確的藍圖。
+要在生產或沙箱環境中安裝組織結構藍圖，請在主選單中選取「藍圖」。 瀏覽目錄或使用右側篩選選單中的「依類型篩選」選項來尋找並安裝正確的藍圖。
 
-安裝之前，請根據組織需求對應公司、群組、職務角色和團隊欄位。根據所選的藍圖，欄位會有所不同。
+安裝之前，請根據組織需求對應公司、群組、職務角色和團隊欄位。 根據所選的藍圖，欄位會有所不同。
 
 <!--Note: There are two types of Blueprints—Project Template and Organizational Structure. For more information on using blueprints and steps you need to take following installation, refer to the Blueprints articles.-->

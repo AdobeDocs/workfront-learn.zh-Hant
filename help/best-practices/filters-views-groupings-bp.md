@@ -6,27 +6,35 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-TQID: https://experienceleague.adobe.com/hTZWn-fzcprOD-b7CU9k6JWfUh0VBCok2g8tG1c6fYE
+TQID: 'https://experienceleague.adobe.com/hTZWn-fzcprOD-b7CU9k6JWfUh0VBCok2g8tG1c6fYE'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Administration
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 846
+source-wordcount: '846'
 ht-degree: 100%
-
 ---
-
 # 最佳實務 - 篩選器、視圖與分組
 
 ## 什麼是 Adobe Workfront「最佳實務」？
@@ -67,9 +75,9 @@ ht-degree: 100%
 
 針對您想查看每個段落的資料建立一次性的報告不但耗費時間，也讓 Workfront 系統切分成多個區塊。
 
-有關如何建立附有提示的報告說明，請參閱「[了解報告設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=zh-Hant)」影片中標有「如何設定和使用報告提示」的章節。
+有關如何建立附有提示的報告說明，請參閱「[了解報告設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html)」影片中標有「如何設定和使用報告提示」的章節。
 
-有關如何建立附有自訂提示的報告說明，請參閱「[建立自訂提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=zh-Hant)」。
+有關如何建立附有自訂提示的報告說明，請參閱「[建立自訂提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html)」。
 
 </br>
 </br>
@@ -82,7 +90,7 @@ ht-degree: 100%
 
 數量越少，獲得越多。 隱藏與使用者日常工作流程無關的篩選器、視圖和分組清單選項，可以縮小清單範圍，讓使用者更容易迅速找到他們需要的內容。
 
-有關如何使用版本配置範本隱藏篩選器、視圖或分組的說明，請參閱「[使用版本配置範本自訂報告清單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=zh-Hant)」。
+有關如何使用版本配置範本隱藏篩選器、視圖或分組的說明，請參閱「[使用版本配置範本自訂報告清單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html)」。
 
 </br>
 </br>
@@ -97,7 +105,7 @@ ht-degree: 100%
 
 透過版本配置範本來自訂您要讓使用者看見的資訊，也節省系統和群組管理員的時間，因為他們不必分別共用每一個篩選器、視圖或分組。
 
-有關如何使用版本配置範本共用篩選器、視圖或分組的說明，請參閱「[使用版本配置範本自訂報告清單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=zh-Hant)」。
+有關如何使用版本配置範本共用篩選器、視圖或分組的說明，請參閱「[使用版本配置範本自訂報告清單](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html)」。
 
 </br>
 </br>

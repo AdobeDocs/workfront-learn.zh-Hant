@@ -6,13 +6,20 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8810
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 100%
-
 ---
-
 # 從[!DNL Home]委派核准工作
 
 觀看這段影片，您將瞭解如何：
@@ -21,7 +28,7 @@ ht-degree: 100%
 * 結束委託期
 * 尋找已委派的核准工作
 
->[!VIDEO](https://video.tv.adobe.com/v/3446387/?quality=12&learn=on&enablevpops=1&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS
