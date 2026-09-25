@@ -41,7 +41,7 @@ ht-degree: 92%
 * 什麼是校訂？
 * 在 [!DNL Workfront] 中使用數位校訂的好處
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439131/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 校訂術語
 

@@ -39,4 +39,4 @@ ht-degree: 70%
 
 * 在 [!DNL Workfront] 中指派任務
 
->[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441528/?captions=chi_hant&quality=12&learn=on&enablevpops=1)

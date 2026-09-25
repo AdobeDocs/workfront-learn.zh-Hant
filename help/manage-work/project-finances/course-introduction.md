@@ -34,4 +34,4 @@ ht-degree: 59%
 * 追蹤成本和收入
 * 處理費用
 
->[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436441/?captions=chi_hant&quality=12&learn=on&enablevpops=1)

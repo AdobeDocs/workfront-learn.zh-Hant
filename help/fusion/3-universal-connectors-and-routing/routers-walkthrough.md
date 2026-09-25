@@ -42,7 +42,7 @@ ht-degree: 96%
 
 Workfront 建議先觀看練習的操作示範影片，然後再嘗試在您自己的環境中重新建立練習。
 
->[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3503591/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 練習 URL
 
