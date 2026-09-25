@@ -124,7 +124,7 @@ Workfront 的極大優點在於其廣泛的自訂功能。 而 Workfront 的難�
 </br>
 
 更多資訊請參閱：
-* [網路研討會：接管繼承執行個體的秘訣](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
+* [網路研討會：接管繼承執行個體的秘訣](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=zh-Hant)
 * [定義Workfront實作的目標](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=zh-Hant)
-* [部落格：高階主管的贊助與領導力的價值](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [部落格： Adobe Workfront KPI簡介](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [部落格：高階主管的贊助與領導力的價值](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=zh-Hant)
+* [部落格： Adobe Workfront KPI簡介](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=zh-Hant)
