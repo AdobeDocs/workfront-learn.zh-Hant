@@ -1,6 +1,6 @@
 ---
 title: 附加和編輯現有核准流程
-description: 瞭解如何在[!DNL  Workfront]中使用和編輯專案、任務或問題的現有核准流程。
+description: 瞭解如何在[!DNL &#x200B; Workfront]中使用和編輯專案、任務或問題的現有核准流程。
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg

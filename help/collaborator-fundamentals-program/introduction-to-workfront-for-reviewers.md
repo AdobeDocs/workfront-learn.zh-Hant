@@ -1,6 +1,6 @@
 ---
 title: 審閱者適用的 [!DNL Workfront] 簡介
-description: 瞭解擁有檢閱授權的使用者如何使用[!DNL  Workfront]。
+description: 瞭解擁有檢閱授權的使用者如何使用[!DNL &#x200B; Workfront]。
 activity: use
 type: Tutorial
 team: Technical Marketing
@@ -22,6 +22,6 @@ ht-degree: 70%
 ---
 # 審閱者適用的 [!DNL Workfront] 簡介
 
-觀看這段影片，您將瞭解如何利用「審閱」授權來使用 [!DNL  Workfront]。
+觀看這段影片，您將瞭解如何利用「審閱」授權來使用 [!DNL &#x200B; Workfront]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)

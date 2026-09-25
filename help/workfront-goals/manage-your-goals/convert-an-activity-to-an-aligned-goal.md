@@ -1,6 +1,6 @@
 ---
 title: 將活動轉換成調整一致的目標
-description: 瞭解如何在[!DNL   Goals]中將活動或結果轉換為校準的目標。
+description: 瞭解如何在[!DNL &#x200B;  Goals]中將活動或結果轉換為校準的目標。
 activity: use
 feature: Workfront Goals
 type: Tutorial

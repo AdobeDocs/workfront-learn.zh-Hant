@@ -1,6 +1,6 @@
 ---
 title: 在[!DNL Workfront Goals]中檢視個別目標更新
-description: 瞭解如何在[!DNL   Goals]的[!UICONTROL Pulse]更新流中檢視您的個別目標。
+description: 瞭解如何在[!DNL &#x200B;  Goals]的[!UICONTROL Pulse]更新流中檢視您的個別目標。
 activity: use
 feature: Workfront Goals
 type: Tutorial

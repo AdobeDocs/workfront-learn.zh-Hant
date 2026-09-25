@@ -1,6 +1,6 @@
 ---
 title: 管理校訂註解
-description: 瞭解如何套用註解動作、解決註解及篩選註解欄，以在[!DNL  Workfront]中管理校訂註解。
+description: 瞭解如何套用註解動作、解決註解及篩選註解欄，以在[!DNL &#x200B; Workfront]中管理校訂註解。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

@@ -1,6 +1,6 @@
 ---
 title: 在[!DNL Workfront Goals]中進行質化更新
-description: 瞭解如何在[!DNL   Goals]中進行質化或書面更新。
+description: 瞭解如何在[!DNL &#x200B;  Goals]中進行質化或書面更新。
 activity: use
 feature: Workfront Goals
 type: Tutorial

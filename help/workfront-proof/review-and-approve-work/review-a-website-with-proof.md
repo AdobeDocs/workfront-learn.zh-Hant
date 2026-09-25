@@ -1,6 +1,6 @@
 ---
 title: 使用校訂來審閱網站
-description: 瞭解如何在[!DNL  Workfront]中開啟靜態或互動式網站校訂並進行註解。
+description: 瞭解如何在[!DNL &#x200B; Workfront]中開啟靜態或互動式網站校訂並進行註解。
 activity: use
 feature: Workfront Proof
 type: Tutorial

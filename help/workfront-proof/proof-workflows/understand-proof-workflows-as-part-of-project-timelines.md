@@ -1,6 +1,6 @@
 ---
 title: 包含在專案時間表當中的校訂工作流程
-description: 瞭解在[!DNL  Workfront]中混合檢閱和核准程式與專案時間表的建議。
+description: 瞭解在[!DNL &#x200B; Workfront]中混合檢閱和核准程式與專案時間表的建議。
 activity: use
 feature: Workfront Proof
 type: Tutorial

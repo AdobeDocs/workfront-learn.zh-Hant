@@ -1,6 +1,6 @@
 ---
 title: 開始使用自動化工作流程
-description: 瞭解[!DNL  Workfront]中的自動化校樣工作流程以及其如何與基本工作流程不同。
+description: 瞭解[!DNL &#x200B; Workfront]中的自動化校樣工作流程以及其如何與基本工作流程不同。
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

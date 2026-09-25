@@ -1,6 +1,6 @@
 ---
 title: 課程簡介
-description: 瞭解如何在[!DNL  Workfront]中使用專案預算、追蹤成本和收入，以及處理費用。
+description: 瞭解如何在[!DNL &#x200B; Workfront]中使用專案預算、追蹤成本和收入，以及處理費用。
 activity: use
 feature: Work Management
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: 在[!UICONTROL 情境規劃工具]中存取計劃
-description: 瞭解使用者需要[!DNL  Workfront]哪些許可權才能存取[!UICONTROL 情境規劃工具]中的計畫。
+description: 瞭解使用者需要[!DNL &#x200B; Workfront]哪些許可權才能存取[!UICONTROL 情境規劃工具]中的計畫。
 feature: Resource Management
 type: Tutorial
 role: Leader, User

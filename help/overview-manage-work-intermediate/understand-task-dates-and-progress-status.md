@@ -1,6 +1,6 @@
 ---
 title: 了解日期類型和進度狀態
-description: 瞭解如何在[!DNL  Workfront]中檢視不同的日期型別，並使用進度狀態來協助您追蹤工作進度。
+description: 瞭解如何在[!DNL &#x200B; Workfront]中檢視不同的日期型別，並使用進度狀態來協助您追蹤工作進度。
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg

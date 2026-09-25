@@ -1,6 +1,6 @@
 ---
 title: 審閱並回應校訂註解
-description: 瞭解如何從校訂檢視器和[!DNL  Workfront]的[!UICONTROL 更新]區段檢視和回應校訂評論。
+description: 瞭解如何從校訂檢視器和[!DNL &#x200B; Workfront]的[!UICONTROL 更新]區段檢視和回應校訂評論。
 activity: use
 feature: Workfront Proof
 type: Tutorial

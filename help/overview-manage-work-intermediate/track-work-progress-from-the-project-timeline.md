@@ -1,6 +1,6 @@
 ---
 title: 根據專案時間表追蹤進度
-description: 瞭解如何使用完成百分比、狀態、指派或限制，從[!DNL  Workfront]中的專案時間表追蹤工作進度。
+description: 瞭解如何使用完成百分比、狀態、指派或限制，從[!DNL &#x200B; Workfront]中的專案時間表追蹤工作進度。
 activity: use
 team: Technical Marketing
 feature: Work Management

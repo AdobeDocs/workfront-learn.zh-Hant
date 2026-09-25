@@ -1,6 +1,6 @@
 ---
 title: 瞭解校訂詳細資料
-description: 透過摘要面板和[!UICONTROL 檔案詳細資訊]頁面，深入瞭解[!DNL  Workfront]中校訂背後的詳細資訊。
+description: 透過摘要面板和[!UICONTROL 檔案詳細資訊]頁面，深入瞭解[!DNL &#x200B; Workfront]中校訂背後的詳細資訊。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -63,7 +63,7 @@ ht-degree: 95%
 
 此動作會將您帶往「[!UICONTROL 文件詳細資訊]」頁面，並在左側面板顯示其他各種選項。
 
-![影像顯示 [!DNL  Workfront] 中的校訂頁面。](assets/document-details.png)
+![影像顯示 [!DNL &#x200B; Workfront] 中的校訂頁面。](assets/document-details.png)
 
 需要注意的是，檢視校訂流程相關資訊的能力，取決於您在 [!DNL Workfront] 中的校訂權限。
 
@@ -83,7 +83,7 @@ ht-degree: 95%
 
 ![影像顯示校訂頁面的「[!UICONTROL 校訂檢視器設定]」，並突顯標示左側面板選單中的「[!UICONTROL 校訂檢視器設定]」選項](assets/proofing-settings-on-details-page.png)
 
-* **[!UICONTROL 需要登入。 此校訂無法與訪客使用者共用 ]—** 校訂僅可與擁有 [!DNL Workfront] 校訂授權的人員共用。
+* **[!UICONTROL 需要登入。 此校訂無法與訪客使用者共用 &#x200B;]—** 校訂僅可與擁有 [!DNL Workfront] 校訂授權的人員共用。
 * **[!UICONTROL 要求以電子形式簽署決策] —**&#x200B;共用校訂時，此選項要求收件者需擁有 [!DNL Workfront] 的校訂權限，並應於做出校訂決策時輸入校訂密碼，以「電子形式簽署」校訂。 (備註：校訂密碼與您的 [!DNL Workfront] 密碼不同。 驗證密碼不容易存取，因此大多數收件者不會知道此密碼。) Adobe建議在使用此功能之前先與您的[!DNL Workfront]顧問交談。
 * **[!UICONTROL 做出所有必要的決定後鎖定校訂] —** 在完成校訂的每一項決定之後，此選項會鎖定校訂，避免再做任何註解、回覆、決定等。 這樣會鎖定整個校訂版本，而不僅是校訂工作流程的特定階段。
 * **[!UICONTROL 允許下載原始檔案] —** 校訂收件者可以從校訂檢視器下載校訂的原始來源檔案。

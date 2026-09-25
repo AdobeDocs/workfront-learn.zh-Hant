@@ -1,6 +1,6 @@
 ---
 title: 使用版面範本自訂物件區域
-description: 瞭解如何使用版面配置範本在[!DNL  Workfront]的左側面板選單中新增、移除和重新排列專案。
+description: 瞭解如何使用版面配置範本在[!DNL &#x200B; Workfront]的左側面板選單中新增、移除和重新排列專案。
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

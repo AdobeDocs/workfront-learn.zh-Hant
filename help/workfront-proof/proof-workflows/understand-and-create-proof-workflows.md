@@ -1,6 +1,6 @@
 ---
 title: 瞭解作為專案時間表一部分的校訂工作流程
-description: 瞭解要收集哪些資訊來建立校訂工作流程，以及[!DNL  Workfront]中基本和進階校訂工作流程之間的差異。
+description: 瞭解要收集哪些資訊來建立校訂工作流程，以及[!DNL &#x200B; Workfront]中基本和進階校訂工作流程之間的差異。
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: 了解校訂的好處
-description: 瞭解什麼是校訂以及在[!DNL  Workfront]中使用數位校訂的好處。
+description: 瞭解什麼是校訂以及在[!DNL &#x200B; Workfront]中使用數位校訂的好處。
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -45,7 +45,7 @@ ht-degree: 92%
 
 ## 校訂術語
 
-在您深入了解 [!DNL  Workfront] 中的校訂設定之前，先熟悉校訂的特定術語。 這個教學課程中會頻繁使用這些詞語。
+在您深入了解 [!DNL &#x200B; Workfront] 中的校訂設定之前，先熟悉校訂的特定術語。 這個教學課程中會頻繁使用這些詞語。
 
 * **校訂 —** 檔案的數位版本，可以透過 [!DNL Workfront's] 校訂檢視器進行審閱、標記和核准。
 * **校訂工作流程 —** 在 [!DNL Workfront] 中建立、路由和管理校訂的流程。 為了完成這些動作所執行的步驟。

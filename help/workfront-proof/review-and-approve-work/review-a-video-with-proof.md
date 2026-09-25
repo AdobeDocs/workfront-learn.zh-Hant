@@ -1,6 +1,6 @@
 ---
 title: 使用校訂來審閱影片
-description: 瞭解如何使用[!DNL  Workfront]中的校訂來調整檢視器設定及新增時間戳記評論到視訊。
+description: 瞭解如何使用[!DNL &#x200B; Workfront]中的校訂來調整檢視器設定及新增時間戳記評論到視訊。
 activity: use
 feature: Workfront Proof
 type: Tutorial

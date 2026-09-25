@@ -1,6 +1,6 @@
 ---
 title: 更新並複製[!DNL Scenario Planner]中的計畫
-description: 瞭解如何在[!DNL  Workfront] [!DNL Scenario Planner]中更新計畫或複製計畫。
+description: 瞭解如何在[!DNL &#x200B; Workfront] [!DNL Scenario Planner]中更新計畫或複製計畫。
 feature: Resource Management
 type: Tutorial
 role: Leader, User

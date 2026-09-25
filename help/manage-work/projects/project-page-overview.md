@@ -1,6 +1,6 @@
 ---
 title: 了解專案頁面
-description: 瞭解[!DNL  Workfront]中專案頁面的主要功能，以協助您規劃及管理專案。
+description: 瞭解[!DNL &#x200B; Workfront]中專案頁面的主要功能，以協助您規劃及管理專案。
 activity: use
 team: Technical Marketing
 feature: Work Management

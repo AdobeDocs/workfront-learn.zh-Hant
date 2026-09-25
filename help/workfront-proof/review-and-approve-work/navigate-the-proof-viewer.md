@@ -1,6 +1,6 @@
 ---
 title: 導覽校訂檢視器
-description: 瞭解如何在[!DNL  Workfront]校訂檢視器中移動校訂、放大/縮小內容、使用縮圖欄、篩選校訂評論等等。
+description: 瞭解如何在[!DNL &#x200B; Workfront]校訂檢視器中移動校訂、放大/縮小內容、使用縮圖欄、篩選校訂評論等等。
 activity: use
 feature: Workfront Proof
 type: Tutorial
