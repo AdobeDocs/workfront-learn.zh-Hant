@@ -1,6 +1,6 @@
 ---
 title: 複製現有目標
-description: 瞭解在  [!DNL Workfront Goals] 中如何複製現有目標。
+description: 瞭解如何在[!DNL Workfront Goals]中複製現有目標。
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -9,13 +9,26 @@ role: User
 level: Beginner
 jira: KT-10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '530'
-ht-degree: 100%
-
+ht-degree: 98%
 ---
-
 # 複製現有目標
 
 假設現在是季末，您想要重新建立現有目標，以利下期運作。 或者是您可能未能達成目標而需要延長至下一時段。 建立該目標的理想選項是什麼？ 您想要複製並修改現有目標。

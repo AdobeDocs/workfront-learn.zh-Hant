@@ -1,6 +1,6 @@
 ---
 title: 進階彙總操作示範
-description: 瞭解在  [!DNL Adobe Workfront Fusion] 中如何呼叫網頁服務傳回有關多個國家的詳細資料，然後確認人口並依子區域分組。
+description: 瞭解如何呼叫Web服務來傳回多個國家/地區的詳細資料，並識別全部在[!DNL Adobe Workfront Fusion]中按子區域分組的母體。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:33:27.197Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:33:27.197Z'
-source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 258
-ht-degree: 84%
-
+source-wordcount: '258'
+ht-degree: 76%
 ---
-
 # 進階彙總操作示範
 
 要求網頁服務傳回關於多個國家的詳細資料，並確認所有國家的總人口，再以子區域分組。

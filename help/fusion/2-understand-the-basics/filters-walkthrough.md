@@ -1,6 +1,6 @@
 ---
 title: 篩選器操作示範
-description: 了解在  [!DNL Adobe Workfront Fusion] 的模組中，如何在兩個模組之間新增篩選器。
+description: 瞭解如何在[!DNL Adobe Workfront Fusion]中模組的兩個模組之間新增篩選器。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:38:36.375Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:38:36.375Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 228
-ht-degree: 92%
-
+source-wordcount: '228'
+ht-degree: 86%
 ---
-
 # 篩選器操作示範
 
 使用您之前建立的「超越基本對應」操作示範，在模組中於兩個模組之間新增篩選器，僅建立專案清單中專案顏色為「紅色」的專案。

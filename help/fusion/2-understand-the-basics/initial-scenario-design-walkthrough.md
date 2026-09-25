@@ -1,6 +1,6 @@
 ---
 title: 初始情境設計操作示範
-description: 了解在  [!DNL Adobe Workfront Fusion] 中如何建立資料夾和新情境、使用情境設計工具以及建立基本情境。
+description: 瞭解在 [!DNL Adobe Workfront Fusion] 中如何建立資料夾和新情境、使用情境設計工具以及建立基本情境。
 short-description: 在這裡，您可以觀看有關建立情境的練習操作示範影片。
 activity: use
 team: Technical Marketing
@@ -13,24 +13,26 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:38:59.082Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:38:59.082Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: '146'
 ht-degree: 73%
-
 ---
-
 # 初始情境設計操作示範
 
 針對專案清單 CSV 檔案中每一列，在 Workfront 中建立一個新專案。

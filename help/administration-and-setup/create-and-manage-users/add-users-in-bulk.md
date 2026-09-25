@@ -10,16 +10,26 @@ level: Beginner
 thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '226'
 ht-degree: 100%
-
 ---
-
 # 大量新增使用者
 
-一次新增一位使用者可能耗時且工作量過於巨大。[!DNL Workfront] 允許系統管理員使用匯入功能同時新增多位使用者。
+一次新增一位使用者可能耗時且工作量過於巨大。 [!DNL Workfront] 允許系統管理員使用匯入功能同時新增多位使用者。
 
 ![[!UICONTROL 匯入人員]選單選項](assets/admin-fund-adding-users-5.png)
 
@@ -33,13 +43,13 @@ ht-degree: 100%
 
 ![「匯入人員」視窗](assets/admin-fund-adding-users-6.png)
 
-匯入的使用者出現在「[!UICONTROL 使用者]」清單。如有需要，編輯個別或多個使用者的資訊。
+匯入的使用者出現在「[!UICONTROL 使用者]」清單。 如有需要，編輯個別或多個使用者的資訊。
 
 ![使用者清單](assets/admin-fund-adding-users-7.png)
 
 ## 匯入使用者：使用快速啟動
 
-[!DNL Workfront] 提供快速啟動範本，協助將資料匯入系統。此範本也可以用來匯入使用者。在使用快速啟動之前，[!DNL Workfront] 建議您與 [!DNL Workfront] 顧問合作，因為有一些必須注意的考量事項。
+[!DNL Workfront] 提供快速啟動範本，協助將資料匯入系統。 此範本也可以用來匯入使用者。 在使用快速啟動之前，[!DNL Workfront] 建議您與 [!DNL Workfront] 顧問合作，因為有一些必須注意的考量事項。
 
 <!--
 paragraph below needs URL to article

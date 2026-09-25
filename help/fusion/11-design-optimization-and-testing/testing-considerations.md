@@ -1,6 +1,6 @@
 ---
 title: 測試和啟動
-description: 了解如何一致地反覆執行設計和測試，並在使用  [!DNL Adobe Workfront Fusion] 時建立可共用的詳細文件。
+description: 瞭解如何在使用[!DNL Adobe Workfront Fusion]時持續反複執行設計與測試，並建立詳細且可共用的檔案。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:47:07.248Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:47:07.248Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 333
-ht-degree: 94%
-
+source-wordcount: '333'
+ht-degree: 89%
 ---
-
 # 測試和啟動
 
 Workfront Fusion 測試應著重於檢查已連接的軟體平台之間的輸入和輸出資料以及在 Workfront Fusion 情境中執行的資料轉換。 此外亦進行 Workfront Fusion 整合測試，以評估您的情境是否符合特定業務要求。 基本上我們進行 Workfront Fusion 測試是為了確保整合之運作符合預期。

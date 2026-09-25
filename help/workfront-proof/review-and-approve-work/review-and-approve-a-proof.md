@@ -1,6 +1,6 @@
 ---
 title: 審閱及核准校訂
-description: 瞭解在  [!DNL Workfront] 中如何存取校訂及留下註解、使用記號來指出必要變更、回覆校訂註解，以及對校訂做出決定。
+description: 瞭解如何存取和評論校訂、使用標籤來指示必要的變更、回覆校訂評論，以及在[!DNL Workfront]中就校訂做出決定。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,24 +11,31 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
+autotag-review: '2026-05-05T19:55:03.417Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:55:03.417Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 727
-ht-degree: 100%
-
+source-wordcount: '727'
+ht-degree: 96%
 ---
-
 # 審閱及核准校訂
 
 在開始審閱校訂之前，請確保您知道別人對於這項工作的預期。 您在校訂工作流程中扮演什麼角色？ 審閱校訂、核准校訂，或是兩者皆有？
@@ -43,7 +50,7 @@ ht-degree: 100%
 
 當資產準備好進行審閱和核准時，您會收到電子郵件通知。
 
-![影像顯示 [!DNL  Workfront] 中有一封新的校訂電子郵件請求進行兩份校訂的審閱與核准。](assets/new-proof-emails.png)
+![影像顯示 [!DNL &#x200B; Workfront] 中有一封新的校訂電子郵件請求進行兩份校訂的審閱與核准。](assets/new-proof-emails.png)
 
 請注意，此一校訂連結是唯一提供給您使用。 如果您與他人共用連結，他們留下的任何註解和記號都會標記您的名稱。
 
@@ -60,7 +67,7 @@ ht-degree: 100%
 
 若您正使用 [!DNL Workfront] 並收到核准校訂的要求，您會在 [!DNL Workfront] [!UICONTROL 首頁]的「[!UICONTROL 我的核准]」小工具中看到指派。
 
-![[!DNL Workfront]​[!UICONTROL  首頁]上「[!UICONTROL 我的核准] 」小工具的影像。](assets/open-proof-from-home.png)
+![[!DNL Workfront]&#x200B;[!UICONTROL &#x200B; 首頁]上「[!UICONTROL 我的核准] 」小工具的影像。](assets/open-proof-from-home.png)
 
 值得注意的是，唯有在您被指派負責核准時，校訂才會出現在 [!DNL Workfront] [!UICONTROL 首頁]。 若您僅需審閱校訂，便不會顯示在 [!DNL Workfront] [!UICONTROL 首頁]上。
 
@@ -74,7 +81,7 @@ ht-degree: 100%
 
 如果您通常在 [!DNL Workfront] 中處理專案、任務或問題，您可能偏好直接在該項目的「[!DNL Documents]」區段直接開啟校訂。
 
-![影像顯示在 [!DNL  Workfront] 任務中的「[!UICONTROL 文件]」區段，其中突顯標示「[!UICONTROL 開啟校訂]」連結。](assets/open-proof-from-documents.png)
+![影像顯示在 [!DNL &#x200B; Workfront] 任務中的「[!UICONTROL 文件]」區段，其中突顯標示「[!UICONTROL 開啟校訂]」連結。](assets/open-proof-from-documents.png)
 
 1. 按一下專案、任務或問題的名稱。
 2. 在項目頁面的左側面板選單中按一下「[!UICONTROL 文件]」。

@@ -12,24 +12,29 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
+autotag-review: '2026-05-06T14:31:42.945Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-06T14:31:42.945Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 284
+source-wordcount: '284'
 ht-degree: 4%
-
 ---
-
 # 使用Portfolio最佳化工具最佳化專案優先順序
 
 影片說明如何使用Workfront中的Portfolio最佳化工具來評估專案組合併排定其優先順序。 首先&#x200B;要提交專案的業務案例、將專案狀態變更為「已要求」，並啟用核准或拒絕專案的選項。 在核准之前，使用&#x200B;者可以使用Portfolio最佳化工具將專案與產品組合中的其他專案進行比較。 &#x200B;
