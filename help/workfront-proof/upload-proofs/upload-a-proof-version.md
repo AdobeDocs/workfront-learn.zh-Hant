@@ -39,7 +39,7 @@ ht-degree: 88%
 * 上傳新版本的校訂
 * 對版本套用校訂工作流程
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441863/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 從校訂檢視器上傳版本
 

@@ -40,7 +40,7 @@ ht-degree: 88%
 * 產生校訂同時新增工作流程
 * 建立校訂後新增或編輯工作流程
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443481/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 
 ## 誰可以上傳文件？

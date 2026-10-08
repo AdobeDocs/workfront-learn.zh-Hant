@@ -45,7 +45,7 @@ ht-degree: 81%
 * 在 [!DNL &#x200B; Workfront] 中調整校訂使用者設定
 * 在校訂後端設定中調整校訂使用者設定
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432929/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 <!--
 Lean More URLs

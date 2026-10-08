@@ -39,7 +39,7 @@ ht-degree: 93%
 * 上傳網站作為靜態校訂
 * 上傳網站作為互動式校訂
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445078/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 
 ## 互動式內容考量事項
