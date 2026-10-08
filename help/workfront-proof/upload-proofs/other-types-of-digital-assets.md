@@ -1,6 +1,6 @@
 ---
 title: 上傳影片的校訂
-description: 瞭解如何上傳影片以便在  [!DNL  Workfront] 進行校訂。
+description: 瞭解如何在[!DNL  Workfront]中上傳視訊以進行校訂。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,27 @@ level: Beginner
 thumbnail: upload-a-proof-video.png
 jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
+autotag-review: '2026-05-05T19:52:09.356Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:52:09.356Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 285
-ht-degree: 100%
-
+source-wordcount: '285'
+ht-degree: 96%
 ---
-
 # 上傳影片的校訂
 
 [!DNL Workfront’s]校訂功能並不限於靜態的檔案，如 PDF、試算表或影像。 [!DNL Workfront] 支援超過 150 種檔案類型，包括最大 4 GB 的影片與網頁截圖。

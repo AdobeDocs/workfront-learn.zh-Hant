@@ -12,35 +12,39 @@ jira: KT-8830
 last-substantial-update: '2024-01-24T00:00:00.000Z'
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
+autotag-review: '2026-05-05T20:09:06.617Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:09:06.617Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 435
+source-wordcount: '435'
 ht-degree: 91%
-
 ---
-
 # 建立自動化工作流程範本
 
 觀看這段影片，您將了解如何：
 
-* 建立 [!DNL &#x200B; Workfront] 校訂的自動化工作流程範本
+* 建立 [!DNL  Workfront] 校訂的自動化工作流程範本
 * 指派校訂收件者
 * 設定審閱和核准流程的截止期限
 * 與其他人共用自動化工作流程範本
 
->[!VIDEO](https://video.tv.adobe.com/v/3454262/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
 
 ## 其他階段啟動選項
 

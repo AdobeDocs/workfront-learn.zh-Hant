@@ -1,6 +1,6 @@
 ---
 title: 了解電子郵件警報和校訂通知
-description: 了解  [!DNL  Workfront] 中電子郵件警報和校訂通知之間的區別。
+description: 瞭解[!DNL  Workfront]中電子郵件警示與校樣通知之間的差異。
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -9,24 +9,27 @@ thumbnail: email-alert-vs-proof-notifications.png
 jira: KT-10174
 last-substantial-update: '2024-01-24T00:00:00.000Z'
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
+autotag-review: '2026-05-05T20:07:01.396Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T20:07:01.396Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 307
-ht-degree: 100%
-
+source-wordcount: '307'
+ht-degree: 96%
 ---
-
 # 了解電子郵件警報和校訂通知
 
 電子郵件警報與校訂通知電子郵件不同。 若有新的校訂內容指派給您審閱、校訂未如期提交，或是有新版校訂需要您審閱時，您會收到校訂通知電子郵件。

@@ -9,24 +9,27 @@ role: Admin
 level: Intermediate
 jira: KT-10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
+autotag-review: '2026-05-05T20:32:27.177Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:32:27.177Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 411
+source-wordcount: '411'
 ht-degree: 100%
-
 ---
-
 # 分析並計劃 [!UICONTROL Workfront DAM] 策略
 
 在開始為貴組織設定 [!UICONTROL Workfront DAM] 之前，務必先建立組織策略與中繼資料/關鍵字策略。
@@ -41,13 +44,13 @@ ht-degree: 100%
 * **關鍵字分類法** — 關鍵字是關於資產的描述性詞語。 分類法是預先定義的詞語清單。使用者要在資產中新增關鍵字時可從中選取詞語。 分類法是控制關鍵字設定與維持一致性的關鍵。
 * **工作流程** — 成功使用 [!UICONTROL Workfront DAM] 另一項關鍵步驟是建立組織的工作流程。 這已經超過誰負責上傳資產的範圍。 需要考慮的事 (此清單並未包含全部)：
 
-   * 資產應該上傳到哪些資料夾？
-   * 每個資產需要哪些中繼資料欄位？
-   * 在上傳之前或之後新增中繼資料？
-   * 誰可以上傳資產？
-   * 誰可以新增中繼資料？
-   * 是否需要使用關鍵字分類法？ 或者使用者可否使用其他關鍵字？
-   * 新增中繼資料的最佳實務是什麼？ 日期採用什麼格式？ 您輸入的是公司名稱或客戶名稱？
-   * 新使用者要如何取得 [!UICONTROL Workfront DAM] 登入？
+  * 資產應該上傳到哪些資料夾？
+  * 每個資產需要哪些中繼資料欄位？
+  * 在上傳之前或之後新增中繼資料？
+  * 誰可以上傳資產？
+  * 誰可以新增中繼資料？
+  * 是否需要使用關鍵字分類法？ 或者使用者可否使用其他關鍵字？
+  * 新增中繼資料的最佳實務是什麼？ 日期採用什麼格式？ 您輸入的是公司名稱或客戶名稱？
+  * 新使用者要如何取得 [!UICONTROL Workfront DAM] 登入？
 
 要獲得長期成功，規劃至關重要；在開始設定之前規劃系統結構、規劃中繼資料方案、規劃最終使用者培訓以及規劃持續維護。

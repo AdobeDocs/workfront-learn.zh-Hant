@@ -1,6 +1,6 @@
 ---
 title: 誰上傳校訂版本？
-description: 在  [!DNL  Workfront]  中負責上傳校訂版本的人可能不盡相同。 從常見的使用案例中學習，找出貴組織的理想設定。
+description: 在[!DNL  Workfront]中負責上傳校訂版本的人可能有所不同。 從常見的使用案例中學習，找出貴組織的理想設定。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -13,21 +13,24 @@ exl-id: e49ce586-ff9e-459c-967f-f974791612cb
 autotag-review: '2026-05-05T19:44:32.928Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 189
-ht-degree: 100%
-
+source-wordcount: '190'
+ht-degree: 94%
 ---
-
 # 誰上傳校訂版本？
 
 在不同的部門或團隊中，負責上傳校訂版本的人員可能不盡相同。 甚至可能取決於校訂的類型。

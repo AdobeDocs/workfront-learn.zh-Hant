@@ -1,6 +1,6 @@
 ---
 title: 編輯校訂工作流程
-description: 瞭解在  [!DNL  Workfront] 中如何更新校訂期限、新增使用者到現有工作流程，以及將現有工作流程切換成自動化工作流程。
+description: 瞭解如何更新校訂期限、將使用者新增至現有工作流程，以及在[!DNL  Workfront]中將現有工作流程切換為自動化工作流程。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,25 +11,29 @@ thumbnail: 335138.png
 jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
+autotag-review: '2026-05-05T20:01:16.425Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:01:16.425Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 130
-ht-degree: 100%
-
+source-wordcount: '130'
+ht-degree: 82%
 ---
-
 # 編輯校訂工作流程
 
 觀看這段影片，您將瞭解如何：
@@ -38,7 +42,7 @@ ht-degree: 100%
 * 新增使用者到現有工作流程
 * 將現有工作流程切換成自動化工作流程
 
->[!VIDEO](https://video.tv.adobe.com/v/3445463/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
 
 ## 換您來操作
 
