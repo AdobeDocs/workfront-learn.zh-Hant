@@ -1,6 +1,6 @@
 ---
 title: 誰上傳校訂版本？
-description: 在[!DNL  Workfront]中負責上傳校訂版本的人可能有所不同。 從常見的使用案例中學習，找出貴組織的理想設定。
+description: 在[!DNL &#x200B; Workfront]中負責上傳校訂版本的人可能有所不同。 從常見的使用案例中學習，找出貴組織的理想設定。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

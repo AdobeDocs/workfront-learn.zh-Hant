@@ -1,6 +1,6 @@
 ---
 title: 上傳網站的校訂
-description: 瞭解如何在[!DNL  Workfront]中上傳網站作為靜態校訂和互動式校訂。
+description: 瞭解如何在[!DNL &#x200B; Workfront]中上傳網站作為靜態校訂和互動式校訂。
 activity: use
 feature: Workfront Proof
 type: Tutorial

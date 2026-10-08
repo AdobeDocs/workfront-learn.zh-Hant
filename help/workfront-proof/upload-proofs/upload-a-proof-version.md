@@ -1,6 +1,6 @@
 ---
 title: 上傳校訂版本
-description: 瞭解如何上傳新版本的校訂，並將校訂工作流程套用到[!DNL  Workfront]中的版本。
+description: 瞭解如何上傳新版本的校訂，並將校訂工作流程套用到[!DNL &#x200B; Workfront]中的版本。
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: 了解電子郵件警報和校訂通知
-description: 瞭解[!DNL  Workfront]中電子郵件警示與校樣通知之間的差異。
+description: 瞭解[!DNL &#x200B; Workfront]中電子郵件警示與校樣通知之間的差異。
 feature: Workfront Proof
 type: Tutorial
 role: User

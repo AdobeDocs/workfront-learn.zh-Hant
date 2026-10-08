@@ -1,6 +1,6 @@
 ---
 title: 上傳影片的校訂
-description: 瞭解如何在[!DNL  Workfront]中上傳視訊以進行校訂。
+description: 瞭解如何在[!DNL &#x200B; Workfront]中上傳視訊以進行校訂。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

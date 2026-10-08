@@ -1,6 +1,6 @@
 ---
 title: 把文件轉換為校訂
-description: 瞭解如何產生[!DNL  Workfront]中已存在的檔案校訂、將工作流程新增到校訂中，以及在建立校訂後新增或編輯工作流程。
+description: 瞭解如何產生[!DNL &#x200B; Workfront]中已存在的檔案校訂、將工作流程新增到校訂中，以及在建立校訂後新增或編輯工作流程。
 activity: use
 feature: Workfront Proof
 type: Tutorial

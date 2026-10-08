@@ -1,6 +1,6 @@
 ---
 title: 編輯校訂工作流程
-description: 瞭解如何更新校訂期限、將使用者新增至現有工作流程，以及在[!DNL  Workfront]中將現有工作流程切換為自動化工作流程。
+description: 瞭解如何更新校訂期限、將使用者新增至現有工作流程，以及在[!DNL &#x200B; Workfront]中將現有工作流程切換為自動化工作流程。
 activity: use
 feature: Workfront Proof
 type: Tutorial

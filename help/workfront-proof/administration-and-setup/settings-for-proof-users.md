@@ -1,6 +1,6 @@
 ---
 title: 校訂使用者的設定
-description: 瞭解如何判斷哪些[!DNL  Workfront]使用者取得校訂授權，然後調整[!DNL Workfront]和後端設定中的使用者設定。
+description: 瞭解如何判斷哪些[!DNL &#x200B; Workfront]使用者取得校訂授權，然後調整[!DNL Workfront]和後端設定中的使用者設定。
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -36,13 +36,13 @@ ht-degree: 81%
 ---
 # 校訂使用者的設定
 
-開始在 [!DNL  Workfront] 中建立使用者之前，最好先完成您的全域 [!DNL Workfront] 和校訂系統設定。 有一些設定在建立使用者設定檔時便已套用。 但是，如果您在建立某些使用者之前並未設定，請別擔心...您可以在個別使用者設定檔中編輯相關設定。
+開始在 [!DNL &#x200B; Workfront] 中建立使用者之前，最好先完成您的全域 [!DNL Workfront] 和校訂系統設定。 有一些設定在建立使用者設定檔時便已套用。 但是，如果您在建立某些使用者之前並未設定，請別擔心...您可以在個別使用者設定檔中編輯相關設定。
 
 
 觀看這段影片，您將了解如何：
 
 * 決定哪些使用者獲得校訂授權
-* 在 [!DNL  Workfront] 中調整校訂使用者設定
+* 在 [!DNL &#x200B; Workfront] 中調整校訂使用者設定
 * 在校訂後端設定中調整校訂使用者設定
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)

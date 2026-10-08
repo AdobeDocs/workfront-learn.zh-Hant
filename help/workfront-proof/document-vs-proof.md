@@ -1,6 +1,6 @@
 ---
 title: 瞭解文件和校訂之間的差異
-description: 瞭解[!DNL  Workfront]中的檔案與校訂之間的差異。
+description: 瞭解[!DNL &#x200B; Workfront]中的檔案與校訂之間的差異。
 activity: use
 feature: Workfront Proof
 type: Tutorial

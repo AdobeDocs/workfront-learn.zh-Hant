@@ -1,6 +1,6 @@
 ---
 title: 將多個檔案合併為單一校訂
-description: 瞭解如何透過在[!DNL  Workfront]中將多個檔案合併為單一校訂來簡化校訂程式。
+description: 瞭解如何透過在[!DNL &#x200B; Workfront]中將多個檔案合併為單一校訂來簡化校訂程式。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

@@ -1,6 +1,6 @@
 ---
 title: 編輯自動化工作流程範本
-description: 瞭解如何在[!DNL  Workfront]中變更現有的自動化校訂工作流程範本。
+description: 瞭解如何在[!DNL &#x200B; Workfront]中變更現有的自動化校訂工作流程範本。
 activity: use
 feature: Workfront Proof
 type: Tutorial

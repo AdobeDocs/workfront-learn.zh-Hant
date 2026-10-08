@@ -1,6 +1,6 @@
 ---
 title: 管理校訂版本
-description: 瞭解如何在上傳校訂時尋找詳細資訊、下載所有版本的校訂，以及在[!DNL  Workfront]中刪除校訂版本。
+description: 瞭解如何在上傳校訂時尋找詳細資訊、下載所有版本的校訂，以及在[!DNL &#x200B; Workfront]中刪除校訂版本。
 activity: use
 feature: Workfront Proof
 type: Tutorial

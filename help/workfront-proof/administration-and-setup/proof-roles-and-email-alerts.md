@@ -1,6 +1,6 @@
 ---
 title: 校訂角色與電子郵件警報
-description: 瞭解如何啟用適當的校訂角色和電子郵件警示，以便校訂收件者能夠存取校訂並檢視[!DNL  Workfront]中完成的工作。
+description: 瞭解如何啟用適當的校訂角色和電子郵件警示，以便校訂收件者能夠存取校訂並檢視[!DNL &#x200B; Workfront]中完成的工作。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
