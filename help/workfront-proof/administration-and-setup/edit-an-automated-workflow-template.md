@@ -1,6 +1,6 @@
 ---
 title: 編輯自動化工作流程範本
-description: 瞭解在  [!DNL  Workfront] 中如何在現有的自動化校訂工作流程範本中進行變更。
+description: 瞭解如何在[!DNL &#x200B; Workfront]中變更現有的自動化校訂工作流程範本。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,25 +12,29 @@ last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
+autotag-review: '2026-05-05T20:06:38.512Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:06:38.512Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 578
-ht-degree: 100%
-
+source-wordcount: '578'
+ht-degree: 97%
 ---
-
 # 編輯自動化工作流程範本
 
 隨著校訂審閱與核准流程有所改進或發生組織變更，自動化工作流程範本應更新並反映使用 Workfront 之團隊目前的運作。
@@ -65,8 +69,8 @@ ht-degree: 100%
 * 在收件者清單中，按一下進入「[!UICONTROL 角色]」或者「[!UICONTROL 電子郵件提示]」欄位來選擇另一個選項。
 * 使用收件者名稱最右邊的三圓點選單，可刪除清單中的收件者、讓他們成為該工作流程階段的主要決策者，或是編輯校訂角色和電子郵件警報資訊。
 * 您有兩個新增收件者至清單的選項。
-   1. 在每個階段區段的右上角，前往「[!UICONTROL 更多]」選單並選取「[!UICONTROL 新增人員至階段]」。 您開啟「[!UICONTROL 新增人員至階段]」視窗後，按一下想要新增人員的階段。 接著在收件者清單中輸入他們的名稱或電子郵件地址，並指派校訂角色和電子郵件警報。 執行完成時按一下「[!UICONTROL 新增人員]」按鈕。
-   1. 在「[!UICONTROL 工作流程]」區域的頂端，選取「[!UICONTROL 新增人員至階段]」。
+  1. 在每個階段區段的右上角，前往「[!UICONTROL 更多]」選單並選取「[!UICONTROL 新增人員至階段]」。 您開啟「[!UICONTROL 新增人員至階段]」視窗後，按一下想要新增人員的階段。 接著在收件者清單中輸入他們的名稱或電子郵件地址，並指派校訂角色和電子郵件警報。 執行完成時按一下「[!UICONTROL 新增人員]」按鈕。
+  1. 在「[!UICONTROL 工作流程]」區域的頂端，選取「[!UICONTROL 新增人員至階段]」。
 
 ## 範本共用
 

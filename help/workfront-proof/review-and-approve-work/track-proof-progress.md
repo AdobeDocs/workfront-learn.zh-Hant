@@ -1,6 +1,6 @@
 ---
 title: 追蹤校訂進度
-description: 瞭解如何使用 [!UICONTROL SOCD] 指標、校訂進度和報告來追蹤  [!DNL &#x200B; Workfront] 中的校訂進度。
+description: 瞭解如何使用[!UICONTROL SOCD]指標、校訂進度以及報告，以追蹤[!DNL &#x200B; Workfront]中校訂的進度。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,27 @@ level: Beginner
 thumbnail: track-proof-progress.png
 jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
+autotag-review: '2026-05-05T19:53:35.724Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:53:35.724Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 770
-ht-degree: 64%
-
+source-wordcount: '770'
+ht-degree: 62%
 ---
-
 # 追蹤校訂進度
 
 身為專案經理、校訂經理或稽核及核准流程中的其他利害關係人，您將想要追蹤校訂的進度。 您可以在「[!UICONTROL 文件]」頁面使用 [!DNL Workfront's] 內建的&#x200B;**校訂進度指標**，或是撰寫自訂報告來追蹤進度。
