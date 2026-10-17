@@ -12,7 +12,7 @@ ht-degree: 56%
 * 與其他使用者共用範本
 * 共用使用範本建立的專案
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3504450/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
 
 ## 有關此主題的推薦教學課程
 
