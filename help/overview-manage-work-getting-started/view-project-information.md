@@ -1,6 +1,6 @@
 ---
-title: 檢視專案資訊
-description: 瞭解篩選器、視圖和分組如何讓專案資料變得更容易檢視，協助您管理專案。
+title: 探索專案管理的篩選器、檢視和群組
+description: 透過可自訂的篩選器、詳細檢視、有效率的群組、任務管理工具和問題追蹤功能，簡化專案工作流程，以強化組織並提升清晰度。
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -31,11 +31,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '23'
-ht-degree: 100%
+source-wordcount: '38'
+ht-degree: 0%
 ---
-# 檢視專案資訊
+# 探索專案管理的篩選器、檢視和群組
 
 {{$include /help/_includes/view-project-information.md}}
