@@ -1,6 +1,6 @@
 ---
-title: 了解[!UICONTROL 展示板]視圖
-description: 了解如何在專案登陸頁面使用[!UICONTROL 展示板]視圖。
+title: 探索任務管理的面板檢視
+description: 透過[!UICONTROL 展示板]檢視的[!DNL Kanban]介面簡化Workfront中的工作管理，提供工作排序、建立、自訂，以及與工作清單檢視的緊密整合，以有效率地組織專案。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:25:56.436Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '41'
+ht-degree: 0%
 ---
-
-# 了解[!UICONTROL 展示板]視圖
+# 探索任務管理的面板檢視
 
 {{$include /help/_includes/understand-the-board-view.md}}

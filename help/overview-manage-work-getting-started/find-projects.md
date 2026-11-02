@@ -1,6 +1,6 @@
 ---
-title: 尋找專案
-description: 了解一些可快速輕鬆尋找專案的方法。
+title: 有效地尋找專案
+description: 使用篩選器、搜尋工具、最近清單、我的最愛、釘選專案和自訂報表或控制面板，以快速而有條理地存取專案，藉此簡化專案管理。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: find-projects.jpeg
@@ -32,11 +32,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '13'
-ht-degree: 100%
+source-wordcount: '30'
+ht-degree: 0%
 ---
-# 尋找專案
+# 有效地尋找專案
 
 {{$include /help/_includes/find-projects.md}}
+

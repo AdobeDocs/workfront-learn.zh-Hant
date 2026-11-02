@@ -1,6 +1,6 @@
 ---
-title: 開始管理專案
-description: 了解如何監控專案進度、深入查看任務詳細資料以及如何與利害關係人溝通。
+title: 管理具有目前狀態的專案
+description: 使用報告有效地追蹤專案進度、透過甘特圖檢視管理相依性、監視任務和核准、增強團隊溝通，以及透過頻繁更新確保順暢的工作流程。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-04-22T00:00:00.000Z'
+last-substantial-update: '2026-06-18T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8781
 hide: true
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 100%
+source-wordcount: '37'
+ht-degree: 0%
 ---
-# 開始管理專案
+# 管理具有目前狀態的專案
 
 {{$include /help/_includes/getting-started-manage-a-project.md}}

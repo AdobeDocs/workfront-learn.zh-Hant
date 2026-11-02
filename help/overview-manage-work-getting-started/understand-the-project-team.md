@@ -1,6 +1,6 @@
 ---
 title: 了解專案團隊
-description: 了解專案團隊的用途以及如何維護。
+description: 透過Workfront中的自動專案團隊填入、手動更新、集中通訊、電子郵件通知和追蹤專案參與來有效管理專案團隊，以簡化共同作業。
 feature: Work Management
 thumbnail: 3427227.jpg
 type: Tutorial
@@ -30,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:24:57.327Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 22
-ht-degree: 100%
-
+source-wordcount: '31'
+ht-degree: 25%
 ---
-
 # 了解專案團隊
 
 {{$include /help/_includes/understand-the-project-team.md}}
