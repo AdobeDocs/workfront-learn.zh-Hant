@@ -1,6 +1,6 @@
 ---
-title: 提出請求
-description: 瞭解如何尋找「[!UICONTROL 請求]」區域並提出請求。 然後瞭解如何檢視已提交的請求和請求草稿。
+title: 在Workfront中建立和管理請求
+description: 透過簡化的請求建立、可自訂的工作流程、草稿自動儲存、追蹤和篩選工具，以及複製和重複使用請求的能力，提高Workfront中的效率。
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 hide: true
 recommendations: noDisplay,catalog
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# 提出請求
+# 在Workfront中建立和管理請求
 
 {{$include /help/_includes/make-a-request.md}}

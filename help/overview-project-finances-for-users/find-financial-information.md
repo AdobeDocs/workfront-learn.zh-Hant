@@ -1,14 +1,15 @@
 ---
-title: 尋找財務資訊
-description: 瞭解如何尋找關於專案的財務資訊並瞭解資訊從何而來。
+title: 存取和管理專案財務的財務資訊
+description: 瞭解如何存取、分析和管理專案與任務的財務資料，包括預算、收入、成本和績效指標。
 activity: use
 feature: Work Management
 thumbnail: 335208.png
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8948
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 06e6a1a3-6c40-403c-9c9d-cb2b5e178a7a
@@ -28,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:03:25.349Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 21
-ht-degree: 100%
-
+source-wordcount: '36'
+ht-degree: 0%
 ---
-
-# 尋找財務資訊
+# 存取和管理專案財務的財務資訊
 
 {{$include /help/_includes/find-financial-information.md}}

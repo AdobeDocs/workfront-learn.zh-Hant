@@ -1,6 +1,6 @@
 ---
-title: 建立全域和單次使用的核准流程
-description: 了解如何針對專案、任務或問題建立全域和單次使用的核准流程。
+title: 建立及管理核准流程
+description: 運用任務、專案或問題的全域和單次使用核准流程，實作多層級的多階段核准，並透過專案範本中的可重複使用性提升效率，藉此增強核准工作流程。
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,6 +9,8 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
+last-substantial-update: '2025-03-26T00:00:00.000Z'
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
@@ -34,11 +36,11 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 100%
+source-wordcount: '40'
+ht-degree: 0%
 ---
-# 建立全域和單次使用的核准流程
+# 建立及管理核准流程
 
 {{$include /help/_includes/create-a-single-use-approval-process.md}}

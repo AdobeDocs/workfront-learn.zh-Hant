@@ -1,6 +1,6 @@
 ---
-title: 尋找和管理請求
-description: 瞭解如何使用儀表板、「[!UICONTROL 首頁]」、「[!UICONTROL 請求]」區域以及「[!UICONTROL 團隊]」頁面，透過請求佇列來尋找收到的請求。
+title: 有效率地尋找及管理請求
+description: 瞭解如何使用篩選器、管理團隊指派、建立自訂報告和儀表板，以及釐清「我的」在不同內容中的含義，以實現有效的請求管理。
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-08-10T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# 尋找和管理請求
+# 有效率地尋找及管理請求
 
 {{$include /help/_includes/find-requests.md}}

@@ -1,5 +1,5 @@
 ---
-title: 進階前置任務
+title: 主進階任務相依性
 description: 了解前置任務的相依性類型、延遲類型、強制執行的前置任務、相依性循環錯誤以及一些捷徑和最佳實務。
 feature: Work Management
 thumbnail: 3424287.jpg
@@ -29,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 23
-ht-degree: 100%
-
+source-wordcount: '27'
+ht-degree: 70%
 ---
-
-# 進階前置任務
+# 主進階任務相依性
 
 {{$include /help/_includes/advanced-predecessors.md}}
