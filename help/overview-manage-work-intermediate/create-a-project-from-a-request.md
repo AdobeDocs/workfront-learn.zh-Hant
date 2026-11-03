@@ -1,6 +1,6 @@
 ---
-title: 將問題/請求轉換為專案
-description: 了解如何啟動從請求轉換為專案、選取適當的專案範本並完成轉換。
+title: 將問題或請求轉換為專案
+description: 透過使用範本將問題轉換為專案、自訂專案詳細資訊、管理問題解決選項以及確保能見度並存取順暢的工作流程，簡化Workfront中的專案管理。
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+last-substantial-update: '2026-08-19T00:00:00.000Z'
 recommendations: noDisplay,catalog
 hide: true
 doc-type: video
@@ -31,13 +32,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:20:37.203Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 33
-ht-degree: 100%
-
+source-wordcount: '43'
+ht-degree: 0%
 ---
-
-# 將問題/請求轉換為專案
+# 將問題或請求轉換為專案
 
 {{$include /help/_includes/create-a-project-from-a-request.md}}

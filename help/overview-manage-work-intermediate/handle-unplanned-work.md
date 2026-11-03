@@ -1,6 +1,6 @@
 ---
-title: 處理未規劃的工作
-description: 瞭解如何使用 Adobe Workfront 處理未規劃的工作。
+title: 有效處理計畫外工作
+description: 透過有效追蹤和解決問題、利用記錄工具、實施最佳實務、促進溝通，以及順暢地將問題轉換為任務以簡化執行，來改善Workfront中的專案管理。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: handle-unplanned-work.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2024-06-26T00:00:00.000Z'
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10070
 hide: true
@@ -31,13 +31,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:15:26.822Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 15
-ht-degree: 100%
-
+source-wordcount: '36'
+ht-degree: 0%
 ---
-
-# 處理未規劃的工作
+# 有效處理計畫外工作
 
 {{$include /help/_includes/handle-unplanned-work.md}}

@@ -1,6 +1,6 @@
 ---
-title: 更新和審閱財務資料
-description: 瞭解如何審閱與  [!DNL  Workfront] 中專案相關聯的財務資訊。
+title: 更新使用者端專案的財務
+description: 透過定義費率、針對任務指派成本和收入類型、管理費用和建立計費記錄來簡化成本追蹤和計費。 Workfront 不進行實際計費。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,6 +9,8 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10137
+last-substantial-update: 2026-04-30
+recommendations: noDisplay,catalog
 hide: true
 exl-id: 7dc12959-e512-41ae-866b-3ff7afb98f45
 product_v2:
@@ -27,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T18:57:32.878Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '38'
+ht-degree: 73%
 ---
-
-# 更新和審閱財務資料
+# 更新使用者端專案的財務
 
 {{$include /help/_includes/update-and-review-finances.md}}
