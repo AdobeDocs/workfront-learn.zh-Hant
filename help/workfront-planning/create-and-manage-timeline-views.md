@@ -56,4 +56,4 @@ ht-degree: 71%
 
 學習在 Workfront 規劃中管理及自訂時間軸視圖。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457601/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3506108/?captions=chi_hant&learn=on&enablevpops=1)
