@@ -37,4 +37,4 @@ ht-degree: 100%
 
 了解如何建立和管理業務規則。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508033/?captions=chi_hant&quality=12&learn=on&enablevpops=1)
